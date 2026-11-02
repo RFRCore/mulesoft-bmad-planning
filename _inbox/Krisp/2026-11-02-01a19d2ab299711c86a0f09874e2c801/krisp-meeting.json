@@ -1,0 +1,64 @@
+{
+  "id": "01a19d2ab299711c86a0f09874e2c801",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a19c956ab070d985bc3146d252fe0a",
+      "title": "Moe <> Kailash Intro",
+      "duration": 1155,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "77sepg6tocptsuhlcirfr7ravh",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "moe.qasim@salesforce.com"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "aadi@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-02T16:30:11.291Z",
+      "end_date": "2026-11-02T16:49:26.291Z",
+      "url": "https://app.krisp.ai/m/01a19c956ab070d985bc3146d252fe0a?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a19d1943fb75af9988ef46c4008af2",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 1142.678,
+      "size": 4569696,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-09T16:49:43.572Z"
+    },
+    "raw_meeting": "**Moe  Kailash Intro**\n🕞 Started at 04:30 PM on 02 Nov, lasted 19m"
+  }
+}
