@@ -1,0 +1,46 @@
+{
+  "id": "01a19ceea6c972cf8f4acdbdae77d3bf",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1987c705c72b1816d440c93e3cfdf",
+      "title": "10:41 AM - Slack meeting November 2",
+      "duration": 120,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": null,
+      "participants": [],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": null,
+          "id": "cdd158f65ffa589f8645d47041870e53",
+          "first_name": "Ali",
+          "email": "85c0a4fedfad47f4b315aa6c580e992d@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-02T15:41:54.513Z",
+      "end_date": "2026-11-02T15:43:54.513Z",
+      "url": "https://app.krisp.ai/m/01a1987c705c72b1816d440c93e3cfdf?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a19ced104a74adab600a8be7d908c9",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 113.116,
+      "size": 452160,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-09T15:44:08.389Z"
+    },
+    "raw_meeting": "**10:41 AM - Slack meeting November 2**\n🕞 Started at 03:41 PM on 02 Nov, lasted 2m"
+  }
+}
