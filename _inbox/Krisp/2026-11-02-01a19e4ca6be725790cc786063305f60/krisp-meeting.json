@@ -1,0 +1,106 @@
+{
+  "id": "01a19e4ca6be725790cc786063305f60",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a19d195a1075699536c19dc721f4c9",
+      "title": "Statflo / Mulesoft SOW Review",
+      "duration": 4048,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "4c69fva743j61mtnsbjhpn5dm8",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "iqbal.zohaib@statflo.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "saadia.rajput@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "john.henderson@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "luiz.amaral@statflo.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sravankiran@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kratner@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "nbrodsky@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "jpuccio@salesforce.com"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        },
+        {
+          "index": 5
+        }
+      ],
+      "start_date": "2026-11-02T20:57:43.319Z",
+      "end_date": "2026-11-02T22:05:11.319Z",
+      "url": "https://app.krisp.ai/m/01a19d195a1075699536c19dc721f4c9?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a19e0e33437444a58f5db07fed5042",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 4039.74,
+      "size": 16157952,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-09T22:06:25.953Z"
+    },
+    "raw_meeting": "**Statflo / Mulesoft SOW Review**\n🕞 Started at 08:57 PM on 02 Nov, lasted 1h 7m"
+  }
+}
