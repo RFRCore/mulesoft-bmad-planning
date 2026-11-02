@@ -1,0 +1,503 @@
+{
+  "id": "01a19d2b127274ea991ff203833b2aa1",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a19c956ab070d985bc3146d252fe0a",
+      "title": "Moe <> Kailash Intro",
+      "duration": 1155,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "77sepg6tocptsuhlcirfr7ravh",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "moe.qasim@salesforce.com"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "aadi@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-02T16:30:11.291Z",
+      "end_date": "2026-11-02T16:49:26.291Z",
+      "url": "https://app.krisp.ai/m/01a19c956ab070d985bc3146d252fe0a?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "King. With the cl."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Hey, how are you hey."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "How's it going?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Good, how's your day started?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It's going how was your you guys Halloween weekend?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It was good I went to I mean in yeah, this wonderland with my friends. Yeah, good, it was nice. Yeah, what you how you celebrated the on the Halloween."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I just went out with some friends for a little bit. Nothing too crazy. Getting to that age now where 10:00 PM is like all I got to go to sleep."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For re was my majority to live with the kids, so not much to do for myself. But..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Well, interestingly, because this time, one of my friends, he has, like, four year old kid. So I was this time doing the trick and treat. So it was. It was interesting spending time with kids."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. I mean, at least you could steal out some of their candy. So that's... Absolutely. [Laughter]"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "[Laughter] yeah. Yeah..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That's what I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think this time the favorite was... My son wanted them first, so something different. So yeah, again, just to introduce myself now I'm Kailash. I'm the co-founder of Dataskate, and I have the integration and automation in Dataskate.\nSo I think that's where I was trying to find out and connect with new folks whom we haven't worked with but recently got to know with... That he's got introduced to you, and that's where I thought I'd add... As well to the call.\nSo... I thought so... Are you aware of what Dataskate and what we have been doing and others? If not, I would like to run you through the presentation and explain what we have done so that we keep more content limited to it. Or if you have any questions... You said, \"I know more data.\"\nIf you have any questions, then I'll be here to answer them. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes. So I started here around four months ago at a Salesforce. Since then, I haven't really worked that well with any implementation partners in the sense that I've had some deals get done, but they either had somebody in place that was already doing their implementation or they're still doing evals for who they want to work with.\nI've heard of some names, like Dataskate, was probably one of the main ones I've heard. I could correct you if I'm wrong. What I've heard internally is that you guys are good for IDP solutions. Again, you could speak a little bit more about what you specialize in.\nBut yeah, so I have... I've gotten some deals done with accounts I've worked with, and then I have a few more coming in. So I guess it's honestly a great time to actually meet implementation partners.\nI'm curious about how you guys work with deal cycles. Some accounts that I'm working with are doing larger, more transformational approaches for data and integration. So I was thinking about maybe how I could work closer with implementation partners to help get deals over the line\nand then help them post-sales."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. So I think a couple of first things I wanted to give you. We have been in the integration space for the last seventeen years. So any point platform is all right, but so that's where we specialize in.\nWe have done a lot of integrations in different products and specifically with Salesforce for the last eight years. And inside Salesforce with Mulesoft Anypoint platform, we have developed integrations with NetSuite, QuickBooks, Info, Sage, and many more realities. Acuumtica for one of the manufacturing ones and many more.\nSo our bread and butter product is basically the Anypoint platform. But as I DP came and reinvested the team into IDP, we got some wonderful deals with IDP we closed them. We did in platform for systems that don't have API or connectivity, we built custom code to expose them as APIs so that the deals can close them and the deals can be closed and we could integrate the systems because there are certain versions of Sage where there is no API connectivity and to connect to them in a secured way clients would need VPS so to bypass all of this cost we built custom coding to connect to SAGE over... To connect to ERPs which don't have direct API access. We built the custom code, exposed it so the platform can directly connect and transfer data.\nSo our expertise is specific to the platform but yes, IDP we have done some great work in the last couple of quarters. That's where we got some good name in IDP as well, but we have some good name platform as well and we have been named as the early champion partners for Agent Fabric. We were put out and reinforced on the keynote along with various other partners. We have been, I think total eight partners we are listed out of which we are one of them to be listed as one of the early champions.\nSo we have... Agent Fabric implementation expertise, and we have done that for a customer called Fluorox at enterprise level. So that's where we are trying to replicate those scenarios into SMB, RB commercial, and mid-market as well.\nSo that's our expertise across the Salesforce products. We do Tableau, we do sales cloud and service cloud as well. We come into deals which have both Salesforce plus Mulesoft as well together.\nSo that kind of way we bring in some value. Add with our experience as well as even amazing prices. Because this is our first year with JRB, we are doing current pricing similar to SMB, not much changes, but that's where it comes competitive to various other partners. So does that answer the technical part?\nBefore I move on how we work and along the sales cycles..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, I think you sort of flushed that out."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think I missed out on one point, which is very important. That is on Informatica. So we are running some important clean plays. I think we closed recently one with Sunjay, who's based out of Toronto, and..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. He's on my team, actually."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's that's amazing."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So we closed the deal for integration, not data, but integration with CI inside the IDMC tool set, and we kicked off the project today. So that is expertise again that we have both for MBM, let's say CAI CDQCDI all parts of IDMC.\nSo that's another skill set that we have for... So for the sales cycles, we'd like to get along as early as the opportunity. But depending on the account executives, some bring in early into the game, some bring in during the demos and conversation. For IDP we build demos. We kind of replicate the systems and do our demonstrations for integration. Depending on the system availability, we build it and we can showcase demonstrations even inside..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Nice to meet you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For AF, yes, we are building our customer zero. We are going to do a field day in the next coming months across all the hubs so the team would come and demonstrate our customer zero success in GE and Fabric. What we have done for ourselves in Fabric.\nAnd do a whole workshop. So if we can come in as early as possible, work along with you, try to share or co-sell along with you, and if technical demos are required... Yes. If the systems are available, then we could build the demonstration and show the demo as well. We do the scoping from the implementation perspective. Bring down an S so within four hours.\nSo that way we speed up the cycle not to slow it down, but to make it faster to get all the info in front of the plant as early as possible."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, and that sort of gives one or two more questions. I hope you don't mind me asking."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's what we the calls for."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So this is sort of like a two prong thing. So on one hand, it's you know what really separates Dataskate from other sort of implementation partners. And to the second point of that, it's. So I'm currently working like a couple of opportunities, but really sort of what I'm seeing from my book of business is agent fabric for at least two accounts with like very strong use cases.\nSo on my end, it's you know, finding it would be finding the right implementation partner that I can involve or earlier rather than later. And if that is Dataskate who would be my main point of contact at the company?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So first I'll put down the main point of contact for Toronto is Aby. He's the one whom you can reach to... If you have a TED, you want to load data scale, and then I think would be your first point of contact you could reach out to.\nBut is that you can reach it to him or me, but I prefer... Because he's local. He'll be in the office, he'll be stopping by, so that will be a good usage of time. That's where we deployed him to support through the process.\nSecond, the differentiator of Dataskate. Differentiator of Dataskate is we are not a CRM or a Salesforce partner that builds the skill set for integration. We are an integration board company from the last 17 years. We're doing integration. We're experts on integration and automation.\nLikewise, as everybody is new to Agent, we started new to Agent, but we are one among the eight partners that are doing Agent Fabric as an early champion partner. If you sell an Agent Fabric SKU or an all-access SKU with Dataskate, you'll get 50% off on the SKU price. Salesforce has a separate SKU for the early champion partners that reduces the price by 50% for the customers.\nIf the customer has a price-sensitive thought process on the licensing costs, then immediately you can use the SKU that brings you what you want to us, right? So we have good expertise and integration credibility that we are doing it enterprise-level as well as SMB and GRB level. In SMB and GRB, we have done close to 40 projects in the last three quarters, and we have completed them all with good customer satisfaction and have customer testimonials as well. The main difference is that you will hardly find a partner who is doing Mulesoft, who is doing Informatica, and who is doing HN Fabric. All three of us, and we are sure that we are confident that we could deliver and beat the prices across any partner that is being done. I don't call ourselves cost-effective, but we have built our AI-driven approach and AI-driven development to make things more cost-effective that can deliver good quality to the clients."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Right. So you mentioned that they could. Customers could get up to, like, 50% off on their end for Agent Fabric. So that that'd be that's really nice to know."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Then in terms of actual pricing implementation timelines, what's that? Obviously, it's case-by-case depending on the account, but what does that look like?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So for Agent Fabric, we put down a fixed scope. It could be either exposing existing APIs on MCP servers and configuring them on Fabric. It is a flat fee of $25,000 for any agents that are outside Mulesoft, right? They have an agent built in Claude. They have an agent built in Microsoft Copilot either they have an agent built out of Workday or SP. All of these to be monitored, configured and covered inside Agent Fabric. Agent Fabric is again a fixed cost of $25,000.\nSo we are open to... It's a fixed budget cost. We are in a motion to get Agent Fabric down at the right price, right time, and in the right window because that's where Salesforce is focused to get Agent Fabric on top of the selling list.\nWe are working along the same notion."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, and then this is just my last question..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "This is just more general to the industry. Let's say I'm working with an account. Obviously, you have a lot of experience. Mulesoft typically lands in AV accounts that already spend with Salesforce.\nSo in a lot of these instances, they're already working with implementation partners, whether it be for not necessarily for Mulesoft, but just in general, they'll have someone on their book. How does that work? Is that something you're cut out of? Is there a way for you to be a second partner? Is there a rip and replace motion? I'm assuming there's all three of these in some"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Way, but."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It works all three of these depending on how the customer is feeling. Like we've entered into multiple deals where we presented our quote and then the client felt like we were a better suit for Mulesoft than that existing partner.\nWe are open and flexible to work along with the existing partner. We don't want to rip and replace their business until the client wants it, right? Their client must have their own reasons, so until they want it, we will not do that. We are collaborative, work along with their team, and deliver the solution. What is required?\nThat's the first part, the second part. Yes, we propose to showcase the skill set. If the client has the concern, we can do the full set of implementation, we can take over whatever they want, and then complete that to do as well.\nSo yes, either way, we can be projected as a second partner. Most of the account executives, if they have an existing partner who is more sales for specific lacking Mulesoft experience or has Mulesoft experience...\nBut the quote is higher, which is putting the Jeopardy deal into jeopardy, right? Or they have a feeling that they shouldn't spend so much for this particular integration. Then what they do is they bring us on to the call and deals. Then we propose what we are, what our scope is. Then the client, the account executive, tells the client, \"Hey, this is what a specialized partner in Mulesoft is, and this is what their quote is.\"\nIt's up to you now to figure out..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Make that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Out whether do..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Decision now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You want to go with the existing partner or do you want to try Dataskate? But we wanted to give you a second option to look through what the market looks like and what the rate difference is and their experience.\nSo then it falls into the client's pocket, and they can make the decision."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And the reason why I ask that is like obviously like you know how like when..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "There's like a lot of moving people, some customers are more price sensitive, more like they care more about like it's and sort of finding the right fit. But like, you understand that, that's awesome.\nSo, Adie, you'll be my main point of contact..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "From here, I think. It'll be a pleasure working with you guys."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Anytime. I'm always available if any sort of support you need. You can just hit me up anytime and I'll. I'll answer all of your questions."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Awesome. You're based in Toronto. I'm in New York City. Just by the way, I don't know if that's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's nice. Okay, I think Adie is based in Toronto. I am based..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In New Jersey, so maybe when we stop over, I think we have..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Another point of contact. Dave, who is based out of Long Island, covers New York City, but right now he's in India, so during travels... So that's why I wanted to introduce AI so that he can be there.\nBut I think once Dave is back, I'll try to get introduced to you. Then we can work along with that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Cool. Was most of the team from India or...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think no, all the development team is in India, but the sales and architect. Everybody is from the US..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, that's awesome."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We have developers in the US, but it depends on the price. If there are customers who say, \"Hey, we want everything to be driven from the US,\" then we can give a quote. That is along with the US what majority of our pricing runs through for development is based out of a combo in India? Majority of the work is Transform India."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I don't mind. It's just like sometimes you'll work with a pharma company and they'll be like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Hey, we have like very strict compliance about..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Like, where our data can go. So in..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Those cases, it's like we would..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So we..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Need people."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Do mention the client that \"Hey, we have been working with multiple. We have a couple of healthcare companies that we have worked with. We are open to sign the ND for the data compliance perspective, but if they still need somebody on site, yes, we do have. We are total around 120 people across both India and the US. We have 17 in India and 50 in the US so we still have on-site presence that are catering majority of the enterprise customers right now, but we can still come in and support if any client wants to be delivered from the United States.\""
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, that sounds good."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And if I'm not wrong, Thomas Waford or..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank YOUREFOX..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Is he in your team?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, and Dej, he's in that office."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "John, okay, all right. Your manager is in Toronto or New York?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "My manager's Matt Mullenberg, he's in New York City, so my team works like a lot with, like, Dataskate, so that's why I like I already kind of knew about you guys before."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'm looking forward to working with you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you. Thanks a lot."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, guys. Thank..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have a good..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You for taking..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The call and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks for..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Going over with..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Time again. No, thanks."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Thank you so much."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Have a good bye."
+      }
+    ],
+    "raw_meeting": "**Moe  Kailash Intro**\n🕞 Started at 04:30 PM on 02 Nov, lasted 19m",
+    "raw_content": "kailash chanda | 00:00\nKing. With the cl.\nSpeaker 2 | 00:03\nHey, how are you hey.\nSpeaker 3 | 00:05\nHow's it going?\nSpeaker 2 | 00:06\nGood, how's your day started?\nSpeaker 3 | 00:09\nIt's going how was your you guys Halloween weekend?\nSpeaker 2 | 00:13\nIt was good I went to I mean in yeah, this wonderland with my friends. Yeah, good, it was nice. Yeah, what you how you celebrated the on the Halloween.\nSpeaker 3 | 00:25\nI just went out with some friends for a little bit. Nothing too crazy. Getting to that age now where 10:00 PM is like all I got to go to sleep.\nSpeaker 2 | 00:36\nOkay...\nkailash chanda | 00:37\nFor re was my majority to live with the kids, so not much to do for myself. But...\nSpeaker 2 | 00:42\nWell, interestingly, because this time, one of my friends, he has, like, four year old kid. So I was this time doing the trick and treat. So it was. It was interesting spending time with kids.\nSpeaker 3 | 00:56\nYeah. I mean, at least you could steal out some of their candy. So that's... Absolutely. [Laughter]\nkailash chanda | 01:03\n[Laughter] yeah. Yeah...\nSpeaker 2 | 01:03\nThat's what I...\nkailash chanda | 01:04\nI think this time the favorite was... My son wanted them first, so something different. So yeah, again, just to introduce myself now I'm Kailash. I'm the co-founder of Dataskate, and I have the integration and automation in Dataskate.\nSo I think that's where I was trying to find out and connect with new folks whom we haven't worked with but recently got to know with... That he's got introduced to you, and that's where I thought I'd add... As well to the call.\nSo... I thought so... Are you aware of what Dataskate and what we have been doing and others? If not, I would like to run you through the presentation and explain what we have done so that we keep more content limited to it. Or if you have any questions... You said, \"I know more data.\"\nIf you have any questions, then I'll be here to answer them. So...\nSpeaker 2 | 02:10\nYes.\nSpeaker 3 | 02:11\nYes. So I started here around four months ago at a Salesforce. Since then, I haven't really worked that well with any implementation partners in the sense that I've had some deals get done, but they either had somebody in place that was already doing their implementation or they're still doing evals for who they want to work with.\nI've heard of some names, like Dataskate, was probably one of the main ones I've heard. I could correct you if I'm wrong. What I've heard internally is that you guys are good for IDP solutions. Again, you could speak a little bit more about what you specialize in.\nBut yeah, so I have... I've gotten some deals done with accounts I've worked with, and then I have a few more coming in. So I guess it's honestly a great time to actually meet implementation partners.\nI'm curious about how you guys work with deal cycles. Some accounts that I'm working with are doing larger, more transformational approaches for data and integration. So I was thinking about maybe how I could work closer with implementation partners to help get deals over the line\nand then help them post-sales.\nkailash chanda | 03:29\nPerfect. So I think a couple of first things I wanted to give you. We have been in the integration space for the last seventeen years. So any point platform is all right, but so that's where we specialize in.\nWe have done a lot of integrations in different products and specifically with Salesforce for the last eight years. And inside Salesforce with Mulesoft Anypoint platform, we have developed integrations with NetSuite, QuickBooks, Info, Sage, and many more realities. Acuumtica for one of the manufacturing ones and many more.\nSo our bread and butter product is basically the Anypoint platform. But as I DP came and reinvested the team into IDP, we got some wonderful deals with IDP we closed them. We did in platform for systems that don't have API or connectivity, we built custom code to expose them as APIs so that the deals can close them and the deals can be closed and we could integrate the systems because there are certain versions of Sage where there is no API connectivity and to connect to them in a secured way clients would need VPS so to bypass all of this cost we built custom coding to connect to SAGE over... To connect to ERPs which don't have direct API access. We built the custom code, exposed it so the platform can directly connect and transfer data.\nSo our expertise is specific to the platform but yes, IDP we have done some great work in the last couple of quarters. That's where we got some good name in IDP as well, but we have some good name platform as well and we have been named as the early champion partners for Agent Fabric. We were put out and reinforced on the keynote along with various other partners. We have been, I think total eight partners we are listed out of which we are one of them to be listed as one of the early champions.\nSo we have... Agent Fabric implementation expertise, and we have done that for a customer called Fluorox at enterprise level. So that's where we are trying to replicate those scenarios into SMB, RB commercial, and mid-market as well.\nSo that's our expertise across the Salesforce products. We do Tableau, we do sales cloud and service cloud as well. We come into deals which have both Salesforce plus Mulesoft as well together.\nSo that kind of way we bring in some value. Add with our experience as well as even amazing prices. Because this is our first year with JRB, we are doing current pricing similar to SMB, not much changes, but that's where it comes competitive to various other partners. So does that answer the technical part?\nBefore I move on how we work and along the sales cycles...\nSpeaker 3 | 06:45\nYeah, I think you sort of flushed that out.\nkailash chanda | 06:48\nI think I missed out on one point, which is very important. That is on Informatica. So we are running some important clean plays. I think we closed recently one with Sunjay, who's based out of Toronto, and...\nSpeaker 3 | 07:01\nYeah. He's on my team, actually.\nkailash chanda | 07:02\nIt's that's amazing.\nSpeaker 3 | 07:04\nYeah.\nkailash chanda | 07:04\nSo we closed the deal for integration, not data, but integration with CI inside the IDMC tool set, and we kicked off the project today. So that is expertise again that we have both for MBM, let's say CAI CDQCDI all parts of IDMC.\nSo that's another skill set that we have for... So for the sales cycles, we'd like to get along as early as the opportunity. But depending on the account executives, some bring in early into the game, some bring in during the demos and conversation. For IDP we build demos. We kind of replicate the systems and do our demonstrations for integration. Depending on the system availability, we build it and we can showcase demonstrations even inside...\nSpeaker 3 | 08:04\nNice to meet you...\nkailash chanda | 08:06\nFor AF, yes, we are building our customer zero. We are going to do a field day in the next coming months across all the hubs so the team would come and demonstrate our customer zero success in GE and Fabric. What we have done for ourselves in Fabric.\nAnd do a whole workshop. So if we can come in as early as possible, work along with you, try to share or co-sell along with you, and if technical demos are required... Yes. If the systems are available, then we could build the demonstration and show the demo as well. We do the scoping from the implementation perspective. Bring down an S so within four hours.\nSo that way we speed up the cycle not to slow it down, but to make it faster to get all the info in front of the plant as early as possible.\nSpeaker 3 | 08:59\nOkay, and that sort of gives one or two more questions. I hope you don't mind me asking.\nkailash chanda | 09:05\nThat's what we the calls for.\nSpeaker 3 | 09:08\nSo this is sort of like a two prong thing. So on one hand, it's you know what really separates Dataskate from other sort of implementation partners. And to the second point of that, it's. So I'm currently working like a couple of opportunities, but really sort of what I'm seeing from my book of business is agent fabric for at least two accounts with like very strong use cases.\nSo on my end, it's you know, finding it would be finding the right implementation partner that I can involve or earlier rather than later. And if that is Dataskate who would be my main point of contact at the company?\nkailash chanda | 09:50\nSo first I'll put down the main point of contact for Toronto is Aby. He's the one whom you can reach to... If you have a TED, you want to load data scale, and then I think would be your first point of contact you could reach out to.\nBut is that you can reach it to him or me, but I prefer... Because he's local. He'll be in the office, he'll be stopping by, so that will be a good usage of time. That's where we deployed him to support through the process.\nSecond, the differentiator of Dataskate. Differentiator of Dataskate is we are not a CRM or a Salesforce partner that builds the skill set for integration. We are an integration board company from the last 17 years. We're doing integration. We're experts on integration and automation.\nLikewise, as everybody is new to Agent, we started new to Agent, but we are one among the eight partners that are doing Agent Fabric as an early champion partner. If you sell an Agent Fabric SKU or an all-access SKU with Dataskate, you'll get 50% off on the SKU price. Salesforce has a separate SKU for the early champion partners that reduces the price by 50% for the customers.\nIf the customer has a price-sensitive thought process on the licensing costs, then immediately you can use the SKU that brings you what you want to us, right? So we have good expertise and integration credibility that we are doing it enterprise-level as well as SMB and GRB level. In SMB and GRB, we have done close to 40 projects in the last three quarters, and we have completed them all with good customer satisfaction and have customer testimonials as well. The main difference is that you will hardly find a partner who is doing Mulesoft, who is doing Informatica, and who is doing HN Fabric. All three of us, and we are sure that we are confident that we could deliver and beat the prices across any partner that is being done. I don't call ourselves cost-effective, but we have built our AI-driven approach and AI-driven development to make things more cost-effective that can deliver good quality to the clients.\nSpeaker 3 | 12:22\nRight. So you mentioned that they could. Customers could get up to, like, 50% off on their end for Agent Fabric. So that that'd be that's really nice to know.\nkailash chanda | 12:38\nYes.\nSpeaker 3 | 12:38\nThen in terms of actual pricing implementation timelines, what's that? Obviously, it's case-by-case depending on the account, but what does that look like?\nkailash chanda | 12:47\nSo for Agent Fabric, we put down a fixed scope. It could be either exposing existing APIs on MCP servers and configuring them on Fabric. It is a flat fee of $25,000 for any agents that are outside Mulesoft, right? They have an agent built in Claude. They have an agent built in Microsoft Copilot either they have an agent built out of Workday or SP. All of these to be monitored, configured and covered inside Agent Fabric. Agent Fabric is again a fixed cost of $25,000.\nSo we are open to... It's a fixed budget cost. We are in a motion to get Agent Fabric down at the right price, right time, and in the right window because that's where Salesforce is focused to get Agent Fabric on top of the selling list.\nWe are working along the same notion.\nSpeaker 3 | 13:44\nOkay, and then this is just my last question...\nkailash chanda | 13:46\nYes.\nSpeaker 3 | 13:46\nThis is just more general to the industry. Let's say I'm working with an account. Obviously, you have a lot of experience. Mulesoft typically lands in AV accounts that already spend with Salesforce.\nSo in a lot of these instances, they're already working with implementation partners, whether it be for not necessarily for Mulesoft, but just in general, they'll have someone on their book. How does that work? Is that something you're cut out of? Is there a way for you to be a second partner? Is there a rip and replace motion? I'm assuming there's all three of these in some\nkailash chanda | 14:16\nExactly...\nSpeaker 3 | 14:16\nWay, but.\nkailash chanda | 14:17\nIt works all three of these depending on how the customer is feeling. Like we've entered into multiple deals where we presented our quote and then the client felt like we were a better suit for Mulesoft than that existing partner.\nWe are open and flexible to work along with the existing partner. We don't want to rip and replace their business until the client wants it, right? Their client must have their own reasons, so until they want it, we will not do that. We are collaborative, work along with their team, and deliver the solution. What is required?\nThat's the first part, the second part. Yes, we propose to showcase the skill set. If the client has the concern, we can do the full set of implementation, we can take over whatever they want, and then complete that to do as well.\nSo yes, either way, we can be projected as a second partner. Most of the account executives, if they have an existing partner who is more sales for specific lacking Mulesoft experience or has Mulesoft experience...\nBut the quote is higher, which is putting the Jeopardy deal into jeopardy, right? Or they have a feeling that they shouldn't spend so much for this particular integration. Then what they do is they bring us on to the call and deals. Then we propose what we are, what our scope is. Then the client, the account executive, tells the client, \"Hey, this is what a specialized partner in Mulesoft is, and this is what their quote is.\"\nIt's up to you now to figure out...\nSpeaker 3 | 15:48\nMake that...\nkailash chanda | 15:48\nOut whether do...\nSpeaker 3 | 15:49\nDecision now.\nkailash chanda | 15:49\nYou want to go with the existing partner or do you want to try Dataskate? But we wanted to give you a second option to look through what the market looks like and what the rate difference is and their experience.\nSo then it falls into the client's pocket, and they can make the decision.\nSpeaker 3 | 16:06\nAnd the reason why I ask that is like obviously like you know how like when...\nkailash chanda | 16:10\nExactly...\nSpeaker 3 | 16:10\nThere's like a lot of moving people, some customers are more price sensitive, more like they care more about like it's and sort of finding the right fit. But like, you understand that, that's awesome.\nSo, Adie, you'll be my main point of contact...\nkailash chanda | 16:23\nYes.\nSpeaker 3 | 16:23\nFrom here, I think. It'll be a pleasure working with you guys.\nSpeaker 2 | 16:28\nAnytime. I'm always available if any sort of support you need. You can just hit me up anytime and I'll. I'll answer all of your questions.\nSpeaker 3 | 16:36\nAwesome. You're based in Toronto. I'm in New York City. Just by the way, I don't know if that's...\nkailash chanda | 16:40\nThat's nice. Okay, I think Adie is based in Toronto. I am based...\nSpeaker 3 | 16:44\nYeah.\nkailash chanda | 16:44\nIn New Jersey, so maybe when we stop over, I think we have...\nSpeaker 2 | 16:48\nYeah.\nkailash chanda | 16:49\nAnother point of contact. Dave, who is based out of Long Island, covers New York City, but right now he's in India, so during travels... So that's why I wanted to introduce AI so that he can be there.\nBut I think once Dave is back, I'll try to get introduced to you. Then we can work along with that.\nSpeaker 3 | 17:06\nCool. Was most of the team from India or...?\nkailash chanda | 17:10\nI think no, all the development team is in India, but the sales and architect. Everybody is from the US...\nSpeaker 3 | 17:17\nOkay, that's awesome.\nkailash chanda | 17:20\nWe have developers in the US, but it depends on the price. If there are customers who say, \"Hey, we want everything to be driven from the US,\" then we can give a quote. That is along with the US what majority of our pricing runs through for development is based out of a combo in India? Majority of the work is Transform India.\nSpeaker 3 | 17:41\nI don't mind. It's just like sometimes you'll work with a pharma company and they'll be like...\nkailash chanda | 17:45\nYes...\nSpeaker 3 | 17:45\nHey, we have like very strict compliance about...\nkailash chanda | 17:47\nExactly.\nSpeaker 3 | 17:47\nLike, where our data can go. So in...\nkailash chanda | 17:49\nYes.\nSpeaker 3 | 17:49\nThose cases, it's like we would...\nkailash chanda | 17:50\nSo we...\nSpeaker 3 | 17:50\nNeed people.\nkailash chanda | 17:50\nDo mention the client that \"Hey, we have been working with multiple. We have a couple of healthcare companies that we have worked with. We are open to sign the ND for the data compliance perspective, but if they still need somebody on site, yes, we do have. We are total around 120 people across both India and the US. We have 17 in India and 50 in the US so we still have on-site presence that are catering majority of the enterprise customers right now, but we can still come in and support if any client wants to be delivered from the United States.\"\nSpeaker 3 | 18:23\nOkay, that sounds good.\nSpeaker 2 | 18:25\nAnd if I'm not wrong, Thomas Waford or...\nkailash chanda | 18:25\nThank YOUREFOX...\nSpeaker 2 | 18:30\nIs he in your team?\nSpeaker 3 | 18:32\nYeah, and Dej, he's in that office.\nSpeaker 2 | 18:35\nJohn, okay, all right. Your manager is in Toronto or New York?\nSpeaker 3 | 18:40\nMy manager's Matt Mullenberg, he's in New York City, so my team works like a lot with, like, Dataskate, so that's why I like I already kind of knew about you guys before.\nSpeaker 2 | 18:50\nI'm looking forward to working with you.\nSpeaker 3 | 18:53\nYeah.\nkailash chanda | 18:54\nThank you. Thanks a lot.\nSpeaker 3 | 18:55\nOkay, guys. Thank...\nkailash chanda | 18:56\nHave a good...\nSpeaker 3 | 18:56\nYou for taking...\nkailash chanda | 18:56\nThank you.\nSpeaker 3 | 18:57\nThe call and...\nkailash chanda | 18:57\nThanks for...\nSpeaker 3 | 18:57\nGoing over with...\nkailash chanda | 18:57\nTime again. No, thanks.\nSpeaker 2 | 18:58\nThank you so much.\nSpeaker 3 | 18:59\nHave a good bye."
+  }
+}
