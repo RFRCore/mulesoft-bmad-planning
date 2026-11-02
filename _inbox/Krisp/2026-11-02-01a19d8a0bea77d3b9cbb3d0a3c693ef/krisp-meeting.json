@@ -1,0 +1,961 @@
+{
+  "id": "01a19d8a0bea77d3b9cbb3d0a3c693ef",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a19ced436f77db9384e44592d9b8de",
+      "title": "DAS Health Kick Off Call",
+      "duration": 1959,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "07nqd5lbdbr8p8ebp85flvqbqf",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "dharma@dataskate.io"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vijay@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "karin.mcwilliams@dashealth.com"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "ssodhi@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vivekn@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-02T18:00:34.336Z",
+      "end_date": "2026-11-02T18:33:13.336Z",
+      "url": "https://app.krisp.ai/m/01a19ced436f77db9384e44592d9b8de?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Hey. Hi, Kailash. Do you hear me? Yeah, I can hear you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, I think Karen accepted it. A couple of minutes ago, I think... Yeah, they are here.\nSorry."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "After joining King Claude."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Just... I replied back to the email. I'm just waiting."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think they are here.\nHeck.\nNo, unable to hear you... Can you?\nNow unable to hear you... May be some issue."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I'm talking and you can't hear me."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, now I can hear you. Thank you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, I can finally... Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I am so sorry, I'm... So sorry, so late. My God, there's just so much going on right now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No. Thanks again for joining in."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, sorry about that. Okay. So I did get access to Informatica."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And... Me get out of this. So did you have a specific agenda you wanted to do for kickoff or...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes. So..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, okay, but..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Basically, I wanted to introduce one of our team members and project managers, but our project manager is out sick today, so I thought at least I'll introduce my team, and I'll get access and then get kicked off.\nSo Dharma is going..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To be the Informatica lead on this project. He'll be working on the integrations. So again, I wanted to introduce you. I know it's a bit late for him in India, but I think he'll be the one who is going to get this project developed, tested, and deployed."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That sounds good. Dharma. That's how you say your name, right?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, it's Dharma."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. I just want to make sure I'm pronouncing it correctly, but... So will it be you that I'm working with most of the time on this?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You'll have a project manager and Dharma both as well. Karen Vijay is the project manager. He'll be on the calls. He'll be driving, setting up, and driving the calls. Dharma will be the one who will be driving it technically, which is the one who will be updated with the status and other things\nbut Dharma is your main technical point of contact."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, that sounds like a plan. The only difference, the only thing that's different since the last time we talked, is when we make this connection to ConnectWise, and the guy who's administering ConnectWise is actually leading the company.\nSo, I hope he does. I hope he can give me access because we need... I mean, he will..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We need the connection established. So..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We need an action established, and if it's not him, it'll be somebody else because there are more than one admin there. But so the only thing that's changed from the last time is we're going to have to use a different stage to... Can to create the... Obviously, because really, if we're quoting and ConnectWise and we haven't moved that piece in there yet, we need it to move in an earlier stage like solutioning or something like that.\nSo that's the only thing that's different. Everything else is the same."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I think... Carly, I just share my screen. A few of the things that we would like to get this..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I know. There it is. Okay, there it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We have the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Is. Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Things that we would like to get... Things kick started here is first the access to Therma within Informatica. So we put down a small slide. So, okay, what is the timeline, who's the project team, what's in scope, and what all activities will be performed during this execution?\nI know we want to complete this in four weeks by the end of November and go complete everything. As part of which, the first thing we would need access to IDMC and then a connection established between Salesforce and Connect..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So is it you that I'm giving access to Salesforce? You said that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "What you just said."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Everything is going to be THERMA. So he is the one who is going to kind of."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, so Dharma, I'll need your email and I'll set you up with a username that's got .dos on the end and Salesforce, because I know you've probably been in other Salesforce..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "This... So I'll set you up with that today and give you system admin access to that. Then I would imagine we're going to then maybe schedule some time to walk through that and just get our bearings right together of what those two systems look like. What... We're working on a document now that just says, okay, we're matching this field to this field, so you don't have... It's a no brainer, right? I don't want to have...\nI mean, you guys can't do that for us. We have to do it. So we're working on that as we speak. Then, we can go from there, but I need to get that done before we... Unless you want to... Unless... Unless somebody wants to walk me through where that all that is. I... Mean, the minute I went into both Sandbox and PD today and went straight to the administrator area in for Mantica to kind of get my bearings and the, you know, the just kind of look through there and everything.\nSo it's pretty straightforward. It looks like."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think it's pretty straightforward to get access and add access to IDMC. One quick thing is first, if you can start with non-prod or sandbox immediately, that would help the team to get that established connection between Salesforce and Informatica. I know..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes, I will..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You have to reach out or depend on somebody. But if you can get that done, that would be great."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, I will do that. And so my question to you is are we just doing an API connection? Are we doing. I mean, is it just a like a olath connection there? Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, it's going to be an API connection that is going to get established between Salesforce and Informatica. But once you provide access to DRMA, I think he can work along with our Salesforce team to create that verified, tested, and in case any issues, he will work along, reach out to you before reaching out to you. I want to make sure they work internally to get the tax resolved and set up.\nThen he can reach out in case of any questions."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That sounds good. I will connect our sandbox, which I just refreshed. Okay, our sandbox to Informatica sandbox via... And get that all connected through our integration user."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But that would be good. So..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Then I will get Dharma access. I'll get you access to Salesforce Sandbox and production as a system. Then, okay. Then I'll work on getting that ConnectWise access as well, because I know the sooner you get access, the better, and the sooner I can give you the rundown of what we're looking for, the better too.\nSo that's going to happen this week. It's going to happen because I know we don't have a lot of time. The other thing is, just so you know, there's a little wiggle room in there because once the team starts working in there, if we don't have it up and running on day one, which is December 1st, that's okay. We're just going to tell the team, \"Hey, just hold off for... We'll let you know when you can.\" Or I can just recreate the records and connect them while they're working in there before they're closed. One because it's doubtful they're going to be in there..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, I think the closed..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Closing two."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One should be very quick to get that started. If we establish the connect twice because it is straightforward, correct me. We can trigger an event form Salesforce, capture it in Informatica, and create it inside connectors.\nSo if we get access to connectors, the first step is pretty confident for us to get that done. The second one is the code functionality. If you said the code functionality is already available and ready in ConnectWise, then I think we need to establish API connections to pull those codes and then send them to Salesforce.\nSo if December 1st you want... Our goal is to deliver both of them before December 1st, so that way there is nothing pending on the functionality side, right? So that's where I was trying to see if we can collect today, get tax, and get that started."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, and it's and just so you know that first item there is going to be it's I'll talk to Dean about it, but I'm pretty sure it's going to be like solutioning sync. It's the stage is solutioning. So we're not going to. We're going to any time something goes and it's.\nIt's like the let me look, I created this and I don't even remember because [Laughter] so much going on."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Do you remember what you did yesterday?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Because I'm maybe I'm just getting old."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No. I think nowadays it is so busy for everybody to catch up on work. It really takes a lot to get through. But totally... I mean, whatever it is, you can..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Solutioning is not close one, but solutioning is the stage where we need to create a record. Connectwise because then what happens is the next stage after that is proposal. That's where they're going to create their proposals. As out of Connectwise. For now until we move it into Salesforce, right?\nSo I think instead of close one sync that's going to be solutioning..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Solution? Think yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, so..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Can I ask?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "One yeah, go ahead."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So this closed our own opportunities. So how we need to get it from Salesforce. Do you want to take quick real-time or near real-time or a batch schedule every one or two hours to pull that information and send it to Connect?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, I think this is what's going to be the challenge. I'm thinking I'm a salesperson, right? I'm in solution, I'm over to solutioning, I'm working out stuff now I want to create a quote. Now if they move it to solutioning and we do it in a batch or we do it in a nightly, they're going to move over to Connectwise and go, \"Where is my record? I want to create a quote over.\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I think that's..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So it got to be..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What's the point was? Karen, we can do it in multiple ways, but he wanted to understand what fits right for your business, so that way he..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If it's real-time. So I think some implementation is required at the Salesforce site to push that info and the platform event where an event gets registered. So the informa listen for the event and gather information and push it to connect. VE."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I think we can do that, Karen. We have the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Same first. So we will do that. He's just calling it out."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. And that's... Like I said earlier, that's a temporary thing. It's until... But it's going to take about two, three months maybe to get that quote cast and the quote process into Salesforce. That's a big one.\nSo it's going to take a while. If we could just have that working up and running so they can pivot from one system to another but not have to create records, that's really the whole point of it, right?\nI actually tried to work it out. So why are we putting the account management team in there? Why can't we just leave them and connect Wise until we're ready to put the quoting system in? They're like, \"No, they got to learn how to use opportunities.\"\nSo I'm stuck with that. Okay, what's the next step then?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Moving to the next step. So characterize is like your internal system or which is external for you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It's external. It's our internal system. It's our CRM right now. That's what they're using for... They use it for everything. They use it for opportunities to billing, to inventory to everything, right?\nSo we're trying to move that whole thing minus support tickets and stuff like that minus... So at some point, the end result that we want to see once we move everything into Salesforce is that we still create records from Salesforce to ConnectWise for the technical support team, right? For the support customer support, because they need to have the contacts and accounts in there if they're going to support them. My god, I chat hair all over... [Laughter] Me. I'm a mess. I'm sorry. So I think the first step here is to get you access, and especially to all those sandboxes. First and foremost, I'll make the connection from Sandbox to Sales Course and Informatica. Then I'm going to pivot over to ConnectWise and find somebody to make that API connection over there as well, and I'll work with them to get that sandbox to sandbox connection.\nSo now that we have the API connections to both systems... Okay. That's first and foremost, and I will work on getting that done. Hopefully today, if not by tomorrow."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And is that okay?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, I hope there won't be any authentication. So extra OAuth or set-level authentication for that ConnectWise, right? So it will be basic authentication maybe."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Really? Okay, so I don't have..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Like this in internal API but if we need to access that... So there may be one-way authentication using certificates or what there might be some authentication for each API we'll have some authentication in basic.\nSo that we need to know."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, but we're doing a two-way, right, aren't we?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If it's worth two... But that is a challenge. No need, right? We can implement a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "What we need to get the token, that's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, we clip that..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Another thing."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Via API and then send it to..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Token... There are two things. One is a non-expiring token, never expiring token. And another one is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Love is... Well..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Like what?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Like with some validity. One hour, two hours, 24 hours like that every time you need to get the."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, I can set that up."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Karen, one quick thing. What will help Dema is... I know you are preparing on the document to match field by field. Apart from that, if you can show one manual entry that you are creating inside ConnectWise from Salesforce, that will..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Help us understand exactly what fields we are mapping and what are the challenges so that we can put the logic internally to see if there is any mapping logic or any transformation that is required."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Chatterize have this functionality available. If we send it opportunity information and convert it as a quota account, is that how the existing functionality is working? So just we need to plug in with our input or they need to implement it as new and connect to it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, right now I think the first one, which is opportunity, is already there. The functionality that is..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, that's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Already existing."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. [Laughter] Are you talking about whether the opportunities are new or the accounts are new and stuff?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Like that or not?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The functionality that is it..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Available already or you guys are using it already inside the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "No, it's not."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It's new."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, okay, no, I mean we don't... What are you talking about? What functionality? [Laughter]."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No. ConnectWise is a system which accepts our opportunity information and creates it as a count in the connector system, right?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "No, we don't have that built at all."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We have to do that then."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Well, that's what we're trying..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's what..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To do. We're."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We're trying to do... They're doing it manually today when an opportunity..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is there... Inside Salesforce, they are taking that from solutioning and doing it manually. In ConnectWise..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Got it. So we can put that information through the API but they said after accepting that API as a request, they will be able to create in their system like counter code."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, it will create the API will create data. Yes..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay. So... Now... Meanwhile... If that is ready... So we can play..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's what we have. We get the access and then... Yes..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And I'd love, you know, then you can walk me through what you did and how you did it after, but or in the meantime, whatever. But we can do it however you want to do it. But..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Tomorrow I need... Any time works for your camel..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, let's get that squared away right now so we don't have to go back and forth. I am pretty open on Wednesday and Thursday. Tomorrow's just packed for me, so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Let's say anytime in the early morning first half..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "What's good for you? Give me a time because there are only a couple of meetings I have on the calendar."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Around... I think... 10:30 Eastern... That would be around 08:30 in India."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "India. Is that okay?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes, can we do 10:30 Eastern?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah. I think..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "He should."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It's... Because I'm meeting with Ken from Salesforce. Yeah, 10:30 would be good. Yeah, if you want to send that over..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Then... Do you want to schedule any other times?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think we will do one for Thursday as well. If we want to verify, we'll just put it as a place fold or car. If we utilize it, that's okay. Otherwise, we'll cancel it out."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, sure. Sureounds good. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Same time works for Thursday as well."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Thursday, I can do 10 or 10:30..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, I think I..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Eastern. Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That for..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I'm open until noon Eastern, so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it. Okay, I scheduled it for 10:30 after two days, so that should be good."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, good."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "For logging, we have a very database available, right? So we can create our own logging table and..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, I think there is no additional logging requirement. Cover whatever we do that will be there part of Salesforce or either current Voce. No, in between clogging current we will need one email address to send in case of any errors or alerts that you want to send. We will need one email address on whom to send so..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You can send it to me."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To your email. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So volume I think we can expect per day how many like events may like roughly any idea."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "When we can expect what..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No. Approximate number of solutioning opportunities per day that would land in..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Probably not that many, I would say. I would say very... Maybe there are days where there are none. Maybe there are days when there are a couple. I don't think it's going to be that many to tell the truth, this is just the first part of this really is creating records that we don't already have..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "In connect wise. New business. I'm only focusing on new business right now. This is the people that do all of that. So really, it's whatever they close, whatever they start, I don't want to close because we're working on solutioning. They have to create quotes for the customers to send it out of Connect Wise, but they need the actual record in Connect Wise in order to do that. They don't want to have to manually create it.\nSo that's all we're really doing. That's not going to happen very often. It's not going to be tons and tons of records every day. It's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And then it's like if we send an email to you if there are us so will be like your email, inbox will be filled. So that's why... Yeah, that's okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Hopefully by Wednesday when we meet, I will work on getting the mapping and the records. Examples of records, what they look like. And then a rundown of field to field, right field and Salesforce to field in Connectwise and with all the API names and everything."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, does that sound good?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That sounds like a plan. Let's catch up on let's day."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. And again, I am so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Sorry to have wasted ten minutes of your..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of that..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "All right, I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Appreciate you guys and nice to meet you, Dharma."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, thanks, nice to meet you too."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We'll talk on Wednesday."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. Sure. Bye. Bye. Bye."
+      }
+    ],
+    "raw_meeting": "**DAS Health Kick Off Call**\n🕞 Started at 06:00 PM on 02 Nov, lasted 32m",
+    "raw_content": "Speaker 2 | 00:16\nHey. Hi, Kailash. Do you hear me? Yeah, I can hear you.\nkailash chanda | 00:22\nOkay, I think Karen accepted it. A couple of minutes ago, I think... Yeah, they are here.\nSorry.\nSpeaker 2 | 08:01\nAfter joining King Claude.\nkailash chanda | 08:04\nJust... I replied back to the email. I'm just waiting.\nSpeaker 2 | 08:07\nOkay.\nkailash chanda | 08:49\nI think they are here.\nHeck.\nNo, unable to hear you... Can you?\nNow unable to hear you... May be some issue.\nSpeaker 3 | 09:26\nI'm talking and you can't hear me.\nkailash chanda | 09:28\nYeah, now I can hear you. Thank you.\nSpeaker 2 | 09:31\nYeah, I can finally... Yeah.\nSpeaker 3 | 09:34\nI am so sorry, I'm... So sorry, so late. My God, there's just so much going on right now.\nkailash chanda | 09:41\nNo. Thanks again for joining in.\nSpeaker 3 | 09:44\nYeah, sorry about that. Okay. So I did get access to Informatica.\nkailash chanda | 09:49\nOkay...\nSpeaker 3 | 09:50\nAnd... Me get out of this. So did you have a specific agenda you wanted to do for kickoff or...?\nkailash chanda | 10:07\nYes. So...\nSpeaker 3 | 10:08\nYeah, okay, but...\nkailash chanda | 10:10\nBasically, I wanted to introduce one of our team members and project managers, but our project manager is out sick today, so I thought at least I'll introduce my team, and I'll get access and then get kicked off.\nSo Dharma is going...\nSpeaker 3 | 10:25\nOkay...\nkailash chanda | 10:25\nTo be the Informatica lead on this project. He'll be working on the integrations. So again, I wanted to introduce you. I know it's a bit late for him in India, but I think he'll be the one who is going to get this project developed, tested, and deployed.\nSpeaker 3 | 10:44\nThat sounds good. Dharma. That's how you say your name, right?\nSpeaker 2 | 10:49\nYeah, it's Dharma.\nSpeaker 3 | 10:51\nOkay. I just want to make sure I'm pronouncing it correctly, but... So will it be you that I'm working with most of the time on this?\nkailash chanda | 11:03\nYou'll have a project manager and Dharma both as well. Karen Vijay is the project manager. He'll be on the calls. He'll be driving, setting up, and driving the calls. Dharma will be the one who will be driving it technically, which is the one who will be updated with the status and other things\nbut Dharma is your main technical point of contact.\nSpeaker 3 | 11:24\nOkay, that sounds like a plan. The only difference, the only thing that's different since the last time we talked, is when we make this connection to ConnectWise, and the guy who's administering ConnectWise is actually leading the company.\nSo, I hope he does. I hope he can give me access because we need... I mean, he will...\nkailash chanda | 12:02\nWe need the connection established. So...\nSpeaker 3 | 12:05\nWe need an action established, and if it's not him, it'll be somebody else because there are more than one admin there. But so the only thing that's changed from the last time is we're going to have to use a different stage to... Can to create the... Obviously, because really, if we're quoting and ConnectWise and we haven't moved that piece in there yet, we need it to move in an earlier stage like solutioning or something like that.\nSo that's the only thing that's different. Everything else is the same.\nkailash chanda | 12:35\nSo I think... Carly, I just share my screen. A few of the things that we would like to get this...\nSpeaker 3 | 12:42\nI know. There it is. Okay, there it...\nkailash chanda | 12:45\nWe have the...\nSpeaker 3 | 12:45\nIs. Yeah...\nkailash chanda | 12:45\nThings that we would like to get... Things kick started here is first the access to Therma within Informatica. So we put down a small slide. So, okay, what is the timeline, who's the project team, what's in scope, and what all activities will be performed during this execution?\nI know we want to complete this in four weeks by the end of November and go complete everything. As part of which, the first thing we would need access to IDMC and then a connection established between Salesforce and Connect...\nSpeaker 3 | 13:25\nSo is it you that I'm giving access to Salesforce? You said that...\nkailash chanda | 13:30\nYeah.\nSpeaker 3 | 13:30\nWhat you just said.\nkailash chanda | 13:31\nEverything is going to be THERMA. So he is the one who is going to kind of.\nSpeaker 3 | 13:35\nOkay, so Dharma, I'll need your email and I'll set you up with a username that's got .dos on the end and Salesforce, because I know you've probably been in other Salesforce...\nkailash chanda | 13:50\nExactly.\nSpeaker 3 | 13:51\nThis... So I'll set you up with that today and give you system admin access to that. Then I would imagine we're going to then maybe schedule some time to walk through that and just get our bearings right together of what those two systems look like. What... We're working on a document now that just says, okay, we're matching this field to this field, so you don't have... It's a no brainer, right? I don't want to have...\nI mean, you guys can't do that for us. We have to do it. So we're working on that as we speak. Then, we can go from there, but I need to get that done before we... Unless you want to... Unless... Unless somebody wants to walk me through where that all that is. I... Mean, the minute I went into both Sandbox and PD today and went straight to the administrator area in for Mantica to kind of get my bearings and the, you know, the just kind of look through there and everything.\nSo it's pretty straightforward. It looks like.\nkailash chanda | 15:17\nI think it's pretty straightforward to get access and add access to IDMC. One quick thing is first, if you can start with non-prod or sandbox immediately, that would help the team to get that established connection between Salesforce and Informatica. I know...\nSpeaker 3 | 15:38\nYes, I will...\nkailash chanda | 15:40\nYou have to reach out or depend on somebody. But if you can get that done, that would be great.\nSpeaker 3 | 15:46\nYeah, I will do that. And so my question to you is are we just doing an API connection? Are we doing. I mean, is it just a like a olath connection there? Okay...\nkailash chanda | 16:02\nYes, it's going to be an API connection that is going to get established between Salesforce and Informatica. But once you provide access to DRMA, I think he can work along with our Salesforce team to create that verified, tested, and in case any issues, he will work along, reach out to you before reaching out to you. I want to make sure they work internally to get the tax resolved and set up.\nThen he can reach out in case of any questions.\nSpeaker 3 | 16:34\nThat sounds good. I will connect our sandbox, which I just refreshed. Okay, our sandbox to Informatica sandbox via... And get that all connected through our integration user.\nkailash chanda | 16:51\nBut that would be good. So...\nSpeaker 3 | 16:53\nThen I will get Dharma access. I'll get you access to Salesforce Sandbox and production as a system. Then, okay. Then I'll work on getting that ConnectWise access as well, because I know the sooner you get access, the better, and the sooner I can give you the rundown of what we're looking for, the better too.\nSo that's going to happen this week. It's going to happen because I know we don't have a lot of time. The other thing is, just so you know, there's a little wiggle room in there because once the team starts working in there, if we don't have it up and running on day one, which is December 1st, that's okay. We're just going to tell the team, \"Hey, just hold off for... We'll let you know when you can.\" Or I can just recreate the records and connect them while they're working in there before they're closed. One because it's doubtful they're going to be in there...\nkailash chanda | 17:59\nNo, I think the closed...\nSpeaker 3 | 18:00\nClosing two.\nkailash chanda | 18:01\nOne should be very quick to get that started. If we establish the connect twice because it is straightforward, correct me. We can trigger an event form Salesforce, capture it in Informatica, and create it inside connectors.\nSo if we get access to connectors, the first step is pretty confident for us to get that done. The second one is the code functionality. If you said the code functionality is already available and ready in ConnectWise, then I think we need to establish API connections to pull those codes and then send them to Salesforce.\nSo if December 1st you want... Our goal is to deliver both of them before December 1st, so that way there is nothing pending on the functionality side, right? So that's where I was trying to see if we can collect today, get tax, and get that started.\nSpeaker 3 | 18:54\nYeah, and it's and just so you know that first item there is going to be it's I'll talk to Dean about it, but I'm pretty sure it's going to be like solutioning sync. It's the stage is solutioning. So we're not going to. We're going to any time something goes and it's.\nIt's like the let me look, I created this and I don't even remember because [Laughter] so much going on.\nkailash chanda | 19:24\nYes, that.\nSpeaker 3 | 19:24\nDo you remember what you did yesterday?\nkailash chanda | 19:26\nYeah.\nSpeaker 3 | 19:26\nBecause I'm maybe I'm just getting old.\nkailash chanda | 19:29\nNo. I think nowadays it is so busy for everybody to catch up on work. It really takes a lot to get through. But totally... I mean, whatever it is, you can...\nSpeaker 3 | 19:42\nSolutioning is not close one, but solutioning is the stage where we need to create a record. Connectwise because then what happens is the next stage after that is proposal. That's where they're going to create their proposals. As out of Connectwise. For now until we move it into Salesforce, right?\nSo I think instead of close one sync that's going to be solutioning...\nkailash chanda | 20:07\nSolution? Think yes.\nSpeaker 3 | 20:10\nYeah, so...\nSpeaker 2 | 20:11\nCan I ask?\nSpeaker 3 | 20:12\nOne yeah, go ahead.\nSpeaker 2 | 20:14\nSo this closed our own opportunities. So how we need to get it from Salesforce. Do you want to take quick real-time or near real-time or a batch schedule every one or two hours to pull that information and send it to Connect?\nSpeaker 3 | 20:30\nYeah, I think this is what's going to be the challenge. I'm thinking I'm a salesperson, right? I'm in solution, I'm over to solutioning, I'm working out stuff now I want to create a quote. Now if they move it to solutioning and we do it in a batch or we do it in a nightly, they're going to move over to Connectwise and go, \"Where is my record? I want to create a quote over.\"\nkailash chanda | 20:59\nYeah, I think that's...\nSpeaker 3 | 21:00\nSo it got to be...\nkailash chanda | 21:00\nWhat's the point was? Karen, we can do it in multiple ways, but he wanted to understand what fits right for your business, so that way he...\nSpeaker 2 | 21:09\nIf it's real-time. So I think some implementation is required at the Salesforce site to push that info and the platform event where an event gets registered. So the informa listen for the event and gather information and push it to connect. VE.\nkailash chanda | 21:25\nYeah, I think we can do that, Karen. We have the...\nSpeaker 3 | 21:28\nYes...\nkailash chanda | 21:28\nSame first. So we will do that. He's just calling it out.\nSpeaker 3 | 21:31\nYeah. And that's... Like I said earlier, that's a temporary thing. It's until... But it's going to take about two, three months maybe to get that quote cast and the quote process into Salesforce. That's a big one.\nSo it's going to take a while. If we could just have that working up and running so they can pivot from one system to another but not have to create records, that's really the whole point of it, right?\nI actually tried to work it out. So why are we putting the account management team in there? Why can't we just leave them and connect Wise until we're ready to put the quoting system in? They're like, \"No, they got to learn how to use opportunities.\"\nSo I'm stuck with that. Okay, what's the next step then?\nSpeaker 2 | 22:23\nMoving to the next step. So characterize is like your internal system or which is external for you.\nSpeaker 3 | 22:31\nIt's external. It's our internal system. It's our CRM right now. That's what they're using for... They use it for everything. They use it for opportunities to billing, to inventory to everything, right?\nSo we're trying to move that whole thing minus support tickets and stuff like that minus... So at some point, the end result that we want to see once we move everything into Salesforce is that we still create records from Salesforce to ConnectWise for the technical support team, right? For the support customer support, because they need to have the contacts and accounts in there if they're going to support them. My god, I chat hair all over... [Laughter] Me. I'm a mess. I'm sorry. So I think the first step here is to get you access, and especially to all those sandboxes. First and foremost, I'll make the connection from Sandbox to Sales Course and Informatica. Then I'm going to pivot over to ConnectWise and find somebody to make that API connection over there as well, and I'll work with them to get that sandbox to sandbox connection.\nSo now that we have the API connections to both systems... Okay. That's first and foremost, and I will work on getting that done. Hopefully today, if not by tomorrow.\nkailash chanda | 24:02\nPerfect.\nSpeaker 3 | 24:03\nAnd is that okay?\nkailash chanda | 24:05\nYeah...\nSpeaker 2 | 24:05\nYeah, I hope there won't be any authentication. So extra OAuth or set-level authentication for that ConnectWise, right? So it will be basic authentication maybe.\nSpeaker 3 | 24:16\nReally? Okay, so I don't have...\nSpeaker 2 | 24:19\nLike this in internal API but if we need to access that... So there may be one-way authentication using certificates or what there might be some authentication for each API we'll have some authentication in basic.\nSo that we need to know.\nSpeaker 3 | 24:38\nOkay, but we're doing a two-way, right, aren't we?\nkailash chanda | 24:44\nIf it's worth two... But that is a challenge. No need, right? We can implement a...\nSpeaker 2 | 24:49\nWhat we need to get the token, that's...\nkailash chanda | 24:50\nYeah, we clip that...\nSpeaker 2 | 24:51\nAnother thing.\nkailash chanda | 24:52\nVia API and then send it to...\nSpeaker 2 | 24:53\nToken... There are two things. One is a non-expiring token, never expiring token. And another one is...\nkailash chanda | 24:59\nLove is... Well...\nSpeaker 2 | 25:00\nLike what?\nkailash chanda | 25:00\nYes.\nSpeaker 2 | 25:01\nLike with some validity. One hour, two hours, 24 hours like that every time you need to get the.\nSpeaker 3 | 25:08\nYeah, I can set that up.\nkailash chanda | 25:10\nKaren, one quick thing. What will help Dema is... I know you are preparing on the document to match field by field. Apart from that, if you can show one manual entry that you are creating inside ConnectWise from Salesforce, that will...\nSpeaker 3 | 25:26\nYeah.\nkailash chanda | 25:26\nHelp us understand exactly what fields we are mapping and what are the challenges so that we can put the logic internally to see if there is any mapping logic or any transformation that is required.\nSpeaker 2 | 25:40\nChatterize have this functionality available. If we send it opportunity information and convert it as a quota account, is that how the existing functionality is working? So just we need to plug in with our input or they need to implement it as new and connect to it.\nkailash chanda | 26:00\nNo, right now I think the first one, which is opportunity, is already there. The functionality that is...\nSpeaker 3 | 26:06\nOkay, that's...\nkailash chanda | 26:07\nAlready existing.\nSpeaker 3 | 26:09\nOkay. [Laughter] Are you talking about whether the opportunities are new or the accounts are new and stuff?\nkailash chanda | 26:15\nNo...\nSpeaker 3 | 26:16\nLike that or not?\nkailash chanda | 26:17\nThe functionality that is it...\nSpeaker 3 | 26:17\nYes...\nkailash chanda | 26:18\nAvailable already or you guys are using it already inside the...\nSpeaker 3 | 26:23\nNo, it's not.\nSpeaker 2 | 26:24\nIt's new.\nSpeaker 3 | 26:26\nYeah, okay, no, I mean we don't... What are you talking about? What functionality? [Laughter].\nkailash chanda | 26:31\nNo...\nSpeaker 2 | 26:32\nNo. ConnectWise is a system which accepts our opportunity information and creates it as a count in the connector system, right?\nSpeaker 3 | 26:41\nNo, we don't have that built at all.\nSpeaker 2 | 26:45\nWe have to do that then.\nSpeaker 3 | 26:48\nWell, that's what we're trying...\nkailash chanda | 26:49\nThat's what...\nSpeaker 3 | 26:50\nTo do. We're.\nkailash chanda | 26:50\nWe're trying to do... They're doing it manually today when an opportunity...\nSpeaker 2 | 26:53\nOkay...\nkailash chanda | 26:54\nIs there... Inside Salesforce, they are taking that from solutioning and doing it manually. In ConnectWise...\nSpeaker 2 | 27:00\nGot it. So we can put that information through the API but they said after accepting that API as a request, they will be able to create in their system like counter code.\nkailash chanda | 27:10\nYeah, it will create the API will create data. Yes...\nSpeaker 2 | 27:13\nOkay. So... Now... Meanwhile... If that is ready... So we can play...\nkailash chanda | 27:17\nThat's what we have. We get the access and then... Yes...\nSpeaker 2 | 27:20\nYeah.\nSpeaker 3 | 27:24\nAnd I'd love, you know, then you can walk me through what you did and how you did it after, but or in the meantime, whatever. But we can do it however you want to do it. But...\nkailash chanda | 27:36\nTomorrow I need... Any time works for your camel...\nSpeaker 3 | 27:41\nYeah, let's get that squared away right now so we don't have to go back and forth. I am pretty open on Wednesday and Thursday. Tomorrow's just packed for me, so...\nkailash chanda | 27:58\nLet's say anytime in the early morning first half...\nSpeaker 3 | 28:04\nWhat's good for you? Give me a time because there are only a couple of meetings I have on the calendar.\nkailash chanda | 28:11\nAround... I think... 10:30 Eastern... That would be around 08:30 in India.\nSpeaker 2 | 28:16\nOkay.\nkailash chanda | 28:16\nIndia. Is that okay?\nSpeaker 3 | 28:17\nYes, can we do 10:30 Eastern?\nkailash chanda | 28:22\nYeah. I think...\nSpeaker 2 | 28:23\nYeah.\nkailash chanda | 28:23\nHe should.\nSpeaker 3 | 28:23\nIt's... Because I'm meeting with Ken from Salesforce. Yeah, 10:30 would be good. Yeah, if you want to send that over...\nkailash chanda | 28:38\nYeah...\nSpeaker 3 | 28:38\nThen... Do you want to schedule any other times?\nkailash chanda | 28:45\nI think we will do one for Thursday as well. If we want to verify, we'll just put it as a place fold or car. If we utilize it, that's okay. Otherwise, we'll cancel it out.\nSpeaker 3 | 28:56\nYeah, sure. Sureounds good. So...\nkailash chanda | 29:00\nSame time works for Thursday as well.\nSpeaker 3 | 29:07\nThursday, I can do 10 or 10:30...\nkailash chanda | 29:10\nOkay, I think I...\nSpeaker 3 | 29:11\nEastern. Yeah...\nkailash chanda | 29:11\nThat for...\nSpeaker 3 | 29:14\nI'm open until noon Eastern, so...\nkailash chanda | 29:23\nGot it. Okay, I scheduled it for 10:30 after two days, so that should be good.\nSpeaker 3 | 29:29\nOkay, good.\nSpeaker 2 | 29:33\nFor logging, we have a very database available, right? So we can create our own logging table and...\nSpeaker 3 | 29:40\nWe can...\nkailash chanda | 29:41\nNo, I think there is no additional logging requirement. Cover whatever we do that will be there part of Salesforce or either current Voce. No, in between clogging current we will need one email address to send in case of any errors or alerts that you want to send. We will need one email address on whom to send so...\nSpeaker 3 | 30:06\nYou can send it to me.\nkailash chanda | 30:07\nTo your email. Okay.\nSpeaker 2 | 30:10\nSo volume I think we can expect per day how many like events may like roughly any idea.\nSpeaker 3 | 30:23\nWhen we can expect what...\nkailash chanda | 30:24\nNo. Approximate number of solutioning opportunities per day that would land in...\nSpeaker 3 | 30:32\nProbably not that many, I would say. I would say very... Maybe there are days where there are none. Maybe there are days when there are a couple. I don't think it's going to be that many to tell the truth, this is just the first part of this really is creating records that we don't already have...\nkailash chanda | 30:55\nYes...\nSpeaker 3 | 30:56\nIn connect wise. New business. I'm only focusing on new business right now. This is the people that do all of that. So really, it's whatever they close, whatever they start, I don't want to close because we're working on solutioning. They have to create quotes for the customers to send it out of Connect Wise, but they need the actual record in Connect Wise in order to do that. They don't want to have to manually create it.\nSo that's all we're really doing. That's not going to happen very often. It's not going to be tons and tons of records every day. It's...\nSpeaker 2 | 31:30\nAnd then it's like if we send an email to you if there are us so will be like your email, inbox will be filled. So that's why... Yeah, that's okay.\nSpeaker 3 | 31:45\nHopefully by Wednesday when we meet, I will work on getting the mapping and the records. Examples of records, what they look like. And then a rundown of field to field, right field and Salesforce to field in Connectwise and with all the API names and everything.\nkailash chanda | 32:04\nExactly.\nSpeaker 3 | 32:05\nOkay, does that sound good?\nkailash chanda | 32:07\nPerfect.\nSpeaker 3 | 32:07\nYes.\nkailash chanda | 32:07\nThat sounds like a plan. Let's catch up on let's day.\nSpeaker 3 | 32:11\nOkay. And again, I am so...\nkailash chanda | 32:13\nNo...\nSpeaker 3 | 32:13\nSorry to have wasted ten minutes of your...\nkailash chanda | 32:16\nOf that...\nSpeaker 2 | 32:17\nNo.\nkailash chanda | 32:19\nThank you...\nSpeaker 3 | 32:19\nAll right, I...\nkailash chanda | 32:20\nThanks...\nSpeaker 3 | 32:20\nAppreciate you guys and nice to meet you, Dharma.\nSpeaker 2 | 32:23\nYeah, thanks, nice to meet you too.\nkailash chanda | 32:26\nThank you.\nSpeaker 3 | 32:26\nWe'll talk on Wednesday.\nSpeaker 2 | 32:29\nYeah. Sure. Bye. Bye. Bye."
+  }
+}
