@@ -1,0 +1,59 @@
+{
+  "id": "01a19cdce61475baad1e7caa73d14ac4",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a192798014772285c24dfd11a478e1",
+      "title": "Kalish & Amar - 1.1 - SOW",
+      "duration": 2552,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "0ssesnppcmsfaskjm3bv3m44se_20261102T150000Z",
+      "participants": [
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amar@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amar@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-02T14:42:02.071Z",
+      "end_date": "2026-11-02T15:24:34.071Z",
+      "url": "https://app.krisp.ai/m/01a192798014772285c24dfd11a478e1?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a19cb641b1702eba66bf1ed6b12423",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 2542.348,
+      "size": 10168272,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-09T15:24:44.940Z"
+    },
+    "raw_meeting": "**Kalish & Amar - 1.1 - SOW**\n🕞 Started at 02:42 PM on 02 Nov, lasted 42m"
+  }
+}
