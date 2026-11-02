@@ -1,0 +1,899 @@
+{
+  "id": "01a19ca4214b76bc9380bcf88bdc7255",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a18e9bc74f736aaac211c4b3c69295",
+      "title": "Blueridge internal syncup",
+      "duration": 1040,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "7qo05va8i3aa79l1th3np6rsts",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "shree@dataskate.io"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vivekn@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "rita@dataskate.io"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-02T14:03:57.884Z",
+      "end_date": "2026-11-02T14:21:17.884Z",
+      "url": "https://app.krisp.ai/m/01a18e9bc74f736aaac211c4b3c69295?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, I see my... Okay, let me..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Re anything you want to add."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, let me put it this way, okay? So, okay, let me share my screen.\nOkay, perfect. So now we have accounts cleanup, we have contact cleanup, we have leads cleanup, and we have opportunity things cleanup. We gave what is the ETA for accounts..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Accounts and contacts together."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Together, tell me what is..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We have given two weeks of f. Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So two weeks, that is November 13th..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, I'm thir correct."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "November 13th we will go live, right?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Thats the plan."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, now, assuming Rita next, I will do leads and opportunities. I would like number twenty-seven for both of them. Okay? Okay, so now number twenty-seven, but not number seven. Okay, this is the ETA because I have a call with the client along with the Salesforce sales team because the client raised a concern.\nThat's why I'm coming in here. Okay? So now block us. Tell me to complete contacts and accounts. Do we have any blockers...?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, I'll come to that because as you mentioned, we will go live on 13th. Clean data will be existing in production, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes. Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So now I'll give you four pointers. So what happened is so to clean accounts and contacts, we will need contacts to be cleaned up first. That was my approach. Okay, yeah, and then we are cleaning up accounts.\nSo what happened is when we shared the date there, we just mentioned contacts. The other rules got missed out."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So I think he will just share the updated date with Gary, and I think he will understand because I already walked him through my approach, Doc, and he was very much aligned with our approach. Okay, now we have two things. One is this address validation. Doctor...\nI think maybe with... You have got to connect and understand a few things, right? So on address validation, what I am thinking is till now none of the calls and no emails we have mentioned anything about using address validation.\nOkay? The license version... Okay, because that is another time-taking effort. So what I'm thinking is in my approach doc, I have already mentioned some standardization rules that I'm going to perform on the address fields. That will be enough to compare the website..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I just..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Compare the billing address."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We have shared that with the business. Yeah, we will update it. But while I was making him... While I was walking Gary all through my approach doc, he understood. So neither a client has mentioned anything about address validation, nor us."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Kle does not know what is a doctor."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. So if we have to integrate it... Then we have to see if Informatica is giving us that license version of the file or not. Then I have to see the configuration, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I don't know this one, but when I checked with the sales team, they said that they have everything, they are given some credits. You run a rush doctor. Then that will consume some credits, and that is what it is."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That part I am really not sure... What is the sales team going to do and all that credits and all that I don't know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But they have a license for a doctor."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "They have a license..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "For a addressed doctor. I think you must have... What's your time zone? If she is getting free at 3:30 PM, is it late for you?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, I am available all night, so..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, I'll just need one thing if you can check with... About this. I really do not have much knowledge."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What do you want me to check?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Do we really need to go with this address validation step? If it is I have to go no, then that is that will be an added extra effort to IDMC integration. We have..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To integrate it. I'll show you something like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Now my..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Are a few..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Question is, if you don't do an address, the doctor will be able to clean it up."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, the cleaning up is... Anyway, doing it, the website, sorry, the billing, address standardization, and all. I will do it. So she was telling me that address validation will not give us any address if the address field is blank."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly. So..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, if the address field has some incorrect details, then maybe it will just clean it up for us."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Doctor, will it go and check whether this address is valid or not?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. So I think that is not that much needed for us."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, that is not needed."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Small cleanup I will do. I'm anyway doing it, I'm standardizing it and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Standardization rule. I have kept an approach document and we have mentioned in the deck normalization. So if Gary is approving it, that means we do not need to explicitly..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, see..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Go and check with Vijay, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What we will tell Rita is whatever address is there inside the system, we are assuming that it's the correct and valid address and we are using it for comparison. That is better."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We will put this note there that all the addresses..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In the system and the emails in the system are assumed to be correct and then are assumed to be valid. Not correct. Assumed to be valid. We will be running our rules based on those addresses and emails. Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Now the second part Kailash, the merge method. So we are meeting Salesforce, Steve, Navi, and Prangel. These are the only point of contact we have received from Gary. Who can help us with the Salesforce system? What we will do after..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So before you go, Rita, what do you mean by help with the Salesforce system?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I'll tell you. So now you are generating the merge report. Right now you are giving business that... Okay, these are the possible sets of accounts which need to get merged and this needs to get reviewed.\nOkay, after review they will go for merging. So what is the practical ground of merging practically emerging pay? So when I discussed with... What I understood is that in other projects what we do is we create two tables... One with that merger report and another with some cross-reference details. Right? Because you're happy I'm empty and... We are doing everything on... So we have to do some explicit operations.\nLook..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Extra addit ka data to curing it. They will create CCs and make data insert it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It is up to us..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Up to us."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Why are you not bringing Suri to this conversation? He is the sales expert..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, sure, since you thought we'd bother to discuss internal... I didn't add..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Internal dude is our company. He's the Salesforce practice. He's inside data scale. So this..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I mean..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is where we are wasting..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Earlier the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Timing. My question..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Instances, yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is when? Okay. So when is your call? With prangjal and other srita..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Actually Karasa right we can connect with Shaone so I have yeah which you got us connected with Shubon."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Only... Yeah, we did speak a couple of times."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Times and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What we'll do is let me give you one minute. I'll just run out and ask how one is available. Okay, give me one second. Okay, I'll let you ping here."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We have a Slack channel. Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If you can be active, then I'll add you to Slack. So that way it's easy."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I am for another vendor. I'm there already on Slack. Yeah, there is this open-data solution. So for..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That, I'm already there. Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So apart from Salesforce, do you have any other...? Let me put down here are open items. We will put down blockers as Salesforce merges. I think I'll just put my laptop on speakers. Raghu is here.\nSo, Stan, I think we are discussing the blue-rich informatica process. Okay? So, I have it... Who is working on the formatic part? Okay. Rita, you can ask your questions, whatever you have."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Hi, remember we spoke about that export mechanism and all? So, what the progress is that I am able to generate math sets. So, once these math sets are generated and we have business approval to merge them..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "What is actually on ground we should do about these math sets that we are generating?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The informat should have a connector to merge contacts or merge any electrics in Salesforce. All it needs is a winner and a loser."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes, I'll generate that record set. So, we expect IDMC to hit a Salesforce system and then it merges that account on the sales force system."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes. So, increment generally, I don't know if you have CD. Is there a right? They have CDIA, which has a sales source connector which would have a merged functionality..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Sorry, what is that? I missed out on what a CD..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "CD cloud the digitally..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, we have CD. Yes, I have been able to establish some connection. So, for Salesforce, I think I will need some maybe some service account details so and I can mail..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The user that..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You for that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You are using to login to work by engineering to export the data out, you can use the same login."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Great."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You should be able to if you are..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Unable to... Let me know."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "No, I get it now. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, login once you establish the connection, right? Informatic should have a method like how you do insert, update, etc., right?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It should have a merge percentage force. So, one quick question, Rita. While someone is here, are we working on a sandbox for Blue Ridge or your production?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We have a sandbox thing. So the Miro thing... No, Kailash, which Shaon mentioned, I'm a little bit skeptical about using that. March..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Because right now we have Informatica services on CDI, CDQ, and CDP so they do not create that merge record. Merge records get created in MDM hub. If you remember I was explaining this to... Yeah, so I'll see what we can do.\nSo somehow..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The merge records are created in EMD. So you were talking about some approach, right? Some table creation or something?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can you discuss that?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. So basically Shaon, what if I am generating that Miro report? Suppose I am generating a hundred accounts reports. Okay, where I'm showing you that hundred accounts should get merged. Now someone has to merge it. Maybe..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "For suppose on Salesforce system based on my report. So what should I actually present to that person like Salesforce admin or someone? Is it something in the form of a table I should create or...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is it for a review or to do actual Miro...?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I think do actual merge only."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Actually... I don't think they need to do anything. I mean, if you are extracting it right as a CSP, you can use that and write a flow in or I think workflow in Informatica using AA and you can do the merge."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "AA. Okay. Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That but I will explore and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So if you're... For any reason... Let me... No weekend night out in SAS to the Marchians."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Great thing. So that means to conclude, we are actually hitting that merch mechanism in Salesforce, right? Somehow we have to margin and Salesforce system. So yeah. So when I was looking up this process and all a little bit shaman, what I understood is... Help me correct it.\nIf I merge accounts, other related contacts and opportunities get merged."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not much. They move."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, sorry. They get moved to the surviving account. Right? Okay, this point I was actually looking up. So this is a new thing..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think that's why... Is more worried whether you do accounts and contacts opportunities will get impacted. How will you can up opportunities? Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, let me do a quick..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So if you're planning..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Research on..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To do Margrate, you have to do it. I mean irrespect of it, nothing changes. You can run in any order. It should be affected. But... If you remember Gary was mentioning that he does not want autom. Everything should go to human review. Or Steward.\nThen steward should merge it. Then we have to..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Few things. He has already mentioned that you go ahead and do straight margin. We have... Yeah, we have categories. Straight margin is easy. Yeah. Few of the difficult scenarios where we need to get a steward review.\nSo that is the thing. I have to create that report for him. I'll do that, he will get my report. Meanwhile, I have to check this merch mechanism I'll do that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so today when you have a call with Prangel, can you add one to the call? Vivek..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Sure."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes, I'm..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Until we close this project, can you add us to these calls? Because I want all of us to be available to close this by November 13th."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We'll get it done. So just one last question. To understand the impact, if I'm understanding it clearly, if I'm not doing any explicit cleanup on opportunities, I'm just merging accounts like I get some reports done and I am merging those accounts.\nSo opportunities will not get impacted unless that account details I think will get updated, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The losing..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So the opportunities from the loser record rate will move our survival."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, I'll do field tests now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It basically repairs the account on opportunities to that matter, even context, anything."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Right? Do you know if I'm adding, if I'm creating a pipeline or something to this Salesforce system and I'm triggering a merge, do I need to make use of any API call or something?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's the connector that I was talking about in CCA a CD a generally has a can force connector."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "No."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can configure the connection, and you should be able to use it in the overflow."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, let me. Let me try that out. Yeah sure, I got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Rita, I think Shaone is available from 03:00 to 6:30. He will be free because he will not have client calls. So anytime you have... I've latched someone to the informatic a..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Group, you can directly ping there, and you guys can connect. I will be on every call. Okay?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This client is very important, so I will be on every call, but I'm just giving you an open statement here so that you don't need to wait for any dependency and all of..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "No..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Us to report..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That's true..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And close this on the deadline. That's..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I think I have got all my answers. Kailash..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "As of not cleared like... Address validation we are not going ahead. We are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We have got some idea on the merch so we can parallelly work on updating that deck and giving some clarification to business with what that we discussed and I emailed you. Meanwhile, I'll take care of the technical implementation."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So we update the deck, share it in the group. I'll review it. Shaone will review it, but because we have less context, I think Rita will need your help to review it and confirm whether it's good to send or not.\nOkay, meta perfect. And..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sure, I'll..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Maybe after..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Share it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Every client call, I want you to send a summary of what happened in the call, what we agreed on and everything, okay?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes. Got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sure. Thank you. Guys, let me thank you. Bye, please, guys."
+      }
+    ],
+    "raw_meeting": "**Blueridge internal syncup**\n🕞 Started at 02:03 PM on 02 Nov, lasted 17m",
+    "raw_content": "kailash chanda | 00:02\nNo, I see my... Okay, let me...\nSpeaker 2 | 00:05\nRe anything you want to add.\nkailash chanda | 00:06\nYeah, let me put it this way, okay? So, okay, let me share my screen.\nOkay, perfect. So now we have accounts cleanup, we have contact cleanup, we have leads cleanup, and we have opportunity things cleanup. We gave what is the ETA for accounts...\nSpeaker 3 | 00:43\nAccounts and contacts together.\nkailash chanda | 00:46\nTogether, tell me what is...\nSpeaker 3 | 00:48\nWe have given two weeks of f. Yeah.\nkailash chanda | 00:50\nSo two weeks, that is November 13th...\nSpeaker 2 | 00:52\nNo, I'm thir correct.\nkailash chanda | 00:53\nNovember 13th we will go live, right?\nSpeaker 2 | 00:57\nYes.\nSpeaker 3 | 00:57\nThats the plan.\nkailash chanda | 01:00\nOkay, now, assuming Rita next, I will do leads and opportunities. I would like number twenty-seven for both of them. Okay? Okay, so now number twenty-seven, but not number seven. Okay, this is the ETA because I have a call with the client along with the Salesforce sales team because the client raised a concern.\nThat's why I'm coming in here. Okay? So now block us. Tell me to complete contacts and accounts. Do we have any blockers...?\nSpeaker 3 | 01:39\nYeah, I'll come to that because as you mentioned, we will go live on 13th. Clean data will be existing in production, right?\nkailash chanda | 01:52\nYes. Yes.\nSpeaker 3 | 01:54\nSo now I'll give you four pointers. So what happened is so to clean accounts and contacts, we will need contacts to be cleaned up first. That was my approach. Okay, yeah, and then we are cleaning up accounts.\nSo what happened is when we shared the date there, we just mentioned contacts. The other rules got missed out.\nkailash chanda | 02:18\nOkay.\nSpeaker 3 | 02:18\nSo I think he will just share the updated date with Gary, and I think he will understand because I already walked him through my approach, Doc, and he was very much aligned with our approach. Okay, now we have two things. One is this address validation. Doctor...\nI think maybe with... You have got to connect and understand a few things, right? So on address validation, what I am thinking is till now none of the calls and no emails we have mentioned anything about using address validation.\nOkay? The license version... Okay, because that is another time-taking effort. So what I'm thinking is in my approach doc, I have already mentioned some standardization rules that I'm going to perform on the address fields. That will be enough to compare the website...\nkailash chanda | 03:07\nI just...\nSpeaker 3 | 03:08\nCompare the billing address.\nkailash chanda | 03:10\nOkay...\nSpeaker 3 | 03:10\nWe have shared that with the business. Yeah, we will update it. But while I was making him... While I was walking Gary all through my approach doc, he understood. So neither a client has mentioned anything about address validation, nor us.\nkailash chanda | 03:27\nKle does not know what is a doctor.\nSpeaker 3 | 03:31\nYeah. So if we have to integrate it... Then we have to see if Informatica is giving us that license version of the file or not. Then I have to see the configuration, right?\nkailash chanda | 03:42\nSo I don't know this one, but when I checked with the sales team, they said that they have everything, they are given some credits. You run a rush doctor. Then that will consume some credits, and that is what it is.\nSpeaker 3 | 03:57\nThat part I am really not sure... What is the sales team going to do and all that credits and all that I don't know...\nkailash chanda | 04:04\nBut they have a license for a doctor.\nSpeaker 3 | 04:08\nThey have a license...\nkailash chanda | 04:09\nYes...\nSpeaker 3 | 04:09\nFor a addressed doctor. I think you must have... What's your time zone? If she is getting free at 3:30 PM, is it late for you?\nkailash chanda | 04:21\nNo, I am available all night, so...\nSpeaker 3 | 04:24\nOkay, I'll just need one thing if you can check with... About this. I really do not have much knowledge.\nkailash chanda | 04:31\nWhat do you want me to check?\nSpeaker 3 | 04:33\nDo we really need to go with this address validation step? If it is I have to go no, then that is that will be an added extra effort to IDMC integration. We have...\nkailash chanda | 04:42\nOkay...\nSpeaker 3 | 04:42\nTo integrate it. I'll show you something like...\nkailash chanda | 04:44\nNow my...\nSpeaker 3 | 04:45\nAre a few...\nkailash chanda | 04:45\nQuestion is, if you don't do an address, the doctor will be able to clean it up.\nSpeaker 3 | 04:50\nYeah, the cleaning up is... Anyway, doing it, the website, sorry, the billing, address standardization, and all. I will do it. So she was telling me that address validation will not give us any address if the address field is blank.\nkailash chanda | 05:04\nExactly. So...\nSpeaker 3 | 05:04\nYeah, if the address field has some incorrect details, then maybe it will just clean it up for us.\nkailash chanda | 05:12\nDoctor, will it go and check whether this address is valid or not?\nSpeaker 3 | 05:16\nYeah. So I think that is not that much needed for us.\nkailash chanda | 05:20\nNo, that is not needed.\nSpeaker 3 | 05:21\nSmall cleanup I will do. I'm anyway doing it, I'm standardizing it and...\nkailash chanda | 05:25\nOkay?\nSpeaker 3 | 05:25\nStandardization rule. I have kept an approach document and we have mentioned in the deck normalization. So if Gary is approving it, that means we do not need to explicitly...\nkailash chanda | 05:34\nNo, see...\nSpeaker 3 | 05:35\nGo and check with Vijay, right?\nkailash chanda | 05:37\nWhat we will tell Rita is whatever address is there inside the system, we are assuming that it's the correct and valid address and we are using it for comparison. That is better.\nSpeaker 3 | 05:50\nOkay...\nkailash chanda | 05:50\nWe will put this note there that all the addresses...\nSpeaker 3 | 05:53\nYes.\nkailash chanda | 05:54\nIn the system and the emails in the system are assumed to be correct and then are assumed to be valid. Not correct. Assumed to be valid. We will be running our rules based on those addresses and emails. Okay...\nSpeaker 3 | 06:10\nNow the second part Kailash, the merge method. So we are meeting Salesforce, Steve, Navi, and Prangel. These are the only point of contact we have received from Gary. Who can help us with the Salesforce system? What we will do after...\nkailash chanda | 06:24\nSo before you go, Rita, what do you mean by help with the Salesforce system?\nSpeaker 3 | 06:29\nI'll tell you. So now you are generating the merge report. Right now you are giving business that... Okay, these are the possible sets of accounts which need to get merged and this needs to get reviewed.\nOkay, after review they will go for merging. So what is the practical ground of merging practically emerging pay? So when I discussed with... What I understood is that in other projects what we do is we create two tables... One with that merger report and another with some cross-reference details. Right? Because you're happy I'm empty and... We are doing everything on... So we have to do some explicit operations.\nLook...\nkailash chanda | 07:07\nOkay...\nSpeaker 3 | 07:07\nExtra addit ka data to curing it. They will create CCs and make data insert it...\nkailash chanda | 07:13\nIt is up to us...\nSpeaker 3 | 07:15\nUp to us.\nkailash chanda | 07:17\nWhy are you not bringing Suri to this conversation? He is the sales expert...\nSpeaker 2 | 07:23\nOkay, sure, since you thought we'd bother to discuss internal... I didn't add...\nkailash chanda | 07:30\nInternal dude is our company. He's the Salesforce practice. He's inside data scale. So this...\nSpeaker 2 | 07:37\nI mean...\nkailash chanda | 07:37\nIs where we are wasting...\nSpeaker 2 | 07:38\nEarlier the...\nkailash chanda | 07:38\nTiming. My question...\nSpeaker 2 | 07:39\nInstances, yeah.\nkailash chanda | 07:40\nIs when? Okay. So when is your call? With prangjal and other srita...\nSpeaker 3 | 07:48\nActually Karasa right we can connect with Shaone so I have yeah which you got us connected with Shubon.\nkailash chanda | 07:58\nExactly.\nSpeaker 2 | 07:58\nOnly... Yeah, we did speak a couple of times.\nkailash chanda | 08:00\nSo okay...\nSpeaker 2 | 08:00\nTimes and...\nkailash chanda | 08:01\nWhat we'll do is let me give you one minute. I'll just run out and ask how one is available. Okay, give me one second. Okay, I'll let you ping here.\nSpeaker 3 | 08:18\nWe have a Slack channel. Okay...\nkailash chanda | 08:24\nIf you can be active, then I'll add you to Slack. So that way it's easy.\nSpeaker 3 | 08:29\nI am for another vendor. I'm there already on Slack. Yeah, there is this open-data solution. So for...\nkailash chanda | 08:32\nOkay.\nSpeaker 3 | 08:35\nThat, I'm already there. Yeah.\nkailash chanda | 08:39\nSo apart from Salesforce, do you have any other...? Let me put down here are open items. We will put down blockers as Salesforce merges. I think I'll just put my laptop on speakers. Raghu is here.\nSo, Stan, I think we are discussing the blue-rich informatica process. Okay? So, I have it... Who is working on the formatic part? Okay. Rita, you can ask your questions, whatever you have.\nSpeaker 3 | 09:11\nHi, remember we spoke about that export mechanism and all? So, what the progress is that I am able to generate math sets. So, once these math sets are generated and we have business approval to merge them...\nkailash chanda | 09:29\nOkay.\nSpeaker 3 | 09:29\nWhat is actually on ground we should do about these math sets that we are generating?\nkailash chanda | 09:34\nThe informat should have a connector to merge contacts or merge any electrics in Salesforce. All it needs is a winner and a loser.\nSpeaker 3 | 09:45\nYes, I'll generate that record set. So, we expect IDMC to hit a Salesforce system and then it merges that account on the sales force system.\nkailash chanda | 09:57\nYes. So, increment generally, I don't know if you have CD. Is there a right? They have CDIA, which has a sales source connector which would have a merged functionality...\nSpeaker 3 | 10:07\nSorry, what is that? I missed out on what a CD...\nkailash chanda | 10:10\nCD cloud the digitally...\nSpeaker 3 | 10:12\nYeah, we have CD. Yes, I have been able to establish some connection. So, for Salesforce, I think I will need some maybe some service account details so and I can mail...\nkailash chanda | 10:23\nThe user that...\nSpeaker 3 | 10:24\nYou for that.\nkailash chanda | 10:24\nYou are using to login to work by engineering to export the data out, you can use the same login.\nSpeaker 3 | 10:31\nGreat.\nkailash chanda | 10:32\nYou should be able to if you are...\nSpeaker 3 | 10:32\nOkay...\nkailash chanda | 10:34\nUnable to... Let me know.\nSpeaker 3 | 10:37\nNo, I get it now. So...\nkailash chanda | 10:38\nYeah, login once you establish the connection, right? Informatic should have a method like how you do insert, update, etc., right?\nSpeaker 3 | 10:48\nYes...\nkailash chanda | 10:48\nIt should have a merge percentage force. So, one quick question, Rita. While someone is here, are we working on a sandbox for Blue Ridge or your production?\nSpeaker 3 | 11:01\nWe have a sandbox thing. So the Miro thing... No, Kailash, which Shaon mentioned, I'm a little bit skeptical about using that. March...\nkailash chanda | 11:09\nOkay...\nSpeaker 3 | 11:09\nBecause right now we have Informatica services on CDI, CDQ, and CDP so they do not create that merge record. Merge records get created in MDM hub. If you remember I was explaining this to... Yeah, so I'll see what we can do.\nSo somehow...\nkailash chanda | 11:27\nThe merge records are created in EMD. So you were talking about some approach, right? Some table creation or something?\nSpeaker 3 | 11:38\nYes...\nkailash chanda | 11:39\nCan you discuss that?\nSpeaker 3 | 11:40\nYeah. So basically Shaon, what if I am generating that Miro report? Suppose I am generating a hundred accounts reports. Okay, where I'm showing you that hundred accounts should get merged. Now someone has to merge it. Maybe...\nkailash chanda | 11:54\nYes.\nSpeaker 3 | 11:54\nFor suppose on Salesforce system based on my report. So what should I actually present to that person like Salesforce admin or someone? Is it something in the form of a table I should create or...?\nkailash chanda | 12:09\nIs it for a review or to do actual Miro...?\nSpeaker 3 | 12:11\nI think do actual merge only.\nkailash chanda | 12:14\nActually... I don't think they need to do anything. I mean, if you are extracting it right as a CSP, you can use that and write a flow in or I think workflow in Informatica using AA and you can do the merge.\nSpeaker 3 | 12:29\nAA. Okay. Okay.\nkailash chanda | 12:30\nYeah.\nSpeaker 3 | 12:30\nThat but I will explore and...\nkailash chanda | 12:31\nSo if you're... For any reason... Let me... No weekend night out in SAS to the Marchians.\nSpeaker 3 | 12:38\nGreat thing. So that means to conclude, we are actually hitting that merch mechanism in Salesforce, right? Somehow we have to margin and Salesforce system. So yeah. So when I was looking up this process and all a little bit shaman, what I understood is... Help me correct it.\nIf I merge accounts, other related contacts and opportunities get merged.\nkailash chanda | 13:02\nNot much. They move.\nSpeaker 3 | 13:04\nYeah, sorry. They get moved to the surviving account. Right? Okay, this point I was actually looking up. So this is a new thing...\nkailash chanda | 13:14\nI think that's why... Is more worried whether you do accounts and contacts opportunities will get impacted. How will you can up opportunities? Okay...\nSpeaker 3 | 13:26\nOkay, let me do a quick...\nkailash chanda | 13:28\nSo if you're planning...\nSpeaker 3 | 13:29\nResearch on...\nkailash chanda | 13:29\nTo do Margrate, you have to do it. I mean irrespect of it, nothing changes. You can run in any order. It should be affected. But... If you remember Gary was mentioning that he does not want autom. Everything should go to human review. Or Steward.\nThen steward should merge it. Then we have to...\nSpeaker 3 | 13:47\nFew things. He has already mentioned that you go ahead and do straight margin. We have... Yeah, we have categories. Straight margin is easy. Yeah. Few of the difficult scenarios where we need to get a steward review.\nSo that is the thing. I have to create that report for him. I'll do that, he will get my report. Meanwhile, I have to check this merch mechanism I'll do that.\nkailash chanda | 14:08\nOkay, so today when you have a call with Prangel, can you add one to the call? Vivek...\nSpeaker 3 | 14:13\nSure.\nSpeaker 2 | 14:14\nYes, I'm...\nkailash chanda | 14:16\nUntil we close this project, can you add us to these calls? Because I want all of us to be available to close this by November 13th.\nSpeaker 3 | 14:26\nWe'll get it done. So just one last question. To understand the impact, if I'm understanding it clearly, if I'm not doing any explicit cleanup on opportunities, I'm just merging accounts like I get some reports done and I am merging those accounts.\nSo opportunities will not get impacted unless that account details I think will get updated, right?\nkailash chanda | 14:52\nYes.\nSpeaker 3 | 14:52\nThe losing...\nkailash chanda | 14:52\nSo the opportunities from the loser record rate will move our survival.\nSpeaker 3 | 14:59\nOkay, I'll do field tests now.\nkailash chanda | 15:02\nIt basically repairs the account on opportunities to that matter, even context, anything.\nSpeaker 3 | 15:08\nRight? Do you know if I'm adding, if I'm creating a pipeline or something to this Salesforce system and I'm triggering a merge, do I need to make use of any API call or something?\nkailash chanda | 15:22\nThat's the connector that I was talking about in CCA a CD a generally has a can force connector.\nSpeaker 3 | 15:28\nNo.\nkailash chanda | 15:28\nYou can configure the connection, and you should be able to use it in the overflow.\nSpeaker 3 | 15:32\nOkay, let me. Let me try that out. Yeah sure, I got it.\nkailash chanda | 15:36\nOkay, so...\nSpeaker 3 | 15:36\nYeah...\nkailash chanda | 15:36\nRita, I think Shaone is available from 03:00 to 6:30. He will be free because he will not have client calls. So anytime you have... I've latched someone to the informatic a...\nSpeaker 3 | 15:46\nOkay...\nkailash chanda | 15:49\nGroup, you can directly ping there, and you guys can connect. I will be on every call. Okay?\nSpeaker 3 | 15:55\nYeah...\nkailash chanda | 15:55\nThis client is very important, so I will be on every call, but I'm just giving you an open statement here so that you don't need to wait for any dependency and all of...\nSpeaker 3 | 16:05\nNo...\nkailash chanda | 16:05\nUs to report...\nSpeaker 3 | 16:06\nThat's true...\nkailash chanda | 16:06\nAnd close this on the deadline. That's...\nSpeaker 3 | 16:08\nYes. So...\nkailash chanda | 16:09\nOkay.\nSpeaker 3 | 16:09\nI think I have got all my answers. Kailash...\nkailash chanda | 16:11\nOkay...\nSpeaker 3 | 16:11\nAs of not cleared like... Address validation we are not going ahead. We are...\nkailash chanda | 16:15\nExactly.\nSpeaker 3 | 16:15\nWe have got some idea on the merch so we can parallelly work on updating that deck and giving some clarification to business with what that we discussed and I emailed you. Meanwhile, I'll take care of the technical implementation.\nkailash chanda | 16:28\nSo we update the deck, share it in the group. I'll review it. Shaone will review it, but because we have less context, I think Rita will need your help to review it and confirm whether it's good to send or not.\nOkay, meta perfect. And...\nSpeaker 2 | 16:45\nSure, I'll...\nkailash chanda | 16:46\nMaybe after...\nSpeaker 2 | 16:46\nShare it.\nkailash chanda | 16:46\nEvery client call, I want you to send a summary of what happened in the call, what we agreed on and everything, okay?\nSpeaker 2 | 16:52\nYes. Got it.\nkailash chanda | 16:55\nSure. Thank you. Guys, let me thank you. Bye, please, guys."
+  }
+}
