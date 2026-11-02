@@ -1,0 +1,100 @@
+{
+  "id": "01a19cef09b7729b8ac34922571f36fc",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1987c705c72b1816d440c93e3cfdf",
+      "title": "10:41 AM - Slack meeting November 2",
+      "duration": 120,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": null,
+      "participants": [],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": null,
+          "id": "cdd158f65ffa589f8645d47041870e53",
+          "first_name": "Ali",
+          "email": "85c0a4fedfad47f4b315aa6c580e992d@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-02T15:41:54.513Z",
+      "end_date": "2026-11-02T15:43:54.513Z",
+      "url": "https://app.krisp.ai/m/01a1987c705c72b1816d440c93e3cfdf?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hello hey Ali... Hey Ali. So that offers I okay I you've got it okay let me tell you..."
+      },
+      {
+        "speaker": "Ali",
+        "speakerIndex": 2,
+        "text": "So that's why I said maybe because I'm not sure what kind of deals... What should be like that. So I remember what I was mentioning about it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So that is only for... Let me share that slide with you. So that information...\nI don't know if it's not for everything, it is just for one SKU called Axis that is $67,000."
+      },
+      {
+        "speaker": "Ali",
+        "speakerIndex": 2,
+        "text": "One skew got alx s..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "All axes..."
+      },
+      {
+        "speaker": "Ali",
+        "speakerIndex": 2,
+        "text": "All X, all XIS. Okay, I have..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "All agent..."
+      },
+      {
+        "speaker": "Ali",
+        "speakerIndex": 2,
+        "text": "To... I'm going to read all these. So basically, the leadership approval offer is for integration of agent fabric deals only."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And you. But if somebody sells. If somebody sells all XQ then they will be eligible for 50%."
+      },
+      {
+        "speaker": "Ali",
+        "speakerIndex": 2,
+        "text": "Okay. So that's the SKU number. If somebody's selling it, then it's 50% off. Got it? Thank you. I'll go through this to... And properly, if I have any questions, I'm just going to drop a message to you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not S. Thank."
+      },
+      {
+        "speaker": "Ali",
+        "speakerIndex": 2,
+        "text": "Thank you."
+      }
+    ],
+    "raw_meeting": "**10:41 AM - Slack meeting November 2**\n🕞 Started at 03:41 PM on 02 Nov, lasted 2m",
+    "raw_content": "kailash chanda | 00:07\nHello hey Ali... Hey Ali. So that offers I okay I you've got it okay let me tell you...\nAli | 00:18\nSo that's why I said maybe because I'm not sure what kind of deals... What should be like that. So I remember what I was mentioning about it.\nkailash chanda | 00:29\nSo that is only for... Let me share that slide with you. So that information...\nI don't know if it's not for everything, it is just for one SKU called Axis that is $67,000.\nAli | 01:08\nOne skew got alx s...\nkailash chanda | 01:10\nAll axes...\nAli | 01:11\nAll X, all XIS. Okay, I have...\nkailash chanda | 01:16\nAll agent...\nAli | 01:16\nTo... I'm going to read all these. So basically, the leadership approval offer is for integration of agent fabric deals only.\nkailash chanda | 01:26\nAnd you. But if somebody sells. If somebody sells all XQ then they will be eligible for 50%.\nAli | 01:35\nOkay. So that's the SKU number. If somebody's selling it, then it's 50% off. Got it? Thank you. I'll go through this to... And properly, if I have any questions, I'm just going to drop a message to you.\nkailash chanda | 01:47\nNot S. Thank.\nAli | 01:49\nThank you."
+  }
+}
