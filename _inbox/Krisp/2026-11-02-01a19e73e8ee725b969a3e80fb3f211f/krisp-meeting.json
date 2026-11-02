@@ -1,0 +1,843 @@
+{
+  "id": "01a19e73e8ee725b969a3e80fb3f211f",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a19d684881708a830b5c30c9295300",
+      "title": "Daily Sales Call",
+      "duration": 2590,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "2rdgn5n8i1it3o6pg7e5kuirnl_20261102T220000Z",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "aadi@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "dev@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amar@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4,
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-02T22:05:29.781Z",
+      "end_date": "2026-11-02T22:48:39.781Z",
+      "url": "https://app.krisp.ai/m/01a19d684881708a830b5c30c9295300?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I was just sharing that I tried to do a scoping on myself and then confirmed with you. So she was asking me how I did that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So and I haven't said this. Ai has helped me with, like, you know, integrate a few things, like how to do the reach out, which I excessively used because I'll be traveling next week. I mean, sorry, this week, day after tomorrow, which has been pretty cool. Just to learn the you know what he is learning in terms of Claude how to automate everything.\nI mean, man, it's such a good thing. It's so good."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Maybe either you can show us one tomorrow so that it will be helpful what you have done."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It will help you as well because like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's what I'm saying."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Remember how you... Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's why I was..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Asking for a demo. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "My intention is that we automate things where we are actually wasting time and user time in real things like going in person, maybe talking, but just sending this invitation, figuring out who is new, who got promoted. All these on LinkedIn should be automated as... I believe..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, you are able to get it who got promoted."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "There are a few people who got promoted. Even, I think the director of some analytics she actually sent me the friend request. I commented on her post that congratulations, you know, so many years of experience. I'm sure you must be a great account executor, director.\nThen she sent me the request, and I'm happy to connect with you. Then, there's another guy. He reached out to me."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'll catch up later on that I want some..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Data from you guys. So see this is an Excel sheet again. Okay. So the relationship. I see numbers being provided. So couple of things on this one, right, when we say one, one is somebody who can or who will give every deal to us or let's say who will give at least 80% of his or her deals to Dataskate.\nSo when we put one, I want to check if this is meeting it or not, right? When we put two, then I am thinking 50% of this. Okay, then three, then four, then five, right? So the reason I put this is when we were having a call last week. Currently we are not able to project what our pipeline is going to be for this month or next month.\nOkay, so what we are thinking is this estimate, right? What we feel... I'm sure. One, I feel I don't have anybody, but if you guys have then that is very good, right? 2 is somebody like we are pretty sure if I put down a name to say that. Example n1n1, I am pretty much sure he will give 50% of the deals. Choic I can say John Henderson, he can give 50% of the deals to us for scoping, right? Everything is piped, nothing and talking is closure, right?\nSo that's where I can say that these are the names that I can put for two, right? 3 is let me come this way, let me come from five. So when you say five, you will say just got connected like four. We will say warming up or I will say building relation right where we need to win the confidence.\nSo they will not easily bring us into deals. We have to win the confidence to bring us intoducs two. I will say somebody who can bring at least 25% of their deals, right? Or you say, let's say 20% of the deals.\nSo why I am doing this, right? So example is when we do this. I know that. Hey. Okay. If there are two people inside our connects, ten people are there with number two. Then approximately each guy has 100-50k target to be reached every month depending on their particular... Or every quarter depending upon their commission structure inside Salesforce.\nSo if I have no one, if I have John, then I can see together there is a possibility of 1.2 million pipe. Out of this, if we say 50%, then at least I can see that 600k is something that we can target for... I can feel comfortable so inside 600k in a year from now, and John, I can assume that I will scope for 600k right?\nSo this will be able to project a better target for you guys as well. At the end of the day, assuming to say that \"Okay, you reach 100k, our target is 200k, but how are we coming to the 200k? Okay, I might feel that today with my expenditure that I'm spending, I put a 200k, but will we as a team reach 200k per month? Is that really possible? We cannot say that today.\"\nRight? So that's where I need this one to be completed for me to say to Webex and Brago while we are discussing the financials. \"If you are expecting us to get 300k per month in January, December, and January, that is not possible.\"\nOkay. For me, I feel this is a better target. But of course because the spend is important, I can't say because I don't have relations, I can't do target. I'm just trying to bring the number to a better position to say that what is achievable.\nSo I need you guys honest numbering here to say that \"Okay, what is this relation with each? I put down a fi of you guys can check and then select which one you want to do and complete the tasks. I want you guys to do it now, if you don't mind, because I have to submit Q4 targets, which I got from. I go and make an explanation. Or I have to acknowledge to say that I confirm it to say 200k/month is what you are going to achieve. Or I need to give a number that will be close.\nThe reason why we need that table, why I'm asking for that number, is that the two things that happen when I say, \"As a team, we will meet 150k.\" I will say that. \"Hey, these are the areas that we are working with and these are the numbers. What happens with that now?\" 150 divided by our team. The numbers will break down. You guys can achieve our targets in a better way or earn more commission once you cross that right?\nThat is the first part, which is utmost importance to each of our individuals as a team. I want to show progress to the spend that we are doing in terms of everything. Right to say that yes, we as a team ourselves off currently on this path and we are doing this.\nSo that's why these numbers are important. I'll take a break. Anybody wants to add please..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "Can you give us the key to that you just...? Can you put that on Slack or something? Then can you share that Excel spreadsheet because I think you shared one, but then you created a new one."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, I created..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "I'm. I'm looking at."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'll give you guys the new one because..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I added every location. And I have..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "That's cool."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One more thing we observed. I don't know how other partners are doing, but what I will tell you is GRB is a bigger market, okay? And currently we are doing SMB prizes for GRB. Sanjay comes GRB, no one comes GRB. Gady comes under GRB so all these GRB they generally have more budgets and bigger amounts, but what we are doing is we are giving them the same prices as SMB so what's happening? We are losing a couple of dollars, and these guys are just taking us for a ride, okay?\nWe are giving them... Okay? So we could have completed our target in a better way if we knew GRV had no budget. Or who are GRV and who is SMB? Because I was thinking all of them to be the same, and that's where... Now I'm getting more info on who is SMB and who is here.\nBut for Q4, we will keep the same pricing, but moving next year, I'll update the prices. So that way they don't feel a shock, and I don't want somebody to get disappointed in Q4 from the account executives and put us aside.\nSo for Q4, we'll run the same prices, but next year, Q1 we will update them. Did you guys get access? Amma, are you there?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah... I've just to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Does this time not work hard because if it doesn't, we have..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, four..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To reschedule."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "O'clock is usually... I have to either pick her up or drop her off, and it takes about good 20 minutes to get back."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay? I think I'll lose just something morning in the day. So that way it's better. I put it in the evening because that way I can get the whole inputs. Otherwise, you have to give me inputs from me yesterday. Right? So that is the big..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Me... See? Before you change it, give me an evening. Let me see if I can change the timing. Half an hour before the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Let me know, we can adjust it accordingly. I just want your attention."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You connected with Dejan Sethkovic?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Did John, no, I don't think I worked with Dejan any time. I don't know his spelling. DJEAN. Or how is it?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "Sp EJAN."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I think I kind of got introduced to him and... No, to John."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To John. Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I think I will introduce you connected with him on Slack."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I tried he."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No. Let me. Let me introduce you to Dej."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "There's a lady, Hannah Olson. She has these. I'm trying to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think Hannah..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Follow up..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Olson is not an... She's a manager."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Hannah Olson..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Aspra Lignant, she is an account executive, I don't know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I know. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I was going through the document you shared, the internal one. There are two names. I couldn't find the link."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Are there?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sovina formed the Deslit star. Julianne Fulton. I'll just put it on charts. One second..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, one more thing is, when you update your relation, there is a column \"j\" which tells Dataskate to put your name as well so I know who is connected to whom. Okay? Yeah. Julianne Fulton. She's based in Toronto. I can introduce you to her as well.\nYeah. No, not the Julia Peter. Julia Peter is ASA, but Julianne Fulton is in Toronto. She's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And Julianne and the sky.\nI share... Don't Slack."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Who else says? Fair makudel and even I never talked to him..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Isn't she the leader of Julianne Fulton? Okay, is actually the leader of the... Like the whole department..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Who did that?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeahing. I saw a LinkedIn account, it says she is not an account executive. Exactly..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't know which link the news are..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'll show you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It says account..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Director, it's all the same..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It's all the same."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Until somebody is an AVP or RVP, they are not the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, any guys? Let me complete this, three children.\nShould I edit this Adam Archotis from Toronto here? It says New York."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Please. I just gave it to a ton of... Told it so..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Something must have gone wrong."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Beta, I'm not connected with her yet."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What is her name? Be la beta Marzato."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't know. She is staring at Al, who added me with her, but she's there in my thinking so I can add it. Okay. I think Ryan worked with Bella Marra on Clockon. I don't know if she's from Toronto.\nBut I will introduce you. Did you check out LinkedIn? She's from Toronto."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Bala Ra."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Let me introduce you to the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Be comment. That's... I shall do it right away because I did it in the previous sheet as well. I'm not sure why it did not get saved."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I shared this link. So. Updating this one. Want to retual perfect.\nSo yeah, once you complete real talk, I have some other feedback."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, man. I'm not connected with Noman as well."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can put two. That's all?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Adam Green, located on John Anderson."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "I think I'm done."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, Rob is gone, so what should I put here? Should I...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, just..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "The ones that I just put NA and dash a. Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Asked for..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "For note, yes."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "So ns..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think... Yeah, just on a side note, right? So Sam did little, he went to a new company..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "Yeah, I know I said that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I pinged him. He introduced me to his co-founder. They have a solution that is similar to... So that was nice. They did a good discussion last week."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Are you connected to AIDENRAID wet not the New York coronal aid and read..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A' read now."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It's Adam Bane, not Reid..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Still... I don't know, I never met them..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, I'm done too. What was my name?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's perfect. Okay, cool. So yeah, again thank you guys. I think I'll take some later in the day. But today I think AI and I met one guy called Mokarson who is from RB. One quick statement he brought out was that I heard you were a good... I heard good things about you and you guys are good for IDP implementation.\nSo people are looking at... As for IP, I think that narrative or approach has to change to say that any point platform has been our bread and butter and we kind of ramped up to IDP Similarly, we are ramping up for... And... As well. Agent Fabric because Agent Fabric deals are the ones which are major that can give us smooth revenue and the name as well.\nSo I think as part of this... So what I have done is how much if you are driving, that's okay. Please, camera, focus on the drive. I wanted to be safe. So the main thing, what I had a walk-through today on the whole parties and breaking up any point platform into three parts. What the use of breaking out any point platform into three parts? One is identifying opportunities which people can look at us to change our image. One is EP sync like we work with Tbooks, we work with Netsweet, we did projects with Accuatica, we did projects with Sage. I want to... I told the team to create case studies on these and mention the domain which domain did we work?\nOkay. Give us so that you can start sharing to every a to say that if you have deals on Quickbox, Netsweet, or so this is our three-four pages of case study for EERP synchronization, right? Then that brings a totally different narrative to say that he... This is what they can do as well.\nI want to include a couple of things here. What we have done to build custom code. How did we do this? How did we enable the sale? They will include all of these points. 2 is... Okay. So we will be creating...\nI think we did one slidesheet, but we are doing a drive from all the sales force officers. Starting with New York, coming to Chicago, Atlanta, and then landing in Toronto, as part of which I think our plan right now is to have a GOBC and one of our agent fabrics.\nI think mostly Raghu will be there, but Shashank will be demonstrating. I applied for a visa for Shashank, but I'm waiting. I don't think it's possible. The dates are very cramped. But if he comes, he will be there.\nSo we will do demonstrations, we will answer questions. You guys will be there. Take the opportunity to talk to the account executives about how we did the demo and ask more opportunities for MAF, right?\nSo we are building this demo case study for MAF. The third one is IDP, which already we have a name and good case studies. I can share that as well, but I want to change the narrative. That's where I feel IDP deals are coming to us, but not many platform deals.\nI was talking to Vara. I know most of you guys have met Vara, and I asked him, \"Hey, what do you think the percentage of IDP versus platform deals are?\" So he said that I can't tell you that, but he can certainly tell us that IDP is going down with various other platforms coming into play.\nSo I think this is when we have to... I don't know whether it's coincidence or it is some nature's call, but I think this is the time that KMO reiterated to say that, \"Hey, you guys have looked at the IDP partner, and we have to change that.\"\nSo that way what happens is we get more deals that are coming in. So guys, tell me, what do you need from the tech team? As I mentioned, we will do LP sync that is with integrations with Salesforce, Acummetic Nets, read Quickbooks, Desktop Quickbooks, online case studies, and we will bring in...\nSecond, I told Ragu and Vijay that I want to package this to say that Quickbox integration flat netwo integration flat in K 20 some numbers with the scope that we'll put in and give them a flat offer like that. Way more deals coming to us. I'm working on that package."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "I like that. Yeah, I like that because we have a lot of... We have a lot of... We have a lot of Quickbooks. But then maybe a different version of \"X amount of dollars to sync to any ERP assuming as an open API or something like that.\"\nSo we don't have to say. Because I get these questions all the time. Have you ever heard of XYZ eer P? Or have you ever connected to XYZ eer P? It's so relevant, really. And I used to ask you about it, but now... I'm like, it doesn't. It doesn't matter if we've connected..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It doesn't..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "To it, we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Matter exactly."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "Can connect to it. You know, so immediately go on, you know, ChatGPT whatever and just have an open API how do we connected this and that so we're able to, you know, go back and say, you know, a good answer to that is, you know, look, have you contacted XYZE ERP, look it up, ChatGPT it and reply back saying don't even. I didn't even answer this last time. I said, it looks like they have an open API and we can connect to this and blah.\nAnd they're like, okay, cool. Well, blah. Here's the transcript. And you didn't have to answer like... I don't even answer like what? What does it matter if I've connected to that European P? Like, it's just they're all the same."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A is..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "All the same..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The same, anything is the..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "Right? Right..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Same. So that's where I'm working on a package to say that connect with the ERP standard price. If it's just..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 4,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If you think that it's costly, we'll customize it. If the scope is small, only two flows, then we'll customize it and bring it down. But if it's a standard scope, this is the package that we want to do.\nThat's where I'm planning to build something and come down. But I think these next two weeks... This Thursday I'm having a meeting with the team. Give me a list of things you'll need technically so that I will give them and say that this is the deadline we need.\nSo when they come and we'll do it. If somebody says, \"Can you do a demo with QuickBooks?\" Yes, we can do a demo with QuickBooks. We have to say yes because we have good books, we have Salesforce, we have Mulesoft, we should be able to do a demo, right? Slack to Salesforce, can we do it?\nYeah, we'll do it. Krisp access the data showcase. Yes. So give me the use cases that you'll need a demo or a slide or anything. I think what Vijay is saying is we have to push the tech team for these collaterals so that they will give us those collaterals so they will come up with... We heard something new today. \"Hey, this is something new that other partners are doing with a new approach. Can we do it?\" Yes, let's get it to the tech team. \"Hey, we do this we want...\"\nSo these are a few things that I want us to change so that we can make our lives easier, right? So that's the main intention. So probably by tomorrow, give me your ideas on what you want. It can be Salesforce, it can be Mulesoft, it can be M&A, it can be anything, right? Give me your ideas.\nI will put forward on the Thursday's call with the Center of Excellence team saying that I need this. So Webex... One thing is, \"Do you have anything learning from Q3 to say that the tech center of excellence team I need this because of these I lost or I missed certain opportunities, right?\"\nIf the technical team would have supported me, then I could have won this or I could have got another pipe, right? So think in that aspect and give me those points so that I will ask them to build something like Ryan mentioned. We don't need to answer, \"Did you work on this? What we will do is we will create a comparison sheet. What is an ERP with API orders? Everything is an order, everything is a contact, everything is an account. Yes, we can serve. Everything is the same. We can do it. Take this.\nSo this is how I want to categorize and get the info. So I'll need your inputs to make our lives easier to get more deals and to get the part of it. Okay, cool. Let's... I'm trying to bring down. They put down $600k, I know, but I'm trying to see how we can bring that down because to be honest, November has Thanksgiving. I don't know how many deals we will close. December is Christmas again, I'm not confident how many will work. Generally, it is good they say that we close a lot of deals. Let's see how it goes.\nSo overall, again, the three months. We have to make sure how much we will close. Of course, I said $600k is too high. I will try to see what I can do. That's where I'll take these numbers. Run some robots today and see what we can get something okay perfect. Any questions?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Sounds good. I'll take care of this right away. Kailash."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Please... Am I Maria?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I'll take care..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Once you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Of that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Reach home you can do..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Of course."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That here..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Hundred percent right..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sorry thank..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, no questions. Thank you. Thanks, guys. Ryan and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You so much for..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sorry if you are going to visit the office today. This week, as I mentioned, Jessie can come last day to some happy hour. I said, \"Are these end of quarter?\" Nothing much. So he went to Ottawa to meet his cousins, friends, whatever it is.\nIf somebody asks you, \"Are you doing a happy hour?\" Can you do a lunch? Tell them that I'll give you a website link. I don't know if I shared with Dataskate.ai/events. So we are doing this field hub day.\nSo obviously, at that time, we will do something like we will do a language or we will do some damn thing to give everybody... Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So yeah, we can see that yesterday we were going to do a play, and we will plan to do something for sure."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Even though this guy... He's the CEO of Core from Core, so I think it's been months since September. I'm trying to ask him for time for coffee and so on. So today he messaged that he wants us to sponsor again. Same thing. Kailash... I don't know what is going on in the Toronto office."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not only Toronto. Everywhere, people are asking who can sponsor. But I'll tell you an example. I think you can say that last time we discussed... Right? \"Hey, I'm an exhibitor.\" We are working through it. I need to close deals. Give an example with... We closed a big deal and we hosted a party..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Right? So it'll really make sense for us to close a deal and do some gathering kind of it so that we could do it. Tell them we closed one Salesforce deal with Waterline sales and service cloud, and we did a good amount of happy hour for at least fifty days, right?\nSo it will give me motivation even for our team and my management to invest if I show some progress. So I am open to do it. But this is an example of how we have done right, so take that example, explain, and let's see how it goes and then..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Let's see."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Thank you, guys. See you by..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, and what do you think about...? I tried to scope today. So what I did with Ryan, you saw. I asked the rest of the questions and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think I'll give you one..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Figure out the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "More. I think I gave Davis a scoping document, and Davis created a website out of the document. Let me check if I have the link."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I think I know which one you're talking about."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I am unable to find that PDF, but I think I can share that link if it is helpful."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Is it the Dataskate or online...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I skipped out online."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You shared with me as well? So it has. Yeah, it has the IDP all the Mulesoft..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Products, sir."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Actually, I put everything in the document, but I'm unable to get that doc. But I think Davis did a good job converting everything to a website that is more easy, so that is good. Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That's good. Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Good. I think you are using it in the right way, so I really like it, but you..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have to be cautious until we get. You can share it with Davis asking, \"Hey, this is what I'm seeing. How do you see it?\" Take his inputs as well, and then it will be helpful."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. That's why I use ChatGPT because they are sold to the US military as well. The Claude..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So but still, what happens with the integration, right? Sometimes what it does is they identify flows, and others are not the best way, and that will lead to issues. So that's why I gave you that link as well, so that you can understand what it is.\nThe main"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Part is basically a second look until we gain confidence. We will keep us on the safer side. That's the main motto. Okay, perfect."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Absolutely okay. Kailash, thank you so much. Have a good day."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You too. Thanks a lot. See you."
+      }
+    ],
+    "raw_meeting": "**Daily Sales Call**\n🕞 Started at 10:05 PM on 02 Nov, lasted 43m",
+    "raw_content": "Speaker 2 | 00:03\nI was just sharing that I tried to do a scoping on myself and then confirmed with you. So she was asking me how I did that.\nSpeaker 3 | 00:12\nSo and I haven't said this. Ai has helped me with, like, you know, integrate a few things, like how to do the reach out, which I excessively used because I'll be traveling next week. I mean, sorry, this week, day after tomorrow, which has been pretty cool. Just to learn the you know what he is learning in terms of Claude how to automate everything.\nI mean, man, it's such a good thing. It's so good.\nkailash chanda | 00:39\nMaybe either you can show us one tomorrow so that it will be helpful what you have done.\nSpeaker 3 | 00:45\nIt will help you as well because like...\nkailash chanda | 00:46\nThat's what I'm saying.\nSpeaker 3 | 00:47\nRemember how you... Yes.\nkailash chanda | 00:49\nThat's why I was...\nSpeaker 3 | 00:49\nSo yes.\nkailash chanda | 00:49\nAsking for a demo. So...\nSpeaker 2 | 00:51\nMy intention is that we automate things where we are actually wasting time and user time in real things like going in person, maybe talking, but just sending this invitation, figuring out who is new, who got promoted. All these on LinkedIn should be automated as... I believe...\nkailash chanda | 01:11\nYes, you are able to get it who got promoted.\nSpeaker 2 | 01:15\nThere are a few people who got promoted. Even, I think the director of some analytics she actually sent me the friend request. I commented on her post that congratulations, you know, so many years of experience. I'm sure you must be a great account executor, director.\nThen she sent me the request, and I'm happy to connect with you. Then, there's another guy. He reached out to me.\nkailash chanda | 01:38\nI'll catch up later on that I want some...\nSpeaker 2 | 01:41\nOkay.\nkailash chanda | 01:41\nData from you guys. So see this is an Excel sheet again. Okay. So the relationship. I see numbers being provided. So couple of things on this one, right, when we say one, one is somebody who can or who will give every deal to us or let's say who will give at least 80% of his or her deals to Dataskate.\nSo when we put one, I want to check if this is meeting it or not, right? When we put two, then I am thinking 50% of this. Okay, then three, then four, then five, right? So the reason I put this is when we were having a call last week. Currently we are not able to project what our pipeline is going to be for this month or next month.\nOkay, so what we are thinking is this estimate, right? What we feel... I'm sure. One, I feel I don't have anybody, but if you guys have then that is very good, right? 2 is somebody like we are pretty sure if I put down a name to say that. Example n1n1, I am pretty much sure he will give 50% of the deals. Choic I can say John Henderson, he can give 50% of the deals to us for scoping, right? Everything is piped, nothing and talking is closure, right?\nSo that's where I can say that these are the names that I can put for two, right? 3 is let me come this way, let me come from five. So when you say five, you will say just got connected like four. We will say warming up or I will say building relation right where we need to win the confidence.\nSo they will not easily bring us into deals. We have to win the confidence to bring us intoducs two. I will say somebody who can bring at least 25% of their deals, right? Or you say, let's say 20% of the deals.\nSo why I am doing this, right? So example is when we do this. I know that. Hey. Okay. If there are two people inside our connects, ten people are there with number two. Then approximately each guy has 100-50k target to be reached every month depending on their particular... Or every quarter depending upon their commission structure inside Salesforce.\nSo if I have no one, if I have John, then I can see together there is a possibility of 1.2 million pipe. Out of this, if we say 50%, then at least I can see that 600k is something that we can target for... I can feel comfortable so inside 600k in a year from now, and John, I can assume that I will scope for 600k right?\nSo this will be able to project a better target for you guys as well. At the end of the day, assuming to say that \"Okay, you reach 100k, our target is 200k, but how are we coming to the 200k? Okay, I might feel that today with my expenditure that I'm spending, I put a 200k, but will we as a team reach 200k per month? Is that really possible? We cannot say that today.\"\nRight? So that's where I need this one to be completed for me to say to Webex and Brago while we are discussing the financials. \"If you are expecting us to get 300k per month in January, December, and January, that is not possible.\"\nOkay. For me, I feel this is a better target. But of course because the spend is important, I can't say because I don't have relations, I can't do target. I'm just trying to bring the number to a better position to say that what is achievable.\nSo I need you guys honest numbering here to say that \"Okay, what is this relation with each? I put down a fi of you guys can check and then select which one you want to do and complete the tasks. I want you guys to do it now, if you don't mind, because I have to submit Q4 targets, which I got from. I go and make an explanation. Or I have to acknowledge to say that I confirm it to say 200k/month is what you are going to achieve. Or I need to give a number that will be close.\nThe reason why we need that table, why I'm asking for that number, is that the two things that happen when I say, \"As a team, we will meet 150k.\" I will say that. \"Hey, these are the areas that we are working with and these are the numbers. What happens with that now?\" 150 divided by our team. The numbers will break down. You guys can achieve our targets in a better way or earn more commission once you cross that right?\nThat is the first part, which is utmost importance to each of our individuals as a team. I want to show progress to the spend that we are doing in terms of everything. Right to say that yes, we as a team ourselves off currently on this path and we are doing this.\nSo that's why these numbers are important. I'll take a break. Anybody wants to add please...\nryan | 09:11\nCan you give us the key to that you just...? Can you put that on Slack or something? Then can you share that Excel spreadsheet because I think you shared one, but then you created a new one.\nkailash chanda | 09:25\nYes, I created...\nryan | 09:26\nI'm. I'm looking at.\nkailash chanda | 09:27\nI'll give you guys the new one because...\nryan | 09:29\nYeah...\nkailash chanda | 09:30\nI added every location. And I have...\nryan | 09:32\nThat's cool.\nkailash chanda | 09:34\nOne more thing we observed. I don't know how other partners are doing, but what I will tell you is GRB is a bigger market, okay? And currently we are doing SMB prizes for GRB. Sanjay comes GRB, no one comes GRB. Gady comes under GRB so all these GRB they generally have more budgets and bigger amounts, but what we are doing is we are giving them the same prices as SMB so what's happening? We are losing a couple of dollars, and these guys are just taking us for a ride, okay?\nWe are giving them... Okay? So we could have completed our target in a better way if we knew GRV had no budget. Or who are GRV and who is SMB? Because I was thinking all of them to be the same, and that's where... Now I'm getting more info on who is SMB and who is here.\nBut for Q4, we will keep the same pricing, but moving next year, I'll update the prices. So that way they don't feel a shock, and I don't want somebody to get disappointed in Q4 from the account executives and put us aside.\nSo for Q4, we'll run the same prices, but next year, Q1 we will update them. Did you guys get access? Amma, are you there?\nSpeaker 3 | 11:08\nYeah... I've just to...\nkailash chanda | 11:17\nDoes this time not work hard because if it doesn't, we have...\nSpeaker 3 | 11:22\nYeah, four...\nkailash chanda | 11:22\nTo reschedule.\nSpeaker 3 | 11:23\nO'clock is usually... I have to either pick her up or drop her off, and it takes about good 20 minutes to get back.\nkailash chanda | 11:35\nOkay? I think I'll lose just something morning in the day. So that way it's better. I put it in the evening because that way I can get the whole inputs. Otherwise, you have to give me inputs from me yesterday. Right? So that is the big...\nSpeaker 3 | 11:51\nMe... See? Before you change it, give me an evening. Let me see if I can change the timing. Half an hour before the...\nkailash chanda | 12:00\nLet me know, we can adjust it accordingly. I just want your attention.\nSpeaker 2 | 12:16\nYou connected with Dejan Sethkovic?\nkailash chanda | 12:24\nDid John, no, I don't think I worked with Dejan any time. I don't know his spelling. DJEAN. Or how is it?\nryan | 12:36\nSp EJAN.\nkailash chanda | 12:39\nYeah, I think I kind of got introduced to him and... No, to John.\nSpeaker 2 | 12:48\nTo John. Okay...\nkailash chanda | 12:51\nSo I think I will introduce you connected with him on Slack.\nSpeaker 2 | 12:57\nI tried he.\nkailash chanda | 12:58\nNo. Let me. Let me introduce you to Dej.\nSpeaker 2 | 13:49\nThere's a lady, Hannah Olson. She has these. I'm trying to...\nkailash chanda | 13:55\nI think Hannah...\nSpeaker 2 | 13:56\nFollow up...\nkailash chanda | 13:56\nOlson is not an... She's a manager.\nSpeaker 2 | 13:59\nHannah Olson...\nkailash chanda | 14:01\nYeah...\nSpeaker 2 | 14:02\nAspra Lignant, she is an account executive, I don't know...\nkailash chanda | 14:07\nI know. So...\nSpeaker 2 | 14:08\nI was going through the document you shared, the internal one. There are two names. I couldn't find the link.\nkailash chanda | 14:19\nAre there?\nSpeaker 2 | 14:46\nSovina formed the Deslit star. Julianne Fulton. I'll just put it on charts. One second...\nkailash chanda | 14:58\nOkay, one more thing is, when you update your relation, there is a column \"j\" which tells Dataskate to put your name as well so I know who is connected to whom. Okay? Yeah. Julianne Fulton. She's based in Toronto. I can introduce you to her as well.\nYeah. No, not the Julia Peter. Julia Peter is ASA, but Julianne Fulton is in Toronto. She's...\nSpeaker 2 | 15:31\nAnd Julianne and the sky.\nI share... Don't Slack.\nkailash chanda | 16:02\nWho else says? Fair makudel and even I never talked to him...\nSpeaker 2 | 16:09\nIsn't she the leader of Julianne Fulton? Okay, is actually the leader of the... Like the whole department...\nkailash chanda | 16:18\nWho did that?\nSpeaker 2 | 16:20\nYeahing. I saw a LinkedIn account, it says she is not an account executive. Exactly...\nkailash chanda | 16:38\nI don't know which link the news are...\nSpeaker 2 | 16:43\nI'll show you.\nkailash chanda | 16:44\nIt says account...\nSpeaker 2 | 16:45\nYeah...\nkailash chanda | 16:45\nDirector, it's all the same...\nSpeaker 2 | 16:53\nIt's all the same.\nkailash chanda | 16:55\nUntil somebody is an AVP or RVP, they are not the...\nSpeaker 2 | 17:00\nOkay, any guys? Let me complete this, three children.\nShould I edit this Adam Archotis from Toronto here? It says New York.\nkailash chanda | 17:30\nPlease. I just gave it to a ton of... Told it so...\nSpeaker 2 | 17:35\nOkay...\nkailash chanda | 17:36\nSomething must have gone wrong.\nSpeaker 2 | 17:38\nBeta, I'm not connected with her yet.\nkailash chanda | 17:41\nWhat is her name? Be la beta Marzato.\nSpeaker 2 | 17:47\nYes.\nkailash chanda | 17:49\nI don't know. She is staring at Al, who added me with her, but she's there in my thinking so I can add it. Okay. I think Ryan worked with Bella Marra on Clockon. I don't know if she's from Toronto.\nBut I will introduce you. Did you check out LinkedIn? She's from Toronto.\nSpeaker 2 | 18:29\nBala Ra.\nkailash chanda | 18:32\nOkay. Let me introduce you to the...\nSpeaker 3 | 19:46\nBe comment. That's... I shall do it right away because I did it in the previous sheet as well. I'm not sure why it did not get saved.\nkailash chanda | 19:54\nYeah, I shared this link. So. Updating this one. Want to retual perfect.\nSo yeah, once you complete real talk, I have some other feedback.\nSpeaker 2 | 20:29\nNo, man. I'm not connected with Noman as well.\nkailash chanda | 20:34\nYou can put two. That's all?\nSpeaker 2 | 20:41\nAdam Green, located on John Anderson.\nryan | 23:00\nI think I'm done.\nSpeaker 2 | 23:01\nOkay, Rob is gone, so what should I put here? Should I...?\nkailash chanda | 23:05\nNo, just...\nryan | 23:06\nThe ones that I just put NA and dash a. Yeah.\nkailash chanda | 23:10\nAsked for...\nSpeaker 2 | 23:10\nFor note, yes.\nryan | 23:14\nSo ns...\nkailash chanda | 23:21\nI think... Yeah, just on a side note, right? So Sam did little, he went to a new company...\nryan | 23:32\nYeah, I know I said that.\nkailash chanda | 23:34\nSo I pinged him. He introduced me to his co-founder. They have a solution that is similar to... So that was nice. They did a good discussion last week.\nSpeaker 2 | 23:58\nAre you connected to AIDENRAID wet not the New York coronal aid and read...\nkailash chanda | 24:06\nA' read now.\nSpeaker 2 | 24:14\nIt's Adam Bane, not Reid...\nkailash chanda | 24:17\nStill... I don't know, I never met them...\nSpeaker 2 | 24:42\nOkay, I'm done too. What was my name?\nkailash chanda | 26:59\nThat's perfect. Okay, cool. So yeah, again thank you guys. I think I'll take some later in the day. But today I think AI and I met one guy called Mokarson who is from RB. One quick statement he brought out was that I heard you were a good... I heard good things about you and you guys are good for IDP implementation.\nSo people are looking at... As for IP, I think that narrative or approach has to change to say that any point platform has been our bread and butter and we kind of ramped up to IDP Similarly, we are ramping up for... And... As well. Agent Fabric because Agent Fabric deals are the ones which are major that can give us smooth revenue and the name as well.\nSo I think as part of this... So what I have done is how much if you are driving, that's okay. Please, camera, focus on the drive. I wanted to be safe. So the main thing, what I had a walk-through today on the whole parties and breaking up any point platform into three parts. What the use of breaking out any point platform into three parts? One is identifying opportunities which people can look at us to change our image. One is EP sync like we work with Tbooks, we work with Netsweet, we did projects with Accuatica, we did projects with Sage. I want to... I told the team to create case studies on these and mention the domain which domain did we work?\nOkay. Give us so that you can start sharing to every a to say that if you have deals on Quickbox, Netsweet, or so this is our three-four pages of case study for EERP synchronization, right? Then that brings a totally different narrative to say that he... This is what they can do as well.\nI want to include a couple of things here. What we have done to build custom code. How did we do this? How did we enable the sale? They will include all of these points. 2 is... Okay. So we will be creating...\nI think we did one slidesheet, but we are doing a drive from all the sales force officers. Starting with New York, coming to Chicago, Atlanta, and then landing in Toronto, as part of which I think our plan right now is to have a GOBC and one of our agent fabrics.\nI think mostly Raghu will be there, but Shashank will be demonstrating. I applied for a visa for Shashank, but I'm waiting. I don't think it's possible. The dates are very cramped. But if he comes, he will be there.\nSo we will do demonstrations, we will answer questions. You guys will be there. Take the opportunity to talk to the account executives about how we did the demo and ask more opportunities for MAF, right?\nSo we are building this demo case study for MAF. The third one is IDP, which already we have a name and good case studies. I can share that as well, but I want to change the narrative. That's where I feel IDP deals are coming to us, but not many platform deals.\nI was talking to Vara. I know most of you guys have met Vara, and I asked him, \"Hey, what do you think the percentage of IDP versus platform deals are?\" So he said that I can't tell you that, but he can certainly tell us that IDP is going down with various other platforms coming into play.\nSo I think this is when we have to... I don't know whether it's coincidence or it is some nature's call, but I think this is the time that KMO reiterated to say that, \"Hey, you guys have looked at the IDP partner, and we have to change that.\"\nSo that way what happens is we get more deals that are coming in. So guys, tell me, what do you need from the tech team? As I mentioned, we will do LP sync that is with integrations with Salesforce, Acummetic Nets, read Quickbooks, Desktop Quickbooks, online case studies, and we will bring in...\nSecond, I told Ragu and Vijay that I want to package this to say that Quickbox integration flat netwo integration flat in K 20 some numbers with the scope that we'll put in and give them a flat offer like that. Way more deals coming to us. I'm working on that package.\nryan | 32:22\nI like that. Yeah, I like that because we have a lot of... We have a lot of... We have a lot of Quickbooks. But then maybe a different version of \"X amount of dollars to sync to any ERP assuming as an open API or something like that.\"\nSo we don't have to say. Because I get these questions all the time. Have you ever heard of XYZ eer P? Or have you ever connected to XYZ eer P? It's so relevant, really. And I used to ask you about it, but now... I'm like, it doesn't. It doesn't matter if we've connected...\nkailash chanda | 32:55\nIt doesn't...\nryan | 32:55\nTo it, we...\nkailash chanda | 32:55\nMatter exactly.\nryan | 32:56\nCan connect to it. You know, so immediately go on, you know, ChatGPT whatever and just have an open API how do we connected this and that so we're able to, you know, go back and say, you know, a good answer to that is, you know, look, have you contacted XYZE ERP, look it up, ChatGPT it and reply back saying don't even. I didn't even answer this last time. I said, it looks like they have an open API and we can connect to this and blah.\nAnd they're like, okay, cool. Well, blah. Here's the transcript. And you didn't have to answer like... I don't even answer like what? What does it matter if I've connected to that European P? Like, it's just they're all the same.\nkailash chanda | 33:33\nA is...\nryan | 33:33\nAll the same...\nkailash chanda | 33:33\nThe same, anything is the...\nryan | 33:35\nRight? Right...\nkailash chanda | 33:35\nSame. So that's where I'm working on a package to say that connect with the ERP standard price. If it's just...\nryan | 33:41\nYes.\nkailash chanda | 33:41\nIf you think that it's costly, we'll customize it. If the scope is small, only two flows, then we'll customize it and bring it down. But if it's a standard scope, this is the package that we want to do.\nThat's where I'm planning to build something and come down. But I think these next two weeks... This Thursday I'm having a meeting with the team. Give me a list of things you'll need technically so that I will give them and say that this is the deadline we need.\nSo when they come and we'll do it. If somebody says, \"Can you do a demo with QuickBooks?\" Yes, we can do a demo with QuickBooks. We have to say yes because we have good books, we have Salesforce, we have Mulesoft, we should be able to do a demo, right? Slack to Salesforce, can we do it?\nYeah, we'll do it. Krisp access the data showcase. Yes. So give me the use cases that you'll need a demo or a slide or anything. I think what Vijay is saying is we have to push the tech team for these collaterals so that they will give us those collaterals so they will come up with... We heard something new today. \"Hey, this is something new that other partners are doing with a new approach. Can we do it?\" Yes, let's get it to the tech team. \"Hey, we do this we want...\"\nSo these are a few things that I want us to change so that we can make our lives easier, right? So that's the main intention. So probably by tomorrow, give me your ideas on what you want. It can be Salesforce, it can be Mulesoft, it can be M&A, it can be anything, right? Give me your ideas.\nI will put forward on the Thursday's call with the Center of Excellence team saying that I need this. So Webex... One thing is, \"Do you have anything learning from Q3 to say that the tech center of excellence team I need this because of these I lost or I missed certain opportunities, right?\"\nIf the technical team would have supported me, then I could have won this or I could have got another pipe, right? So think in that aspect and give me those points so that I will ask them to build something like Ryan mentioned. We don't need to answer, \"Did you work on this? What we will do is we will create a comparison sheet. What is an ERP with API orders? Everything is an order, everything is a contact, everything is an account. Yes, we can serve. Everything is the same. We can do it. Take this.\nSo this is how I want to categorize and get the info. So I'll need your inputs to make our lives easier to get more deals and to get the part of it. Okay, cool. Let's... I'm trying to bring down. They put down $600k, I know, but I'm trying to see how we can bring that down because to be honest, November has Thanksgiving. I don't know how many deals we will close. December is Christmas again, I'm not confident how many will work. Generally, it is good they say that we close a lot of deals. Let's see how it goes.\nSo overall, again, the three months. We have to make sure how much we will close. Of course, I said $600k is too high. I will try to see what I can do. That's where I'll take these numbers. Run some robots today and see what we can get something okay perfect. Any questions?\nSpeaker 3 | 37:34\nSounds good. I'll take care of this right away. Kailash.\nkailash chanda | 37:38\nPlease... Am I Maria?\nSpeaker 3 | 37:39\nI'll take care...\nkailash chanda | 37:39\nOnce you...\nSpeaker 3 | 37:39\nOf that...\nkailash chanda | 37:40\nReach home you can do...\nSpeaker 3 | 37:40\nOf course.\nkailash chanda | 37:40\nThat here...\nSpeaker 2 | 37:41\nHundred percent right...\nkailash chanda | 37:43\nThank you.\nSpeaker 2 | 37:44\nSorry thank...\nkailash chanda | 37:44\nOkay, no questions. Thank you. Thanks, guys. Ryan and...\nSpeaker 2 | 37:47\nYou so much for...\nkailash chanda | 37:48\nSorry if you are going to visit the office today. This week, as I mentioned, Jessie can come last day to some happy hour. I said, \"Are these end of quarter?\" Nothing much. So he went to Ottawa to meet his cousins, friends, whatever it is.\nIf somebody asks you, \"Are you doing a happy hour?\" Can you do a lunch? Tell them that I'll give you a website link. I don't know if I shared with Dataskate.ai/events. So we are doing this field hub day.\nSo obviously, at that time, we will do something like we will do a language or we will do some damn thing to give everybody... Okay...\nSpeaker 2 | 38:36\nOkay...\nkailash chanda | 38:36\nSo yeah, we can see that yesterday we were going to do a play, and we will plan to do something for sure.\nSpeaker 2 | 38:44\nEven though this guy... He's the CEO of Core from Core, so I think it's been months since September. I'm trying to ask him for time for coffee and so on. So today he messaged that he wants us to sponsor again. Same thing. Kailash... I don't know what is going on in the Toronto office.\nkailash chanda | 39:05\nNot only Toronto. Everywhere, people are asking who can sponsor. But I'll tell you an example. I think you can say that last time we discussed... Right? \"Hey, I'm an exhibitor.\" We are working through it. I need to close deals. Give an example with... We closed a big deal and we hosted a party...\nSpeaker 2 | 39:26\nYes...\nkailash chanda | 39:26\nRight? So it'll really make sense for us to close a deal and do some gathering kind of it so that we could do it. Tell them we closed one Salesforce deal with Waterline sales and service cloud, and we did a good amount of happy hour for at least fifty days, right?\nSo it will give me motivation even for our team and my management to invest if I show some progress. So I am open to do it. But this is an example of how we have done right, so take that example, explain, and let's see how it goes and then...\nSpeaker 2 | 40:04\nLet's see.\nkailash chanda | 40:05\nOkay...\nSpeaker 3 | 40:06\nOkay.\nkailash chanda | 40:07\nPerfect. Thank you, guys. See you by...\nSpeaker 2 | 40:09\nYeah, and what do you think about...? I tried to scope today. So what I did with Ryan, you saw. I asked the rest of the questions and...\nkailash chanda | 40:17\nI think I'll give you one...\nSpeaker 2 | 40:19\nFigure out the...\nkailash chanda | 40:19\nMore. I think I gave Davis a scoping document, and Davis created a website out of the document. Let me check if I have the link.\nSpeaker 2 | 40:33\nI think I know which one you're talking about.\nkailash chanda | 40:36\nI am unable to find that PDF, but I think I can share that link if it is helpful.\nSpeaker 2 | 40:46\nIs it the Dataskate or online...?\nkailash chanda | 40:49\nYeah, I skipped out online.\nSpeaker 2 | 40:51\nYou shared with me as well? So it has. Yeah, it has the IDP all the Mulesoft...\nkailash chanda | 40:58\nExactly.\nSpeaker 2 | 40:58\nProducts, sir.\nkailash chanda | 40:59\nActually, I put everything in the document, but I'm unable to get that doc. But I think Davis did a good job converting everything to a website that is more easy, so that is good. Okay...\nSpeaker 2 | 41:13\nThat's good. Okay...\nkailash chanda | 41:14\nGood. I think you are using it in the right way, so I really like it, but you...\nSpeaker 2 | 41:20\nYeah.\nkailash chanda | 41:20\nHave to be cautious until we get. You can share it with Davis asking, \"Hey, this is what I'm seeing. How do you see it?\" Take his inputs as well, and then it will be helpful.\nSpeaker 2 | 41:31\nYeah. That's why I use ChatGPT because they are sold to the US military as well. The Claude...\nkailash chanda | 41:38\nSo but still, what happens with the integration, right? Sometimes what it does is they identify flows, and others are not the best way, and that will lead to issues. So that's why I gave you that link as well, so that you can understand what it is.\nThe main\nSpeaker 2 | 41:57\nOkay.\nkailash chanda | 41:57\nPart is basically a second look until we gain confidence. We will keep us on the safer side. That's the main motto. Okay, perfect.\nSpeaker 2 | 42:08\nAbsolutely okay. Kailash, thank you so much. Have a good day.\nkailash chanda | 42:10\nYou too. Thanks a lot. See you."
+  }
+}
