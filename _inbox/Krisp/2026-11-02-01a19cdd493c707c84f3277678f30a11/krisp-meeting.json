@@ -1,0 +1,1018 @@
+{
+  "id": "01a19cdd493c707c84f3277678f30a11",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a192798014772285c24dfd11a478e1",
+      "title": "Kalish & Amar - 1.1 - SOW",
+      "duration": 2552,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "0ssesnppcmsfaskjm3bv3m44se_20261102T150000Z",
+      "participants": [
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amar@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amar@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-02T14:42:02.071Z",
+      "end_date": "2026-11-02T15:24:34.071Z",
+      "url": "https://app.krisp.ai/m/01a192798014772285c24dfd11a478e1?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Gmail.com ky EA username password is the middle log in Asana e mail dot as do I could not find this second he darma datask could not find ant just as.\nA was.\nPerfect prima miku core property just a high level to explain just so two systems on LLaMA Salesforce and connect wise. Okay, so. Correct. So in the low manak. Totally. Two things e the sales forcelow or opportunity close out at the emo connectwise log can't create l and then they task keycloths and the like the micro key clo in the qualcom clouse and your work key account clo at the r dtal d unlock at gr.\nOkay, the first one, second one is accountant to contact a contact. So I mentioned under the scale a g second in. Okay, a connector wise low of quotation create out. Okay. Okay. Quotation is Kelly Manu sales for Sloy and Jall two independent flows.\nOkay. We have to create these two flows and our handling of chopu we have to..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I get..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Send an email saying that particular fail on the while I at detail the... Lastly... Every week we need to send a report. Okay, this week we processed all of this, we created all of this. This is success. This is failure to maintain a sales force. Maintain the sales force... Low on the load and extract... JS one on pumpit."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Kailash, can you hear...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That is the fourth one. Fourth one, we will use internal them to... First two things we need to identify and discuss with the client based connection. One you actually... My project manager... So I call on... But I will introduce you as our Informatic CA leader and then from there you can take me just scope a... Chatg... So we discuss... We'll make... Came on a question.\nSo now inamo... April only two days... Either we... How to deliver in two weeks. So is it a acronym? A main testing only just go live long... [Laughter] First team on the... They will create you credentials. One of my API projects which exactly opportunity object in six sts and... Co tele... Mu listener Salesforce event listener... Sales forcelo close... Okay, even to publish a MuleSoft please... Informatica... At the... Manawallu platform... Went to build a subm time real-time so sales first floor platform. We went to build a... They will push it into Informatica. They will push it. Informatica can listen to that event and pick it up.\nOkay, perfect. The second one might be scheduled. I don't know whether CW has a book to expose it. So Asana identifies... How we can know that code is finalized in CW? Well traffic pole just let'squ...\nI mean, if they're okay to... Hi JC capacity only the... And the... Jira. Okay, right, and thank you. Hey Amar, good morning. Wrapping up one call... Give me one second. Okay... Sorry. Can you pull so... Difficulties the difficulties so and application of JC but make useful on of some applications and put onion the name because that will be useful.\nSo... The... One so appointment at least applies equal number seconds. So December 15th and December we travel date on the... Then they are given the appointment at crossing table appointment okay and the... 1st to apply and the... Maybe the... High level sale for... Slow apply... Sotic question... I mean to unnecessarily... My way I just make... Salesforce application and tracking ad. What is it on a... I have to showcase them everything I know one Monday Tuesday is Japanf muncho something everything looks good in the sense of one users got suddenly we want a... Beta. The name Chin and Kan already applies Asia and Frid as Japan EP and on a high level... B sales could I own the JP cross embs market and play and director Vice President of Salesforce so parallel reject or not game parallel we have to take that step.\nOkay, right. Yeah, ca Sendgrid strip. Much love okay right okay that was..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Hello..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Good morning. Quick thing, right? I know, did you send the invoice?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Invoice for the reimbursements? Yes, I did. I did cash..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Now, to whom did you send it?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Accounts, you are all three..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Of you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So you got extra money last time, right? Did you minus that?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes, I did."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Let me check on the invoice because I have to approve it, right? So... Okay...\nSo, October... Let me share my screen, we will go over, and then we can work on the questions and process.\nPerfect. Okay, so... Attached is my invoice for October reimbursement and trips to Orlando and Chicago. I had not added this to the invoice and... Okay.\nThese were not... Last time I thought..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "No, I sent it, but I did not..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Add it to the invoice."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Because last time, I think your invoice we paid $7,810 or so, right?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Something of that sort."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So now you... The same we... To say $7,000. But you didn't deduct what you got as additional, right?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Am I supposed to deduct that?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Because last time your invoice was... Let me..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "No, I thought my job is to send the full invoice, and then the accounts team will just deduct it, right? Like, whatever is the overpaid, they can just deduct it and send it to me."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, I think you have to add it to the invoice that you got once..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay? Because that clarity should be there. So...\nAdd that as an immediate..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Got it. I'll do that right off on..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One line..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Item to say that received advance of pro. Okay."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Second kilometers, strip this out. Reply nine times. I call it \"at once\" the last fair places the dat recording agent. Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And this one..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "October incentive, you are moving it as a full month advance incentive, right? Because again, on the basis of a full month advance incentive... Okay, and then do the total amount calculation and first let us review and then you can send it.\nOkay, perfect, thank you. And you? Did you put this month's right?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "This means I only put the flights in the hotel. That's it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This month already you added flights and hotel..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes, I have three flights, and then three things, yes, and the hotel, yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, right, thank you, and your invoice number should always be unique. Okay, just to make sure that is taken care of. Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This is... We are putting an invoice number. Yeah, perfect. Okay, sure that should always be unique. Thank you. Okay, yeah, okay, give me... I have a complete... The second part of it was to jump on the...\nBut time I had some kind of screw. But I'm aware of the mess. That would be 1:00 pm before 1:00 pm EST in time.\nThat is 11:30 or... Okay.\nYeah, ask me. So coming to our process..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The knowledge part of it. Let me know. What do your questions you have on..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, so obviously when we had our last conversation a couple of weeks ago, you shared this with scoping and pricing, Katie, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I'm... And it's me that I need to study that mode because it's everything is written right in front of me, which is great. Okay. Now that is one thing which I don't have any questions. So until unless I run into a certain issue, my question is more on... Remember you said that I need to first understand the business standpoint?\nOkay, what did you understand right about Avaton? This is Alison, right? We were... So basically what she wants is to automate the process of subcontractor, draw request, and extract invoice information accurately entered into Sage Intact.\nSo for example, this... Because I don't know Sage now, right? I don't know. Sage. In that... So how..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Why are you worried about Sage Intact? What is Sage Intact? It is not that. That is the only thing you should be worried about. What is a business process? Who is giving the invoice, why they are giving the invoice, and where they are raising the invoice? They're raising the invoice inside... Okay? Are they doing it inside Salesforce or they are doing only inside Sage?\nSo what is the flow? You are raising an invoice, you are working for Dataskate throughout the month you are raising an invoice, right? Similarly, what is their invoice? Did you understand why they are raising an invoice?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Why are they giving invoices? Basically, they want to. I mean, they're asking, aton to pay, them for like, complete work on a particular project, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "That's the reason they are giving the invoice. So now who's giving the invoice? So subcontractors are basically giving the invoice to Ava."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Right."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So they did some work and they are giving an invoice to Ava and Ava has to pay it, correct? So now do you send an invoice? What the accounts team will do is we are using QuickBooks, they are using Sage. Inside QuickBooks they will create an entry that Amar's invoice number is so and so. Amount is so and so. This is the description.\nThen it will come to me. We will review it. We will say that \"Okay, we approve this.\" Then they will process it in the bank and then from the bank it will get updated. Once it is completed in the bank it will come back and pay you here."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It will automatically go and update QuickBooks saying that this payment is done."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "All right, so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That is the process..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "That is the process. Okay, so basically the subcontractors are submitting draw requests to Ava for construction work they have completed. So now the AP team is currently manual. They have to manually read those documents, verify the bill lines items and against the existing subcontracts, commitments and all that stuff, and then put it into Sage intact.\nOkay. Sage..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "TAC is a AP system. Okay, got it. Okay, so now my question, maybe a dumb question. I don't know. So, like, when I have these, like, for example, I have like nineteen opportunities right out of nineteen.\nI think Avaton, because I'm spending more time on Avaton and I have done, like, reading and because we have been going back and forth about it. How should I sum this up? Like, should I go through each account and understand the issue?\nLike, what? How do I speed this up, so to speak? Like, what should I do?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So why are you doing this to gain knowledge...?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Correct."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Right? Avaton is a construction company. This is part of the payment process. What is happening in the payment process? You understood, then you will verify that. Okay, this is the business problem. You will draft it and then you will say that, \"Hey, Davis, this is what the problem is at a high level.\""
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I want you to scope and come back. Okay. So that is what you do with all of our opportunities."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You have to understand. Now, tell me which product will be fit for this one."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Forever on. It has to be the IDP Mulesoft. Why? Because I'm going to try to answer this why? Because Mulesoft is basically an intelligent document processing system, right? It reads... Draw requests from PDF invoices and Mulesoft any point platform. Why it could be a fit because it connects SharePoint into Sage ERP system maps exact information..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly. Okay, so this is what it is about Avenon."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "And spending more time. For example, most of the opportunities that I have, they are only towards Mulesoft, IDP. Most of the opportunities, my opportunities right now, because I do not have any other opportunity.\nThat's why I'm trying to spend more time on Mulesoft, because that's where my opportunities are coming towards, right? How do I involve myself or how do I... Until unless I have a case study, right? Only then, honestly, I'll spend time, right?\nBecause it's my opportunity. How do I kind of learn more about, like, Agent Force? Like, I don't know anything about agent force. Like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Now one one product put a target to complete..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, thirty..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "At least 30 opportunities from the prospect folders..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Opportunities. Got..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Right? So put two days target this 2 days..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can easily complete 30 in eight hours."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Put a two-day target. Tell me how many you completed and what you understood."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I will do that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Because this is the time when the month is slow and..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If you don't utilize now, you cannot catch up later."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yeah, 100% I agree. I will do that. No, this is helpful, Kailash. I mean..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And whenever you talk to people..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You will talk majorly currently. You are talking to new softs."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Correct."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "When you talk to Corries, that's where you will have Sharaman to come into the picture."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "First, you need to understand the products inside Salesforce."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sales cloud, service cloud, experience cloud, right? Health cloud... Schedule some time with Ron and ask him to explain the differences. Right or us do some ChatGPT or Gemini asking what the differences are? Which business will use what? Why they will use what? What is the use? Then schedule some calls with someone on Wednesday morning and while you are talking, you will understand more."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Got it. Okay, sounds good."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, when are we playing...?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I'm going on Wednesday morning and I was coming there to talk to you about that, right? So Kailash, guide me a little bit like obviously over there last time, right? So it was a bit different..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "What should be Amar's focus? Yes, you have shared the PPT, right? I'm going to try to find those people there and try to connect with them, right? Because most of these people are new. So what do you advise?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You have a deputy..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Bring them today.\nAsk for 15 minutes."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "But in that PPT clash, there are a lot of new people."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Drop an email. I'll give you emails."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, yeah, if you can do that, it would be great, and that way I can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can you share your screen and show that slide?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes, give me one second, please.\nAre you able to see it?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes so Austin you know..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes, Austin. I know Gavin, I know Michael, I know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Austin Hunter, I know... Li I met, but I don't know Ali. I mean, we haven't really been..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah so that's your this is your chance to kind of talk to..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Them, right? So you met... Okay, Nataly is in Atlanta. That's okay, Kailash Foster, I'll introduce you to her."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay. And Denzil Watts, David..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's what I'll explain. David... We'll see... I don't have an email connection with David. Send me a LinkedIn request..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I mean, LinkedIn is gone for all these people, but so I won't... Obviously, we can't do Slack right now, but if you can make a soft introduction or something, and then I can piggyback right away, it would be great."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If I know, I'll do it. If I don't know, this..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is where your job comes in, right? Identify in LinkedIn who has common connections with Theros, right?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "It's correct."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is it Austin? Is it Devin? Right? Then see that. Meanwhile, I will do some research and give you... Whom is Denzil, and they are working on it. Okay, so now here Austin Yoman we have two, David has one, Devin Jall, you know Gork, you know Austin has three.\nOkay, Dennison has one, Dylan Hams has one. Okay, that's nice. So two things, right? There are three plays. One is informatic, two is Mulesoft. Mulesoft can be any platform, any point platform, Mulesoft can be IDP, okay? Three is a method, okay? So now Informatic... There are two things, one is cleanup.\nOkay, so what will Informatic do? Informatic will find duplicates inside Salesforce or any system. Okay, it will help to fix it. That is Informatic data quality. CLA..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Informatic has an integration tool, it does not have an IDP tool, it has an integration tool. What do you mean integration tool? It is similar to any point platform. Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So if somebody asks, \"Can I sell Informatic to integration?\""
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Right."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can say, \"As per my technical thing, yes, but I think if we involve a technical team, they can do a thorough research and let you know whether it is a good idea or not. Why? New soft handles, powerful transformations, and corner scenarios very well which my technical team can explain.\nIf it is a straightforward integration then yes we can sell Informatic. Okay, so that is where two things will come into Informatic one is basically data quality play okay is integration play..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Now our offers for data quality... Give me one second."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "To start tocking..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "My sister."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So our offers for data quality... Give me one second. Somebody is using me. You were hoping... Amar, Raghu, and I said over the weekend... Give me one second. Okay? One is pinging. Give me one second. Just..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "It was..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Be online."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Do you want to avoca a tost.\nLater with a kma kai ai? I'm making rice. What do you wantly want? So after it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay? Sorry, so where we start on the Informatic offers, right? So let me share my screen.\nNo, where is this female whom I share with in her idea in the dream? Okay, so let me share my screen where in a meeting of... Let me not... Okay, so now if you see this is our offering, right?\nCdq implementation. Ten k four objects or two source systems. Right?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Right."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So what are these two source systems? What are these four objects? We are saying either two four systems or four objects, right? So how does this work? So basically what will happen is the scenarios can be this is Salesforce."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay. Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Inside Salesforce, they will have contact, they'll have accounts, they will have opportunities, they will have leads, they will have some custom objects which can be in any name. Okay, now what we are telling everybody is if you want to do these two only contacts and accounts, then we are doing it for 4K if you want three or four to do...\nOkay, then it is 10K. Okay, so now if you look at the offer, we are seeing four objects, 10K. So I will change this to three or four. Okay, three or four objects. So whether it is three or four, we are doing 10K."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, and now what are two systems? Okay, now somebody comes and says that I have a Google Drive. I have Excel sheets here, okay? I want to take this data and send it to Salesforce. Okay, so then this... What data do these Excel sheets have? Assuming contacts that should go and sit inside Salesforce contacts.\nSo now here you are seeing two systems, one and two, then that is one that automatically falls into 10K okay, if there are three systems, okay, now I will say I have service now and I have contacts that should go to Salesforce. Now there are three systems, so automatically there's 14K okay, but now somebody says in Google, I have contacts, I have opportunities, I have leads, I have some custom objects.\nSo if you see the number is growing. Okay, then we will do that. Boss. For this one, it's custom pricing. Let me check with the team and come back. Okay, so if, let's say, two systems and two objects, that's okay, because two systems, two objects is equal to four objects..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Got it gone."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Three twos is six objects that's equal. Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So this is where we are working with our CDQ offers. Any questions? Okay, the next one is Mulesoft. You already know two things: one is any point platform..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yup. Y..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Way IDP 3 credit mule for flow... Very less people ask it but I will explain..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Right? This is pure integration that is..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Nothing else."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "That I know. Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This is automation..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For flow is basic integration. It's basic integration, very basic."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so now this... You know right, we are doing 3500. This one will be 3000 or doc type plus the channels. What are the channels? You can receive the document via IDP, sorry, email. So now let's take your scenario for Avaton. Avaton...\nIt is SharePoint and then we are getting an invoice and that is going to Sage and act, correct?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "That's right."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So now if you see here, the invoice is one. So that is 3500. Because for IDP... Okay, for you, you have to build a flow that will take from SharePoint, call IDP, and put it to... So that is one. So you will have another 3000.\nSo that's why it is 6500. So no, somebody says we will receive the invoice via email. Then automatically your hand flow will get added, which is again 3500. Sorry, I did it the other way around. Okay...\nNow somebody says you will receive it on Slack, we will add another flow.\nThat is basically for you to understand. I'm explaining..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The scoping. Obviously slowly somebody will do it, but you should give these details basically as per your assumption. This is what is happening. Then you don't need to give pricing and others, right? You will tell them that. Okay, I went to the... Is looking for an ID automation source system. It is SharePoint. It will receive an invoice. We have to create an invoice and tab."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "There is another source as email. There is another source as Slack as well, and I would request you to scope and share pricing. Okay, so you can tell... This is a brief head start info for you.\nThat's it. This is all done by Gemini. You don't need anything else. You can come to Gemini, give the file, and then ask it..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What is the business problem, what is the source, what is the target, how many talk types, right? Then it will tell you, but you have to ask. Don't get used to it, right? You have to ask. You have to understand why this document is coming. Why is this invoice coming, right?\nSo that will help you, but to give immediate info to Davis, you can use Gemini."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I wish you hadn't told me. I don't want to rely on the tool because right now what I've been doing is opening tabs and trying to understand. Watching videos here and there so that I understand a little bit.\nOtherwise, I'm going to rely on these AI tools, and I'll be just good at brain..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly. Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Cool, nice...\nCool. Then MF, I know it is a bit complicated even I just bring the technical team directly if somebody asks MF..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I only..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Want to know these only right now I have to only..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can start with this. Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Like yes what you have told me. Otherwise, what will happen is. I will just. I'll. I won't be able to focus. You know, like I was."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly. So what I want you to do is pick another opportunity, create a draft, and pick me on Slack. If you are asking me to scope, how will you ping...?"
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Let us do that."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Cool, thank you."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, thank."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So first, send your updated invoice..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Then to me. We will review it. Once I say okay, you can send it to our account. Okay..."
+      },
+      {
+        "speaker": "amar@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Sounds good. Okay, thank you, thank."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you. Bye."
+      }
+    ],
+    "raw_meeting": "**Kalish & Amar - 1.1 - SOW**\n🕞 Started at 02:42 PM on 02 Nov, lasted 42m",
+    "raw_content": "kailash chanda | 00:53\nGmail.com ky EA username password is the middle log in Asana e mail dot as do I could not find this second he darma datask could not find ant just as.\nA was.\nPerfect prima miku core property just a high level to explain just so two systems on LLaMA Salesforce and connect wise. Okay, so. Correct. So in the low manak. Totally. Two things e the sales forcelow or opportunity close out at the emo connectwise log can't create l and then they task keycloths and the like the micro key clo in the qualcom clouse and your work key account clo at the r dtal d unlock at gr.\nOkay, the first one, second one is accountant to contact a contact. So I mentioned under the scale a g second in. Okay, a connector wise low of quotation create out. Okay. Okay. Quotation is Kelly Manu sales for Sloy and Jall two independent flows.\nOkay. We have to create these two flows and our handling of chopu we have to...\namar@dataskate.ai | 03:26\nI get...\nkailash chanda | 03:26\nSend an email saying that particular fail on the while I at detail the... Lastly... Every week we need to send a report. Okay, this week we processed all of this, we created all of this. This is success. This is failure to maintain a sales force. Maintain the sales force... Low on the load and extract... JS one on pumpit.\namar@dataskate.ai | 03:53\nKailash, can you hear...?\nkailash chanda | 03:54\nThat is the fourth one. Fourth one, we will use internal them to... First two things we need to identify and discuss with the client based connection. One you actually... My project manager... So I call on... But I will introduce you as our Informatic CA leader and then from there you can take me just scope a... Chatg... So we discuss... We'll make... Came on a question.\nSo now inamo... April only two days... Either we... How to deliver in two weeks. So is it a acronym? A main testing only just go live long... [Laughter] First team on the... They will create you credentials. One of my API projects which exactly opportunity object in six sts and... Co tele... Mu listener Salesforce event listener... Sales forcelo close... Okay, even to publish a MuleSoft please... Informatica... At the... Manawallu platform... Went to build a subm time real-time so sales first floor platform. We went to build a... They will push it into Informatica. They will push it. Informatica can listen to that event and pick it up.\nOkay, perfect. The second one might be scheduled. I don't know whether CW has a book to expose it. So Asana identifies... How we can know that code is finalized in CW? Well traffic pole just let'squ...\nI mean, if they're okay to... Hi JC capacity only the... And the... Jira. Okay, right, and thank you. Hey Amar, good morning. Wrapping up one call... Give me one second. Okay... Sorry. Can you pull so... Difficulties the difficulties so and application of JC but make useful on of some applications and put onion the name because that will be useful.\nSo... The... One so appointment at least applies equal number seconds. So December 15th and December we travel date on the... Then they are given the appointment at crossing table appointment okay and the... 1st to apply and the... Maybe the... High level sale for... Slow apply... Sotic question... I mean to unnecessarily... My way I just make... Salesforce application and tracking ad. What is it on a... I have to showcase them everything I know one Monday Tuesday is Japanf muncho something everything looks good in the sense of one users got suddenly we want a... Beta. The name Chin and Kan already applies Asia and Frid as Japan EP and on a high level... B sales could I own the JP cross embs market and play and director Vice President of Salesforce so parallel reject or not game parallel we have to take that step.\nOkay, right. Yeah, ca Sendgrid strip. Much love okay right okay that was...\namar@dataskate.ai | 10:37\nHello...\nkailash chanda | 10:38\nGood morning. Quick thing, right? I know, did you send the invoice?\namar@dataskate.ai | 10:47\nInvoice for the reimbursements? Yes, I did. I did cash...\nkailash chanda | 10:54\nNow, to whom did you send it?\namar@dataskate.ai | 10:57\nAccounts, you are all three...\nkailash chanda | 11:00\nOkay...\namar@dataskate.ai | 11:00\nOf you.\nkailash chanda | 11:00\nSo you got extra money last time, right? Did you minus that?\namar@dataskate.ai | 11:05\nYes, I did.\nkailash chanda | 11:06\nPerfect. Let me check on the invoice because I have to approve it, right? So... Okay...\nSo, October... Let me share my screen, we will go over, and then we can work on the questions and process.\nPerfect. Okay, so... Attached is my invoice for October reimbursement and trips to Orlando and Chicago. I had not added this to the invoice and... Okay.\nThese were not... Last time I thought...\namar@dataskate.ai | 11:55\nNo, I sent it, but I did not...\nkailash chanda | 11:56\nOkay.\namar@dataskate.ai | 11:58\nAdd it to the invoice.\nkailash chanda | 12:00\nBecause last time, I think your invoice we paid $7,810 or so, right?\namar@dataskate.ai | 12:06\nSomething of that sort.\nkailash chanda | 12:08\nSo now you... The same we... To say $7,000. But you didn't deduct what you got as additional, right?\namar@dataskate.ai | 12:20\nAm I supposed to deduct that?\nkailash chanda | 12:22\nYeah...\namar@dataskate.ai | 12:22\nOkay.\nkailash chanda | 12:22\nBecause last time your invoice was... Let me...\namar@dataskate.ai | 12:26\nNo, I thought my job is to send the full invoice, and then the accounts team will just deduct it, right? Like, whatever is the overpaid, they can just deduct it and send it to me.\nkailash chanda | 12:38\nNo, I think you have to add it to the invoice that you got once...\namar@dataskate.ai | 12:43\nOkay, got it.\nkailash chanda | 12:44\nOkay? Because that clarity should be there. So...\nAdd that as an immediate...\namar@dataskate.ai | 12:50\nGot it. I'll do that right off on...\nkailash chanda | 12:52\nOne line...\namar@dataskate.ai | 12:52\nYes...\nkailash chanda | 12:52\nItem to say that received advance of pro. Okay.\namar@dataskate.ai | 12:59\nSecond kilometers, strip this out. Reply nine times. I call it \"at once\" the last fair places the dat recording agent. Okay...\nkailash chanda | 13:27\nAnd this one...\namar@dataskate.ai | 13:28\nYes.\nkailash chanda | 13:28\nOctober incentive, you are moving it as a full month advance incentive, right? Because again, on the basis of a full month advance incentive... Okay, and then do the total amount calculation and first let us review and then you can send it.\nOkay, perfect, thank you. And you? Did you put this month's right?\namar@dataskate.ai | 13:54\nThis means I only put the flights in the hotel. That's it.\nkailash chanda | 13:57\nThis month already you added flights and hotel...\namar@dataskate.ai | 13:59\nYes, I have three flights, and then three things, yes, and the hotel, yes.\nkailash chanda | 14:05\nOkay, right, thank you, and your invoice number should always be unique. Okay, just to make sure that is taken care of. Okay...\namar@dataskate.ai | 14:15\nOkay...\nkailash chanda | 14:16\nThis is... We are putting an invoice number. Yeah, perfect. Okay, sure that should always be unique. Thank you. Okay, yeah, okay, give me... I have a complete... The second part of it was to jump on the...\nBut time I had some kind of screw. But I'm aware of the mess. That would be 1:00 pm before 1:00 pm EST in time.\nThat is 11:30 or... Okay.\nYeah, ask me. So coming to our process...\namar@dataskate.ai | 15:24\nYes.\nkailash chanda | 15:24\nThe knowledge part of it. Let me know. What do your questions you have on...\namar@dataskate.ai | 15:29\nOkay, so obviously when we had our last conversation a couple of weeks ago, you shared this with scoping and pricing, Katie, right?\nkailash chanda | 15:42\nYes...\namar@dataskate.ai | 15:42\nI'm... And it's me that I need to study that mode because it's everything is written right in front of me, which is great. Okay. Now that is one thing which I don't have any questions. So until unless I run into a certain issue, my question is more on... Remember you said that I need to first understand the business standpoint?\nOkay, what did you understand right about Avaton? This is Alison, right? We were... So basically what she wants is to automate the process of subcontractor, draw request, and extract invoice information accurately entered into Sage Intact.\nSo for example, this... Because I don't know Sage now, right? I don't know. Sage. In that... So how...\nkailash chanda | 16:37\nWhy are you worried about Sage Intact? What is Sage Intact? It is not that. That is the only thing you should be worried about. What is a business process? Who is giving the invoice, why they are giving the invoice, and where they are raising the invoice? They're raising the invoice inside... Okay? Are they doing it inside Salesforce or they are doing only inside Sage?\nSo what is the flow? You are raising an invoice, you are working for Dataskate throughout the month you are raising an invoice, right? Similarly, what is their invoice? Did you understand why they are raising an invoice?\namar@dataskate.ai | 17:18\nWhy are they giving invoices? Basically, they want to. I mean, they're asking, aton to pay, them for like, complete work on a particular project, right?\nkailash chanda | 17:33\nOkay...\namar@dataskate.ai | 17:33\nThat's the reason they are giving the invoice. So now who's giving the invoice? So subcontractors are basically giving the invoice to Ava.\nkailash chanda | 17:41\nExactly.\namar@dataskate.ai | 17:41\nRight.\nkailash chanda | 17:42\nSo they did some work and they are giving an invoice to Ava and Ava has to pay it, correct? So now do you send an invoice? What the accounts team will do is we are using QuickBooks, they are using Sage. Inside QuickBooks they will create an entry that Amar's invoice number is so and so. Amount is so and so. This is the description.\nThen it will come to me. We will review it. We will say that \"Okay, we approve this.\" Then they will process it in the bank and then from the bank it will get updated. Once it is completed in the bank it will come back and pay you here.\namar@dataskate.ai | 18:31\nOkay...\nkailash chanda | 18:33\nIt will automatically go and update QuickBooks saying that this payment is done.\namar@dataskate.ai | 18:39\nAll right, so...\nkailash chanda | 18:42\nThat is the process...\namar@dataskate.ai | 18:45\nThat is the process. Okay, so basically the subcontractors are submitting draw requests to Ava for construction work they have completed. So now the AP team is currently manual. They have to manually read those documents, verify the bill lines items and against the existing subcontracts, commitments and all that stuff, and then put it into Sage intact.\nOkay. Sage...\nkailash chanda | 19:15\nExactly...\namar@dataskate.ai | 19:15\nTAC is a AP system. Okay, got it. Okay, so now my question, maybe a dumb question. I don't know. So, like, when I have these, like, for example, I have like nineteen opportunities right out of nineteen.\nI think Avaton, because I'm spending more time on Avaton and I have done, like, reading and because we have been going back and forth about it. How should I sum this up? Like, should I go through each account and understand the issue?\nLike, what? How do I speed this up, so to speak? Like, what should I do?\nkailash chanda | 19:58\nSo why are you doing this to gain knowledge...?\namar@dataskate.ai | 20:03\nCorrect.\nkailash chanda | 20:04\nRight? Avaton is a construction company. This is part of the payment process. What is happening in the payment process? You understood, then you will verify that. Okay, this is the business problem. You will draft it and then you will say that, \"Hey, Davis, this is what the problem is at a high level.\"\namar@dataskate.ai | 20:27\nYes.\nkailash chanda | 20:28\nI want you to scope and come back. Okay. So that is what you do with all of our opportunities.\namar@dataskate.ai | 20:39\nOkay...\nkailash chanda | 20:40\nYou have to understand. Now, tell me which product will be fit for this one.\namar@dataskate.ai | 20:47\nForever on. It has to be the IDP Mulesoft. Why? Because I'm going to try to answer this why? Because Mulesoft is basically an intelligent document processing system, right? It reads... Draw requests from PDF invoices and Mulesoft any point platform. Why it could be a fit because it connects SharePoint into Sage ERP system maps exact information...\nkailash chanda | 21:37\nExactly. Okay, so this is what it is about Avenon.\namar@dataskate.ai | 21:44\nGot it.\nkailash chanda | 21:46\nOkay...\namar@dataskate.ai | 21:46\nAnd spending more time. For example, most of the opportunities that I have, they are only towards Mulesoft, IDP. Most of the opportunities, my opportunities right now, because I do not have any other opportunity.\nThat's why I'm trying to spend more time on Mulesoft, because that's where my opportunities are coming towards, right? How do I involve myself or how do I... Until unless I have a case study, right? Only then, honestly, I'll spend time, right?\nBecause it's my opportunity. How do I kind of learn more about, like, Agent Force? Like, I don't know anything about agent force. Like...\nkailash chanda | 22:37\nNow one one product put a target to complete...\namar@dataskate.ai | 22:40\nOkay, thirty...\nkailash chanda | 22:44\nAt least 30 opportunities from the prospect folders...\namar@dataskate.ai | 22:49\nOpportunities. Got...\nkailash chanda | 22:51\nRight? So put two days target this 2 days...\namar@dataskate.ai | 22:56\nYes.\nkailash chanda | 22:56\nYou can easily complete 30 in eight hours.\namar@dataskate.ai | 23:00\nOkay.\nkailash chanda | 23:01\nPut a two-day target. Tell me how many you completed and what you understood.\namar@dataskate.ai | 23:10\nI will do that.\nkailash chanda | 23:11\nBecause this is the time when the month is slow and...\namar@dataskate.ai | 23:13\nYes.\nkailash chanda | 23:13\nIf you don't utilize now, you cannot catch up later.\namar@dataskate.ai | 23:18\nYeah, 100% I agree. I will do that. No, this is helpful, Kailash. I mean...\nkailash chanda | 23:27\nAnd whenever you talk to people...\namar@dataskate.ai | 23:29\nYes.\nkailash chanda | 23:30\nYou will talk majorly currently. You are talking to new softs.\namar@dataskate.ai | 23:35\nCorrect.\nkailash chanda | 23:37\nWhen you talk to Corries, that's where you will have Sharaman to come into the picture.\namar@dataskate.ai | 23:46\nOkay, yeah.\nkailash chanda | 23:47\nFirst, you need to understand the products inside Salesforce.\namar@dataskate.ai | 23:53\nGot it.\nkailash chanda | 23:54\nSales cloud, service cloud, experience cloud, right? Health cloud... Schedule some time with Ron and ask him to explain the differences. Right or us do some ChatGPT or Gemini asking what the differences are? Which business will use what? Why they will use what? What is the use? Then schedule some calls with someone on Wednesday morning and while you are talking, you will understand more.\namar@dataskate.ai | 24:35\nGot it. Okay, sounds good.\nkailash chanda | 24:40\nOkay, when are we playing...?\namar@dataskate.ai | 24:42\nI'm going on Wednesday morning and I was coming there to talk to you about that, right? So Kailash, guide me a little bit like obviously over there last time, right? So it was a bit different...\nkailash chanda | 24:53\nHey...\namar@dataskate.ai | 24:54\nWhat should be Amar's focus? Yes, you have shared the PPT, right? I'm going to try to find those people there and try to connect with them, right? Because most of these people are new. So what do you advise?\nkailash chanda | 25:11\nYou have a deputy...\namar@dataskate.ai | 25:12\nYes.\nkailash chanda | 25:14\nBring them today.\nAsk for 15 minutes.\namar@dataskate.ai | 25:21\nBut in that PPT clash, there are a lot of new people.\nkailash chanda | 25:28\nDrop an email. I'll give you emails.\namar@dataskate.ai | 25:30\nOkay, yeah, if you can do that, it would be great, and that way I can...\nkailash chanda | 25:35\nCan you share your screen and show that slide?\namar@dataskate.ai | 25:37\nYes, give me one second, please.\nAre you able to see it?\nkailash chanda | 26:22\nYes so Austin you know...\namar@dataskate.ai | 26:25\nYes, Austin. I know Gavin, I know Michael, I know...\nkailash chanda | 26:30\nOkay...\namar@dataskate.ai | 26:30\nAustin Hunter, I know... Li I met, but I don't know Ali. I mean, we haven't really been...\nkailash chanda | 26:42\nYeah so that's your this is your chance to kind of talk to...\namar@dataskate.ai | 26:45\nYes...\nkailash chanda | 26:45\nThem, right? So you met... Okay, Nataly is in Atlanta. That's okay, Kailash Foster, I'll introduce you to her.\namar@dataskate.ai | 27:04\nOkay. And Denzil Watts, David...\nkailash chanda | 27:06\nThat's what I'll explain. David... We'll see... I don't have an email connection with David. Send me a LinkedIn request...\namar@dataskate.ai | 27:16\nI mean, LinkedIn is gone for all these people, but so I won't... Obviously, we can't do Slack right now, but if you can make a soft introduction or something, and then I can piggyback right away, it would be great.\nkailash chanda | 27:29\nIf I know, I'll do it. If I don't know, this...\namar@dataskate.ai | 27:32\nOkay.\nkailash chanda | 27:32\nIs where your job comes in, right? Identify in LinkedIn who has common connections with Theros, right?\namar@dataskate.ai | 27:41\nIt's correct.\nkailash chanda | 27:41\nIs it Austin? Is it Devin? Right? Then see that. Meanwhile, I will do some research and give you... Whom is Denzil, and they are working on it. Okay, so now here Austin Yoman we have two, David has one, Devin Jall, you know Gork, you know Austin has three.\nOkay, Dennison has one, Dylan Hams has one. Okay, that's nice. So two things, right? There are three plays. One is informatic, two is Mulesoft. Mulesoft can be any platform, any point platform, Mulesoft can be IDP, okay? Three is a method, okay? So now Informatic... There are two things, one is cleanup.\nOkay, so what will Informatic do? Informatic will find duplicates inside Salesforce or any system. Okay, it will help to fix it. That is Informatic data quality. CLA...\namar@dataskate.ai | 29:20\nGot it.\nkailash chanda | 29:22\nInformatic has an integration tool, it does not have an IDP tool, it has an integration tool. What do you mean integration tool? It is similar to any point platform. Okay...\namar@dataskate.ai | 29:39\nOkay.\nkailash chanda | 29:39\nSo if somebody asks, \"Can I sell Informatic to integration?\"\namar@dataskate.ai | 29:49\nRight.\nkailash chanda | 29:50\nYou can say, \"As per my technical thing, yes, but I think if we involve a technical team, they can do a thorough research and let you know whether it is a good idea or not. Why? New soft handles, powerful transformations, and corner scenarios very well which my technical team can explain.\nIf it is a straightforward integration then yes we can sell Informatic. Okay, so that is where two things will come into Informatic one is basically data quality play okay is integration play...\namar@dataskate.ai | 30:42\nGot it.\nkailash chanda | 30:45\nNow our offers for data quality... Give me one second.\namar@dataskate.ai | 30:53\nTo start tocking...\nkailash chanda | 30:55\nOkay...\namar@dataskate.ai | 30:55\nMy sister.\nkailash chanda | 30:56\nSo our offers for data quality... Give me one second. Somebody is using me. You were hoping... Amar, Raghu, and I said over the weekend... Give me one second. Okay? One is pinging. Give me one second. Just...\namar@dataskate.ai | 31:29\nIt was...\nkailash chanda | 31:29\nBe online.\namar@dataskate.ai | 32:46\nDo you want to avoca a tost.\nLater with a kma kai ai? I'm making rice. What do you wantly want? So after it.\nkailash chanda | 33:09\nOkay? Sorry, so where we start on the Informatic offers, right? So let me share my screen.\nNo, where is this female whom I share with in her idea in the dream? Okay, so let me share my screen where in a meeting of... Let me not... Okay, so now if you see this is our offering, right?\nCdq implementation. Ten k four objects or two source systems. Right?\namar@dataskate.ai | 34:29\nRight.\nkailash chanda | 34:29\nSo what are these two source systems? What are these four objects? We are saying either two four systems or four objects, right? So how does this work? So basically what will happen is the scenarios can be this is Salesforce.\namar@dataskate.ai | 34:50\nOkay. Okay.\nkailash chanda | 34:50\nInside Salesforce, they will have contact, they'll have accounts, they will have opportunities, they will have leads, they will have some custom objects which can be in any name. Okay, now what we are telling everybody is if you want to do these two only contacts and accounts, then we are doing it for 4K if you want three or four to do...\nOkay, then it is 10K. Okay, so now if you look at the offer, we are seeing four objects, 10K. So I will change this to three or four. Okay, three or four objects. So whether it is three or four, we are doing 10K.\namar@dataskate.ai | 35:40\nOkay.\nkailash chanda | 35:40\nOkay, and now what are two systems? Okay, now somebody comes and says that I have a Google Drive. I have Excel sheets here, okay? I want to take this data and send it to Salesforce. Okay, so then this... What data do these Excel sheets have? Assuming contacts that should go and sit inside Salesforce contacts.\nSo now here you are seeing two systems, one and two, then that is one that automatically falls into 10K okay, if there are three systems, okay, now I will say I have service now and I have contacts that should go to Salesforce. Now there are three systems, so automatically there's 14K okay, but now somebody says in Google, I have contacts, I have opportunities, I have leads, I have some custom objects.\nSo if you see the number is growing. Okay, then we will do that. Boss. For this one, it's custom pricing. Let me check with the team and come back. Okay, so if, let's say, two systems and two objects, that's okay, because two systems, two objects is equal to four objects...\namar@dataskate.ai | 37:24\nGot it gone.\nkailash chanda | 37:25\nThree twos is six objects that's equal. Okay...\namar@dataskate.ai | 37:29\nOkay.\nkailash chanda | 37:29\nSo this is where we are working with our CDQ offers. Any questions? Okay, the next one is Mulesoft. You already know two things: one is any point platform...\namar@dataskate.ai | 37:48\nYup. Y...\nkailash chanda | 37:50\nWay IDP 3 credit mule for flow... Very less people ask it but I will explain...\namar@dataskate.ai | 37:55\nOkay...\nkailash chanda | 37:55\nRight? This is pure integration that is...\namar@dataskate.ai | 37:58\nYes...\nkailash chanda | 37:59\nNothing else.\namar@dataskate.ai | 38:00\nThat I know. Yeah.\nkailash chanda | 38:00\nThis is automation...\namar@dataskate.ai | 38:02\nYes.\nkailash chanda | 38:03\nFor flow is basic integration. It's basic integration, very basic.\namar@dataskate.ai | 38:08\nOkay.\nkailash chanda | 38:09\nOkay, so now this... You know right, we are doing 3500. This one will be 3000 or doc type plus the channels. What are the channels? You can receive the document via IDP, sorry, email. So now let's take your scenario for Avaton. Avaton...\nIt is SharePoint and then we are getting an invoice and that is going to Sage and act, correct?\namar@dataskate.ai | 38:43\nThat's right.\nkailash chanda | 38:45\nSo now if you see here, the invoice is one. So that is 3500. Because for IDP... Okay, for you, you have to build a flow that will take from SharePoint, call IDP, and put it to... So that is one. So you will have another 3000.\nSo that's why it is 6500. So no, somebody says we will receive the invoice via email. Then automatically your hand flow will get added, which is again 3500. Sorry, I did it the other way around. Okay...\nNow somebody says you will receive it on Slack, we will add another flow.\nThat is basically for you to understand. I'm explaining...\namar@dataskate.ai | 39:37\nYes.\nkailash chanda | 39:38\nThe scoping. Obviously slowly somebody will do it, but you should give these details basically as per your assumption. This is what is happening. Then you don't need to give pricing and others, right? You will tell them that. Okay, I went to the... Is looking for an ID automation source system. It is SharePoint. It will receive an invoice. We have to create an invoice and tab.\namar@dataskate.ai | 40:02\nGot it.\nkailash chanda | 40:03\nThere is another source as email. There is another source as Slack as well, and I would request you to scope and share pricing. Okay, so you can tell... This is a brief head start info for you.\nThat's it. This is all done by Gemini. You don't need anything else. You can come to Gemini, give the file, and then ask it...\namar@dataskate.ai | 40:36\nOkay.\nkailash chanda | 40:38\nWhat is the business problem, what is the source, what is the target, how many talk types, right? Then it will tell you, but you have to ask. Don't get used to it, right? You have to ask. You have to understand why this document is coming. Why is this invoice coming, right?\nSo that will help you, but to give immediate info to Davis, you can use Gemini.\namar@dataskate.ai | 41:04\nI wish you hadn't told me. I don't want to rely on the tool because right now what I've been doing is opening tabs and trying to understand. Watching videos here and there so that I understand a little bit.\nOtherwise, I'm going to rely on these AI tools, and I'll be just good at brain...\nkailash chanda | 41:20\nExactly. Okay...\namar@dataskate.ai | 41:23\nOkay, got it.\nkailash chanda | 41:24\nCool, nice...\nCool. Then MF, I know it is a bit complicated even I just bring the technical team directly if somebody asks MF...\namar@dataskate.ai | 41:34\nI only...\nkailash chanda | 41:34\nOkay...\namar@dataskate.ai | 41:34\nWant to know these only right now I have to only...\nkailash chanda | 41:38\nWe can start with this. Okay...\namar@dataskate.ai | 41:39\nLike yes what you have told me. Otherwise, what will happen is. I will just. I'll. I won't be able to focus. You know, like I was.\nkailash chanda | 41:47\nExactly. So what I want you to do is pick another opportunity, create a draft, and pick me on Slack. If you are asking me to scope, how will you ping...?\namar@dataskate.ai | 41:57\nOkay...\nkailash chanda | 41:57\nOkay...\namar@dataskate.ai | 41:58\nGot it.\nkailash chanda | 41:58\nLet us do that.\namar@dataskate.ai | 41:59\nOkay, that.\nkailash chanda | 42:01\nCool, thank you.\namar@dataskate.ai | 42:02\nOkay, thank.\nkailash chanda | 42:02\nSo first, send your updated invoice...\namar@dataskate.ai | 42:05\nYes...\nkailash chanda | 42:05\nThen to me. We will review it. Once I say okay, you can send it to our account. Okay...\namar@dataskate.ai | 42:09\nSounds good. Okay, thank you, thank.\nkailash chanda | 42:11\nThank you. Bye."
+  }
+}
