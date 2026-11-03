@@ -1,0 +1,57 @@
+{
+  "id": "01a1a150fd7a72f996bae017b380d670",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a19d6d6fec771fb6af4d78ba6c3211",
+      "title": "Future investment for DataSkate",
+      "duration": 509,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "63u50ffu0df0ancmr6kn4r4g6g_20261103T120000Z",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vivek@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-03T12:00:31.816Z",
+      "end_date": "2026-11-03T12:09:00.816Z",
+      "url": "https://app.krisp.ai/m/01a19d6d6fec771fb6af4d78ba6c3211?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "[Laughter] Okay. I put... But gave us... December 19... Party... Estimate would...\nAgain, congratulations. Thank you. I'm happy time. I was waiting... Though... Yeah, you actually... The normal 16 on the planet like on your chair... For... But yeah.\nLocal manager row... Ant powerful or them... Okay, they will feel happy that they are in writing so relation format, okay."
+      }
+    ],
+    "raw_meeting": "**Future investment for DataSkate**\n🕞 Started at 12:00 PM on 03 Nov, lasted 8m",
+    "raw_content": "kailash chanda | 00:00\n[Laughter] Okay. I put... But gave us... December 19... Party... Estimate would...\nAgain, congratulations. Thank you. I'm happy time. I was waiting... Though... Yeah, you actually... The normal 16 on the planet like on your chair... For... But yeah.\nLocal manager row... Ant powerful or them... Okay, they will feel happy that they are in writing so relation format, okay."
+  }
+}
