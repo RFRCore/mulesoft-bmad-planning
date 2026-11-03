@@ -1,0 +1,511 @@
+{
+  "id": "01a1a386f7a176bebec820261e62d2cb",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a2e84eab76ae9c175aa981188ed5",
+      "title": "Daily Sales Call",
+      "duration": 1327,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "2rdgn5n8i1it3o6pg7e5kuirnl_20261103T220000Z",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "aadi@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "dev@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amar@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        },
+        {
+          "index": 5,
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-03T22:05:26.532Z",
+      "end_date": "2026-11-03T22:27:33.532Z",
+      "url": "https://app.krisp.ai/m/01a1a2e84eab76ae9c175aa981188ed5?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, take a few accounts from me or I found nothing."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Unable to hear you y..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, another thing. I was just saying that... Aden has sent some accounts for the account mapping. So I'll discuss that with you later."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so let me share my screen. Give me one second creating a copy for today's stand-up. So, okay, they stand up on November 3rd. I ran the numbers yesterday with what you guys gave me. I think we have a good number of deals.\nIf this number works out well, whatever relationships we all put in... If we get that, then I think we have a good amount of pipe, so we should be able to get a good number of activities if that is something we can get mapped right.\nSo that's the whole path. This Friday I will schedule a call to run over our target and plan on how to achieve it like last time. So for now, I am creating an empty goal because I didn't put any goal and we will work through it.\nAgain, yeah, I know, but tomorrow you are going in..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I have an early morning. I should be in the office. I leave around 04:00 am. So I should be there by..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, that's nice. Okay, in column two below. Okay, so yeah, you guys can add columns and then do it upon mapping collateral backer. Okay, so happier as and then coaching. Okay, perfect, so this is for now what you can add today what you guys have done.\nSo my main goal is to run through this part. So this is the portal where we are doing this event on each week at one location. Okay, so I put down a plan on what your travel plan will look like.\nOkay, so let me put it in our group, okay? Plan your trip accordingly. Majority of the time, I think... Yeah. If you can fly in and stay for one day and fly out, that should be good because you will know the feedback of the event, what happens, and then understand what's the next part, right?\nSo I think you guys on the Slack group that we are there for the... Okay. So..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To be love..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "LLaMA, when you go, or I or you guys go to the office, give this link. Tell them that we are going to do an event that we will demonstrate our customer success customer zero story and demonstrate of what... How we build the agent, how we are monitoring, what are the use cases that we have covered inside. As we will be doing a demonstration, working with the account executives, talking about all their questions on MF, Informatic, Mulesoft, anything. We will be there in the tower for the whole day. We will talk with them and take that forward.\nBut ask them to RSVP each. If you are going to Atlanta, ask them to register for Atlanta and then we will know that they will be attending or not. That is important. So every location you guys travel through this month, get this implemented and signed, okay? So if they come to this page click Atlanta you see here..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It's basically Loom, right? This is through..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It look yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Ma okay sounds good..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so that's an important part of the game. Okay so lion, do you have any trips or Ryan and again, both Chicago and so I know Chicago both you guys will be visiting and so for Ryan, you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I am doing so... Kailash, do you want me to go there again on the nineteenth? I mean since I will be there tomorrow, just curious."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "There you have to because the event is happening, you have to build a relationship with the right and... How did you book any tickets? No right..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, I'm leaving to tomorrow night. I will be in Chicago."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Or tomorrow in Chicago. Okay. So. Again. Ban..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So tomorrow..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I want..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "During daytime, I'm in Atlanta tomorrow night. Just like we took the same flight that we took. I did the same thing. I mean, I had to do separately because it was giving me ruckers. But it's exactly..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "The same."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay then I want you to plan for New York and Chicago and so... Okay, are you're in Toronto local so when we do there you can be there we'll be there mostly be planning to come to Toronto. I might go to Brazil on the 12th to 19th. There is one event in Brazil, so I'll be attending mostly that event.\nSo I might not make it to New York and Atlanta, but Chicago as Toronto is what I plan to be there. Okay. And just to check back on the open opportunities, did you guys catch up with any? Get any updates on what opportunities are open, what are closed and can we update so that we know how much we are carrying over into November from October?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So Kailash, I have... Most of my... A lot of them have not responded, so I will catch them like Gavin. All these... I'll catch up tomorrow in person. I did message... I did not get any response except with Matt and Jackson and Cocoa TED Cocoa. I don't have any deal with, but Gavin and Austin and Andrew mostly these guys haven't responded, so I'll catch them tomorrow with the well applied intelligence. Salesforce today we had the scoping pricing call."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Which one...?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I it's going in the applied intelligence."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Applied intelligence? How did it go?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, it's going in a positive direction."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "They have already scheduled a follow-up call again for next week, and so far, so good."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What did you do?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It is 42..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "They are okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "With the budget."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, they were fine. They did not have... I mean, I did not give them any feedback right there on the call, so in person, I'll probably know tomorrow between tomorrow and the day after tomorrow."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so any other opportunity?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Again, these guys haven't responded. Opportunities are there. The guys have not responded. But I'm looking forward to having something tomorrow or this week for sure. That's what I heard back from Logan.\nLogan Williams. He's like, \"I have some scoping calls today, so just give me a day or two. Probably by the time you're here...\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We'll have a conversation..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm not asking for new ones. I am asking whatever is in the pipe here, are they open or closed? That's it, right? So..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "They're o mine are all open kach..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "But no feedback, no good or bad, nothing as of now."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 5,
+        "text": "Yeah, mine are all updated. However after end of quarter. I'm still getting a hold of Sonny. I'm still getting a hold of, like, Sam. I'm still getting a hold of these people. So I think, you know, the next day we'll have some. Next day or two we'll have some more updates on what's going on, what it's looking like for November."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect, okay, are they...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I have three open cells, the total capital. I just spoke with Nick. They are having the meeting this coming Friday by the end of Friday, and co-bank shares, they're going to have a meeting tomorrow. Box funding is pushed to the end of November, but it's still open."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But still, everything is okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Three three opportunities are here. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it? So I think I shared the earlier plan for November. Who has what deals? An MF..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 5,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So did you guys look through and put down a strategy from your side on how to approach or whom to approach? Did you guys put down a plan?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Absolutely. I am actually creating my strategy purely based on, like that the draft you have shared."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "This coming Thursday, I'm meeting with Max. I'm getting on a coffee with him, so I will have a conversation. On Thursday I am meeting with the Green. Mr. Green, sir. He has some opportunities.\nSo creating some sort of pipeline for not just November but December as well. I just got the update from Ryan Cunningham, who had an agent for... So he said that these guys, like the client, have pushed the agent force... So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, my plan is... When you look through the names and products and the deals numbers, so... Did you guys plan to say that? Okay, let me try to hit MF or let me try to talk IDP or let me try to talk on the... Yeah, endpoint platform. Who are the guys that you are close with? You put down the numbers.\nNow you have the names and counts. So did you do a math to say that okay, I can target these people? Did you plan anything like that?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, absolutely. And yeah, that's exactly how I'm moving forward. So they are the first person I'm on my list. I am closely watching them, doing follow-ups more aggressively with them, but not in an aggressive way that I break that bond, but yes, following up with them.\nRecently, I'm trying to support them with the account mapping as well."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Okay. Again, probably... Ryan, you must have been doing that. But just wanted to check if you... Are planning to..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 5,
+        "text": "No, absolutely. What you provided us is super helpful to go in to that. I've been doing it. Yeah, since you provided us that she'd be going in and doing updates and having a communication back and forth."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think by this Friday I'll provide more latest info then we'll... Know better data. So that way I'll give you better data by Friday. Did you guys think about the questions that we discussed yesterday, like what do you have anything for tech team? Did you feel that if this was there that will help me to close the deal or get a better deal?\nI mean, if you... If you have not thought about it. If you have thought... Yes, please, chair. If you have not, then let me know."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 5,
+        "text": "Yeah. That's what I shared this morning. I was thinking about it last night. It's like, \"Okay, what can we have?\" and I know that we're doing the quickbooks and the net suite, the ERP, some of those package deals. I want to do the same thing for Salesforce because I think we need to get right to be the source of where this deal is originating.\nWe need to focus on them, and we need to give them some pricing out some packages so we can start being super competitive there so we can get some of these guys to start bringing us in.\nLike JACKSONVILLEBOY introduced me to his account executive. I got some other Salesforce guys in Irvine, and I'm going to go see... We just need to go hard after that just to start to get some deals early on because that's how we're going to continue to get the Salesforce stuff.\nIf we get a meal, we're lucky to get a meal. But if we get Salesforce, we're always going to get a meal if there's a play there, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly. That's the game. That's more..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 5,
+        "text": "So yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Important. So I spoke with Sharman. He said that he's working on it. I gave him a couple of websites where people are putting down the quick starts. I asked him to give that so that it'll be easy for you guys.\nSo let's look at it and come back on that. So I think today and yesterday must be slow days, right? Not many conversations or anything. But did you guys read any sales for your knowledge and understanding?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, I need actually a strong support here. Like this week, I think it's all about building the credibility. And I mean, as you know, we cannot just, you know, straightforward jump into like asking for deals.\nSo this week's strategy is all about offering the account mapping support. And, if we can if I can get support from you, Sharman and Davis. So, like, I'm working on creating the use case. All I need is, like, you guys can check the fire to make sure that I'm not, you know, sharing any wrong information so I can. I can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I'll review your new sales kicks and give you feedback before you log in tomorrow. I'll give you my feedback."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, perfect. Yeah, so that's all I'm doing this week. It's all about sharing the use cases and supporting them with account mapping. Aden has given me five accounts..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Worth on..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So did he tell you what their problems are and other things?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No. So what he has given me is that he has nothing. He said, you know what? You are on my list. But honestly, I have nothing. What I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Offered him is that I'm going to help you with the account mapping where I try to figure out that this is what we have sold and what would be the next opportunity with the reason. So I have my proper AI set up there. I'm going through the website, their LinkedIn pages, the clients, and any information out there and trying to figure out what would be the next product. The AI Aden has given me the website and what they have like in terms of sales and products so far.\nSo these two pieces of information I have from Aden..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Once you do our one account showcase, let's review and see what it is coming out. Perfect. Emma, did you read any episodes of S?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "I did. I have been reading SWS. I've been thinking between... I have sent you some questions which are very basic, again, everything comes back to, \"Hey, what have you understood about the customer? Who is this customer, what are they looking for?\"\nIn terms of the conversation, anything that might... Any of the deals like... Can Shon or Davis help me in terms of closing deals? Have I thought about those questions? No, not yet. I have not gotten into that groove yet where I see that my delivery team is doing a bad job and that's why it's not getting closed.\nSo I haven't really thought about it yet."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No. My question is, are you reading to understand the product features and the business use cases?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Mioft because like the other day we spoke a kalsh most of my deals are on muloft right? IDP any point? So yes. Am I reading the s? So ws yes, but only about, so far. Mulesoft IDP and all these any point."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So yours are already on calls, which is easier, but did you review any of the other prospects from Ryan or AI?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "No, I have not... Only my customers. I have been reviewing so that I can understand. I still feel like I do not understand it yet. I do not have that kind of knowledge yet. So that's why I've been just practicing and rereading and taking notes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Ryan, I think I want you to understand what the business flows and others are because it gives you more edge and value when you talk to somebody. Apart from the relation, it will be easy for you guys to catch up as well.\nThey will feel like, \"Hey, these people are coming up and preparing more, and now they're able to get the top more technical at least.\" I don't want to say 100%, but at least\n30% improvement will be really something good for everybody, that's what I feel. My intention is only that it increases your value in front of the account executives to get more deals. That's the only intention I have. Nothing else.\nSo I want you guys to improve. Where? I'm imping myself on Mulesoft because I don't know Mulesoft. I am reading through the documentations. I'm understanding what it is, what the product is doing, trying to do, or attend workshops.\nSo for everybody in this field, I feel there is a continuous learning required to showcase because I felt very embarrassed. When M MF deal comes, I have to run to Raghu or Sharman to bring them in. I'm not able to talk about anything there, so..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's where I'm spending it. So I want you guys to invest some time and do that while we are free, right? I think Raghu is setting up two calls. One call is with the tech team. So all of us, along with the tech team, we will have a call where they will... It'll be weekly ones, not every day, where we will talk to the Center of Excellence team, who will build all of these assets, do demonstrations for us, or whatever feedback we give. They will come back and develop or be supportive to us, right?\nSo I know Ryan, it is a bit early for you, but I think one day, if you can support that, it will be great. It's just one weekly, one day call. The problem is if we are setting up this slate... I think now with the time change, it's 4 am in India.\nSo to hold off everybody is difficult. That's why I'm requesting you. I know you are early in PST as well, but one day for half an hour, it'll be appreciated if you can join."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 5,
+        "text": "Yeah, for sure. I talked to Raghu about it. We came up with the time."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Okay then, I think that's the whole plan. I think by Friday I'll come up with a new list with the names and what my strategy looks like to put forward. My strategy is to build existing relationships better because that takes 20% of effort.\nBut to convince somebody who's totally new will take more effort. So if I were in your place, what I thought was I would invest 50% of my time only on building existing relationships of, let's say ten as fifteen as that I have.\nThat will give me a good set of deals and remaining 50%. I might talk to 100 people and build at least 15 relationships who will give me 20% of the deals, right? So that is what I am thinking as my strategy.\nBut it could be different for everybody, right? But that's where I want you two guys to think. Do you want to invest in existing relationships to make them better? Or weed them out to say that hey, these 10 people I'm working with...\nOkay? Kailash is a guy who's always talking, but not much movement, so let me read them out. I won't invest much time and I'll reduce them to nine people and work with these nine to improve. So it is all about your time because this is where we all make money to reach your targets, break your targets, earn that money. This is where it is all about... Q4 is where we make money, so that's all I want to say."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 5,
+        "text": "Sounds good."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you, guys. Thanks a lot. Thank you."
+      }
+    ],
+    "raw_meeting": "**Daily Sales Call**\n🕞 Started at 10:05 PM on 03 Nov, lasted 22m",
+    "raw_content": "Speaker 2 | 00:14\nOkay, take a few accounts from me or I found nothing.\nkailash chanda | 00:21\nUnable to hear you y...\nSpeaker 2 | 00:28\nOkay, another thing. I was just saying that... Aden has sent some accounts for the account mapping. So I'll discuss that with you later.\nkailash chanda | 00:45\nOkay, so let me share my screen. Give me one second creating a copy for today's stand-up. So, okay, they stand up on November 3rd. I ran the numbers yesterday with what you guys gave me. I think we have a good number of deals.\nIf this number works out well, whatever relationships we all put in... If we get that, then I think we have a good amount of pipe, so we should be able to get a good number of activities if that is something we can get mapped right.\nSo that's the whole path. This Friday I will schedule a call to run over our target and plan on how to achieve it like last time. So for now, I am creating an empty goal because I didn't put any goal and we will work through it.\nAgain, yeah, I know, but tomorrow you are going in...\nSpeaker 3 | 02:05\nI have an early morning. I should be in the office. I leave around 04:00 am. So I should be there by...\nkailash chanda | 02:13\nOkay, that's nice. Okay, in column two below. Okay, so yeah, you guys can add columns and then do it upon mapping collateral backer. Okay, so happier as and then coaching. Okay, perfect, so this is for now what you can add today what you guys have done.\nSo my main goal is to run through this part. So this is the portal where we are doing this event on each week at one location. Okay, so I put down a plan on what your travel plan will look like.\nOkay, so let me put it in our group, okay? Plan your trip accordingly. Majority of the time, I think... Yeah. If you can fly in and stay for one day and fly out, that should be good because you will know the feedback of the event, what happens, and then understand what's the next part, right?\nSo I think you guys on the Slack group that we are there for the... Okay. So...\nSpeaker 3 | 03:44\nTo be love...\nkailash chanda | 03:45\nLLaMA, when you go, or I or you guys go to the office, give this link. Tell them that we are going to do an event that we will demonstrate our customer success customer zero story and demonstrate of what... How we build the agent, how we are monitoring, what are the use cases that we have covered inside. As we will be doing a demonstration, working with the account executives, talking about all their questions on MF, Informatic, Mulesoft, anything. We will be there in the tower for the whole day. We will talk with them and take that forward.\nBut ask them to RSVP each. If you are going to Atlanta, ask them to register for Atlanta and then we will know that they will be attending or not. That is important. So every location you guys travel through this month, get this implemented and signed, okay? So if they come to this page click Atlanta you see here...\nSpeaker 3 | 05:00\nIt's basically Loom, right? This is through...\nkailash chanda | 05:02\nIt look yes.\nSpeaker 3 | 05:03\nMa okay sounds good...\nkailash chanda | 05:06\nOkay, so that's an important part of the game. Okay so lion, do you have any trips or Ryan and again, both Chicago and so I know Chicago both you guys will be visiting and so for Ryan, you...\nSpeaker 3 | 05:23\nI am doing so... Kailash, do you want me to go there again on the nineteenth? I mean since I will be there tomorrow, just curious.\nkailash chanda | 05:33\nThere you have to because the event is happening, you have to build a relationship with the right and... How did you book any tickets? No right...\nSpeaker 3 | 05:44\nYeah, I'm leaving to tomorrow night. I will be in Chicago.\nkailash chanda | 05:48\nOr tomorrow in Chicago. Okay. So. Again. Ban...\nSpeaker 3 | 05:51\nSo tomorrow...\nkailash chanda | 05:52\nI want...\nSpeaker 3 | 05:52\nDuring daytime, I'm in Atlanta tomorrow night. Just like we took the same flight that we took. I did the same thing. I mean, I had to do separately because it was giving me ruckers. But it's exactly...\nSpeaker 4 | 06:05\nThe same.\nkailash chanda | 06:06\nOkay then I want you to plan for New York and Chicago and so... Okay, are you're in Toronto local so when we do there you can be there we'll be there mostly be planning to come to Toronto. I might go to Brazil on the 12th to 19th. There is one event in Brazil, so I'll be attending mostly that event.\nSo I might not make it to New York and Atlanta, but Chicago as Toronto is what I plan to be there. Okay. And just to check back on the open opportunities, did you guys catch up with any? Get any updates on what opportunities are open, what are closed and can we update so that we know how much we are carrying over into November from October?\nSpeaker 2 | 07:10\nYeah.\nSpeaker 3 | 07:11\nSo Kailash, I have... Most of my... A lot of them have not responded, so I will catch them like Gavin. All these... I'll catch up tomorrow in person. I did message... I did not get any response except with Matt and Jackson and Cocoa TED Cocoa. I don't have any deal with, but Gavin and Austin and Andrew mostly these guys haven't responded, so I'll catch them tomorrow with the well applied intelligence. Salesforce today we had the scoping pricing call.\nkailash chanda | 07:47\nWhich one...?\nSpeaker 3 | 07:47\nI it's going in the applied intelligence.\nkailash chanda | 07:51\nApplied intelligence? How did it go?\nSpeaker 3 | 07:53\nYeah, it's going in a positive direction.\nkailash chanda | 07:57\nOkay...\nSpeaker 3 | 07:58\nThey have already scheduled a follow-up call again for next week, and so far, so good.\nkailash chanda | 08:03\nWhat did you do?\nSpeaker 3 | 08:07\nIt is 42...\nkailash chanda | 08:07\nThey are okay...\nSpeaker 3 | 08:08\nYes.\nkailash chanda | 08:08\nWith the budget.\nSpeaker 3 | 08:10\nYeah, they were fine. They did not have... I mean, I did not give them any feedback right there on the call, so in person, I'll probably know tomorrow between tomorrow and the day after tomorrow.\nkailash chanda | 08:19\nOkay, so any other opportunity?\nSpeaker 3 | 08:27\nAgain, these guys haven't responded. Opportunities are there. The guys have not responded. But I'm looking forward to having something tomorrow or this week for sure. That's what I heard back from Logan.\nLogan Williams. He's like, \"I have some scoping calls today, so just give me a day or two. Probably by the time you're here...\"\nkailash chanda | 08:46\nNo...\nSpeaker 3 | 08:46\nWe'll have a conversation...\nkailash chanda | 08:47\nI'm not asking for new ones. I am asking whatever is in the pipe here, are they open or closed? That's it, right? So...\nSpeaker 3 | 08:56\nThey're o mine are all open kach...\nkailash chanda | 08:58\nOkay...\nSpeaker 3 | 08:59\nBut no feedback, no good or bad, nothing as of now.\nryan | 09:10\nYeah, mine are all updated. However after end of quarter. I'm still getting a hold of Sonny. I'm still getting a hold of, like, Sam. I'm still getting a hold of these people. So I think, you know, the next day we'll have some. Next day or two we'll have some more updates on what's going on, what it's looking like for November.\nkailash chanda | 09:27\nPerfect, okay, are they...?\nSpeaker 2 | 09:30\nI have three open cells, the total capital. I just spoke with Nick. They are having the meeting this coming Friday by the end of Friday, and co-bank shares, they're going to have a meeting tomorrow. Box funding is pushed to the end of November, but it's still open.\nkailash chanda | 09:50\nBut still, everything is okay.\nSpeaker 2 | 09:52\nThree three opportunities are here. So...\nkailash chanda | 09:54\nGot it? So I think I shared the earlier plan for November. Who has what deals? An MF...\nryan | 10:01\nYeah.\nkailash chanda | 10:01\nSo did you guys look through and put down a strategy from your side on how to approach or whom to approach? Did you guys put down a plan?\nSpeaker 2 | 10:10\nAbsolutely. I am actually creating my strategy purely based on, like that the draft you have shared.\nkailash chanda | 10:18\nOkay...\nSpeaker 2 | 10:19\nThis coming Thursday, I'm meeting with Max. I'm getting on a coffee with him, so I will have a conversation. On Thursday I am meeting with the Green. Mr. Green, sir. He has some opportunities.\nSo creating some sort of pipeline for not just November but December as well. I just got the update from Ryan Cunningham, who had an agent for... So he said that these guys, like the client, have pushed the agent force... So...\nkailash chanda | 10:53\nNo, my plan is... When you look through the names and products and the deals numbers, so... Did you guys plan to say that? Okay, let me try to hit MF or let me try to talk IDP or let me try to talk on the... Yeah, endpoint platform. Who are the guys that you are close with? You put down the numbers.\nNow you have the names and counts. So did you do a math to say that okay, I can target these people? Did you plan anything like that?\nSpeaker 2 | 11:21\nYeah, absolutely. And yeah, that's exactly how I'm moving forward. So they are the first person I'm on my list. I am closely watching them, doing follow-ups more aggressively with them, but not in an aggressive way that I break that bond, but yes, following up with them.\nRecently, I'm trying to support them with the account mapping as well.\nkailash chanda | 11:46\nPerfect. Okay. Again, probably... Ryan, you must have been doing that. But just wanted to check if you... Are planning to...\nryan | 11:56\nNo, absolutely. What you provided us is super helpful to go in to that. I've been doing it. Yeah, since you provided us that she'd be going in and doing updates and having a communication back and forth.\nkailash chanda | 12:08\nI think by this Friday I'll provide more latest info then we'll... Know better data. So that way I'll give you better data by Friday. Did you guys think about the questions that we discussed yesterday, like what do you have anything for tech team? Did you feel that if this was there that will help me to close the deal or get a better deal?\nI mean, if you... If you have not thought about it. If you have thought... Yes, please, chair. If you have not, then let me know.\nryan | 12:34\nYeah. That's what I shared this morning. I was thinking about it last night. It's like, \"Okay, what can we have?\" and I know that we're doing the quickbooks and the net suite, the ERP, some of those package deals. I want to do the same thing for Salesforce because I think we need to get right to be the source of where this deal is originating.\nWe need to focus on them, and we need to give them some pricing out some packages so we can start being super competitive there so we can get some of these guys to start bringing us in.\nLike JACKSONVILLEBOY introduced me to his account executive. I got some other Salesforce guys in Irvine, and I'm going to go see... We just need to go hard after that just to start to get some deals early on because that's how we're going to continue to get the Salesforce stuff.\nIf we get a meal, we're lucky to get a meal. But if we get Salesforce, we're always going to get a meal if there's a play there, right?\nkailash chanda | 13:34\nExactly. That's the game. That's more...\nryan | 13:36\nSo yeah.\nkailash chanda | 13:37\nImportant. So I spoke with Sharman. He said that he's working on it. I gave him a couple of websites where people are putting down the quick starts. I asked him to give that so that it'll be easy for you guys.\nSo let's look at it and come back on that. So I think today and yesterday must be slow days, right? Not many conversations or anything. But did you guys read any sales for your knowledge and understanding?\nSpeaker 2 | 14:04\nYeah, I need actually a strong support here. Like this week, I think it's all about building the credibility. And I mean, as you know, we cannot just, you know, straightforward jump into like asking for deals.\nSo this week's strategy is all about offering the account mapping support. And, if we can if I can get support from you, Sharman and Davis. So, like, I'm working on creating the use case. All I need is, like, you guys can check the fire to make sure that I'm not, you know, sharing any wrong information so I can. I can...\nkailash chanda | 14:40\nYeah, I'll review your new sales kicks and give you feedback before you log in tomorrow. I'll give you my feedback.\nSpeaker 2 | 14:46\nOkay, perfect. Yeah, so that's all I'm doing this week. It's all about sharing the use cases and supporting them with account mapping. Aden has given me five accounts...\nkailash chanda | 14:56\nOkay.\nSpeaker 2 | 14:57\nWorth on...\nkailash chanda | 14:59\nSo did he tell you what their problems are and other things?\nSpeaker 2 | 15:03\nNo. So what he has given me is that he has nothing. He said, you know what? You are on my list. But honestly, I have nothing. What I...\nkailash chanda | 15:11\nOkay.\nSpeaker 2 | 15:12\nOffered him is that I'm going to help you with the account mapping where I try to figure out that this is what we have sold and what would be the next opportunity with the reason. So I have my proper AI set up there. I'm going through the website, their LinkedIn pages, the clients, and any information out there and trying to figure out what would be the next product. The AI Aden has given me the website and what they have like in terms of sales and products so far.\nSo these two pieces of information I have from Aden...\nkailash chanda | 15:47\nOnce you do our one account showcase, let's review and see what it is coming out. Perfect. Emma, did you read any episodes of S?\nSpeaker 4 | 15:59\nI did. I have been reading SWS. I've been thinking between... I have sent you some questions which are very basic, again, everything comes back to, \"Hey, what have you understood about the customer? Who is this customer, what are they looking for?\"\nIn terms of the conversation, anything that might... Any of the deals like... Can Shon or Davis help me in terms of closing deals? Have I thought about those questions? No, not yet. I have not gotten into that groove yet where I see that my delivery team is doing a bad job and that's why it's not getting closed.\nSo I haven't really thought about it yet.\nkailash chanda | 16:50\nNo. My question is, are you reading to understand the product features and the business use cases?\nSpeaker 4 | 16:57\nMioft because like the other day we spoke a kalsh most of my deals are on muloft right? IDP any point? So yes. Am I reading the s? So ws yes, but only about, so far. Mulesoft IDP and all these any point.\nkailash chanda | 17:17\nSo yours are already on calls, which is easier, but did you review any of the other prospects from Ryan or AI?\nSpeaker 4 | 17:25\nNo, I have not... Only my customers. I have been reviewing so that I can understand. I still feel like I do not understand it yet. I do not have that kind of knowledge yet. So that's why I've been just practicing and rereading and taking notes.\nkailash chanda | 17:45\nOkay. Ryan, I think I want you to understand what the business flows and others are because it gives you more edge and value when you talk to somebody. Apart from the relation, it will be easy for you guys to catch up as well.\nThey will feel like, \"Hey, these people are coming up and preparing more, and now they're able to get the top more technical at least.\" I don't want to say 100%, but at least\n30% improvement will be really something good for everybody, that's what I feel. My intention is only that it increases your value in front of the account executives to get more deals. That's the only intention I have. Nothing else.\nSo I want you guys to improve. Where? I'm imping myself on Mulesoft because I don't know Mulesoft. I am reading through the documentations. I'm understanding what it is, what the product is doing, trying to do, or attend workshops.\nSo for everybody in this field, I feel there is a continuous learning required to showcase because I felt very embarrassed. When M MF deal comes, I have to run to Raghu or Sharman to bring them in. I'm not able to talk about anything there, so...\nSpeaker 2 | 18:59\nYes.\nkailash chanda | 18:59\nThat's where I'm spending it. So I want you guys to invest some time and do that while we are free, right? I think Raghu is setting up two calls. One call is with the tech team. So all of us, along with the tech team, we will have a call where they will... It'll be weekly ones, not every day, where we will talk to the Center of Excellence team, who will build all of these assets, do demonstrations for us, or whatever feedback we give. They will come back and develop or be supportive to us, right?\nSo I know Ryan, it is a bit early for you, but I think one day, if you can support that, it will be great. It's just one weekly, one day call. The problem is if we are setting up this slate... I think now with the time change, it's 4 am in India.\nSo to hold off everybody is difficult. That's why I'm requesting you. I know you are early in PST as well, but one day for half an hour, it'll be appreciated if you can join.\nryan | 20:09\nYeah, for sure. I talked to Raghu about it. We came up with the time.\nkailash chanda | 20:13\nPerfect. Okay then, I think that's the whole plan. I think by Friday I'll come up with a new list with the names and what my strategy looks like to put forward. My strategy is to build existing relationships better because that takes 20% of effort.\nBut to convince somebody who's totally new will take more effort. So if I were in your place, what I thought was I would invest 50% of my time only on building existing relationships of, let's say ten as fifteen as that I have.\nThat will give me a good set of deals and remaining 50%. I might talk to 100 people and build at least 15 relationships who will give me 20% of the deals, right? So that is what I am thinking as my strategy.\nBut it could be different for everybody, right? But that's where I want you two guys to think. Do you want to invest in existing relationships to make them better? Or weed them out to say that hey, these 10 people I'm working with...\nOkay? Kailash is a guy who's always talking, but not much movement, so let me read them out. I won't invest much time and I'll reduce them to nine people and work with these nine to improve. So it is all about your time because this is where we all make money to reach your targets, break your targets, earn that money. This is where it is all about... Q4 is where we make money, so that's all I want to say.\nryan | 21:50\nSounds good.\nkailash chanda | 21:50\nThank you, guys. Thanks a lot. Thank you."
+  }
+}
