@@ -1,0 +1,76 @@
+{
+  "id": "01a1a238829e76db915f5c80ceb887aa",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a19e4cb1ae75bea5e841739d7d0096",
+      "title": "STAR team weekly meeting",
+      "duration": 481,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "3lnqh1j22d72i6nuen6j7gt7gk_20261103T160000Z",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vijay@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sravankiran@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sasank@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-03T16:14:38.040Z",
+      "end_date": "2026-11-03T16:22:39.040Z",
+      "url": "https://app.krisp.ai/m/01a19e4cb1ae75bea5e841739d7d0096?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1a2316a4e7503ac610d4d62370125",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 468.378,
+      "size": 1872864,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-10T16:22:54.872Z"
+    },
+    "raw_meeting": "**STAR team weekly meeting**\n🕞 Started at 04:14 PM on 03 Nov, lasted 8m"
+  }
+}
