@@ -1,0 +1,115 @@
+{
+  "id": "01a1a2d97221708b8cc5b3c348de0dc0",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1a2374a4e72fb805c648416740ff0",
+      "title": "Mulesoft + Absolute Solutions Process Mapping",
+      "duration": 2712,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "19ulqgvtsda6le7n498h24q306",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "larellano@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amanda.lok@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "bodwyer@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "joseph.ragain@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "davis@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "jon.knipper@absolutedx.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "rich.fobes@absolutedx.com"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        },
+        {
+          "index": 5
+        },
+        {
+          "index": 6
+        },
+        {
+          "index": 7
+        },
+        {
+          "index": 8
+        }
+      ],
+      "start_date": "2026-11-03T18:32:53.598Z",
+      "end_date": "2026-11-03T19:18:05.598Z",
+      "url": "https://app.krisp.ai/m/01a1a2374a4e72fb805c648416740ff0?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1a2affe3c7118b7143bec763f6095",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 2699.0209999999997,
+      "size": 10795248,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-10T19:18:41.950Z"
+    },
+    "raw_meeting": "**Mulesoft + Absolute Solutions Process Mapping**\n🕞 Started at 06:32 PM on 03 Nov, lasted 45m"
+  }
+}
