@@ -1,0 +1,3704 @@
+{
+  "id": "01a1a2d9d61573b5ae649dbd76cad993",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a2374a4e72fb805c648416740ff0",
+      "title": "Mulesoft + Absolute Solutions Process Mapping",
+      "duration": 2712,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "19ulqgvtsda6le7n498h24q306",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "larellano@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amanda.lok@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "bodwyer@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "joseph.ragain@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "davis@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "jon.knipper@absolutedx.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "rich.fobes@absolutedx.com"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        },
+        {
+          "index": 5
+        },
+        {
+          "index": 6
+        },
+        {
+          "index": 7
+        },
+        {
+          "index": 8
+        }
+      ],
+      "start_date": "2026-11-03T18:32:53.598Z",
+      "end_date": "2026-11-03T19:18:05.598Z",
+      "url": "https://app.krisp.ai/m/01a1a2374a4e72fb805c648416740ff0?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Doing well, thanks for asking. We."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I do have one other person joining me. He is going to be a couple of minutes late, though, so we can get started without him and move forward. We have a couple of people out today, so it's just going to be the two of us."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That works. There are new cases on this call. I don't think you've... You've mentioned their names, Kailash and Ryan, but yeah, do you guys want to introduce yourselves real quick to John?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Yeah, of course. Ryan Breton, a senior county executive here at Dataskate. Dataskate, we've been in the implementation space for about 15 years. More specifically, to Mulesoft about Mulesoft and Salesforce, about eight years.\nSo yep, we're excited to be here on this call today to ask a bunch of questions and learn more about your business and basically see how we can help you. I will introduce our DP of Development, Kailash, to go next."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "John KS I hit the Integration and automation and Dataskate again. Nice to meet you. Looking forward to kind of get to know and ask more questions. You."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Great. Cool. Yeah. These are the guys that I originally asked for. I shared with you the scope of work that they proposed for the first use case. So one of... I'm here to see if they can help pull anything else out of this.\nI think really the hope for today is just to have a conversation to see what other areas of the business we can provide value for. We've discussed retiring from stack potentially and maybe other ID use cases.\nSo before pulling the trigger on actually shifting the use case, we want to make sure that we're expanding and making sure that we're recovering the most important aspect of that. I think by the end of the call, I'd be... If I could wave the magic wand for ideal next steps, it would be either crystal clear on... Hey, the use case that we uncovered was the best one and the most valuable to the business.\nSo that's what we're going to evaluate number-wise. Yeah, I think it does make sense to retire from stock or go with this other use case. Then we can discuss what that looks like from a ROI perspective and what needs to happen to move that forward. Anything you want to add to that, John, as far as what you're expecting out of this and what ideal next steps look like for you?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, not really. I think from my perspective again, and I just want to do a high-level overview of exactly how we use Salesforce just so everybody has an idea. Then, anything that you guys see that we might be able to improve on or create efficiencies, that would be great.\nMaybe we have them all already, but if that's the case, then, yeah, we'll have to refocus back on some of the other conversations we had. But yeah, I just wanted to make sure that we're not missing something from our side before we jump into something else cool."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Hey, it's nice to meet you, man."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You're on New Ridge."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We could read your lips, but we can't hear you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You're on mute."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Sorry about that. Can you hear me? Okay?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, yes, sir, right."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Rich, welcome with absolute solutions. Sorry, I'm a few minutes late, everyone."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. It's okay. I like..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Just to jump in real quick and explain Rich's role. He actually is... He's very involved in our systems from a higher level, and he does a lot of the background implementations, a lot of workflows, different flows that we currently have in our current system. He has a much better knowledge of that than I do.\nSo when we start talking about different things and you bring up different questions, especially if it's behind the scenes, he's going to have a little bit better grasp. I did ask Raghu if he could run through just a referral.\nRaghu, if you can actually start all the way from form stack where we put it in where it's form stack and how it gets the sales force, and then once we do that, just walk us through all the way through the billing to the end, and then we'll... Any questions you guys have, just go ahead and stop us if you need to."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Sure. All right, so let me go ahead and I'll share my screen here. Let's see... Entire screen."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So my screen just froze completely."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Let's see. Okay, let's see here. Can you guys see my screen?"
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Okay, yeah, Doug, doc go."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Okay, doc go. Yep. All right, so from the intake stage, like very first stage, obviously, either, you know, we'll get a phone call or an e mail with a referral or, you know, some of the adjusters will go to this referral intake form and submit a referral to us directly.\nSo, you know, for now, I'm just going to sort of put in, you know, some. Some test kind of information. You know? I'll put in my e mail and the e mail that gets entered here, the system we have set up will send a confirmation e mail to whatever e mail address put in here just to confirm that the referral went through.\nSo I'm going to just kind of put some test info here. John, you're gonna be the adjuster. Let's see, kind of. I'll just fill in a few of these fields here. So these fields we have this is through this intake form is connected to form stack.\nAnd once this form gets filled out, I guess I'll just kind of go with that. John, the only question I had here is what is it a Zap or is it a connection that we have from Salesforce to Hubspot that creates the billing excuse me, that creates the record and Salesforce?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. What happens is we go ahead and submit through this form and it gets dropped into a Hubspot form. Hubspot then is connected through I believe it's API or something on the back end and it goes into Salesforce. Once that hits Salesforce, then we begin working it in Salesforce."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah, that's right. Okay, there's... Let's see if I can... If this is going to... Why is this all right?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I don't know, you guys. I'd imagine there's some sort of automation where it checks Salesforce for an existing record before it pushes a referral in, right? So there's not a whole bunch of duplicates being created."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It doesn't know. If it's a duplicate that comes in, we will find that once it hits Salesforce, but it's not something that automatically happens today. We do get a number of referrals. If you think from a worker's comp perspective, someone gets hurt, they may have a claim number and they might have multiple tests.\nSo if that claim number comes in, we can't just shoot it back because it might just be a different one. Day it might be an MRI, the next time it might be a CT, something like that. So they all come in as individual exams."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yes. So on the front end, if and when we do get duplicates, those are kind of easily flagged by our team and can get kind of, you know, taken and taken out and voided out of the system. On that side of it.\nSo this is the integration, layout that is in forms, that's in form stack, so yeah, that intake form. The fields that are visible come through from Formstack, and the mapping system that integrates a new entry that goes to Salesforce comes through this layout here.\nAnd so we have, you know, a lot of these fields mapped out, obviously as you can. As you can see, this is the general integration layout that we have. So this is where that gets done within FormStack. This sends the referral over to Salesforce, so I'm going to move over to the Salesforce side now."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "So I have a question on FormStack. Is that a manual process?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Today it is, yes. We're manually putting that information in. That's one of the use cases that we had talked about originally. Could we take that information and have it populated into the form and submit without our... With it without someone manually going in and doing it?\nBut today, yeah, we have intake people or our clients go in there and add the information in to them and they submit and it goes through."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "So just to make sure I understand, an external user will add their information into the form that gets sent to form Stack. Then someone in your team has to go to form Stack and kind of like review it and send it to Salesforce."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It automatically once we hit submit on the form, it hits FormStack and automatically then goes to Salesforce. So we have this intermediary of FormStack. When we built this, we questioned if we could cut that out.\nI think at the time, it was the easiest thing for us to do because we already had a connection there. So we just left it in place. One of the things we'd like to do is bypass that piece and have it just go right into Salesforce and Breton."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You to touch on that. So if a client doesn't directly type it in, then they'll send the referral, the email or fax, and then they'll... The intake people at Absolute internally have to type into FormStack so that it gets to Salesforce. Correct?"
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So one quick question. Formstack is just acting as an interface to take the data from the UI and then populate it into the Google sheet as well as Salesforce, correct?"
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yes. Right. Correct."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No business logic. Anything in between?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "No, we originally used to do everything we did in Salesforce here in Formstack, but once we removed that and started doing it over here, the only thing it's doing is redirecting it back."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Anything. Okay, perfect."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah. And I think as John mentioned at the time when we went live with Salesforce originally, I think we were, you know, looking at what we were told may have been some kind of limitations as to kind of having a direct connection to Salesforce for intake.\nSo. So we kept the form stack piece of it. I think we've since learned that. That. You know. We could probably move away from that, which is maybe one of the purposes here. So yeah, so here's the referral.\nIt's a you know, the case as it you know, this is the new record that gets put into Salesforce. It gets sent through that integration system. So, you know, some of the fields that carried through, just for example, this worker's compensation that for the insurance type, there's that email address I put in. I put in John Kniper as the. The adjuster that has it over here and, you know, the way the system has it set up, it matches it to a, you know, a look up field and matches it properly as best it can. That works well. This ABSOM number is an auto generated number that becomes very important internally for us to track, you know, on the scheduling side and then when it transfers over to the billing side."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Just to jump in real quickly here too. Once it hits Salesforce, an automated message goes back to our clients saying it was received and this is the account number and all kind of, you know, that kind of good stuff. One thing to mention when these all come in, once they hit Salesforce, we have them routed in different queues.\nSo we have our scheduling team broken out either by clients or by tiers. Different things like that. When they come in, they get thrown into those queues, and then those individual schedulers will work on those individual files. Just a little background on this. One of the things we needed to do is...\nSo we've contracted with diagnostic facilities all over the country. Maybe 3 to 5,000, something like that. They're all loaded in here as providers, and then all of our client information is loaded in here.\nSo once all this stuff comes in from form stack, it jumps up and bumps up against all of those different databases to prepopulate this information."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah. Those are all done via different flows that we have that are active as far as routing the different queues and the different groups. Then, within those flows, they'll get assigned to the schedulers that are attached to those different groups.\nThat's all done in the flows section. So let's see."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "Sorry, I have a quick question. Just about the email that is sent back to whoever submitted the form. Is it a form stack or Salesforce that is sending that email?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It's Salesforce. Okay."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Thank you. Is that done via Zap? John, is that no?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I think it's a flow that we had set up originally. We used to have it come out of form stack, but what happens in form stack is it pulls their account number. We needed to match Salesforce, so we just bypassed form stack, and once it hits Salesforce, some sort of flow sends it back out and uses the Salesforce account number."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Okay, I thought there was. I thought there was a zap, too, that kind of was integrated in this process. But maybe I'm getting confused with a different email that maybe that's like a welcome email. Is that something different."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "But maybe it is a Zap. I can't remember now, to be honest."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "I know I said it's been a while. I know. Let's maybe that's not terribly important right now, but let me get back to..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Are you guys using Jira to integrate with QuickBooks?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So you should have access to Mail for Flow. So you should be able to connect QuickBooks in Flow build or in Salesforce directly with Mulesoft."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That would be good. Yeah, because we right now set up a Zap we had a Zap actually coming through. It was from Formstack because from a billing perspective, we just moved that over. So that stuff was going back into Formstack.\nThen it was being through Zap put up in the QuickBooks, but we just switched it now so where it we created a Zap so it comes out of Salesforce now in the QuickBooks. So if there's a way for us to maybe bypass that might be something..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "How many zap..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes, so we don't..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You guys..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Have to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Are currently using? Overall across the arc?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "What was that? I'm sorry."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Total number of Zaps that currently you guys are using across the arc..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah, I'm trying to find our... I think it's the main... Here with all the Zaps because I think most of what happens here is most of them are under your name, John. And so when I go to my home page, logged in under my credentials, I just have the one so I'm trying to find where it is.\nYeah, here we go. Okay, yeah, so we have..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Almost nine."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "We just to we just have two active John, this is the one I was mentioning maybe that the Salesforce welcome is that what."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It must be. Yeah, it's active."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah. So, yeah, we have two. I think to answer the question, we currently have two Zaps that are integrated with Salesforce. Okay, so let's see back to... Sorry, I have too many tabs. Okay, back to the referral.\nSo we have our referral, it's been assigned to whoever the staff is, that's going to be in that group. That's done basically depending on what this account name is. The account name is a lookup tool.\nThis, just for our intents and purposes, I'm going to pull up a different account name, which is our insurance company, one of our clients. I've got several validation rules that I have to meet before I can kick this over to billing, which I'm going to do. Now, let's see."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. Can you show the mapping piece real quick? This is something that we had talked about on a couple of different calls, sure, but we haven't necessarily shown it to them. What we're trying to do is figure out how...\nI think you've been on some of these. But we need to figure out how we have a certain client access these maps but not see all the information that we do and have something like a single sign-on where they can jump in and only see the map.\nSo that's something that we're still contemplating."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah, like the... This area. John right, the provider search you're talking about, yeah. So, yeah, this component, we had a help we had helped building. I didn't build this piece, but this is what we're referring to.\nSo this I'll just put in I'll put in my address here, to kind of give an idea on some of the criteria that they need. Basically, this is a search tool to find, you know, imaging center providers. And you know it'll be centered around where the patient lives.\nYou know, 99% of the time. And so the criteria that we have to have an address, we have to have a specialty. You know, I'll put an MRI and then, you know, for the parameters, I'll just put in fifty mile radius and search.\nAnd so all of our providers are entered into Salesforce under accounts just like our clients, but you know, within the accounts section, we have pay we have, providers, which are again, you know, our imaging provider network and then clients, which is our payers, our, you know, the insurance companies that are our clients.\nSo, you know, here's the result of this search. I don't know, I guess I don't know if it's a limitation, but one of the features that we sort of lost here was, you know, our old search engine. It would just give her give us a little bit, kind of a broader picture. The kind of window to look is a little small.\nMaybe that's not a big deal for the scheduling team these days, but you know, this will show us the providers that I put in or excuse me, the providers in the area within the parameters I put in there.\nSo, you know."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Just so you know, Amanda, I know that Pete talked to you about this, but we have certain clients that want to see these on the map. They want to say, \"Okay, we have a patient here, let me put the information in.\"\nThey want to see what our coverage is in that area. So they can just call us and say, \"We want you to go to RADIUS Radiology.\" The problem that we're having now is we don't necessarily want them to have access to this because all of this stuff that's in the middle there that says all of our rates and what they do, that's all internal information.\nSo we're trying to figure out a way to strip all that stuff off. Just give the locations and have them be able to access our information. What we'd like to do is keep it consistent with what we have in Salesforce so we don't have to update two systems.\nSo this provider closes, that is pulled off. We want that to be able to be updated right with the new maps. So that's something that we're looking at today as far as we have a couple of client requests for..."
+      },
+      {
+        "speaker": "Speaker 8",
+        "speakerIndex": 8,
+        "text": "Right? Yeah, I talked to Pete about it. So we do have a map add-on, but the functionality of what we have the maps for is different than what you guys are looking for. So the way that we use the maps is if a field service rep has to go out and nap out his route, that's mainly what it's for. There is a way to make it work the way that you wanted to, but you essentially would have to buy two licenses per user, which I don't think you want to do."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "No."
+      },
+      {
+        "speaker": "Speaker 8",
+        "speakerIndex": 8,
+        "text": "Yeah, sorry."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That's okay. Is there a way for them to access this map only or is that...? I don't know, I'm just throwing that out as..."
+      },
+      {
+        "speaker": "Speaker 8",
+        "speakerIndex": 8,
+        "text": "We do have community partner licenses which allow other people to log in, but it's not going to... It's probably going to show this information that you don't want them to see. So..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "So yeah, this is kind of the map area for the provider search tool that our staff uses and that we were like John said hopefully trying to have mirror out to clients with restricted info. I don't know how that would work if we would have to build, you know, a similar type of system.\nAnd then that is what we would send out to or point to our clients, you know, if we had a similar system and just you know, like we were saying just strip out a lot of info and it would just be, you know, the name of the provider and the address and like literally that's it. Any other pieces of info?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "But that would be another license, right? If we did that, there's no way to get a different type of license on one. That's more minimal, I guess. I don't know if that's a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I mean I think this is about the community license. If they have to expose only the location data to external... Is to mandatory or dates can get one as... So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It's kind of the audio quality is rough. Kailash on your end. But I think what I'm thinking out loud is, yeah, I mean, I don't know what that looks like from a licensing standpoint. A man who might have more input, but you have to have some sort, whether it's Salesforce or another platform integrated with this.\nThen you'd have to have the rule in the middle of what data to push over, and that way you'd be able to update Salesforce to keep that live. But I'm just thinking out loud. Yeah, I think... I think what you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, I think. I think what you know, Rich's thought was can we create can we almost have like another platform within Salesforce that's just this map. And then we would give some sort of license to our clients.\nBut what we don't want to do, obviously, is use the Salesforce license that we use today for the bigger system. We wouldn't want to use that for our clients. We didn't know if there was some sort of lesser type of license that, you know, we could give out and they'd only have access to this one map.\nBut if that's not an option, we can, you know, we'll have to look outside. Yeah, I think it's a pretending to buy."
+      },
+      {
+        "speaker": "Speaker 8",
+        "speakerIndex": 8,
+        "text": "Two different types of licenses there. You have to buy the Salesforce map license and then the community license."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah. Okay. Okay. Well."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So just to be clear, you guys... So this is so the referral comes in, it's EUED to the scheduler, and the scheduler then types in the patient address and finds providers that are close. Yes, and then reach out to the patient and says, \"These are the providers that are closed. Which one do you want to go with?\"\nYeah, okay."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah, pretty much, yeah, at a high level. Yeah. Okay. So let's just kind of work this test referral through, you know, so we can get kind of move over to the billing side and kind of show, you know, how that works.\nSo, you know, this referral has been worked. You know, we've contacted the patient. Patient is going to, you know, go to, you know, an imaging center that we've identified that's in our network that the patients willing to go to that can accommodate the exam.\nYou know, that all gets done by the scheduler and the scheduling team. We've made an appointment. You know, we have some automations in here, like this data appointment secured, for example, it's going to auto populate with a timestamp.\nSo, let's see, I think I need. I need to put in some kind of exam here before I'm able to push it over to billing. So let me just enter some data here. Let's see. I'll get my left hand. I'll get my left hand MRI."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Rich once you before you move it to billing, can you show. We might have to go into a different referral, but show the forms that we're creating and then the medical report that we get. I know, Lucas. At one point, we had talked a little bit about doing something with the medical reports coming in that would be part of this step before it goes to the billing side.\nSo maybe we can just take a quick look at that."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Sure. Like some of the files that we create. Yeah. Okay. So here, obviously we have some tabs, but it goes to files, and this is where files are stored. But, we... Yeah, we have the cloud files, generate document section here, which brings us to... We have three documents that we've built. Patient authorization form, standard employment report. Those are the main two. I'm going to select both of these, and I'm going to tell this to create it in a PDF and I'm going to generate it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This code is now being transcribed. This..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "And these have..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Call is now taking boots."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Been generated and moved to SharePoint. I think I'm just going to refresh. And we do have a flow setup so that once those documents are generated, they get automatically bumped over to our..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm always on the..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Cloud files..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Go, I'm always on the go. I don't know, I think it's going to be an intro success..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Folder because we don't have a lot of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Capability not short thing."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Storage with our profile in Salesforce. So. So here's here are these documents. I'll just pull one of them up..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks for..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "So we can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Being flexible..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Have a look..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Trying to help me here, man. Like..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "See what..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Guys, I don't know what's..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "This looks like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Gonna happen. You know?"
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "So these are all, you know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Trying to..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Obviously done within the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Won't be legal. Okay."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Cloud files..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The terms or whatever, I don't know where it's going..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Area in..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To end up."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Salesforce, you know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think maybe I think we will we are doing the research to get..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "We can manipulate and change and edit and update these..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The and kind of..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Documents and this is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Proposing something."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Working well for us. So this is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So this..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is just to start with we..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Excuse me, an example of what this would look like."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Already we'll schedule some calls once we feel that this is some..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "What information is going into these files? Is it always from the referral or...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Want to agree with one vendor..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Does that have to do with the scheduler?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It would be easier but..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I mean, the provider that you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It may..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Be them with too."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's gold. I don't want..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Both, yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To SW myself up there. I..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Which is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Mean, I got..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Stored in... That referral. So. So in this case, the yeah, the employment report."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In Pallel to..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah, like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And LA..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "The provider..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This as a product..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "I selected here. Let me see if I can zoom in a little bit for you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I might replace a bus..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "You know, I just selected this Naperville..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Because he's... That's what..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Medical Imaging."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm trying to figure out."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Obviously, that's... Mapped here."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To play hardball here? I'm trying to tell them..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Absolute solutions..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What my..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Were just listed as the provider..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Challengeies are on. Nothing do with the..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Because this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "More on the business."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Is going you know, this particular document will go back to our ajuster."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I just wanted to..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "They want to know when is it scheduled and where is it scheduled and is it a network? So, you know, obviously that information we try and make, you know, kind of prominent up here. Patient information, facility information, what's being done, who's the referring doctor, et cetera."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You... My country... Former country..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "So yeah, this is all mapped from fields in the in that case, in this referral here."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So kind."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "It's the same with this other document, this authorization that we send to our providers of service."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Well, we can stick in..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "And this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's easier..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "How is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To speak basically..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "How are those documents..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But yeah..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "Being sent to the providers..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "To the... I'm not sure if the end..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks for joining..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "Customer is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To introduce..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "Receiving those forms or just..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "As one of..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "The providers."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Our distinct lines where we..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "So, yeah, the clients or the customers are they're sent via e mail. So. So the scheduler..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The medical..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Will take these forms, download them..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Records submission, uploading and payments of..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "And send e, you know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Quarters and..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Separate emails to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Because we have DR..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Or faxes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And to..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "You know, like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Our IQ, they have..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "For the provider of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Been the..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Service. You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Business for..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "A lot of times they'll..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Ten plus years. As I..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Fax it, along with the script that we'll get..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "With CL, which is the largest..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "For whatever the test is."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In India and..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "So those are sent either..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "They cooperate..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Via fax or... Email to our providers and then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Just to..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Give you an..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Usually via email..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Idea how where we selected this..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "To our adjusters..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Product and..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Which are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What you..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "You know, the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To locate."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Customers or..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So this is something..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "That's a... Manual process... As well. So they... Download the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "My team is already..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "File, attach right, whatever needs to be written..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Some overseas."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "On the email and... Then send it out."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Extent that we are being..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah, we have an email..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To introduce kind..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "System set up."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Off. Miro..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "I John..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Will talk..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "You can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "About the..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Jump in..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Product and you can..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Here. I don't think that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Ask something about the requirement..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "We take advantage..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And then..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Of it at this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can kind..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Time because of some reasons that I was not involved in, but maybe John can speak a little bit on that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, we just had some internal errors when we tried to use the e mail directly. And..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If you want, we can go..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "In Salesforce..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Into details about the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It would be great if we could..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Product. We..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Because yeah, they're downloading this all into their actual emails. They're saving them. There's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So the robotic..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You know, attaching..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Team, the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Them and then they're sending them..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Robotic product is the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Versus just going here and sending them out."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Bing customers for the globe..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I'd have to look back to see..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And all..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Exactly what..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The markets..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The problem..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of Rocos. So we are..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Was. I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Integrated with the technology users..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I think there were certain times... We were sending..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Things out, but they weren't being delivered."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have by Miro means that we are integrated..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So. So we... Ended up just pulling back and saying..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Poor American you know..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Don't do..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'll call..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It because..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The air..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We don't want to, you know, risk... Them not getting the information."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Any time can..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So if..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Be part..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "There was a better..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Flow for us to use..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Process chain."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Some of these things, I think that would..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So da..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Be great."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Daco with me is..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Outlook, what's your e mail provider? Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Work technical..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We do."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And you can ask..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "More technical questions. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We have a flow for that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If you... I think..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So what Mulesoft flow is basically like, you know what flow is you build flows all the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Understand your requirements and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Time. With..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Make you..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Your existing Mulesoft investment..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Use in..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Which I think..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Mind or we can..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You have..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In mastering."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Access to. I have to double-check. But you should be able to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Connect Outlook and Quick Books..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "There's. There's."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In your flows and Salesforce."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm in. I'm in..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So the reason why we're asking about how this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Industry. I'm..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Workflow looks is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In legal."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We should be able to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm independent."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Create a flow in Salesforce, which sends these emails via..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I want to go to a place where I have a bunch of different businesses and..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "I think we might..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm just looking for a partner I can..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Have that connection like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't want to pay ten"
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "If you can see..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thousand dollars. I want to have..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Kind of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One place I can..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "The email..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Go to and never..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "You know, tab..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Really do know one place. I don't know when we do..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Within this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A deal with we can..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Component that we have here, it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Taxs right..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Does kind of bring this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Now with..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Up which is... Connected to our outlook."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Business res medical records..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "So yeah, again... We had some users just running..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Transform a couple of those guys and..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Into some..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "They're really..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Issues at the time of the launch..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Instruments in the..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "I think... They just... Ended up bailing on it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And then..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "And just kind of using their..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Continue the beginning but..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Own, you know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Will be going and..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Outlook app that are on their..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Opening the space. This would be..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Desktops as opposed to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Going and..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "The built-in system here. But I do think there was..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What we call a..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Some kind of integration via flow to... Our outlook."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I believe..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It. But there'll be another thing that we can talk a we're..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We'd have..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Gonna go to..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To take a look at that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Progressive go or whatever you're around and open up..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Outside of this. To..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Some data, which I'm on..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Rich, can you show the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Right now. I'm hoping to stay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Notes? Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "There with the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Real quick. Yeah. One, I only bring this up to see if..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You guys... I don't know..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You all..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What's going..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Do you have any other ideas or information on this? So on the left here..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To buy it more and..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We put..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "More you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "All of our notes down. So... Anytime something happens on the referral, we ask our schedulers..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "01:25 more..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To note the file and put the information in..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know they just harmful."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "There we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I don't know why we haven't..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "When you go..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Haven't added here..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To reporting for this, it's called..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's... I don't know like I'll..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Chatter, I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Be changed here..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Believe. And we've tried to build some different..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And you know I'm looking..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Reports around the... Chatter, but... We're... We struggle a little bit with it... Because it's hard to pull exact things out..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Pay for..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Of the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The bill..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Chatter. So... I don't know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Bill among..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "If there's some other..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And we have all the structure that has to..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Situation or something that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Go through..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We could look at as far as our... Notes are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To fall you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Concerned because if we could..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Working for..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Figure out somehow how to report on the information..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To maybe..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Going into that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Go down..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Section there..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That will be..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That would be great. We're... Just we're we've just run into some..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But you know..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Roadblocks when..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Just sitting..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We try to do that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's kind of one of the reason another reason why..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "When you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We're doing..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Say reporting, what are you trying..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It. And..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "To get out of it? Is it...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "First company who is..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Like what...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Interested in the R PA..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "What we'll..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Process. And..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Do? So we have different..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think that's going to completely go..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Time frames..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Away for a while."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And milestones that we need to meet with our client. And some of that is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So we..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, we... Get a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Figure out you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Referral. It's... Got to... Be scheduled..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A 40..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Within 24 hours."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "IDP at as..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "If it's not scheduled within that time frame, we need to update..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We'll figure out it's..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Or adjust... Or we need to update..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Whatever you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Nurse case managers..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Guy retrieve..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That kind of... Thing. We'd like to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Need to push..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Run a bunch of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For further..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Metrics on that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "IDP reaction..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To make sure..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Things like..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That these schedulers are actually hitting those milestones."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And then you I'm maybe..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "What we've done is we've..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It doesn't..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Built some different..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Or use case who your operation..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Reports and tried to pull the information..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is but you can know the whole story..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Out to pull... A report, for example..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And then..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Scheduler a you have 15..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It might be going to the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Referrals. Are these 15..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Insurance companies..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Referrals meeting our..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And doing our forms. It might be going to..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Milestones today? We don't have anything in place to be able to monitor that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So we've created some workarounds off of these notes, but ideally what we'd like to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can get the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Do is say, okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Data programmatically and where we need..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We got the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To go into..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Referral on November 3rd..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I haven't really..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "At 1239..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That. That we do right now we have..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Those medical..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "24 hours. There..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Requests that we think..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Haven't any update to the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "First thing..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Adjuster. We'd like to be able to pull that information out of the notes. We've tried putting radio buttons and different things on the actual form, but it just becomes something that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Like, I'm going..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The schedulers..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To be in..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Will just click..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "At care, I'm in fin."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We would rather pull it out of that information."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't know..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So I don't..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Where I..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Know if that's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can help..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Even a possibility."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You. You know, I'm investor..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And again, we do..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Rather than..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Have some workarounds..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't get..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Kind of working on that. It's just not 100% accurate from our perspective."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Yeah, I left a minute and came back. Is this a case object? Is that what you guys are on right now?"
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Okay, so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Going so fast that..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Have you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Guys ever..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Want to trust..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Used stages."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "For any..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Somebody else..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Of this?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To make all..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "No."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "These decisions for me, right? So..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Do you guys know the concept of these? These are at the top... Of the case..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Shopping? I try..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Stages. Typically what folks will do is they'll..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To you..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Define a process..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Don't see..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "As good."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "So it's like referral received. That's the first one, and then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So you..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "The next step is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Know, radical..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Whatever that milestone is, and you can kind..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I want..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Of gage that each..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know being treated..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "State, each..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "By my in the middle..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Stage, time..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of the night and some days..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Stamps want to move through there. So... Best practice typically..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Something else. But..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Is define..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "The process. And you can have a few different..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So that's they look at..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Areas where if you go to one stage and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A platform they're going to move..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "It's you have a different..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "At my..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Path, it can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "SNE that's..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Have a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Kind of the..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Different set..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Biggest thing."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Of follow ups..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "All the..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "After that. So it's like it doesn't..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Capabilities to..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Need to be one finite..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's kind..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Piece there..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of where..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "But when you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm at."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Have one, each time something shows..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I mean, there's..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Up, the clock..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "More use cases, maybe..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Starts going."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You guys can..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "And then as the stage..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sa some use..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Moves, that's that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Cases. I mean..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Timestamp to see. Okay, how many are getting stuck in..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "This section? You know? And again, for visibility reporting too, it's like, \"Hey, you log in the morning, you go, \"Okay, I got... \""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I can..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Eight that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "See that..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Should have gone out yesterday. Okay, they're..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You're aware..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Sitting that stage."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of where..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Let me focus... On those zones first. That's not..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And where to use..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Through the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It. So I'm..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Note section there. That would be a separate on logging like the actual..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Really happy that you are..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Text. But typically what you want to do is, you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Fast and thinking, you know..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "I guess you could do a trigger there where if it's like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In this progress of..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "A workflow..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The going..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Rule or something where it's like, \"Hey, if... \""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Towards. So what we..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "It searches for..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What they..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "That type..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can for..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Of text..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can what..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "I seen..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can do..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Within there..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For you."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "It can move the stage. But..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So we..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "That, you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can do..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Know, makes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Whatever is..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Them having to follow a certain..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Necessary. We can work..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Kind of like format..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For technology..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "If you want to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can do..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Automate it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The PSC..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "But typically the best..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We thinking..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Practice, John, is to write some notes in there and just click the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Whatever you..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Stage over. And..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Need from..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Once it's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Our sites..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "In that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To be..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Stage, as long as there's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Know this..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "You know, maybe there's field dependencies you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Initiative even to, you..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Need where it's like, \"Hey, we...\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Know, develop..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "In order..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The process."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "To move it to this stage, you have to have this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Let's say..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Information, this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Somehow the..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Date, this filled..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Product will..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Out, you know, kind of a validation role..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The process..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "And then it... Kind of goes through... There. But that's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The technology..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Typically how folks will do those..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Delivery. And we are..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Types of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Here to..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Things is using that stage functionality and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Support and regarding the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Rich is that kind of what we have with that bar on the top there or is that something different?"
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah, I believe so. So you know that there, you know, there are several validation..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Develop and together we can help..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Rules set up to be able to move through these flows. I think you were alluding to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Support that is needed."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "To Joseph..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So on the tech..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "I had one question. Based on what you were mentioning there..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of the world..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And access to the systems where there's..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Would some of those metrics be able to be mapped or are they...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So in..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Mappable? When..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The process and..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "You are what is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thecription of..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "It? I... Think it's like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is not..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "The enable tracking or enable tracing that allows you to trace and track certain fields and when they are changed or updated and then they show up in the chatter."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So during this in the specification and based on that..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Yeah, exactly. Right. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "You can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Continue on the..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Push things there. So whatever kind of things you want to track within that chatter for read, typically it's usually like communication stuff but you can do if you don't understand how to create workflow rules and some of those flows, you can set some triggers to push information into that. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Right now."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Yes, the answer is yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So we got a little bit..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Because here's what we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of analysis."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We run into a little bit of analysis. So these individual schedulers have anywhere from fifteen to they could have forty, fifty files working at one time. What we run into a lot is we're scheduling referrals, and we get a call from the adjuster, and the adjuster is like, \"I haven't heard anything about this referral at all.\"\nSo we go back in here, and the only thing that we jump on now is these notes, and we say, \"Okay, what has been worked, what has been done? How can we...? What has been missed?\" So we've pretty much changed our schedulers to say, \"Okay, every time you do something, you have to put that information in to this chatter so we can go back and look at it.\"\nThen what we've developed is a workaround to say, \"Okay, out of her 50 referrals, for example, there are different trigger points.\" I guess from a reporting standpoint that we've created through AI where it says, \"Okay, these five haven't been touched at all. It's been twenty-four hours. There are no updates. Back to the adjusters. We need to get on top of those and make sure that this individual schedule gets on top of those.\"\nSo that actually has really helped us since we moved to Salesforce. But there are certain times when we'll just get blindsided with something, and we're like, \"What is going on with this? How come we're not working this?\"\nWe don't know until it's too late. So yeah, that's what we're doing."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Yeah. So again, if you think about this, this is something I used to use Salesforce from a user perspective, not just working at Salesforce. And that was... We were spending a bunch of money on elites, right? Coming in inbound lead. We're paying a ton of money for marketing. A lead would come in, and the conversion rate on inbound leads...\nThe faster every hour that goes by, the lower the conversion rate goes. So any time a lead comes in, it is automatically created as an untouched lead. If 24 hours went by and they didn't reach out to them, an email gets sent to the person, their boss, saying, \"Hey, you didn't touch this lead. You can do a trigger on that. You can even have responses going out to the people that maybe send them in as well.\"\nIt's like the nice part was we have these stages, you have those milestones, you guys define what ideal best practices are. You can have a system track everything with stages, but do nudges, follow-ups.\nSo maybe, instead of, for example, we'd have people coming in and filling out a form on the website, and no one would follow up. It's about experience, right? But sometimes you'd set up so everyone that does a lead on the website gets an email from the person who should follow up and say, \"Hey, so you're not very busy, I'll call you ASAP.\" Or you can schedule time on their calendar right now, and they can do some proactive follow-up.\nSo at least the person that's waiting has some sense of like, \"There's something going on.\" So long story short, that's just an example. I think that at your point, John, mapping out what ideal best practices are and using stages would be a good way for you to be able to... That and for you as reporting, it's very easy to do reports on stages like, \"Hey, I've got all these in certain buckets from a leadership or visibility standpoint.\" You need to say, \"Hey, we got to move these to the stages.\"\nThat's a very common sales funnel. But it can be used in service, it can be used for role management, things like that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. I think that was our intent at the beginning, we wanted to put different milestones out there where we get notified. This is really an issue on our side. We went away with it at first because it was too much.\nSo we were... We were trying to get used to the system and they were getting hit with different things. So we pulled back on that a little bit. Rich, I think that's probably something we need to refocus on and put those milestones back out there.\nSo these people are getting notified and the managers are getting notified. I think we've been on the system long enough now that we should be able to incorporate some of that stuff back in and solve some of these issues."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For every stage, if you have a certain set of tasks or tasks that need to be completed, we could have them listed out at this stage under Activities to check boxes so that, as Joe mentioned, once you identify that certain activity is not there, we send out an email. We map up to say that \"Hey, a follow-up email has been sent.\"\nIf any particular activity is done or uploaded any documents, then the checkbox ticks to say that \"Hey, this task has been completed.\" So if there are a pre-defined set of tasks that will be done at a certain stage, then we could have them incorporated and run reports or activities based on those steps that we defined as well."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, that makes sense."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Well, should I'll go ahead and kind of continue with this to kind of move it along to the billing side. So I filled out a couple of the fields. You know, appointment. Appointment day. The provider, an employer, needs to go here for this client. Trying to think if there are any other validation rules, but so... I would go in and... Mark it as scheduled..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Data is available. VIRCP bring back..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "After that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Grant an answer to send it back..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "The provider..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To you..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Will send us a medical report. Once..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The only way..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "We get..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I can..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "That medical report, that's... So those are usually faxed to us, sometimes emailed, and our medical reports team..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes. Yes."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Will pick that up. Find the file in Salesforce here and then go to the files and attach it. Upload it to the file..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For... No. So we have..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "An email will then get sent to the adjuster with that medical report because they're looking for that. Once that's done..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And then..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "The referral in this case will get flipped over to a medical report received status."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That's all. You will too. We get those in fax. We have to go in here, attach them, download it to our... Save it on our desktop, and then we send it to the adjuster via mail. So if there's some way to gain efficiencies there, that would be something to look at as well."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "When that medical report is being attached, is it just being attached or are...? Is the team manually inputting any fields coming from...?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And they're not manually inputting anything. Although we would like to take that medical report and bump it up against the information that we have in the system to make sure it matches, we may schedule an MRI of the left shoulder and then we'll get the report and it'll say MRI of the right shoulder. So our team needs to do that. Sometimes things get missed and then it's sent out to the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Provides... You..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Adjuster. But it'd be great if we could somehow validate it and then have it automatically just go right out to the adjuster because we have all the information in the system. Something to think about, I guess."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Always take..."
+      },
+      {
+        "speaker": "Speaker 7",
+        "speakerIndex": 7,
+        "text": "What happens if you said it says left shoulder and it was right shoulder? What would happen then? You have to call the medical provider."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, we would have to go back to the facility and say, \"Look, this isn't correct. You need to fix it and send it to us.\" Then we would report that on..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah. Most of the time it's a clerical error. But there are certainly times when the wrong..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "With GenAI."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Body part's done."
+      }
+    ],
+    "raw_meeting": "**Mulesoft + Absolute Solutions Process Mapping**\n🕞 Started at 06:32 PM on 03 Nov, lasted 45m",
+    "raw_content": "Speaker 2 | 00:00\nDoing well, thanks for asking. We.\nSpeaker 3 | 00:04\nI do have one other person joining me. He is going to be a couple of minutes late, though, so we can get started without him and move forward. We have a couple of people out today, so it's just going to be the two of us.\nSpeaker 2 | 00:16\nThat works. There are new cases on this call. I don't think you've... You've mentioned their names, Kailash and Ryan, but yeah, do you guys want to introduce yourselves real quick to John?\nSpeaker 4 | 00:28\nYeah, of course. Ryan Breton, a senior county executive here at Dataskate. Dataskate, we've been in the implementation space for about 15 years. More specifically, to Mulesoft about Mulesoft and Salesforce, about eight years.\nSo yep, we're excited to be here on this call today to ask a bunch of questions and learn more about your business and basically see how we can help you. I will introduce our DP of Development, Kailash, to go next.\nkailash chanda | 00:56\nJohn KS I hit the Integration and automation and Dataskate again. Nice to meet you. Looking forward to kind of get to know and ask more questions. You.\nSpeaker 2 | 01:07\nGreat. Cool. Yeah. These are the guys that I originally asked for. I shared with you the scope of work that they proposed for the first use case. So one of... I'm here to see if they can help pull anything else out of this.\nI think really the hope for today is just to have a conversation to see what other areas of the business we can provide value for. We've discussed retiring from stack potentially and maybe other ID use cases.\nSo before pulling the trigger on actually shifting the use case, we want to make sure that we're expanding and making sure that we're recovering the most important aspect of that. I think by the end of the call, I'd be... If I could wave the magic wand for ideal next steps, it would be either crystal clear on... Hey, the use case that we uncovered was the best one and the most valuable to the business.\nSo that's what we're going to evaluate number-wise. Yeah, I think it does make sense to retire from stock or go with this other use case. Then we can discuss what that looks like from a ROI perspective and what needs to happen to move that forward. Anything you want to add to that, John, as far as what you're expecting out of this and what ideal next steps look like for you?\nSpeaker 3 | 02:19\nYeah, not really. I think from my perspective again, and I just want to do a high-level overview of exactly how we use Salesforce just so everybody has an idea. Then, anything that you guys see that we might be able to improve on or create efficiencies, that would be great.\nMaybe we have them all already, but if that's the case, then, yeah, we'll have to refocus back on some of the other conversations we had. But yeah, I just wanted to make sure that we're not missing something from our side before we jump into something else cool.\nSpeaker 2 | 02:51\nHey, it's nice to meet you, man.\nSpeaker 3 | 02:55\nYou're on New Ridge.\nSpeaker 2 | 03:01\nWe could read your lips, but we can't hear you.\nSpeaker 3 | 03:03\nYou're on mute.\nSpeaker 5 | 03:05\nSorry about that. Can you hear me? Okay?\nSpeaker 2 | 03:08\nYeah, yes, sir, right.\nSpeaker 5 | 03:10\nRich, welcome with absolute solutions. Sorry, I'm a few minutes late, everyone.\nSpeaker 2 | 03:14\nYeah. It's okay. I like...\nSpeaker 3 | 03:16\nJust to jump in real quick and explain Rich's role. He actually is... He's very involved in our systems from a higher level, and he does a lot of the background implementations, a lot of workflows, different flows that we currently have in our current system. He has a much better knowledge of that than I do.\nSo when we start talking about different things and you bring up different questions, especially if it's behind the scenes, he's going to have a little bit better grasp. I did ask Raghu if he could run through just a referral.\nRaghu, if you can actually start all the way from form stack where we put it in where it's form stack and how it gets the sales force, and then once we do that, just walk us through all the way through the billing to the end, and then we'll... Any questions you guys have, just go ahead and stop us if you need to.\nSpeaker 5 | 04:14\nSure. All right, so let me go ahead and I'll share my screen here. Let's see... Entire screen.\nSpeaker 2 | 04:23\nSo my screen just froze completely.\nSpeaker 5 | 04:29\nLet's see. Okay, let's see here. Can you guys see my screen?\nSpeaker 6 | 04:37\nOkay, yeah, Doug, doc go.\nSpeaker 5 | 04:41\nOkay, doc go. Yep. All right, so from the intake stage, like very first stage, obviously, either, you know, we'll get a phone call or an e mail with a referral or, you know, some of the adjusters will go to this referral intake form and submit a referral to us directly.\nSo, you know, for now, I'm just going to sort of put in, you know, some. Some test kind of information. You know? I'll put in my e mail and the e mail that gets entered here, the system we have set up will send a confirmation e mail to whatever e mail address put in here just to confirm that the referral went through.\nSo I'm going to just kind of put some test info here. John, you're gonna be the adjuster. Let's see, kind of. I'll just fill in a few of these fields here. So these fields we have this is through this intake form is connected to form stack.\nAnd once this form gets filled out, I guess I'll just kind of go with that. John, the only question I had here is what is it a Zap or is it a connection that we have from Salesforce to Hubspot that creates the billing excuse me, that creates the record and Salesforce?\nSpeaker 3 | 06:30\nYeah. What happens is we go ahead and submit through this form and it gets dropped into a Hubspot form. Hubspot then is connected through I believe it's API or something on the back end and it goes into Salesforce. Once that hits Salesforce, then we begin working it in Salesforce.\nSpeaker 5 | 06:48\nYeah, that's right. Okay, there's... Let's see if I can... If this is going to... Why is this all right?\nSpeaker 2 | 07:01\nI don't know, you guys. I'd imagine there's some sort of automation where it checks Salesforce for an existing record before it pushes a referral in, right? So there's not a whole bunch of duplicates being created.\nSpeaker 3 | 07:12\nIt doesn't know. If it's a duplicate that comes in, we will find that once it hits Salesforce, but it's not something that automatically happens today. We do get a number of referrals. If you think from a worker's comp perspective, someone gets hurt, they may have a claim number and they might have multiple tests.\nSo if that claim number comes in, we can't just shoot it back because it might just be a different one. Day it might be an MRI, the next time it might be a CT, something like that. So they all come in as individual exams.\nSpeaker 5 | 07:45\nYes. So on the front end, if and when we do get duplicates, those are kind of easily flagged by our team and can get kind of, you know, taken and taken out and voided out of the system. On that side of it.\nSo this is the integration, layout that is in forms, that's in form stack, so yeah, that intake form. The fields that are visible come through from Formstack, and the mapping system that integrates a new entry that goes to Salesforce comes through this layout here.\nAnd so we have, you know, a lot of these fields mapped out, obviously as you can. As you can see, this is the general integration layout that we have. So this is where that gets done within FormStack. This sends the referral over to Salesforce, so I'm going to move over to the Salesforce side now.\nSpeaker 7 | 08:50\nSo I have a question on FormStack. Is that a manual process?\nSpeaker 3 | 08:56\nToday it is, yes. We're manually putting that information in. That's one of the use cases that we had talked about originally. Could we take that information and have it populated into the form and submit without our... With it without someone manually going in and doing it?\nBut today, yeah, we have intake people or our clients go in there and add the information in to them and they submit and it goes through.\nSpeaker 7 | 09:20\nSo just to make sure I understand, an external user will add their information into the form that gets sent to form Stack. Then someone in your team has to go to form Stack and kind of like review it and send it to Salesforce.\nSpeaker 3 | 09:34\nIt automatically once we hit submit on the form, it hits FormStack and automatically then goes to Salesforce. So we have this intermediary of FormStack. When we built this, we questioned if we could cut that out.\nI think at the time, it was the easiest thing for us to do because we already had a connection there. So we just left it in place. One of the things we'd like to do is bypass that piece and have it just go right into Salesforce and Breton.\nSpeaker 2 | 10:04\nYou to touch on that. So if a client doesn't directly type it in, then they'll send the referral, the email or fax, and then they'll... The intake people at Absolute internally have to type into FormStack so that it gets to Salesforce. Correct?\nSpeaker 5 | 10:20\nYeah.\nkailash chanda | 10:20\nSo one quick question. Formstack is just acting as an interface to take the data from the UI and then populate it into the Google sheet as well as Salesforce, correct?\nSpeaker 5 | 10:32\nYes. Right. Correct.\nkailash chanda | 10:33\nNo business logic. Anything in between?\nSpeaker 3 | 10:36\nNo, we originally used to do everything we did in Salesforce here in Formstack, but once we removed that and started doing it over here, the only thing it's doing is redirecting it back.\nkailash chanda | 10:48\nAnything. Okay, perfect.\nSpeaker 5 | 10:50\nYeah. And I think as John mentioned at the time when we went live with Salesforce originally, I think we were, you know, looking at what we were told may have been some kind of limitations as to kind of having a direct connection to Salesforce for intake.\nSo. So we kept the form stack piece of it. I think we've since learned that. That. You know. We could probably move away from that, which is maybe one of the purposes here. So yeah, so here's the referral.\nIt's a you know, the case as it you know, this is the new record that gets put into Salesforce. It gets sent through that integration system. So, you know, some of the fields that carried through, just for example, this worker's compensation that for the insurance type, there's that email address I put in. I put in John Kniper as the. The adjuster that has it over here and, you know, the way the system has it set up, it matches it to a, you know, a look up field and matches it properly as best it can. That works well. This ABSOM number is an auto generated number that becomes very important internally for us to track, you know, on the scheduling side and then when it transfers over to the billing side.\nSpeaker 3 | 12:20\nJust to jump in real quickly here too. Once it hits Salesforce, an automated message goes back to our clients saying it was received and this is the account number and all kind of, you know, that kind of good stuff. One thing to mention when these all come in, once they hit Salesforce, we have them routed in different queues.\nSo we have our scheduling team broken out either by clients or by tiers. Different things like that. When they come in, they get thrown into those queues, and then those individual schedulers will work on those individual files. Just a little background on this. One of the things we needed to do is...\nSo we've contracted with diagnostic facilities all over the country. Maybe 3 to 5,000, something like that. They're all loaded in here as providers, and then all of our client information is loaded in here.\nSo once all this stuff comes in from form stack, it jumps up and bumps up against all of those different databases to prepopulate this information.\nSpeaker 5 | 13:20\nYeah. Those are all done via different flows that we have that are active as far as routing the different queues and the different groups. Then, within those flows, they'll get assigned to the schedulers that are attached to those different groups.\nThat's all done in the flows section. So let's see.\nSpeaker 7 | 13:45\nSorry, I have a quick question. Just about the email that is sent back to whoever submitted the form. Is it a form stack or Salesforce that is sending that email?\nSpeaker 3 | 13:55\nIt's Salesforce. Okay.\nSpeaker 5 | 13:57\nThank you. Is that done via Zap? John, is that no?\nSpeaker 3 | 14:02\nI think it's a flow that we had set up originally. We used to have it come out of form stack, but what happens in form stack is it pulls their account number. We needed to match Salesforce, so we just bypassed form stack, and once it hits Salesforce, some sort of flow sends it back out and uses the Salesforce account number.\nSpeaker 5 | 14:24\nOkay, I thought there was. I thought there was a zap, too, that kind of was integrated in this process. But maybe I'm getting confused with a different email that maybe that's like a welcome email. Is that something different.\nSpeaker 3 | 14:39\nBut maybe it is a Zap. I can't remember now, to be honest.\nSpeaker 5 | 14:46\nI know I said it's been a while. I know. Let's maybe that's not terribly important right now, but let me get back to...\nSpeaker 2 | 14:58\nAre you guys using Jira to integrate with QuickBooks?\nSpeaker 4 | 15:01\nYes.\nSpeaker 2 | 15:03\nSo you should have access to Mail for Flow. So you should be able to connect QuickBooks in Flow build or in Salesforce directly with Mulesoft.\nSpeaker 3 | 15:13\nThat would be good. Yeah, because we right now set up a Zap we had a Zap actually coming through. It was from Formstack because from a billing perspective, we just moved that over. So that stuff was going back into Formstack.\nThen it was being through Zap put up in the QuickBooks, but we just switched it now so where it we created a Zap so it comes out of Salesforce now in the QuickBooks. So if there's a way for us to maybe bypass that might be something...\nkailash chanda | 15:40\nHow many zap...\nSpeaker 2 | 15:40\nYes, so we don't...\nkailash chanda | 15:40\nYou guys...\nSpeaker 2 | 15:41\nHave to...\nkailash chanda | 15:41\nAre currently using? Overall across the arc?\nSpeaker 3 | 15:47\nWhat was that? I'm sorry.\nkailash chanda | 15:49\nTotal number of Zaps that currently you guys are using across the arc...\nSpeaker 5 | 15:53\nYeah, I'm trying to find our... I think it's the main... Here with all the Zaps because I think most of what happens here is most of them are under your name, John. And so when I go to my home page, logged in under my credentials, I just have the one so I'm trying to find where it is.\nYeah, here we go. Okay, yeah, so we have...\nkailash chanda | 16:19\nAlmost nine.\nSpeaker 5 | 16:20\nWe just to we just have two active John, this is the one I was mentioning maybe that the Salesforce welcome is that what.\nSpeaker 3 | 16:28\nIt must be. Yeah, it's active.\nSpeaker 5 | 16:30\nYeah. So, yeah, we have two. I think to answer the question, we currently have two Zaps that are integrated with Salesforce. Okay, so let's see back to... Sorry, I have too many tabs. Okay, back to the referral.\nSo we have our referral, it's been assigned to whoever the staff is, that's going to be in that group. That's done basically depending on what this account name is. The account name is a lookup tool.\nThis, just for our intents and purposes, I'm going to pull up a different account name, which is our insurance company, one of our clients. I've got several validation rules that I have to meet before I can kick this over to billing, which I'm going to do. Now, let's see.\nSpeaker 3 | 17:33\nYeah. Can you show the mapping piece real quick? This is something that we had talked about on a couple of different calls, sure, but we haven't necessarily shown it to them. What we're trying to do is figure out how...\nI think you've been on some of these. But we need to figure out how we have a certain client access these maps but not see all the information that we do and have something like a single sign-on where they can jump in and only see the map.\nSo that's something that we're still contemplating.\nSpeaker 5 | 18:00\nYeah, like the... This area. John right, the provider search you're talking about, yeah. So, yeah, this component, we had a help we had helped building. I didn't build this piece, but this is what we're referring to.\nSo this I'll just put in I'll put in my address here, to kind of give an idea on some of the criteria that they need. Basically, this is a search tool to find, you know, imaging center providers. And you know it'll be centered around where the patient lives.\nYou know, 99% of the time. And so the criteria that we have to have an address, we have to have a specialty. You know, I'll put an MRI and then, you know, for the parameters, I'll just put in fifty mile radius and search.\nAnd so all of our providers are entered into Salesforce under accounts just like our clients, but you know, within the accounts section, we have pay we have, providers, which are again, you know, our imaging provider network and then clients, which is our payers, our, you know, the insurance companies that are our clients.\nSo, you know, here's the result of this search. I don't know, I guess I don't know if it's a limitation, but one of the features that we sort of lost here was, you know, our old search engine. It would just give her give us a little bit, kind of a broader picture. The kind of window to look is a little small.\nMaybe that's not a big deal for the scheduling team these days, but you know, this will show us the providers that I put in or excuse me, the providers in the area within the parameters I put in there.\nSo, you know.\nSpeaker 3 | 20:00\nJust so you know, Amanda, I know that Pete talked to you about this, but we have certain clients that want to see these on the map. They want to say, \"Okay, we have a patient here, let me put the information in.\"\nThey want to see what our coverage is in that area. So they can just call us and say, \"We want you to go to RADIUS Radiology.\" The problem that we're having now is we don't necessarily want them to have access to this because all of this stuff that's in the middle there that says all of our rates and what they do, that's all internal information.\nSo we're trying to figure out a way to strip all that stuff off. Just give the locations and have them be able to access our information. What we'd like to do is keep it consistent with what we have in Salesforce so we don't have to update two systems.\nSo this provider closes, that is pulled off. We want that to be able to be updated right with the new maps. So that's something that we're looking at today as far as we have a couple of client requests for...\nSpeaker 8 | 20:58\nRight? Yeah, I talked to Pete about it. So we do have a map add-on, but the functionality of what we have the maps for is different than what you guys are looking for. So the way that we use the maps is if a field service rep has to go out and nap out his route, that's mainly what it's for. There is a way to make it work the way that you wanted to, but you essentially would have to buy two licenses per user, which I don't think you want to do.\nSpeaker 5 | 21:27\nNo.\nSpeaker 8 | 21:28\nYeah, sorry.\nSpeaker 3 | 21:29\nThat's okay. Is there a way for them to access this map only or is that...? I don't know, I'm just throwing that out as...\nSpeaker 8 | 21:38\nWe do have community partner licenses which allow other people to log in, but it's not going to... It's probably going to show this information that you don't want them to see. So...\nSpeaker 5 | 21:51\nSo yeah, this is kind of the map area for the provider search tool that our staff uses and that we were like John said hopefully trying to have mirror out to clients with restricted info. I don't know how that would work if we would have to build, you know, a similar type of system.\nAnd then that is what we would send out to or point to our clients, you know, if we had a similar system and just you know, like we were saying just strip out a lot of info and it would just be, you know, the name of the provider and the address and like literally that's it. Any other pieces of info?\nSpeaker 3 | 22:36\nBut that would be another license, right? If we did that, there's no way to get a different type of license on one. That's more minimal, I guess. I don't know if that's a...\nkailash chanda | 22:50\nSo I mean I think this is about the community license. If they have to expose only the location data to external... Is to mandatory or dates can get one as... So...\nSpeaker 2 | 23:06\nIt's kind of the audio quality is rough. Kailash on your end. But I think what I'm thinking out loud is, yeah, I mean, I don't know what that looks like from a licensing standpoint. A man who might have more input, but you have to have some sort, whether it's Salesforce or another platform integrated with this.\nThen you'd have to have the rule in the middle of what data to push over, and that way you'd be able to update Salesforce to keep that live. But I'm just thinking out loud. Yeah, I think... I think what you...\nSpeaker 3 | 23:34\nYeah, I think. I think what you know, Rich's thought was can we create can we almost have like another platform within Salesforce that's just this map. And then we would give some sort of license to our clients.\nBut what we don't want to do, obviously, is use the Salesforce license that we use today for the bigger system. We wouldn't want to use that for our clients. We didn't know if there was some sort of lesser type of license that, you know, we could give out and they'd only have access to this one map.\nBut if that's not an option, we can, you know, we'll have to look outside. Yeah, I think it's a pretending to buy.\nSpeaker 8 | 24:17\nTwo different types of licenses there. You have to buy the Salesforce map license and then the community license.\nSpeaker 5 | 24:23\nYeah. Okay. Okay. Well.\nSpeaker 2 | 24:29\nSo just to be clear, you guys... So this is so the referral comes in, it's EUED to the scheduler, and the scheduler then types in the patient address and finds providers that are close. Yes, and then reach out to the patient and says, \"These are the providers that are closed. Which one do you want to go with?\"\nYeah, okay.\nSpeaker 5 | 24:46\nYeah, pretty much, yeah, at a high level. Yeah. Okay. So let's just kind of work this test referral through, you know, so we can get kind of move over to the billing side and kind of show, you know, how that works.\nSo, you know, this referral has been worked. You know, we've contacted the patient. Patient is going to, you know, go to, you know, an imaging center that we've identified that's in our network that the patients willing to go to that can accommodate the exam.\nYou know, that all gets done by the scheduler and the scheduling team. We've made an appointment. You know, we have some automations in here, like this data appointment secured, for example, it's going to auto populate with a timestamp.\nSo, let's see, I think I need. I need to put in some kind of exam here before I'm able to push it over to billing. So let me just enter some data here. Let's see. I'll get my left hand. I'll get my left hand MRI.\nSpeaker 3 | 26:03\nRich once you before you move it to billing, can you show. We might have to go into a different referral, but show the forms that we're creating and then the medical report that we get. I know, Lucas. At one point, we had talked a little bit about doing something with the medical reports coming in that would be part of this step before it goes to the billing side.\nSo maybe we can just take a quick look at that.\nSpeaker 5 | 26:26\nSure. Like some of the files that we create. Yeah. Okay. So here, obviously we have some tabs, but it goes to files, and this is where files are stored. But, we... Yeah, we have the cloud files, generate document section here, which brings us to... We have three documents that we've built. Patient authorization form, standard employment report. Those are the main two. I'm going to select both of these, and I'm going to tell this to create it in a PDF and I'm going to generate it.\nkailash chanda | 27:12\nThis code is now being transcribed. This...\nSpeaker 5 | 27:15\nAnd these have...\nkailash chanda | 27:16\nCall is now taking boots.\nSpeaker 5 | 27:16\nBeen generated and moved to SharePoint. I think I'm just going to refresh. And we do have a flow setup so that once those documents are generated, they get automatically bumped over to our...\nkailash chanda | 27:31\nI'm always on the...\nSpeaker 5 | 27:31\nCloud files...\nkailash chanda | 27:32\nGo, I'm always on the go. I don't know, I think it's going to be an intro success...\nSpeaker 5 | 27:34\nFolder because we don't have a lot of...\nkailash chanda | 27:36\nCapability not short thing.\nSpeaker 5 | 27:37\nStorage with our profile in Salesforce. So. So here's here are these documents. I'll just pull one of them up...\nkailash chanda | 27:46\nThanks for...\nSpeaker 5 | 27:47\nSo we can...\nkailash chanda | 27:47\nBeing flexible...\nSpeaker 5 | 27:48\nHave a look...\nkailash chanda | 27:48\nTrying to help me here, man. Like...\nSpeaker 5 | 27:49\nSee what...\nkailash chanda | 27:50\nGuys, I don't know what's...\nSpeaker 5 | 27:51\nThis looks like...\nkailash chanda | 27:51\nGonna happen. You know?\nSpeaker 5 | 27:52\nSo these are all, you know...\nkailash chanda | 27:53\nTrying to...\nSpeaker 5 | 27:53\nObviously done within the...\nkailash chanda | 27:55\nWon't be legal. Okay.\nSpeaker 5 | 27:56\nCloud files...\nkailash chanda | 27:57\nThe terms or whatever, I don't know where it's going...\nSpeaker 5 | 27:59\nArea in...\nkailash chanda | 27:59\nTo end up.\nSpeaker 5 | 27:59\nSalesforce, you know...\nkailash chanda | 28:00\nI think maybe I think we will we are doing the research to get...\nSpeaker 5 | 28:04\nWe can manipulate and change and edit and update these...\nkailash chanda | 28:08\nThe and kind of...\nSpeaker 5 | 28:08\nDocuments and this is...\nkailash chanda | 28:09\nProposing something.\nSpeaker 5 | 28:09\nWorking well for us. So this is...\nkailash chanda | 28:11\nSo this...\nSpeaker 5 | 28:11\nYou know...\nkailash chanda | 28:11\nIs just to start with we...\nSpeaker 5 | 28:12\nExcuse me, an example of what this would look like.\nkailash chanda | 28:15\nAlready we'll schedule some calls once we feel that this is some...\nSpeaker 2 | 28:17\nWhat information is going into these files? Is it always from the referral or...?\nkailash chanda | 28:22\nWant to agree with one vendor...\nSpeaker 2 | 28:22\nDoes that have to do with the scheduler?\nkailash chanda | 28:23\nIt would be easier but...\nSpeaker 2 | 28:24\nI mean, the provider that you...\nkailash chanda | 28:25\nIt may...\nSpeaker 2 | 28:25\nBe them with too.\nkailash chanda | 28:26\nIt's gold. I don't want...\nSpeaker 5 | 28:26\nBoth, yeah...\nkailash chanda | 28:27\nTo SW myself up there. I...\nSpeaker 5 | 28:28\nWhich is...\nkailash chanda | 28:28\nMean, I got...\nSpeaker 5 | 28:28\nStored in... That referral. So. So in this case, the yeah, the employment report.\nkailash chanda | 28:34\nIn Pallel to...\nSpeaker 5 | 28:35\nYeah, like...\nkailash chanda | 28:36\nAnd LA...\nSpeaker 5 | 28:36\nThe provider...\nkailash chanda | 28:36\nThis as a product...\nSpeaker 5 | 28:37\nI selected here. Let me see if I can zoom in a little bit for you.\nkailash chanda | 28:40\nI might replace a bus...\nSpeaker 5 | 28:42\nYou know, I just selected this Naperville...\nkailash chanda | 28:43\nBecause he's... That's what...\nSpeaker 5 | 28:44\nMedical Imaging.\nkailash chanda | 28:44\nI'm trying to figure out.\nSpeaker 5 | 28:45\nObviously, that's... Mapped here.\nkailash chanda | 28:46\nTo play hardball here? I'm trying to tell them...\nSpeaker 5 | 28:48\nAbsolute solutions...\nkailash chanda | 28:48\nWhat my...\nSpeaker 5 | 28:48\nWere just listed as the provider...\nkailash chanda | 28:50\nChallengeies are on. Nothing do with the...\nSpeaker 5 | 28:51\nBecause this...\nkailash chanda | 28:52\nMore on the business.\nSpeaker 5 | 28:53\nIs going you know, this particular document will go back to our ajuster.\nkailash chanda | 28:55\nI just wanted to...\nSpeaker 5 | 28:58\nThey want to know when is it scheduled and where is it scheduled and is it a network? So, you know, obviously that information we try and make, you know, kind of prominent up here. Patient information, facility information, what's being done, who's the referring doctor, et cetera.\nkailash chanda | 29:14\nYou... My country... Former country...\nSpeaker 5 | 29:16\nSo yeah, this is all mapped from fields in the in that case, in this referral here.\nkailash chanda | 29:24\nSo kind.\nSpeaker 5 | 29:24\nIt's the same with this other document, this authorization that we send to our providers of service.\nkailash chanda | 29:31\nWell, we can stick in...\nSpeaker 7 | 29:33\nAnd this...\nkailash chanda | 29:33\nIt's easier...\nSpeaker 7 | 29:33\nHow is...\nkailash chanda | 29:33\nTo speak basically...\nSpeaker 7 | 29:34\nHow are those documents...\nkailash chanda | 29:35\nBut yeah...\nSpeaker 7 | 29:35\nBeing sent to the providers...\nkailash chanda | 29:37\nThank you.\nSpeaker 7 | 29:37\nTo the... I'm not sure if the end...\nkailash chanda | 29:42\nThanks for joining...\nSpeaker 7 | 29:42\nCustomer is...\nkailash chanda | 29:43\nTo introduce...\nSpeaker 7 | 29:44\nReceiving those forms or just...\nkailash chanda | 29:45\nAs one of...\nSpeaker 7 | 29:45\nThe providers.\nkailash chanda | 29:45\nOur distinct lines where we...\nSpeaker 5 | 29:47\nSo, yeah, the clients or the customers are they're sent via e mail. So. So the scheduler...\nkailash chanda | 29:52\nThe medical...\nSpeaker 5 | 29:53\nWill take these forms, download them...\nkailash chanda | 29:55\nRecords submission, uploading and payments of...\nSpeaker 5 | 29:57\nAnd send e, you know...\nkailash chanda | 29:59\nQuarters and...\nSpeaker 5 | 29:59\nSeparate emails to...\nkailash chanda | 30:00\nBecause we have DR...\nSpeaker 5 | 30:01\nOr faxes...\nkailash chanda | 30:01\nAnd to...\nSpeaker 5 | 30:02\nYou know, like...\nkailash chanda | 30:03\nOur IQ, they have...\nSpeaker 5 | 30:03\nFor the provider of...\nkailash chanda | 30:04\nBeen the...\nSpeaker 5 | 30:05\nService. You know...\nkailash chanda | 30:05\nBusiness for...\nSpeaker 5 | 30:05\nA lot of times they'll...\nkailash chanda | 30:05\nTen plus years. As I...\nSpeaker 5 | 30:06\nFax it, along with the script that we'll get...\nkailash chanda | 30:08\nWith CL, which is the largest...\nSpeaker 5 | 30:10\nFor whatever the test is.\nkailash chanda | 30:11\nIn India and...\nSpeaker 5 | 30:12\nSo those are sent either...\nkailash chanda | 30:12\nThey cooperate...\nSpeaker 5 | 30:13\nVia fax or... Email to our providers and then...\nkailash chanda | 30:16\nJust to...\nSpeaker 5 | 30:16\nYou know...\nkailash chanda | 30:17\nGive you an...\nSpeaker 5 | 30:17\nUsually via email...\nkailash chanda | 30:18\nIdea how where we selected this...\nSpeaker 5 | 30:19\nTo our adjusters...\nkailash chanda | 30:19\nProduct and...\nSpeaker 5 | 30:20\nWhich are...\nkailash chanda | 30:21\nWhat you...\nSpeaker 5 | 30:21\nYou know, the...\nkailash chanda | 30:21\nTo locate.\nSpeaker 5 | 30:22\nCustomers or...\nkailash chanda | 30:22\nSo this is something...\nSpeaker 7 | 30:24\nThat's a... Manual process... As well. So they... Download the...\nkailash chanda | 30:26\nMy team is already...\nSpeaker 7 | 30:27\nFile, attach right, whatever needs to be written...\nkailash chanda | 30:28\nSome overseas.\nSpeaker 7 | 30:29\nOn the email and... Then send it out.\nkailash chanda | 30:30\nExtent that we are being...\nSpeaker 5 | 30:31\nYeah, we have an email...\nkailash chanda | 30:33\nTo introduce kind...\nSpeaker 5 | 30:34\nSystem set up.\nkailash chanda | 30:35\nOff. Miro...\nSpeaker 5 | 30:35\nI John...\nkailash chanda | 30:36\nWill talk...\nSpeaker 5 | 30:36\nYou can...\nkailash chanda | 30:36\nAbout the...\nSpeaker 5 | 30:36\nJump in...\nkailash chanda | 30:37\nProduct and you can...\nSpeaker 5 | 30:37\nHere. I don't think that...\nkailash chanda | 30:38\nAsk something about the requirement...\nSpeaker 5 | 30:38\nWe take advantage...\nkailash chanda | 30:40\nAnd then...\nSpeaker 5 | 30:40\nOf it at this...\nkailash chanda | 30:41\nWe can kind...\nSpeaker 5 | 30:41\nTime because of some reasons that I was not involved in, but maybe John can speak a little bit on that.\nSpeaker 3 | 30:47\nYeah, we just had some internal errors when we tried to use the e mail directly. And...\nkailash chanda | 30:53\nIf you want, we can go...\nSpeaker 3 | 30:53\nIn Salesforce...\nkailash chanda | 30:54\nInto details about the...\nSpeaker 3 | 30:55\nIt would be great if we could...\nkailash chanda | 30:56\nProduct. We...\nSpeaker 3 | 30:56\nBecause yeah, they're downloading this all into their actual emails. They're saving them. There's...\nkailash chanda | 31:01\nSo the robotic...\nSpeaker 3 | 31:02\nYou know, attaching...\nkailash chanda | 31:02\nTeam, the...\nSpeaker 3 | 31:03\nThem and then they're sending them...\nkailash chanda | 31:03\nRobotic product is the...\nSpeaker 3 | 31:04\nVersus just going here and sending them out.\nkailash chanda | 31:06\nBing customers for the globe...\nSpeaker 3 | 31:07\nI'd have to look back to see...\nkailash chanda | 31:08\nAnd all...\nSpeaker 3 | 31:08\nExactly what...\nkailash chanda | 31:09\nThe markets...\nSpeaker 3 | 31:09\nThe problem...\nkailash chanda | 31:10\nOf Rocos. So we are...\nSpeaker 3 | 31:10\nWas. I...\nkailash chanda | 31:11\nIntegrated with the technology users...\nSpeaker 3 | 31:12\nI think there were certain times... We were sending...\nkailash chanda | 31:14\nAnd...\nSpeaker 3 | 31:14\nThings out, but they weren't being delivered.\nkailash chanda | 31:15\nHave by Miro means that we are integrated...\nSpeaker 3 | 31:17\nSo. So we... Ended up just pulling back and saying...\nkailash chanda | 31:18\nPoor American you know...\nSpeaker 3 | 31:19\nDon't do...\nkailash chanda | 31:19\nI'll call...\nSpeaker 3 | 31:19\nIt because...\nkailash chanda | 31:19\nThe air...\nSpeaker 3 | 31:20\nWe don't want to, you know, risk... Them not getting the information.\nkailash chanda | 31:23\nAny time can...\nSpeaker 3 | 31:24\nSo if...\nkailash chanda | 31:24\nBe part...\nSpeaker 3 | 31:24\nThere was a better...\nkailash chanda | 31:24\nOf the...\nSpeaker 3 | 31:25\nFlow for us to use...\nkailash chanda | 31:26\nProcess chain.\nSpeaker 3 | 31:26\nSome of these things, I think that would...\nkailash chanda | 31:27\nSo da...\nSpeaker 3 | 31:27\nBe great.\nkailash chanda | 31:28\nDaco with me is...\nSpeaker 2 | 31:29\nOutlook, what's your e mail provider? Yeah...\nkailash chanda | 31:30\nWork technical...\nSpeaker 2 | 31:31\nWe do.\nkailash chanda | 31:32\nAnd you can ask...\nSpeaker 2 | 31:33\nYeah, okay...\nkailash chanda | 31:33\nMore technical questions. So...\nSpeaker 2 | 31:34\nWe have a flow for that...\nkailash chanda | 31:36\nIf you... I think...\nSpeaker 2 | 31:37\nSo what Mulesoft flow is basically like, you know what flow is you build flows all the...\nkailash chanda | 31:41\nUnderstand your requirements and...\nSpeaker 2 | 31:42\nTime. With...\nkailash chanda | 31:42\nMake you...\nSpeaker 2 | 31:42\nYour existing Mulesoft investment...\nkailash chanda | 31:44\nUse in...\nSpeaker 2 | 31:44\nWhich I think...\nkailash chanda | 31:44\nMind or we can...\nSpeaker 2 | 31:44\nYou have...\nkailash chanda | 31:45\nIn mastering.\nSpeaker 2 | 31:45\nAccess to. I have to double-check. But you should be able to...\nkailash chanda | 31:49\nYeah. So...\nSpeaker 2 | 31:49\nConnect Outlook and Quick Books...\nkailash chanda | 31:51\nThere's. There's.\nSpeaker 2 | 31:51\nIn your flows and Salesforce.\nkailash chanda | 31:53\nI'm in. I'm in...\nSpeaker 2 | 31:54\nSo the reason why we're asking about how this...\nkailash chanda | 31:55\nIndustry. I'm...\nSpeaker 2 | 31:56\nWorkflow looks is...\nkailash chanda | 31:57\nIn legal.\nSpeaker 2 | 31:57\nWe should be able to...\nkailash chanda | 31:57\nI'm independent.\nSpeaker 2 | 31:58\nCreate a flow in Salesforce, which sends these emails via...\nkailash chanda | 32:01\nSo I want to go to a place where I have a bunch of different businesses and...\nSpeaker 5 | 32:04\nI think we might...\nkailash chanda | 32:05\nI'm just looking for a partner I can...\nSpeaker 5 | 32:07\nHave that connection like...\nkailash chanda | 32:08\nI don't want to pay ten\nSpeaker 5 | 32:09\nIf you can see...\nkailash chanda | 32:09\nThousand dollars. I want to have...\nSpeaker 5 | 32:10\nKind of...\nkailash chanda | 32:10\nOne place I can...\nSpeaker 5 | 32:11\nThe email...\nkailash chanda | 32:11\nGo to and never...\nSpeaker 5 | 32:12\nYou know, tab...\nkailash chanda | 32:12\nReally do know one place. I don't know when we do...\nSpeaker 5 | 32:16\nWithin this...\nkailash chanda | 32:16\nA deal with we can...\nSpeaker 5 | 32:17\nComponent that we have here, it...\nkailash chanda | 32:19\nTaxs right...\nSpeaker 5 | 32:19\nDoes kind of bring this...\nkailash chanda | 32:19\nNow with...\nSpeaker 5 | 32:20\nUp which is... Connected to our outlook.\nkailash chanda | 32:22\nBusiness res medical records...\nSpeaker 5 | 32:24\nSo yeah, again... We had some users just running...\nkailash chanda | 32:28\nTransform a couple of those guys and...\nSpeaker 5 | 32:29\nInto some...\nkailash chanda | 32:29\nThey're really...\nSpeaker 5 | 32:29\nIssues at the time of the launch...\nkailash chanda | 32:31\nInstruments in the...\nSpeaker 5 | 32:31\nI think... They just... Ended up bailing on it...\nkailash chanda | 32:33\nAnd then...\nSpeaker 5 | 32:33\nAnd just kind of using their...\nkailash chanda | 32:34\nContinue the beginning but...\nSpeaker 5 | 32:35\nOwn, you know...\nkailash chanda | 32:36\nWill be going and...\nSpeaker 5 | 32:37\nOutlook app that are on their...\nkailash chanda | 32:38\nOpening the space. This would be...\nSpeaker 5 | 32:38\nDesktops as opposed to...\nkailash chanda | 32:40\nGoing and...\nSpeaker 5 | 32:40\nThe built-in system here. But I do think there was...\nkailash chanda | 32:43\nWhat we call a...\nSpeaker 5 | 32:43\nSome kind of integration via flow to... Our outlook.\nSpeaker 3 | 32:46\nI believe...\nkailash chanda | 32:47\nIt. But there'll be another thing that we can talk a we're...\nSpeaker 3 | 32:49\nWe'd have...\nkailash chanda | 32:49\nGonna go to...\nSpeaker 3 | 32:49\nTo take a look at that...\nkailash chanda | 32:50\nProgressive go or whatever you're around and open up...\nSpeaker 3 | 32:52\nOutside of this. To...\nkailash chanda | 32:53\nSome data, which I'm on...\nSpeaker 3 | 32:54\nRich, can you show the...\nkailash chanda | 32:55\nRight now. I'm hoping to stay...\nSpeaker 3 | 32:56\nNotes? Yeah...\nkailash chanda | 32:56\nThere with the...\nSpeaker 3 | 32:56\nReal quick. Yeah. One, I only bring this up to see if...\nkailash chanda | 32:59\nYou guys... I don't know...\nSpeaker 3 | 33:00\nYou all...\nkailash chanda | 33:00\nWhat's going...\nSpeaker 3 | 33:00\nDo you have any other ideas or information on this? So on the left here...\nkailash chanda | 33:05\nTo buy it more and...\nSpeaker 3 | 33:06\nWe put...\nkailash chanda | 33:06\nMore you...\nSpeaker 3 | 33:06\nAll of our notes down. So... Anytime something happens on the referral, we ask our schedulers...\nkailash chanda | 33:11\n01:25 more...\nSpeaker 3 | 33:11\nTo note the file and put the information in...\nkailash chanda | 33:13\nYou know they just harmful.\nSpeaker 3 | 33:14\nThere we...\nkailash chanda | 33:14\nSo I don't know why we haven't...\nSpeaker 3 | 33:16\nWhen you go...\nkailash chanda | 33:16\nHaven't added here...\nSpeaker 3 | 33:16\nTo reporting for this, it's called...\nkailash chanda | 33:17\nThat's... I don't know like I'll...\nSpeaker 3 | 33:18\nChatter, I...\nkailash chanda | 33:19\nBe changed here...\nSpeaker 3 | 33:20\nBelieve. And we've tried to build some different...\nkailash chanda | 33:21\nAnd you know I'm looking...\nSpeaker 3 | 33:22\nReports around the... Chatter, but... We're... We struggle a little bit with it... Because it's hard to pull exact things out...\nkailash chanda | 33:30\nPay for...\nSpeaker 3 | 33:30\nOf the...\nkailash chanda | 33:30\nThe bill...\nSpeaker 3 | 33:31\nChatter. So... I don't know...\nkailash chanda | 33:32\nBill among...\nSpeaker 3 | 33:32\nIf there's some other...\nkailash chanda | 33:33\nAnd we have all the structure that has to...\nSpeaker 3 | 33:35\nSituation or something that...\nkailash chanda | 33:35\nGo through...\nSpeaker 3 | 33:35\nWe could look at as far as our... Notes are...\nkailash chanda | 33:37\nTo fall you...\nSpeaker 3 | 33:38\nConcerned because if we could...\nkailash chanda | 33:38\nWorking for...\nSpeaker 3 | 33:39\nFigure out somehow how to report on the information...\nkailash chanda | 33:41\nTo maybe...\nSpeaker 3 | 33:42\nGoing into that...\nkailash chanda | 33:42\nGo down...\nSpeaker 3 | 33:43\nSection there...\nkailash chanda | 33:43\nThat will be...\nSpeaker 3 | 33:44\nThat would be great. We're... Just we're we've just run into some...\nkailash chanda | 33:46\nBut you know...\nSpeaker 3 | 33:47\nRoadblocks when...\nkailash chanda | 33:47\nJust sitting...\nSpeaker 3 | 33:47\nWe try to do that.\nkailash chanda | 33:48\nThat's kind of one of the reason another reason why...\nSpeaker 6 | 33:50\nWhen you...\nkailash chanda | 33:50\nWe're doing...\nSpeaker 6 | 33:50\nSay reporting, what are you trying...\nkailash chanda | 33:51\nIt. And...\nSpeaker 6 | 33:52\nTo get out of it? Is it...?\nkailash chanda | 33:53\nFirst company who is...\nSpeaker 6 | 33:54\nLike what...?\nkailash chanda | 33:54\nInterested in the R PA...\nSpeaker 3 | 33:55\nWhat we'll...\nkailash chanda | 33:55\nProcess. And...\nSpeaker 3 | 33:55\nDo? So we have different...\nkailash chanda | 33:55\nI think that's going to completely go...\nSpeaker 3 | 33:57\nTime frames...\nkailash chanda | 33:57\nAway for a while.\nSpeaker 3 | 33:58\nAnd milestones that we need to meet with our client. And some of that is...\nkailash chanda | 34:01\nSo we...\nSpeaker 3 | 34:01\nOkay, we... Get a...\nkailash chanda | 34:02\nFigure out you...\nSpeaker 3 | 34:02\nReferral. It's... Got to... Be scheduled...\nkailash chanda | 34:03\nA 40...\nSpeaker 3 | 34:03\nWithin 24 hours.\nkailash chanda | 34:04\nIDP at as...\nSpeaker 3 | 34:05\nIf it's not scheduled within that time frame, we need to update...\nkailash chanda | 34:07\nWe'll figure out it's...\nSpeaker 3 | 34:08\nOr adjust... Or we need to update...\nkailash chanda | 34:09\nWhatever you...\nSpeaker 3 | 34:09\nNurse case managers...\nkailash chanda | 34:10\nGuy retrieve...\nSpeaker 3 | 34:10\nThat kind of... Thing. We'd like to...\nkailash chanda | 34:12\nNeed to push...\nSpeaker 3 | 34:12\nRun a bunch of...\nkailash chanda | 34:13\nFor further...\nSpeaker 3 | 34:13\nMetrics on that...\nkailash chanda | 34:15\nIDP reaction...\nSpeaker 3 | 34:15\nTo make sure...\nkailash chanda | 34:16\nThings like...\nSpeaker 3 | 34:16\nThat these schedulers are actually hitting those milestones.\nkailash chanda | 34:18\nAnd then you I'm maybe...\nSpeaker 3 | 34:20\nWhat we've done is we've...\nkailash chanda | 34:20\nIt doesn't...\nSpeaker 3 | 34:21\nBuilt some different...\nkailash chanda | 34:21\nOr use case who your operation...\nSpeaker 3 | 34:22\nReports and tried to pull the information...\nkailash chanda | 34:23\nIs but you can know the whole story...\nSpeaker 3 | 34:24\nOut to pull... A report, for example...\nkailash chanda | 34:26\nAnd then...\nSpeaker 3 | 34:27\nScheduler a you have 15...\nkailash chanda | 34:28\nIt might be going to the...\nSpeaker 3 | 34:29\nReferrals. Are these 15...\nkailash chanda | 34:30\nInsurance companies...\nSpeaker 3 | 34:30\nReferrals meeting our...\nkailash chanda | 34:31\nAnd doing our forms. It might be going to...\nSpeaker 3 | 34:32\nMilestones today? We don't have anything in place to be able to monitor that.\nkailash chanda | 34:37\nYou know...\nSpeaker 3 | 34:37\nSo we've created some workarounds off of these notes, but ideally what we'd like to...\nkailash chanda | 34:42\nWe can get the...\nSpeaker 3 | 34:42\nDo is say, okay...\nkailash chanda | 34:43\nData programmatically and where we need...\nSpeaker 3 | 34:44\nWe got the...\nkailash chanda | 34:44\nTo go into...\nSpeaker 3 | 34:44\nReferral on November 3rd...\nkailash chanda | 34:46\nI haven't really...\nSpeaker 3 | 34:46\nAt 1239...\nkailash chanda | 34:47\nThat. That we do right now we have...\nSpeaker 3 | 34:49\nYou know...\nkailash chanda | 34:49\nThose medical...\nSpeaker 3 | 34:49\n24 hours. There...\nkailash chanda | 34:50\nRequests that we think...\nSpeaker 3 | 34:51\nHaven't any update to the...\nkailash chanda | 34:52\nFirst thing...\nSpeaker 3 | 34:52\nAdjuster. We'd like to be able to pull that information out of the notes. We've tried putting radio buttons and different things on the actual form, but it just becomes something that...\nkailash chanda | 35:01\nLike, I'm going...\nSpeaker 3 | 35:02\nThe schedulers...\nkailash chanda | 35:02\nTo be in...\nSpeaker 3 | 35:03\nWill just click...\nkailash chanda | 35:03\nAt care, I'm in fin.\nSpeaker 3 | 35:04\nWe would rather pull it out of that information.\nkailash chanda | 35:05\nI don't know...\nSpeaker 3 | 35:06\nSo I don't...\nkailash chanda | 35:06\nWhere I...\nSpeaker 3 | 35:06\nKnow if that's...\nkailash chanda | 35:07\nCan help...\nSpeaker 3 | 35:07\nEven a possibility.\nkailash chanda | 35:07\nYou. You know, I'm investor...\nSpeaker 3 | 35:09\nAnd again, we do...\nkailash chanda | 35:09\nRather than...\nSpeaker 3 | 35:09\nHave some workarounds...\nkailash chanda | 35:10\nI don't get...\nSpeaker 3 | 35:10\nKind of working on that. It's just not 100% accurate from our perspective.\nSpeaker 6 | 35:16\nYeah, I left a minute and came back. Is this a case object? Is that what you guys are on right now?\nSpeaker 5 | 35:21\nYes.\nSpeaker 6 | 35:21\nOkay, so...\nkailash chanda | 35:22\nGoing so fast that...\nSpeaker 6 | 35:22\nHave you...\nkailash chanda | 35:23\nI don't...\nSpeaker 6 | 35:23\nGuys ever...\nkailash chanda | 35:23\nWant to trust...\nSpeaker 6 | 35:23\nUsed stages.\nSpeaker 5 | 35:24\nFor any...\nkailash chanda | 35:25\nSomebody else...\nSpeaker 5 | 35:25\nOf this?\nkailash chanda | 35:25\nTo make all...\nSpeaker 5 | 35:26\nNo.\nkailash chanda | 35:26\nThese decisions for me, right? So...\nSpeaker 6 | 35:27\nDo you guys know the concept of these? These are at the top... Of the case...\nkailash chanda | 35:30\nShopping? I try...\nSpeaker 6 | 35:31\nStages. Typically what folks will do is they'll...\nkailash chanda | 35:32\nTo you...\nSpeaker 6 | 35:32\nDefine a process...\nkailash chanda | 35:33\nDon't see...\nSpeaker 6 | 35:33\nRight?\nkailash chanda | 35:33\nAs good.\nSpeaker 6 | 35:33\nSo it's like referral received. That's the first one, and then...\nkailash chanda | 35:37\nSo you...\nSpeaker 6 | 35:37\nThe next step is...\nkailash chanda | 35:37\nKnow, radical...\nSpeaker 6 | 35:38\nWhatever that milestone is, and you can kind...\nkailash chanda | 35:39\nI want...\nSpeaker 6 | 35:39\nOf gage that each...\nkailash chanda | 35:40\nYou know being treated...\nSpeaker 6 | 35:41\nState, each...\nkailash chanda | 35:41\nBy my in the middle...\nSpeaker 6 | 35:42\nStage, time...\nkailash chanda | 35:42\nOf the night and some days...\nSpeaker 6 | 35:43\nStamps want to move through there. So... Best practice typically...\nkailash chanda | 35:44\nSomething else. But...\nSpeaker 6 | 35:45\nIs define...\nkailash chanda | 35:45\nYou know...\nSpeaker 6 | 35:46\nThe process. And you can have a few different...\nkailash chanda | 35:47\nSo that's they look at...\nSpeaker 6 | 35:48\nAreas where if you go to one stage and...\nkailash chanda | 35:50\nA platform they're going to move...\nSpeaker 6 | 35:51\nIt's you have a different...\nkailash chanda | 35:51\nAt my...\nSpeaker 6 | 35:52\nPath, it can...\nkailash chanda | 35:52\nSNE that's...\nSpeaker 6 | 35:53\nHave a...\nkailash chanda | 35:53\nKind of the...\nSpeaker 6 | 35:53\nDifferent set...\nkailash chanda | 35:53\nBiggest thing.\nSpeaker 6 | 35:53\nOf follow ups...\nkailash chanda | 35:54\nAll the...\nSpeaker 6 | 35:54\nAfter that. So it's like it doesn't...\nkailash chanda | 35:55\nCapabilities to...\nSpeaker 6 | 35:55\nNeed to be one finite...\nkailash chanda | 35:56\nThat's kind...\nSpeaker 6 | 35:57\nPiece there...\nkailash chanda | 35:57\nOf where...\nSpeaker 6 | 35:57\nBut when you...\nkailash chanda | 35:57\nI'm at.\nSpeaker 6 | 35:57\nHave one, each time something shows...\nkailash chanda | 35:58\nI mean, there's...\nSpeaker 6 | 35:59\nUp, the clock...\nkailash chanda | 35:59\nMore use cases, maybe...\nSpeaker 6 | 35:59\nStarts going.\nkailash chanda | 36:00\nYou guys can...\nSpeaker 6 | 36:00\nAnd then as the stage...\nkailash chanda | 36:01\nSa some use...\nSpeaker 6 | 36:01\nMoves, that's that...\nkailash chanda | 36:01\nCases. I mean...\nSpeaker 6 | 36:02\nTimestamp to see. Okay, how many are getting stuck in...\nkailash chanda | 36:04\nOkay...\nSpeaker 6 | 36:04\nThis section? You know? And again, for visibility reporting too, it's like, \"Hey, you log in the morning, you go, \"Okay, I got... \"\nkailash chanda | 36:09\nI can...\nSpeaker 6 | 36:09\nEight that...\nkailash chanda | 36:09\nSee that...\nSpeaker 6 | 36:09\nShould have gone out yesterday. Okay, they're...\nkailash chanda | 36:11\nYou're aware...\nSpeaker 6 | 36:11\nSitting that stage.\nkailash chanda | 36:11\nOf where...\nSpeaker 6 | 36:12\nLet me focus... On those zones first. That's not...\nkailash chanda | 36:14\nAnd where to use...\nSpeaker 6 | 36:15\nThrough the...\nkailash chanda | 36:15\nIt. So I'm...\nSpeaker 6 | 36:15\nNote section there. That would be a separate on logging like the actual...\nkailash chanda | 36:17\nReally happy that you are...\nSpeaker 6 | 36:18\nText. But typically what you want to do is, you...\nkailash chanda | 36:19\nFast and thinking, you know...\nSpeaker 6 | 36:20\nI guess you could do a trigger there where if it's like...\nkailash chanda | 36:22\nIn this progress of...\nSpeaker 6 | 36:23\nA workflow...\nkailash chanda | 36:23\nThe going...\nSpeaker 6 | 36:24\nRule or something where it's like, \"Hey, if... \"\nkailash chanda | 36:25\nTowards. So what we...\nSpeaker 6 | 36:25\nIt searches for...\nkailash chanda | 36:26\nWhat they...\nSpeaker 6 | 36:26\nThat type...\nkailash chanda | 36:26\nCan for...\nSpeaker 6 | 36:27\nOf text...\nkailash chanda | 36:27\nWe can what...\nSpeaker 6 | 36:27\nI seen...\nkailash chanda | 36:27\nWe can do...\nSpeaker 6 | 36:28\nWithin there...\nkailash chanda | 36:28\nFor you.\nSpeaker 6 | 36:28\nIt can move the stage. But...\nkailash chanda | 36:29\nSo we...\nSpeaker 6 | 36:29\nThat, you...\nkailash chanda | 36:30\nCan do...\nSpeaker 6 | 36:30\nKnow, makes...\nkailash chanda | 36:30\nWhatever is...\nSpeaker 6 | 36:30\nThem having to follow a certain...\nkailash chanda | 36:31\nNecessary. We can work...\nSpeaker 6 | 36:31\nKind of like format...\nkailash chanda | 36:31\nFor technology...\nSpeaker 6 | 36:32\nIf you want to...\nkailash chanda | 36:32\nWe can do...\nSpeaker 6 | 36:33\nAutomate it.\nkailash chanda | 36:33\nThe PSC...\nSpeaker 6 | 36:33\nBut typically the best...\nkailash chanda | 36:34\nWe thinking...\nSpeaker 6 | 36:34\nPractice, John, is to write some notes in there and just click the...\nkailash chanda | 36:36\nWhatever you...\nSpeaker 6 | 36:36\nStage over. And...\nkailash chanda | 36:36\nNeed from...\nSpeaker 6 | 36:37\nOnce it's...\nkailash chanda | 36:37\nOur sites...\nSpeaker 6 | 36:37\nIn that...\nkailash chanda | 36:37\nTo be...\nSpeaker 6 | 36:38\nStage, as long as there's...\nkailash chanda | 36:38\nKnow this...\nSpeaker 6 | 36:39\nYou know, maybe there's field dependencies you...\nkailash chanda | 36:40\nInitiative even to, you...\nSpeaker 6 | 36:40\nNeed where it's like, \"Hey, we...\"\nkailash chanda | 36:41\nKnow, develop...\nSpeaker 6 | 36:41\nIn order...\nkailash chanda | 36:42\nThe process.\nSpeaker 6 | 36:42\nTo move it to this stage, you have to have this...\nkailash chanda | 36:43\nLet's say...\nSpeaker 6 | 36:44\nInformation, this...\nkailash chanda | 36:44\nSomehow the...\nSpeaker 6 | 36:44\nDate, this filled...\nkailash chanda | 36:45\nProduct will...\nSpeaker 6 | 36:45\nOut, you know, kind of a validation role...\nkailash chanda | 36:46\nThe process...\nSpeaker 6 | 36:47\nAnd then it... Kind of goes through... There. But that's...\nkailash chanda | 36:48\nThe technology...\nSpeaker 6 | 36:48\nTypically how folks will do those...\nkailash chanda | 36:49\nDelivery. And we are...\nSpeaker 6 | 36:50\nTypes of...\nkailash chanda | 36:50\nHere to...\nSpeaker 6 | 36:50\nThings is using that stage functionality and...\nkailash chanda | 36:51\nSupport and regarding the...\nSpeaker 3 | 36:53\nRich is that kind of what we have with that bar on the top there or is that something different?\nSpeaker 5 | 37:01\nYeah, I believe so. So you know that there, you know, there are several validation...\nkailash chanda | 37:06\nDevelop and together we can help...\nSpeaker 5 | 37:07\nRules set up to be able to move through these flows. I think you were alluding to...\nkailash chanda | 37:11\nSupport that is needed.\nSpeaker 5 | 37:12\nTo Joseph...\nkailash chanda | 37:13\nSo on the tech...\nSpeaker 5 | 37:14\nI had one question. Based on what you were mentioning there...\nkailash chanda | 37:18\nOf the world...\nSpeaker 5 | 37:19\nYou know...\nkailash chanda | 37:19\nAnd access to the systems where there's...\nSpeaker 5 | 37:23\nWould some of those metrics be able to be mapped or are they...?\nkailash chanda | 37:25\nSo in...\nSpeaker 5 | 37:26\nMappable? When...\nkailash chanda | 37:27\nThe process and...\nSpeaker 5 | 37:27\nYou are what is...\nkailash chanda | 37:30\nThecription of...\nSpeaker 5 | 37:30\nIt? I... Think it's like...\nkailash chanda | 37:31\nIs not...\nSpeaker 5 | 37:31\nThe enable tracking or enable tracing that allows you to trace and track certain fields and when they are changed or updated and then they show up in the chatter.\nkailash chanda | 37:43\nSo during this in the specification and based on that...\nSpeaker 6 | 37:45\nYeah, exactly. Right. So...\nkailash chanda | 37:46\nWe can...\nSpeaker 6 | 37:46\nYou can...\nkailash chanda | 37:46\nContinue on the...\nSpeaker 6 | 37:46\nPush things there. So whatever kind of things you want to track within that chatter for read, typically it's usually like communication stuff but you can do if you don't understand how to create workflow rules and some of those flows, you can set some triggers to push information into that. So...\nkailash chanda | 38:00\nRight now.\nSpeaker 6 | 38:00\nYes, the answer is yes.\nkailash chanda | 38:02\nSo we got a little bit...\nSpeaker 3 | 38:03\nBecause here's what we...\nkailash chanda | 38:03\nOf analysis.\nSpeaker 3 | 38:03\nWe run into a little bit of analysis. So these individual schedulers have anywhere from fifteen to they could have forty, fifty files working at one time. What we run into a lot is we're scheduling referrals, and we get a call from the adjuster, and the adjuster is like, \"I haven't heard anything about this referral at all.\"\nSo we go back in here, and the only thing that we jump on now is these notes, and we say, \"Okay, what has been worked, what has been done? How can we...? What has been missed?\" So we've pretty much changed our schedulers to say, \"Okay, every time you do something, you have to put that information in to this chatter so we can go back and look at it.\"\nThen what we've developed is a workaround to say, \"Okay, out of her 50 referrals, for example, there are different trigger points.\" I guess from a reporting standpoint that we've created through AI where it says, \"Okay, these five haven't been touched at all. It's been twenty-four hours. There are no updates. Back to the adjusters. We need to get on top of those and make sure that this individual schedule gets on top of those.\"\nSo that actually has really helped us since we moved to Salesforce. But there are certain times when we'll just get blindsided with something, and we're like, \"What is going on with this? How come we're not working this?\"\nWe don't know until it's too late. So yeah, that's what we're doing.\nSpeaker 6 | 39:24\nYeah. So again, if you think about this, this is something I used to use Salesforce from a user perspective, not just working at Salesforce. And that was... We were spending a bunch of money on elites, right? Coming in inbound lead. We're paying a ton of money for marketing. A lead would come in, and the conversion rate on inbound leads...\nThe faster every hour that goes by, the lower the conversion rate goes. So any time a lead comes in, it is automatically created as an untouched lead. If 24 hours went by and they didn't reach out to them, an email gets sent to the person, their boss, saying, \"Hey, you didn't touch this lead. You can do a trigger on that. You can even have responses going out to the people that maybe send them in as well.\"\nIt's like the nice part was we have these stages, you have those milestones, you guys define what ideal best practices are. You can have a system track everything with stages, but do nudges, follow-ups.\nSo maybe, instead of, for example, we'd have people coming in and filling out a form on the website, and no one would follow up. It's about experience, right? But sometimes you'd set up so everyone that does a lead on the website gets an email from the person who should follow up and say, \"Hey, so you're not very busy, I'll call you ASAP.\" Or you can schedule time on their calendar right now, and they can do some proactive follow-up.\nSo at least the person that's waiting has some sense of like, \"There's something going on.\" So long story short, that's just an example. I think that at your point, John, mapping out what ideal best practices are and using stages would be a good way for you to be able to... That and for you as reporting, it's very easy to do reports on stages like, \"Hey, I've got all these in certain buckets from a leadership or visibility standpoint.\" You need to say, \"Hey, we got to move these to the stages.\"\nThat's a very common sales funnel. But it can be used in service, it can be used for role management, things like that.\nSpeaker 3 | 40:56\nYeah. I think that was our intent at the beginning, we wanted to put different milestones out there where we get notified. This is really an issue on our side. We went away with it at first because it was too much.\nSo we were... We were trying to get used to the system and they were getting hit with different things. So we pulled back on that a little bit. Rich, I think that's probably something we need to refocus on and put those milestones back out there.\nSo these people are getting notified and the managers are getting notified. I think we've been on the system long enough now that we should be able to incorporate some of that stuff back in and solve some of these issues.\nkailash chanda | 41:34\nFor every stage, if you have a certain set of tasks or tasks that need to be completed, we could have them listed out at this stage under Activities to check boxes so that, as Joe mentioned, once you identify that certain activity is not there, we send out an email. We map up to say that \"Hey, a follow-up email has been sent.\"\nIf any particular activity is done or uploaded any documents, then the checkbox ticks to say that \"Hey, this task has been completed.\" So if there are a pre-defined set of tasks that will be done at a certain stage, then we could have them incorporated and run reports or activities based on those steps that we defined as well.\nSpeaker 3 | 42:16\nOkay, that makes sense.\nSpeaker 5 | 42:21\nWell, should I'll go ahead and kind of continue with this to kind of move it along to the billing side. So I filled out a couple of the fields. You know, appointment. Appointment day. The provider, an employer, needs to go here for this client. Trying to think if there are any other validation rules, but so... I would go in and... Mark it as scheduled...\nkailash chanda | 42:47\nData is available. VIRCP bring back...\nSpeaker 5 | 42:51\nAfter that...\nkailash chanda | 42:52\nGrant an answer to send it back...\nSpeaker 5 | 42:53\nThe provider...\nkailash chanda | 42:53\nTo you...\nSpeaker 5 | 42:53\nWill send us a medical report. Once...\nkailash chanda | 42:55\nThe only way...\nSpeaker 5 | 42:56\nWe get...\nkailash chanda | 42:56\nI can...\nSpeaker 5 | 42:56\nThat medical report, that's... So those are usually faxed to us, sometimes emailed, and our medical reports team...\nkailash chanda | 43:03\nYes. Yes.\nSpeaker 5 | 43:04\nWill pick that up. Find the file in Salesforce here and then go to the files and attach it. Upload it to the file...\nkailash chanda | 43:17\nFor... No. So we have...\nSpeaker 5 | 43:18\nAn email will then get sent to the adjuster with that medical report because they're looking for that. Once that's done...\nkailash chanda | 43:25\nAnd then...\nSpeaker 5 | 43:26\nThe referral in this case will get flipped over to a medical report received status.\nSpeaker 3 | 43:31\nThat's all. You will too. We get those in fax. We have to go in here, attach them, download it to our... Save it on our desktop, and then we send it to the adjuster via mail. So if there's some way to gain efficiencies there, that would be something to look at as well.\nSpeaker 7 | 43:49\nWhen that medical report is being attached, is it just being attached or are...? Is the team manually inputting any fields coming from...?\nSpeaker 3 | 43:59\nAnd they're not manually inputting anything. Although we would like to take that medical report and bump it up against the information that we have in the system to make sure it matches, we may schedule an MRI of the left shoulder and then we'll get the report and it'll say MRI of the right shoulder. So our team needs to do that. Sometimes things get missed and then it's sent out to the...\nkailash chanda | 44:21\nProvides... You...\nSpeaker 3 | 44:21\nAdjuster. But it'd be great if we could somehow validate it and then have it automatically just go right out to the adjuster because we have all the information in the system. Something to think about, I guess.\nkailash chanda | 44:33\nAlways take...\nSpeaker 7 | 44:33\nWhat happens if you said it says left shoulder and it was right shoulder? What would happen then? You have to call the medical provider.\nSpeaker 3 | 44:41\nYeah, we would have to go back to the facility and say, \"Look, this isn't correct. You need to fix it and send it to us.\" Then we would report that on...\nSpeaker 5 | 44:50\nYeah. Most of the time it's a clerical error. But there are certainly times when the wrong...\nkailash chanda | 44:54\nWith GenAI.\nSpeaker 5 | 44:55\nBody part's done."
+  }
+}
