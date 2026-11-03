@@ -1,0 +1,92 @@
+{
+  "id": "01a1a38693c1751ca7188ea8c4093f3c",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1a2e84eab76ae9c175aa981188ed5",
+      "title": "Daily Sales Call",
+      "duration": 1327,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "2rdgn5n8i1it3o6pg7e5kuirnl_20261103T220000Z",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "aadi@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "dev@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amar@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        },
+        {
+          "index": 5,
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-03T22:05:26.532Z",
+      "end_date": "2026-11-03T22:27:33.532Z",
+      "url": "https://app.krisp.ai/m/01a1a2e84eab76ae9c175aa981188ed5?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1a3729225739881786b58c915b9b0",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 1316.8709999999999,
+      "size": 5266368,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-10T22:27:48.287Z"
+    },
+    "raw_meeting": "**Daily Sales Call**\n🕞 Started at 10:05 PM on 03 Nov, lasted 22m"
+  }
+}
