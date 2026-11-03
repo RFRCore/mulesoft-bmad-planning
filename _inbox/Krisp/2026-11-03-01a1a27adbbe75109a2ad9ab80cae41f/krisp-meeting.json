@@ -1,0 +1,71 @@
+{
+  "id": "01a1a27adbbe75109a2ad9ab80cae41f",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a14900ee766eaa8a331ebc9be1aa",
+      "title": "Delivery concerns",
+      "duration": 257,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "7evgo770tucp742avipfi93baj",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vijay@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "santhosh@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sravankiran@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sasank@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1
+        }
+      ],
+      "start_date": "2026-11-03T17:30:33.049Z",
+      "end_date": "2026-11-03T17:34:50.049Z",
+      "url": "https://app.krisp.ai/m/01a1a14900ee766eaa8a331ebc9be1aa?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 1",
+        "speakerIndex": 1,
+        "text": "I think... Vijay can't join. Let me reschedule this."
+      }
+    ],
+    "raw_meeting": "**Delivery concerns**\n🕞 Started at 05:30 PM on 03 Nov, lasted 4m",
+    "raw_content": "Speaker 1 | 03:56\nI think... Vijay can't join. Let me reschedule this."
+  }
+}
