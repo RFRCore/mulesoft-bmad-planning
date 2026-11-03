@@ -1,0 +1,178 @@
+{
+  "id": "01a1a20e9b0472e9830373955a6230c8",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a19e0e303d751a981feff7af06a21e",
+      "title": "10:26 AM - Slack meeting November 3",
+      "duration": 591,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": null,
+      "participants": [],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-03T15:26:39.568Z",
+      "end_date": "2026-11-03T15:36:30.568Z",
+      "url": "https://app.krisp.ai/m/01a19e0e303d751a981feff7af06a21e?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hello, I am sharing my screen. So this is the one that I was asking you to update where Ryan and the others dated it yesterday. You updated some other shape. Can you help...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Me complete..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This one?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Let me... One second. Let me see if I can... First let me open it. One second.\nOne.\nYep, I got the access. Let me do it. Right. Then I do that.\nShorter."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Is so much smarter. Should I switch this thing either? Just a little loop. This is... Hey, you're under rest. What's hiding inside is it's very..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "So... Ryan has where Ryan has kept his name. I am working with Matthews line right? So do I put my name as..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can put why Ryan is working on it. Ryan does not have a rel, right? Let him know that you are working with..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "One 70?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Matthews Saliin so you're replacing. Let him know you already got some scoping with them, right? Yeahdate..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Yeah, date... Yeah, I did. I have to... Okay, so I will... Should I...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Here and then let's try... Now make a note. Don't forget."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "So? Austin Newman Ryan has his name. I'm..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I think..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Not sure."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Just go down for the Austin Newman. Leave it.\nSo these are the names which Ryan pinged that he's considering them so..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Christmas is love."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can leave them and then qu others."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Gavin. There are some names missing, like Gavin. Hey, you can't watch that. Hey..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can you pick me up once that is done?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you. Will it be done in the next 15 minutes?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "It will be done in the next..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Fifteen minutes. Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey, so..."
+      }
+    ],
+    "raw_meeting": "**10:26 AM - Slack meeting November 3**\n🕞 Started at 03:26 PM on 03 Nov, lasted 9m",
+    "raw_content": "kailash chanda | 00:10\nHello, I am sharing my screen. So this is the one that I was asking you to update where Ryan and the others dated it yesterday. You updated some other shape. Can you help...?\nkailash chanda | 00:32\nOkay.\nkailash chanda | 00:32\nMe complete...\nkailash chanda | 00:33\nYes.\nkailash chanda | 00:33\nThis one?\nkailash chanda | 00:36\nLet me... One second. Let me see if I can... First let me open it. One second.\nOne.\nYep, I got the access. Let me do it. Right. Then I do that.\nShorter.\nSpeaker 3 | 03:50\nIs so much smarter. Should I switch this thing either? Just a little loop. This is... Hey, you're under rest. What's hiding inside is it's very...\nkailash chanda | 04:50\nSo... Ryan has where Ryan has kept his name. I am working with Matthews line right? So do I put my name as...\nkailash chanda | 05:02\nYou can put why Ryan is working on it. Ryan does not have a rel, right? Let him know that you are working with...\nkailash chanda | 05:10\nOne 70?\nkailash chanda | 05:10\nMatthews Saliin so you're replacing. Let him know you already got some scoping with them, right? Yeahdate...\nkailash chanda | 05:17\nYeah, date... Yeah, I did. I have to... Okay, so I will... Should I...?\nkailash chanda | 05:26\nHere and then let's try... Now make a note. Don't forget.\nkailash chanda | 06:09\nSo? Austin Newman Ryan has his name. I'm...\nkailash chanda | 06:14\nYeah, I think...\nkailash chanda | 06:15\nNot sure.\nkailash chanda | 06:15\nJust go down for the Austin Newman. Leave it.\nSo these are the names which Ryan pinged that he's considering them so...\nSpeaker 3 | 07:00\nChristmas is love.\nkailash chanda | 07:00\nYou can leave them and then qu others.\nkailash chanda | 07:44\nGavin. There are some names missing, like Gavin. Hey, you can't watch that. Hey...\nkailash chanda | 09:34\nCan you pick me up once that is done?\nkailash chanda | 09:37\nYes...\nkailash chanda | 09:38\nThank you. Will it be done in the next 15 minutes?\nkailash chanda | 09:43\nIt will be done in the next...\nkailash chanda | 09:44\nThank you.\nkailash chanda | 09:44\nFifteen minutes. Yes.\nkailash chanda | 09:46\nHey, so..."
+  }
+}
