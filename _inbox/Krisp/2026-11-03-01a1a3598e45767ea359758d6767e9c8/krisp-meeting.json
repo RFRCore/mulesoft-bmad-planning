@@ -1,0 +1,1149 @@
+{
+  "id": "01a1a3598e45767ea359758d6767e9c8",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a2dcb5547588acbea895734b3736",
+      "title": "FieldDay - Planning",
+      "duration": 3870,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "3jj98a3qcn4ftabibk4mf2qpba",
+      "participants": [
+        {
+          "id": "11067db77b9851dbaaa8c443d4ef6ffe",
+          "first_name": "vimandi",
+          "email": "vimandi@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        }
+      ],
+      "start_date": "2026-11-03T20:33:23.830Z",
+      "end_date": "2026-11-03T21:37:53.830Z",
+      "url": "https://app.krisp.ai/m/01a1a2dcb5547588acbea895734b3736?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sha are less than that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I made lunch. Thenation Pa, complete your lunch. Please. Right. Worries.\nAnd the faster than. I were..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah elections... A teacher personal manager I suddenly was... So something... So yeah, where is that? So in the... Matada in... Medal that the data joining data to the shed..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "9 90 jump."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Ninth there so he will come to New York..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, he can come to New York. He's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Kai, he should... So in today's meeting let... Alright, let's go here okay, so agenda and two or three things together matter. Agent fabric the mean. I think I invited lunch for some..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Home CSO machine ma you think what's you there? Okay in number. Okay. Alright, so I think EDB KAI yeah. Our goal is we want to close Asian fabric and wes out these then make it not to other..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I the on what I need to I..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In 50%. This. End... Champion is over 50%. This. Actually, that's okay. I think that's totally fine."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Our goal and 50% in AT entra."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Our goal is we want to close the Asian fabric and we use our deals together through the champion sales partner sales programs."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "50% off at..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If you... I this and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If you bracket... Instead of that, if you did not already know. We are G SA approved, which means we are eligible for Catalyst, Jumpstar, and SAP funding. To further sweeten the deal.\nBuild a Gather salad. Come sall with us."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We want to..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We want to close Asian fabric deals and use her together as a channel partner. Bracketla. If you did not already know, we are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Approved and SA approved. Eligible for Jumpstar and Catalyst programs."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Meaning... Yeah, which means we are approved for Catalyst, Jumpstar, and SAP funding. Slack... Catalyst, Jumpstar, and SAP funding to further strengthen the deal.\nThe mile... Is going to stand there and to bed a brandfer. Come with us."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Come... Said that okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "With Azure. Come on... Go sell with us and go sell with us. Let us help you in bigger..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Let us help you win big sell with us and let us help you win co-hyphen-cla just..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Co-hyphens..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And the... Salesforce tower..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Orasari and no pocassari a New York. The update is published as Saa misushi aflu anda. I will put it in..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Publish the office the address code update. Yes, Sunday. This is, sales first tower, office one zero six, the c25... Just chat linen. Yeah, this ka for starweight in Natha, office in Natha, and AeC what was that? C The 20 hyphen. C 25. Libel. Sixth a 17th floor, 20th floor CT 2 five's... Perfect in case you were scats you a crude and available for youmster. Come on, I, to sweeten the deal. To sweeten. You could eat black at Theta. Ikamak Mara space on the bed. Ikamak..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "How can brag it become again. And that's a be funing too."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Farweet on the day to help create and close quickly. Sweetened builder to help create and close quickly..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Clean and close quickly and rather to build pipeline..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And to build pipeline are 5.8.\nNA last La Miro Happy hour will follow the event. Dry. Leather."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Or happier will fall on..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah happy..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I think what to expect that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What do you expect at the first point was space this as..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "This is okay and what Salesforce com mules are fan and for we are committed to a mutual success. First line..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For seven..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "With Salesforce, Musoft and Informatic... Then better..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Data and Mulesoft and you will do whatever it takes to help you win. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I... Champion the skates handsome hub for a sales on handsome sales on sales and... Is the first star on 24 which continues Atlanta, Chicago, San Ryan and Toronto. It's part of our shared commitment. The success. And Q4. Yeah, perfect. I think that should be fine."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah. Miroxa refresh the same in completed a New York. And this...\nHave you requirement of lasta..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, let us help you win bigger. Please invite customers and your folks are happier after afterwards..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Happy after the office... Better... Mara invite you asked."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Who will be able to join you? Just and may all AA so maybe what we'll do is, 04:30 or so we'll head out."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Invite... Your customers. For a happy hour."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Your customers. And other reps."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Other for happy hours..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "For close, yeah, for the happier afterwards.\nK... And...\nI think customers and team... Others were not team attended. I think they should be fine."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Perfect. Are there internet keys for either on or...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, and in that case, I'm only the master. This is the first..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Are obviously the second stop with a last stop at 11:10 or...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Second stop, which continues to which continues from New York. And the Passe, which continues from New York in Atlanta. Something like that. Okay, so yeah, I think this.\nSo I think this should be fine. Okay, the IP the upgrade yes, the next stated we had to figure this out, right? It should be 30 minutes can and the man me even space it not is no more pages. Let me... Let's great events, right? Yeah, if this scratch a let's say..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Barak Saria. The other meeting. Meeting..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Atlan is the Atlan the room and a skater in the than comparison. I think the editorch. Okay, let's see. I think.\nThe st. Slack esella... The little link usually ra..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Koke. All website in chaman is show on only. Only datask AA. Okay. You name or I plays son sooner..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "For example, let's see non t year. For example, partner events are announ for like for example, the... Aa is may partner in a moment. For example a chang is make ma would have gone or changes around cla..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly.\nIs it a website issue or...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I sadly another that somehow it did not come... Some who did not... Yes, that is so how to figure this out. Okay. Anyways, so I could run New York and we'll get to this. Let's see if this is time either you know...\nYeah he'..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What's the matter? Lomada sun mada so what is the issue are cloud enable j on to name... Exactly."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The symbol the okay alright."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, Slack reads to metadata. So I glabert lamp..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Are the right so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Put in target just wanted..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Before we target Nako Kasari meeting rooms events is I collect a task with accompli and yeah you have..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Near theeenth..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got to many."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Nineteenth. I...\nWhat I... Make a transform there."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, Atlanta airport there will wait one next to Chicago's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, then I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In theva..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, Chicago... Okay, they're ten together Chicago ten together..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A third type is a matter..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, December 3. I think maybe we should change the term one..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In November..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Third ten, correct? In the end, I got moved on. Measure right third Chicago Towers, seventh floor 0:78. This is how it is. Chicago Towers..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Chicago to seven six 07 okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "See, zero seven..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "SA for Chicago update re..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Is a ballroom. It's not... For Star Towers. The 17th. I think it'll have DA. Toronto. Toronto.\nToronto. Is this okay, so only Atlanta or pending..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Occasionally when they start getting this standard data as spot but what you're expecting and then the Atlanta... Sorry except for the European... Zero 1. Yeah, okay, perfect. That's the... For IP published. I class one is Toronto a... I shall be competent.\nOkay. Back here, sir."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The we kind of let's see Atlanta, so this was the NBR and the UPD LA so okay, so the UPDTA yeah, chain. Okay. Okay, so now I think.\nMay, we will see you.\nOkay, you need list of as for this. So I think we will basically start a message for something 6 85 above prime special stay s and b esce inpma mus at ispma..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Eric Aristo. John and Eric Aristo are just..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Only yearly on Data Foundation. New... Latest inwriter Sha... A data foundation."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Out the office on the Ro."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We are moving out of office mar. Yeah in yeah so says me okay so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Anglowalantta. New York. Mara. Jack Phillips. Rosebor. New again?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Steps do not...\nSo I think core is a good... Structure it's not a big difference. So we'll get the... Core is but the list... This is what they're thinking. 62 but data foundation is one another... Why is this coming as send their leaders the informat... But Tableau... Let's see where is this... There is a road item from some... Okay.\nLet's see I at least de-brand these costs didn't return four people okay stone managers... Delete... Actually put... Change the way... He did. Manager. He... Okay. So near to the... Boss the easy assembler assembly. And we will send it to everyone essentially..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You know, and they can sign up for whatever that is closest to them."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And we want Travis. And we want to see if Amy can actually e. Texas. Amy informatic..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What she inf a is gpa and Jennifer okay. Greg Morris... Based on..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Pace and the automotive you need..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Container a small alley for the mid-market. A commercial Atlanta..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The commercial encos the automotive energy manufacturing even..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Called Ryan... Is for a TED... Only commercially will... Okay... No..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Rin bas jordaner Julili julian a commercial..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So she's based here actually... As a mom and these classes are... Yes, these moms and these are... But I think we'll have to get everyone... Ryan by desk..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We were ha we should do some restriction or some..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "IA but I think ATK I don't think the k we'll just do a closed group, we'll just do a close group. Data Foundations is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Right. That's probably what we want to think. So ASA JPG is the happy will probably... I think you start over, but I don't think Atlanta is the happy hour of the weekend and we will basically tell people who want to come there. Yeah, I'll lay happy on..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Happier with knowledge of the transaction."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Much there. But how do we control if we get more people than Atlanta?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I don't think we'll get that many people, but we'll see. So, the commercial, the bag, and will ask him another day."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Ninth and one of the other... So what is the better, actually?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think PJ and that nine to k offer later started to release JE..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay. Can access your cylinder.\nOn arabable..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Tel KK the complete..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We completed or customer zero. Okay, alright, so I will get you the names. I'll try to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "See if this guy is there. This guy might not be there. He might be too high, but if he's there in the tower, we'll..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah. Got extra step on the and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And now we had to go with the Julie basica and narke Julili kinda evido Justin..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Judy Laurenturisms..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Justin Tom Towers... Lita in Scra. I think I we. The team and the distributed and guta ve sly. So. So I think given the.\nRan by the center is a clumsy ran.\nOkay so r that is here ka one adinori twswaldo Justin Fremer so Justin female gu CBSC so okay let's see who answers the there no metin metta without rmed a. So we might have to do."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Some of the Desert. SA."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "See, you might guess now a little bit better. This is what we'll probably have to do. If this gives us good names and emails, then I think we should... So we'll have to get these guys in the... We may very early on the Monday Venice Leonay Justin. In...\nSo I'll give you the info, Mara, and you can start pushing this out. Then I'll start posting it in one of the channels so then we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Can see low, for low, right? So let's copy table 8. Sellers and then two leaders. Let's see it all. Then leaders go on. CBS commercial..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The New York Ky. What? You wanted da like Rayman?\nAre you...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay absolutely. Yeah, we... Let's see, and the mug already has a mug... Raghu trader, we... We... Trader, and then a right and Tamur..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Mama Tanika will and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Ram and... We'll see it... Let's see."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I have to put a schedule for them to book tickets, and it will call them at 5 o'clock. So I'll explain it down on..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so, Tamoste, I think it's... As I think, Mugurtha serpu dan kunta. Let me think about it. Towers ROA..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And good name and happy hour. But the conversation. And is the key. Will Ru?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I think it is so... I think we'll, for now, just put Ryan and... I mean for science Japan like one just like how we do..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Usually, so they can come in a little later. So that's not a big deal. But Mara I Lita, Mara, Mundros, Ram and Mundros. Because we don't want. And pakti he'll be there but we miss out way slightly so that is what we have to do and cause me they pay and I get already... Yeah... Sway ten a py please do r se p and a so that way we can have it perva in. I think what we will do is in the agenda. So are there are they are the AP agent other... M slides in and a mirror deck the star gesture..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah am can't the embedment..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So you... Live demo of agent together a story agent fabric story Atlan. We're in the absolute...\nI know. That's okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "[Laughter] Travis attended... Is okay. If I'm meeting..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You are... So basic and what data there... The customer story. Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "What did you have like in Atlan? Okay. I'll Slack assistant. Then the enterprise broker you can say is operational marketing delivery."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "He traveler slide just more difference."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. Hundred is the p pab and ratna any pas..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "However, when it's noted it is o..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "PowerPoint. Let's see. In...\nG man. And is just type of...\nStay patient. Continue starting on...\n1602 b the still it should not have any problem. Let's see.\nSt 1 on."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So a slider momo customer success going... A couple of slides..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Hey.\nSo me it that's not a use case basically... I think in the variety of the... Yeah EPN is about the manner and button there..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's okay. I think this almost done."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'll... On this computer type and so I make... I think she just ended..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A file is too large to open on top."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Right and they be more recent is good I think Google... I say very good but...\nHas anyone at Dataskate... Okay. Easy. Link access are changeable."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "SHARELO link copy. January. January. SS..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I think it... So it looks like one BA..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One two. Large. Fileland women."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so NASA and the basic download as Google slides onto the PowerPoint it to man the as controlled the external alert on the process. JP as...\nOf your Loom Grady SER...\nSo the way how it works is a slide. MMO what are we trying to accomplish? What are non-negotiables like customer story what are you trying to accomplish? Customer story and basically base problem our basic a lucky control plane GA a so for you want to get onto egnic mike and a you can say's a mix of three important things. Convert your existing ones into agent-based radiosets.\nOkay? Secondly, and day second in... And a governance agent orchestration and agent governance. Frederick ID another Asian governance and what... So you did not... Asian governments and you did not want to have too many requests going in and bombarding it so it limiting. Yani... I think rate limited and payload optimization.\nThen instead..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Of fed identity you might want to do Finnos and Atlan the that's a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Great meeting. And the."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Workshop a merely a in fabric implementation workshop. This is what you wanted. It is have good others turn here into business action mere base again and convert existing assets into a ready assets. Poverty was the governance at scalevernance scale at scale a visible tinter cass..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That scale. Visibility in the cost. 1."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So merge strand Miro range strand MCP bridge m CCA bridge and a to a broker the orchestration and broker Slack broker okay in the a the pies in the a 2A policies it could be rate limiting policy very simple."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Our trusted identity rate limiting is probably the easiest ones..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Payload optimization and then MS Standard is. So two pulses here. Third one is cast Finnos message. That's exactly what you heard as Atlan and st. The real estate and workshop in so that the news offar the super study. This is how you can config a usier fixed the I make a cop then I apply. We'll fix it but...\nThen we'll have this shown up as a sandbox instance. So it is my workshop in the monog pic workshop instance that larger and...\nSo basic guarantee the enhanced experience, right? And governance Arech we'll just apply the rate limiting. So for instance, in the low governance strategy, I think, where is the agent agents luckily there was an agent who said who? Agent MCP sorry, I think farmer s cities are in policy basically.\nYeah. E and the basic. And then you'll apply this policy. Payload optim, payload optimization. And if you want, you can do additional ones, which is like add a, add this pulse rate limiting pulse. Very simple. This is the other one are the first then the MCPS are second the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Second they are other m circa r or agent whatever that agent is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Convert existing assets. MULE AP D. We are converting into MCP."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Mcp can agent create other like broker agent broke bro like I think it could have old and could yeah hey easy agent."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, this is where the very simple means Slack agent run phrasing. So, the inc under me Paul Slack alone the HMC... Yeah, the implant and the mirror first to them and getting into production second governance MCP payload do the last day and day model wallet and then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "AA proxy model creates the model and then let's say your agent is using one of these models. I think a and GP 5 are not to DPD5. They are usually GPD 5 mini. So it's five minutes. It's here... Implementation. You can basically... Mini.\nFive.\nIn the line and a you will basically edit and configure a cost like million tokens and thousand million of the end and then you will add..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "All. Okay, so main end and then make AE the chape in which are the easiest to is the style as nob day workshop. You got it. The make a tunnel the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So, okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In the end step by step onto the way to... For the module 5 make. It basically says how you set it up, how you do the cost optimization, then how many tokens have you used? Miro code is just a model. Yeah. Pumpature... Slack JSON..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The rand day. You just use this mode..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay? So and then it'll just give you what it is and all that. So the module is the ramada so we know okay how... And then of course as I said in... And in Anthropic Miro you can set up the wallet and you can set up budgets like budget and then final tokens per... Just done so finite tokens just number GB 5 minutes.\nIf I see usage. I might have already gone over and not... Or test. It basically the award... The last piece I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not so..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The jail. So there is just a configuration, right? But it will show you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "What you're doing. So module bucket synops and tagging. So that is what you want to do."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So in the customer zero or JRN con I think this will show really well."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Should we do routing? Token exit at the ang model keyboard Moz from there?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Use code too. TY basic a model proxy is different. Yeah, model..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Proxy see model proxies is a bit different in that sense. Like, Miro you can try that one too. Like for example..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "UI check together in the... User name workshop. So the end of that day you can do semantic routing. You can meet up, see, claim ID, and so on. You just have to pick up what you want to do."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Then it'll route it. It'll basically stand up. So I could, for example, if I connect any point, if you go to Slack under you can basically use this and you can connect any point behind the scenes.\nThen there is the basic game and it will automatically show you on but platform as deployed proxies. I so if you see here we have actually configured the proxy gateways like the make-up where is it? Miro proxy just create basically route PA more open AI would be a more Gemini and in the is semantic root yellow coding and a prompt. Anything that I relate to coding, it will have to go to GBD 5 meaning anytime I use..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Do you believe...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Small ones like finance or something it should go to this one or not. So I could get..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A nice j and then client tiy client secret which call yeah and it's just going as unexpected rate. So prayon in kelly the view model proxy exchange here in the local alta naku instances amperthday twha the taluka client ty client see go on birthday so I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Conna and then a contractor client tidy on the but client secret all and the soliter setting.\nPlant and pro c and bit like. But that's okay, I think we'll just go and ask for another one. Proxeller request accesses or a proxy. Okay, I'll pay that and then if I say request tax, it will show me contract the contract secret as the Hebamb there.\nSo I just. I. Easy. I'm just trying to show you what it is essentially."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What did it...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So the good... Below on the client ID a good organ. So cost management and so the more you customers..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Egypt is a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And the intent is straightforward first to get into production a A agent so a ready a I ready a ready as so and then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Governance at scale without losing control and then cost. I put me 20 then I think then you should be able to open it up or render rent a sli a more sle whatever you want to rent it down. Write Sola and the... Yeah, I think I'll be the airline that sales marketing.\nBut maybe you go into an additional one, whether it is bringing our or not and it is falling back to different. You give the URL and it should go to the right model semantic model because semantic model a year later it still Slack interface.\nOkay well..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Version create J... Like. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Last but not the least I think Raghu bumpy invites and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "They've been back..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Morning and picture the name would approach Chester and bus and then we will see who executes ever in and another we will figure it out by Thursday... But the radio..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We will aim to get it done by..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The end of Thursday. I will get it done."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay so we'll get it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay sorry yeah I'm a."
+      }
+    ],
+    "raw_meeting": "**FieldDay - Planning**\n🕞 Started at 08:33 PM on 03 Nov, lasted 1h 4m",
+    "raw_content": "Speaker 2 | 00:00\nSha are less than that...\nkailash chanda | 00:01\nI made lunch. Thenation Pa, complete your lunch. Please. Right. Worries.\nAnd the faster than. I were...\nSpeaker 2 | 02:16\nYeah elections... A teacher personal manager I suddenly was... So something... So yeah, where is that? So in the... Matada in... Medal that the data joining data to the shed...\nkailash chanda | 02:52\n9 90 jump.\nSpeaker 2 | 02:54\nNinth there so he will come to New York...\nkailash chanda | 02:58\nYeah, he can come to New York. He's...\nSpeaker 2 | 03:01\nKai, he should... So in today's meeting let... Alright, let's go here okay, so agenda and two or three things together matter. Agent fabric the mean. I think I invited lunch for some...\nkailash chanda | 03:49\nOkay.\nSpeaker 2 | 03:49\nHome CSO machine ma you think what's you there? Okay in number. Okay. Alright, so I think EDB KAI yeah. Our goal is we want to close Asian fabric and wes out these then make it not to other...\nkailash chanda | 04:23\nI the on what I need to I...\nSpeaker 2 | 04:27\nIn 50%. This. End... Champion is over 50%. This. Actually, that's okay. I think that's totally fine.\nkailash chanda | 04:40\nOur goal and 50% in AT entra.\nSpeaker 2 | 04:44\nOur goal is we want to close the Asian fabric and we use our deals together through the champion sales partner sales programs.\nkailash chanda | 05:01\n50% off at...\nSpeaker 2 | 05:02\nIf you... I this and...\nkailash chanda | 05:05\nOkay.\nSpeaker 2 | 05:06\nIf you bracket... Instead of that, if you did not already know. We are G SA approved, which means we are eligible for Catalyst, Jumpstar, and SAP funding. To further sweeten the deal.\nBuild a Gather salad. Come sall with us.\nkailash chanda | 05:37\nWe want to...\nSpeaker 2 | 05:40\nWe want to close Asian fabric deals and use her together as a channel partner. Bracketla. If you did not already know, we are...\nkailash chanda | 05:50\nApproved and SA approved. Eligible for Jumpstar and Catalyst programs.\nSpeaker 2 | 05:54\nMeaning... Yeah, which means we are approved for Catalyst, Jumpstar, and SAP funding. Slack... Catalyst, Jumpstar, and SAP funding to further strengthen the deal.\nThe mile... Is going to stand there and to bed a brandfer. Come with us.\nkailash chanda | 06:29\nCome... Said that okay...\nSpeaker 2 | 06:32\nWith Azure. Come on... Go sell with us and go sell with us. Let us help you in bigger...\nkailash chanda | 06:42\nLet us help you win big sell with us and let us help you win co-hyphen-cla just...\nSpeaker 2 | 06:49\nCo-hyphens...\nkailash chanda | 06:52\nOkay...\nSpeaker 2 | 06:54\nAnd the... Salesforce tower...\nkailash chanda | 06:57\nOrasari and no pocassari a New York. The update is published as Saa misushi aflu anda. I will put it in...\nSpeaker 2 | 07:05\nPublish the office the address code update. Yes, Sunday. This is, sales first tower, office one zero six, the c25... Just chat linen. Yeah, this ka for starweight in Natha, office in Natha, and AeC what was that? C The 20 hyphen. C 25. Libel. Sixth a 17th floor, 20th floor CT 2 five's... Perfect in case you were scats you a crude and available for youmster. Come on, I, to sweeten the deal. To sweeten. You could eat black at Theta. Ikamak Mara space on the bed. Ikamak...\nkailash chanda | 08:26\nHow can brag it become again. And that's a be funing too.\nSpeaker 2 | 08:35\nFarweet on the day to help create and close quickly. Sweetened builder to help create and close quickly...\nkailash chanda | 08:46\nClean and close quickly and rather to build pipeline...\nSpeaker 2 | 08:53\nAnd to build pipeline are 5.8.\nNA last La Miro Happy hour will follow the event. Dry. Leather.\nkailash chanda | 09:11\nOr happier will fall on...\nSpeaker 2 | 09:13\nYeah happy...\nkailash chanda | 09:16\nOkay...\nSpeaker 2 | 09:18\nI think what to expect that...\nkailash chanda | 09:24\nWhat do you expect at the first point was space this as...\nSpeaker 2 | 09:27\nThis is okay and what Salesforce com mules are fan and for we are committed to a mutual success. First line...\nkailash chanda | 09:42\nFor seven...\nSpeaker 2 | 09:42\nWith Salesforce, Musoft and Informatic... Then better...\nkailash chanda | 09:54\nData and Mulesoft and you will do whatever it takes to help you win. Okay.\nSpeaker 2 | 09:59\nI... Champion the skates handsome hub for a sales on handsome sales on sales and... Is the first star on 24 which continues Atlanta, Chicago, San Ryan and Toronto. It's part of our shared commitment. The success. And Q4. Yeah, perfect. I think that should be fine.\nkailash chanda | 10:45\nYeah. Miroxa refresh the same in completed a New York. And this...\nHave you requirement of lasta...\nSpeaker 2 | 11:05\nYeah, let us help you win bigger. Please invite customers and your folks are happier after afterwards...\nkailash chanda | 11:18\nHappy after the office... Better... Mara invite you asked.\nSpeaker 2 | 11:30\nWho will be able to join you? Just and may all AA so maybe what we'll do is, 04:30 or so we'll head out.\nkailash chanda | 11:40\nOkay. Invite... Your customers. For a happy hour.\nSpeaker 2 | 11:46\nYour customers. And other reps.\nkailash chanda | 11:54\nOther for happy hours...\nSpeaker 2 | 11:57\nFor close, yeah, for the happier afterwards.\nK... And...\nI think customers and team... Others were not team attended. I think they should be fine.\nkailash chanda | 12:38\nOkay. Perfect. Are there internet keys for either on or...?\nSpeaker 2 | 12:44\nYeah, and in that case, I'm only the master. This is the first...\nkailash chanda | 12:49\nAre obviously the second stop with a last stop at 11:10 or...?\nSpeaker 2 | 12:53\nSecond stop, which continues to which continues from New York. And the Passe, which continues from New York in Atlanta. Something like that. Okay, so yeah, I think this.\nSo I think this should be fine. Okay, the IP the upgrade yes, the next stated we had to figure this out, right? It should be 30 minutes can and the man me even space it not is no more pages. Let me... Let's great events, right? Yeah, if this scratch a let's say...\nkailash chanda | 14:13\nBarak Saria. The other meeting. Meeting...\nSpeaker 2 | 14:18\nAtlan is the Atlan the room and a skater in the than comparison. I think the editorch. Okay, let's see. I think.\nThe st. Slack esella... The little link usually ra...\nkailash chanda | 15:10\nKoke. All website in chaman is show on only. Only datask AA. Okay. You name or I plays son sooner...\nSpeaker 2 | 15:44\nFor example, let's see non t year. For example, partner events are announ for like for example, the... Aa is may partner in a moment. For example a chang is make ma would have gone or changes around cla...\nkailash chanda | 16:21\nExactly.\nIs it a website issue or...?\nSpeaker 2 | 16:34\nI sadly another that somehow it did not come... Some who did not... Yes, that is so how to figure this out. Okay. Anyways, so I could run New York and we'll get to this. Let's see if this is time either you know...\nYeah he'...\nkailash chanda | 17:17\nWhat's the matter? Lomada sun mada so what is the issue are cloud enable j on to name... Exactly.\nSpeaker 2 | 17:37\nThe symbol the okay alright.\nkailash chanda | 17:46\nOkay, Slack reads to metadata. So I glabert lamp...\nSpeaker 2 | 17:51\nAre the right so...\nkailash chanda | 17:52\nOkay...\nSpeaker 2 | 17:52\nPut in target just wanted...\nkailash chanda | 17:57\nBefore we target Nako Kasari meeting rooms events is I collect a task with accompli and yeah you have...\nSpeaker 2 | 18:10\nNear theeenth...\nkailash chanda | 18:12\nGot to many.\nSpeaker 2 | 18:15\nNineteenth. I...\nWhat I... Make a transform there.\nkailash chanda | 18:47\nOkay, Atlanta airport there will wait one next to Chicago's...\nSpeaker 2 | 18:51\nOkay, then I...\nkailash chanda | 18:51\nIn theva...\nSpeaker 2 | 18:52\nYeah, Chicago... Okay, they're ten together Chicago ten together...\nkailash chanda | 18:58\nA third type is a matter...\nSpeaker 2 | 19:00\nOkay, December 3. I think maybe we should change the term one...\nkailash chanda | 19:11\nIn November...\nSpeaker 2 | 19:11\nThird ten, correct? In the end, I got moved on. Measure right third Chicago Towers, seventh floor 0:78. This is how it is. Chicago Towers...\nkailash chanda | 19:30\nChicago to seven six 07 okay...\nSpeaker 2 | 19:33\nSee, zero seven...\nkailash chanda | 19:34\nSA for Chicago update re...\nSpeaker 2 | 19:44\nIs a ballroom. It's not... For Star Towers. The 17th. I think it'll have DA. Toronto. Toronto.\nToronto. Is this okay, so only Atlanta or pending...\nkailash chanda | 20:24\nOccasionally when they start getting this standard data as spot but what you're expecting and then the Atlanta... Sorry except for the European... Zero 1. Yeah, okay, perfect. That's the... For IP published. I class one is Toronto a... I shall be competent.\nOkay. Back here, sir.\nSpeaker 2 | 21:26\nThe we kind of let's see Atlanta, so this was the NBR and the UPD LA so okay, so the UPDTA yeah, chain. Okay. Okay, so now I think.\nMay, we will see you.\nOkay, you need list of as for this. So I think we will basically start a message for something 6 85 above prime special stay s and b esce inpma mus at ispma...\nkailash chanda | 23:34\nEric Aristo. John and Eric Aristo are just...\nSpeaker 2 | 23:40\nOnly yearly on Data Foundation. New... Latest inwriter Sha... A data foundation.\nkailash chanda | 24:23\nOut the office on the Ro.\nSpeaker 2 | 24:42\nWe are moving out of office mar. Yeah in yeah so says me okay so...\nkailash chanda | 24:57\nAnglowalantta. New York. Mara. Jack Phillips. Rosebor. New again?\nSpeaker 2 | 25:17\nSteps do not...\nSo I think core is a good... Structure it's not a big difference. So we'll get the... Core is but the list... This is what they're thinking. 62 but data foundation is one another... Why is this coming as send their leaders the informat... But Tableau... Let's see where is this... There is a road item from some... Okay.\nLet's see I at least de-brand these costs didn't return four people okay stone managers... Delete... Actually put... Change the way... He did. Manager. He... Okay. So near to the... Boss the easy assembler assembly. And we will send it to everyone essentially...\nkailash chanda | 28:19\nHey...\nSpeaker 2 | 28:19\nYou know, and they can sign up for whatever that is closest to them.\nkailash chanda | 28:25\nNo...\nSpeaker 2 | 28:25\nAnd we want Travis. And we want to see if Amy can actually e. Texas. Amy informatic...\nkailash chanda | 28:34\nWhat she inf a is gpa and Jennifer okay. Greg Morris... Based on...\nSpeaker 2 | 28:45\nPace and the automotive you need...\nkailash chanda | 28:49\nContainer a small alley for the mid-market. A commercial Atlanta...\nSpeaker 2 | 28:53\nThe commercial encos the automotive energy manufacturing even...\nkailash chanda | 29:03\nCalled Ryan... Is for a TED... Only commercially will... Okay... No...\nSpeaker 2 | 29:15\nRin bas jordaner Julili julian a commercial...\nkailash chanda | 29:24\nOkay...\nSpeaker 2 | 29:24\nSo she's based here actually... As a mom and these classes are... Yes, these moms and these are... But I think we'll have to get everyone... Ryan by desk...\nkailash chanda | 29:46\nWe were ha we should do some restriction or some...\nSpeaker 2 | 29:52\nIA but I think ATK I don't think the k we'll just do a closed group, we'll just do a close group. Data Foundations is...\nkailash chanda | 30:14\nOkay...\nSpeaker 2 | 30:14\nRight. That's probably what we want to think. So ASA JPG is the happy will probably... I think you start over, but I don't think Atlanta is the happy hour of the weekend and we will basically tell people who want to come there. Yeah, I'll lay happy on...\nkailash chanda | 30:44\nOkay.\nSpeaker 2 | 30:44\nHappier with knowledge of the transaction.\nkailash chanda | 30:48\nMuch there. But how do we control if we get more people than Atlanta?\nSpeaker 2 | 30:54\nI don't think we'll get that many people, but we'll see. So, the commercial, the bag, and will ask him another day.\nkailash chanda | 31:18\nHey...\nSpeaker 2 | 31:19\nNinth and one of the other... So what is the better, actually?\nkailash chanda | 31:28\nI think PJ and that nine to k offer later started to release JE...\nSpeaker 2 | 31:34\nOkay. Can access your cylinder.\nOn arabable...\nkailash chanda | 31:54\nTel KK the complete...\nSpeaker 2 | 32:01\nWe completed or customer zero. Okay, alright, so I will get you the names. I'll try to...\nkailash chanda | 32:10\nOkay...\nSpeaker 2 | 32:12\nSee if this guy is there. This guy might not be there. He might be too high, but if he's there in the tower, we'll...\nkailash chanda | 32:24\nYeah. Got extra step on the and...\nSpeaker 2 | 32:27\nAnd now we had to go with the Julie basica and narke Julili kinda evido Justin...\nkailash chanda | 32:32\nJudy Laurenturisms...\nSpeaker 2 | 32:42\nJustin Tom Towers... Lita in Scra. I think I we. The team and the distributed and guta ve sly. So. So I think given the.\nRan by the center is a clumsy ran.\nOkay so r that is here ka one adinori twswaldo Justin Fremer so Justin female gu CBSC so okay let's see who answers the there no metin metta without rmed a. So we might have to do.\nkailash chanda | 34:50\nSome of the Desert. SA.\nSpeaker 2 | 35:33\nSee, you might guess now a little bit better. This is what we'll probably have to do. If this gives us good names and emails, then I think we should... So we'll have to get these guys in the... We may very early on the Monday Venice Leonay Justin. In...\nSo I'll give you the info, Mara, and you can start pushing this out. Then I'll start posting it in one of the channels so then we...\nkailash chanda | 36:43\nOkay.\nSpeaker 2 | 36:43\nCan see low, for low, right? So let's copy table 8. Sellers and then two leaders. Let's see it all. Then leaders go on. CBS commercial...\nkailash chanda | 37:39\nThe New York Ky. What? You wanted da like Rayman?\nAre you...?\nSpeaker 2 | 38:08\nOkay absolutely. Yeah, we... Let's see, and the mug already has a mug... Raghu trader, we... We... Trader, and then a right and Tamur...\nkailash chanda | 38:40\nMama Tanika will and...\nSpeaker 2 | 38:42\nRam and... We'll see it... Let's see.\nkailash chanda | 38:45\nI have to put a schedule for them to book tickets, and it will call them at 5 o'clock. So I'll explain it down on...\nSpeaker 2 | 38:53\nOkay, so, Tamoste, I think it's... As I think, Mugurtha serpu dan kunta. Let me think about it. Towers ROA...\nkailash chanda | 39:10\nAnd good name and happy hour. But the conversation. And is the key. Will Ru?\nSpeaker 2 | 39:18\nI think it is so... I think we'll, for now, just put Ryan and... I mean for science Japan like one just like how we do...\nkailash chanda | 39:34\nExactly.\nSpeaker 2 | 39:34\nUsually, so they can come in a little later. So that's not a big deal. But Mara I Lita, Mara, Mundros, Ram and Mundros. Because we don't want. And pakti he'll be there but we miss out way slightly so that is what we have to do and cause me they pay and I get already... Yeah... Sway ten a py please do r se p and a so that way we can have it perva in. I think what we will do is in the agenda. So are there are they are the AP agent other... M slides in and a mirror deck the star gesture...\nkailash chanda | 40:42\nYeah am can't the embedment...\nSpeaker 2 | 40:43\nSo you... Live demo of agent together a story agent fabric story Atlan. We're in the absolute...\nI know. That's okay...\nkailash chanda | 41:14\n[Laughter] Travis attended... Is okay. If I'm meeting...\nSpeaker 2 | 41:25\nYou are... So basic and what data there... The customer story. Okay...\nkailash chanda | 41:38\nHey...\nSpeaker 2 | 41:41\nWhat did you have like in Atlan? Okay. I'll Slack assistant. Then the enterprise broker you can say is operational marketing delivery.\nkailash chanda | 42:00\nHe traveler slide just more difference.\nSpeaker 2 | 42:03\nYeah. Hundred is the p pab and ratna any pas...\nkailash chanda | 42:14\nHowever, when it's noted it is o...\nSpeaker 2 | 42:18\nPowerPoint. Let's see. In...\nG man. And is just type of...\nStay patient. Continue starting on...\n1602 b the still it should not have any problem. Let's see.\nSt 1 on.\nkailash chanda | 46:02\nSo a slider momo customer success going... A couple of slides...\nSpeaker 2 | 46:09\nHey.\nSo me it that's not a use case basically... I think in the variety of the... Yeah EPN is about the manner and button there...\nkailash chanda | 46:45\nIt's okay. I think this almost done.\nSpeaker 2 | 46:48\nI'll... On this computer type and so I make... I think she just ended...\nkailash chanda | 46:58\nA file is too large to open on top.\nSpeaker 2 | 47:03\nRight and they be more recent is good I think Google... I say very good but...\nHas anyone at Dataskate... Okay. Easy. Link access are changeable.\nkailash chanda | 47:37\nSHARELO link copy. January. January. SS...\nSpeaker 2 | 47:49\nI think it... So it looks like one BA...\nkailash chanda | 47:55\nOne two. Large. Fileland women.\nSpeaker 2 | 48:01\nOkay, so NASA and the basic download as Google slides onto the PowerPoint it to man the as controlled the external alert on the process. JP as...\nOf your Loom Grady SER...\nSo the way how it works is a slide. MMO what are we trying to accomplish? What are non-negotiables like customer story what are you trying to accomplish? Customer story and basically base problem our basic a lucky control plane GA a so for you want to get onto egnic mike and a you can say's a mix of three important things. Convert your existing ones into agent-based radiosets.\nOkay? Secondly, and day second in... And a governance agent orchestration and agent governance. Frederick ID another Asian governance and what... So you did not... Asian governments and you did not want to have too many requests going in and bombarding it so it limiting. Yani... I think rate limited and payload optimization.\nThen instead...\nkailash chanda | 50:11\nOkay.\nSpeaker 2 | 50:11\nOf fed identity you might want to do Finnos and Atlan the that's a...\nkailash chanda | 50:18\nGreat meeting. And the.\nSpeaker 2 | 50:22\nWorkshop a merely a in fabric implementation workshop. This is what you wanted. It is have good others turn here into business action mere base again and convert existing assets into a ready assets. Poverty was the governance at scalevernance scale at scale a visible tinter cass...\nkailash chanda | 51:05\nThat scale. Visibility in the cost. 1.\nSpeaker 2 | 51:10\nSo merge strand Miro range strand MCP bridge m CCA bridge and a to a broker the orchestration and broker Slack broker okay in the a the pies in the a 2A policies it could be rate limiting policy very simple.\nkailash chanda | 51:33\nOkay.\nSpeaker 2 | 51:33\nOur trusted identity rate limiting is probably the easiest ones...\nkailash chanda | 51:38\nOkay...\nSpeaker 2 | 51:38\nPayload optimization and then MS Standard is. So two pulses here. Third one is cast Finnos message. That's exactly what you heard as Atlan and st. The real estate and workshop in so that the news offar the super study. This is how you can config a usier fixed the I make a cop then I apply. We'll fix it but...\nThen we'll have this shown up as a sandbox instance. So it is my workshop in the monog pic workshop instance that larger and...\nSo basic guarantee the enhanced experience, right? And governance Arech we'll just apply the rate limiting. So for instance, in the low governance strategy, I think, where is the agent agents luckily there was an agent who said who? Agent MCP sorry, I think farmer s cities are in policy basically.\nYeah. E and the basic. And then you'll apply this policy. Payload optim, payload optimization. And if you want, you can do additional ones, which is like add a, add this pulse rate limiting pulse. Very simple. This is the other one are the first then the MCPS are second the...\nkailash chanda | 54:16\nNo.\nSpeaker 2 | 54:17\nSecond they are other m circa r or agent whatever that agent is...\nkailash chanda | 54:23\nConvert existing assets. MULE AP D. We are converting into MCP.\nSpeaker 2 | 54:28\nMcp can agent create other like broker agent broke bro like I think it could have old and could yeah hey easy agent.\nkailash chanda | 54:45\nOkay.\nSpeaker 2 | 54:46\nOkay, this is where the very simple means Slack agent run phrasing. So, the inc under me Paul Slack alone the HMC... Yeah, the implant and the mirror first to them and getting into production second governance MCP payload do the last day and day model wallet and then...\nkailash chanda | 55:16\nOkay.\nSpeaker 2 | 55:16\nAA proxy model creates the model and then let's say your agent is using one of these models. I think a and GP 5 are not to DPD5. They are usually GPD 5 mini. So it's five minutes. It's here... Implementation. You can basically... Mini.\nFive.\nIn the line and a you will basically edit and configure a cost like million tokens and thousand million of the end and then you will add...\nkailash chanda | 56:15\nOkay.\nSpeaker 2 | 56:16\nAll. Okay, so main end and then make AE the chape in which are the easiest to is the style as nob day workshop. You got it. The make a tunnel the...\nkailash chanda | 56:36\nSo, okay...\nSpeaker 2 | 56:37\nIn the end step by step onto the way to... For the module 5 make. It basically says how you set it up, how you do the cost optimization, then how many tokens have you used? Miro code is just a model. Yeah. Pumpature... Slack JSON...\nkailash chanda | 57:09\nOkay. Okay.\nSpeaker 2 | 57:10\nThe rand day. You just use this mode...\nkailash chanda | 57:14\nGot it. Okay.\nSpeaker 2 | 57:15\nOkay? So and then it'll just give you what it is and all that. So the module is the ramada so we know okay how... And then of course as I said in... And in Anthropic Miro you can set up the wallet and you can set up budgets like budget and then final tokens per... Just done so finite tokens just number GB 5 minutes.\nIf I see usage. I might have already gone over and not... Or test. It basically the award... The last piece I...\nkailash chanda | 58:03\nNot so...\nSpeaker 2 | 58:04\nThe jail. So there is just a configuration, right? But it will show you...\nkailash chanda | 58:09\nOkay.\nSpeaker 2 | 58:09\nWhat you're doing. So module bucket synops and tagging. So that is what you want to do.\nkailash chanda | 58:22\nNo...\nSpeaker 2 | 58:23\nSo in the customer zero or JRN con I think this will show really well.\nkailash chanda | 58:31\nShould we do routing? Token exit at the ang model keyboard Moz from there?\nSpeaker 2 | 58:38\nUse code too. TY basic a model proxy is different. Yeah, model...\nkailash chanda | 58:42\nOkay. Okay.\nSpeaker 2 | 58:42\nProxy see model proxies is a bit different in that sense. Like, Miro you can try that one too. Like for example...\nkailash chanda | 58:55\nOkay.\nSpeaker 2 | 58:57\nUI check together in the... User name workshop. So the end of that day you can do semantic routing. You can meet up, see, claim ID, and so on. You just have to pick up what you want to do.\nkailash chanda | 59:17\nWhat do you want?\nSpeaker 2 | 59:18\nThen it'll route it. It'll basically stand up. So I could, for example, if I connect any point, if you go to Slack under you can basically use this and you can connect any point behind the scenes.\nThen there is the basic game and it will automatically show you on but platform as deployed proxies. I so if you see here we have actually configured the proxy gateways like the make-up where is it? Miro proxy just create basically route PA more open AI would be a more Gemini and in the is semantic root yellow coding and a prompt. Anything that I relate to coding, it will have to go to GBD 5 meaning anytime I use...\nkailash chanda | 00:28\nDo you believe...?\nSpeaker 2 | 00:29\nSmall ones like finance or something it should go to this one or not. So I could get...\nkailash chanda | 00:34\nGot it.\nSpeaker 2 | 00:34\nA nice j and then client tiy client secret which call yeah and it's just going as unexpected rate. So prayon in kelly the view model proxy exchange here in the local alta naku instances amperthday twha the taluka client ty client see go on birthday so I...\nkailash chanda | 01:02\nOkay.\nSpeaker 2 | 01:02\nConna and then a contractor client tidy on the but client secret all and the soliter setting.\nPlant and pro c and bit like. But that's okay, I think we'll just go and ask for another one. Proxeller request accesses or a proxy. Okay, I'll pay that and then if I say request tax, it will show me contract the contract secret as the Hebamb there.\nSo I just. I. Easy. I'm just trying to show you what it is essentially.\nkailash chanda | 01:58\nWhat did it...?\nSpeaker 2 | 01:59\nSo the good... Below on the client ID a good organ. So cost management and so the more you customers...\nkailash chanda | 02:11\nEgypt is a...\nSpeaker 2 | 02:12\nAnd the intent is straightforward first to get into production a A agent so a ready a I ready a ready as so and then...\nkailash chanda | 02:27\nOkay.\nSpeaker 2 | 02:28\nGovernance at scale without losing control and then cost. I put me 20 then I think then you should be able to open it up or render rent a sli a more sle whatever you want to rent it down. Write Sola and the... Yeah, I think I'll be the airline that sales marketing.\nBut maybe you go into an additional one, whether it is bringing our or not and it is falling back to different. You give the URL and it should go to the right model semantic model because semantic model a year later it still Slack interface.\nOkay well...\nkailash chanda | 03:29\nVersion create J... Like. Okay.\nSpeaker 2 | 03:35\nLast but not the least I think Raghu bumpy invites and...\nkailash chanda | 03:41\nThey've been back...\nSpeaker 2 | 03:42\nMorning and picture the name would approach Chester and bus and then we will see who executes ever in and another we will figure it out by Thursday... But the radio...\nkailash chanda | 04:00\nWe will aim to get it done by...\nSpeaker 2 | 04:02\nYeah...\nkailash chanda | 04:02\nThe end of Thursday. I will get it done.\nSpeaker 2 | 04:04\nOkay so we'll get it...\nkailash chanda | 04:07\nOkay.\nSpeaker 2 | 04:07\nOkay sorry yeah I'm a."
+  }
+}
