@@ -1,0 +1,734 @@
+{
+  "id": "01a1a2a8dbbf700b944bb278963256eb",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a20783d07395b3c5bed414123022",
+      "title": "Weekly HR status call ",
+      "duration": 1486,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "4krr01pe3t4kmlcg6i0afm0vps_20261103T150000Z",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vivek@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "santhosh@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-03T18:00:09.016Z",
+      "end_date": "2026-11-03T18:24:55.016Z",
+      "url": "https://app.krisp.ai/m/01a1a20783d07395b3c5bed414123022?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sharwan is the...\nMadan Mobina Skrip Tanta. Then... So once the better... Go next step."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A part of the ftillator."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Let's go ahead. Sandesh, do you have anything from your end?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Only a quick update on the website. As I mentioned, I've met two teams. Yesterday I spoke to a company called Magnetode, and today a company called Marketing Genius. So there will be another call set up with Margaret Wood, and for tomorrow's call, it's more like I was them to present as a case study. How they are going to help us overall in content data along with branding and similar companies know what they have to work for."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so one of the ways of working is a website developer company. Something they have to do content with minimal intervention."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, because I don't see anyone has time now. Okay, like Sharwan, these guys, they will try to help, but it shouldn't be that they should... They will be the sole owners of the content."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "No, that is what they will only validate. Because whatever the data we are going to post, the subject matter expert from our end, they will only validate it. Otherwise, I'm asking them to prepare the content.\nIt is not from us we always support with testimonials, blogs, whatever we need to present, but otherwise content, data, and everything including social media presentations like story presentations, postings, everything has to be driven by them.\nSo that is the scope I'm giving them. So the company that I spoke to is Marketing Genius. They are actually... Compared to both, I like them as in their liberation. Both of them have knowledge on Salesforce. Earlier they had worked and they started as a doll.\nSo they have a good understanding of the overall industry and they're currently into digital marketing. So this mostly will have a call on Monday. I'll loop you into both of these meetings because... We already have seen their support when it comes to data. They are completely relying on our data.\nThat is the reason I'm keeping them as a last option. As of... So tomorrow one call and Monday one call and then we'll close the website. They are... Both the companies, not just the website.\nThat is the start of it. So website then linking our CRM to the website. Linking our even hiring portal for Krisp page to the website. So entire website will be an interactive one. Okay, anything else other than this? No major things. As I said, Claude, it is showing one $25 for a certification.\nSo I informed Sen to update the team. At least three we need. Then again, for the third step, we need ten people to complete certification. So even if you are getting more, they're still okay. I understood."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "From start to... Because the next step has other criteria right where we need a name per customer."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Customer yeah. So I informed she Sha to you know she Sha for three. So who is immediately available who can complete his checking so he is going to do it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay and yeah anything else from your side?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Nothing, Rag, and anything decided on AI fresh number and driver."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I am working on it. I will send it to you. Actually, we might have to hire an AI practice lead."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So I will send the both JDS for you. I was looking for someone but joined somewhere else, so now we have to search for new guys."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. They will be working from the US."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, India only."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So the US VP of sales requirement is there, right? Santosh. So I want you to look for US guys. You have a crystal-clear JD and a few things. What I want to add is that because this is US hiring, I don't know how much Varun is involved.\nI have experience with US sourcing. But a few things I want to add is I want someone who has worked as a Salesforce account executive or an AVP or an RVP for at least two to three years and then moved to even if they are working currently in Salesforce. I'm okay with that.\nBut even if the past experiences are Salesforce and then they move on to someone like us who are like Salesforce partners and they are working there is fine, but that is a must criteria."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, having Salesforce exposure is a must."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, so he should have worked as a Salesforce account executive or an AVP or an RVP."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Then worked in companies... Like us, a little bit bigger than us... Fine, but who are Salesforce partners? Okay, and who was doing the Salesforce services selling? Understood?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, and how many are we aiming for? The number of positions only one."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, yeah... I will slowly send you. That is the VP of sales, right? So we are looking for someone senior... That's the reason. You see there the targets and all are bit high. So I will slowly send you the AVP of sales JD okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To or greater or handle or success..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "With the ISO Santosh the keys."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "There was a problem yesterday. I think..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Was in..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "AF has sent..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A decision..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "A mail..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To put..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To them again. The... Keys were not working so he has sent an email. I've asked as to include you. I hope you didn't in that communication because once the keys are fine then he already started. We have got 18 new laptops because considering all the people who have AI email ID, we need to have the accounts.\nSo it is taking two to three hours for each laptop. So he is parallel working on three to four laptops every day. These configurations, these are empty laptops as of now. Once this is done then we will start working on the people who are working.\nSo this might take even longer than three to four hours, okay? So because that's a problem."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We get it by 50 even this go... Right? They might ask anytime, like, \"Do we have AI on the sock?\" Because that is again, a healthcare client."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Actually, I was checking their agreements and all. I was a bit worried that they might ask for that. I didn't see anywhere. As of now they didn't ask, but any point of time they might come back and ask, \"Do you guys have a sock and are so certified?\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think tomorrow we have with the CI... So Marshall is the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Then that question will come tomorrow..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If you have a meeting with CO that portion will come so we need this as soon as possible. They will not sign if they ask that question and if that is a recommendation guideline, they are not going to sign it.\nBecause I think GOHEALTH has the patient data."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah they will have patient data. But maybe as Raghu tries to get it by 15 or get me a finite date then that will help us. But whatever is required... Now we have right sales, laptops, the crowds striking installations, everything we have right. I gave... We got the window. Please."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Microsoft... It is not working. He's again... He is working with that team to rescind it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. I think they mentioned..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Just speed up some..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Because we might lose this project. At least if we have some concrete date in the next two weeks because the project won't start at least one week after we sign and all we can tell them that we are getting signed on November 15th. Satisfied on November 15th."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Even because Q4, as I told you in the last meeting, we are targeting... Everyone will first ask... Do you guys have so and so certification? LLM is very regulated. Okay.\nThe next one is the profile sourcing has to improve. I see the profiles, but like the quality of profiles we... I am not satisfied. So just talk to Van. Once I had a discussion with him. I don't know whether he told you or not about Informatic and... Or there was a PM position both..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I couldn'm."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Explained him."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. PM we are working on the updated SCOP again looking for only any of these integrated integration platform experience."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, and if they have accent because I saw the most recent profile. Someone seeing that profile. See someone having 62 connections in LinkedIn. That's what throws me off. Either they should have someone in the ecosystem in Maurie Tech who is her relative.\nThat's why she is there without any connections with her. Who has 42 connections in today's market? 42 or 62 connections in today's IT market? Yeah. So those are because of our environment writer. Actually, I wanted this call after the delivery comes because you will understand what is going on with delivery. We need a very strong dynamic PM. Things will change very rapidly in Q4."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It's just that is the base criteria that I should have experience with the Salesforce ecosystem. But there are many other criteria that I told..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Because right now I'm seeing a lot of gaps in delivery. Okay, we are actually not able to afford even now. But because Kailash has that relation with... And Kailash spending a lot of time on those delivery escalations, we are able to subside those orange. Those are very big escalations what we got.\nSo we need a very strong strategic PM."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, yeah, I'll look into it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "With informatic I don't want someone who knows informatic who are technical in informatic know I need someone like Kailash in informatic. Okay, I will see how we show when we have a call tomorrow. Right?\nSo we will see. How is that guy? At least from profile perspective, he looks good, but like unless I talk, I can't tell you. But yeah, we need who will lead because one major thing with Informatic Guy is we don't have any experience. Neither me, nor Kailash, or none of our resources have any experience with Informatic."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Understood? Yeah, and we need..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We need a really good guy even like I don't need him like a technical superstar in Informatica, but he should understand what that is because he is mostly in a presales like he will be leading mostly the presales and strategy.\nSo, even Kailash is not hands-on MuleSoft. But he can drive a complete MuleSoft. I need someone like that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Got it? I want to send you his CV. I'm sharing it with you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay? And next thing is, sometimes I think you've created some systems or processes and you have uploaded somewhere. Can you send me that link because we are building some agents. A agent I want to see immediately. I won't be able to do, but I want to see because Seshang team is working on a few agents for delivery. Once that is done, I want to see if we can build any agents for HR\nYeah. So just ping me that link in Dataskate. HR group. I want to see those processes and I want to understand. I will set up a call with our she Shangg's team that is co team to understand the process. Which processes are mostly used, which processes are more like a redundant process where like it's just like an unnecessary waste of time. We want to automate those using AI agents."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, yeah, and Sen said that it can be done through Slack."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, Slack backend whatever it is, the interface we are going to use is Slack. Okay. AI freshers and AI practice fleet. I will send out all the details. I have to work on that because I was hoping that guy would come and he would drive this, but he joined somewhere else so now I have to restart from scratch. Anything from you, Kailash?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I have one question for you, but it will drop to something later. Is it on the informatic training level? Should we wait until we finalize on this architect or shall we...? You will select a couple of people and we can get them trained."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Book. Couple of people..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I mean, from the tech team, if you allocate any two resources or identify two or three resources internally, if we can get them trained. Eight..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Are they already allocated to something else, right? Are there any who are not allocated to anything?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "On the bandwidth... I'm not sure, but I was asking, \"Do we...?\""
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have any...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Not bandwidth. They are already allocated to some technology yet..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes. No, but I think I spoke to someone. Maybe if we can pick one from that team and one from our Mulesoft team, then maybe we can... That's what I was thinking of. If we can at least start training them, they will have some understanding, right? So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Two people... What we will do is the two..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If the architect comes in and if we have one guy developer comes in and two resources supporting right, he will have at least two or three people in house rate who can start to."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "What is the effort just to train two people or ten people?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It is the same effort from training will not change anything. But as you said, everybody is allocated into some projects. So finding a big number... I'm not sure that's why I asked for two people."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Now if you're doing some training and enabling, it should be a longer goal, not for the intermediary. Look for contractors to do the project."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No kidding."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If we have a longer goal, like... Okay, we need at least 10 people, 10 interns in Informatica. Then let's go ahead with hiring new people in Informatica or like a segregating or whoever is not in the projects and then move them completely to Informatica."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Got it? Okay. I'll plan that accordingly."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And a for even."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "This contracted resource allocation creates a process, and it shouldn't randomly come from Kailash. There should be some process. Okay, this whatever data was signed, we need a resource. So there will be a contractor. There should be some process for that and I don't want Kailash to be involved in that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "No, there is a gap. I said we were actually talking to Therma on interviews. So this... Cope was already discussed with him and was not aware. So we discussed with him about the pricing today but yeah, once we have a requirement..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Plus, there is a RPA requirement about how it came to you guys. So this is where Redone has to pick Kailash if some project needs a resource. So this should stop because I have seen yesterday there was a kickoff which I was off. Skyla has to take over the kickoff meeting. Currently what I am seeing is Kailash like a kind of a kitchen sink. Anyone anything they're going to Kailash which should stop. I need processes around this.\nOkay, like democracy, if some source requires RPA resource, it should come to you, not Kailash and Kailash. You have to direct in that direct..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sure. Then, sir, I will start doing that."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sometimes if you create a process, right? Okay, this is how the process is for any new resource requirement from whoever the project is leading. It says that. Okay, if you need the project has to send an email or like a send a Slack message or something to HR which is Sash and Santos will reach out to Kailash or Santosh will reach out to external team or Santosh will reach out to our own doctor.\nThe process is completely different."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. Raising the request should..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Process so that even Kailash knows. Okay, if someone comes asking for resources, Kailash will say like this is the process go and I want this process documented and so that we can point them go check this page. This is where the new resource process is."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "There we'll try to publish to all leads like, you know, who are like seniors and who generally, you know, raise a request for resource. We'll send it to all those."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, but just maintain one folder with all processes, and that way, anyone who has a doubt can actually say, \"Did you even go and read those processes?\" Because finally, those processes have to be slowly automated.\nThat is my goal."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Understood. It makes sense."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Anything else?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "On's hiring, Raghu, considering you know Tom joining because I was thinking that he'll be on several payrolls. That is the reason why Webex is pushing to connect with PayPal. But if we are going to run it... Because I need some guidance because there are no other employees as of now.\nWhat are the documents needed? What are the documents he needs to sign? Because E is something I know that he needs to sign it. And you need to sign it before within two days, I think from the date of joining."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, he will be on Dataskate only, and he can't be on Cerebral."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So if it is Datask, then I need to... If you can connect me to CPA, we will understand what the statutory requirements are like I needs to be filled and within the first two days from the date of joining only that has to be signed by you locally.\nSo that is one which I used to take care of earlier, so I'm aware of it. Insurance again... Anyways, I'll be connecting with you the guy in a while. Are the other employees available? Are they going to consider how many people will be there to start with to give some number. What is it insurance?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "There might be some other guys... That's what you are sourcing for VP of sales, right? There will be a VP of sales couple of them."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, as of now we do not have any MA so it is a starting so it will be..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Only we will start with one."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, so what I understood from Paul is our existing... It is not a standard thing from our company. It can be 50-50 and for few it will be hundred percent gone by the company. So she has suggested to go for fifty..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Who's stop..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Fifty so that employee will be conscious. So I think..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In this case it won't work..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can... Just asked for the diagram..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Like that. But..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That you shared..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'll check with..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Earlier with..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We wait once..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "On phase two. Can..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You share the diagram..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I don't know what we offered him if... We are giving full insurance. Yeah. Generally there will be employer contribution and employee contribution that you can ask in the plans... What he is going to... Do, what will be employer contribution and what will be employee contribution. Don't go with what CBL suggests because CBL working model is completely different."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, and... Even she has mentioned to talk to... We wait for approval because it is not... Yeah, who? The employees... It changed from one to another... Because we do not have any. And... When I spoke to Vijay last week, he said we do not have any policies like insurance, benefits, and other things. Obviously, he's from the state he's joining. I think there is no..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Does not..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Policy in... Particular if..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Everything in..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "He as an automation if you do..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But to..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Not have a new policy, I don't think so it will be a question. But insurance is something... Because he insisted on it. Okay, I'll talk to Anthropic and I'll get back because three things we need in insurance: medical claims like regular health and dental.\nSo what are the charges? I don't know how to pick all the options. I think that just talk..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To and see what is the employer contribution and what is the employee contribution."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay? I think there will be... It changes. It varies based on the options he chooses and the employee chooses. So if we are offering... Whether we are offering a hundred percent... The answer is no, of course.\nBut considering there are three options. One is 00% born by the employer. One is 50% is completely born by the employee. I think completely born with the employee may not work out. He will definitely ask for that."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Will come from him. So the insurance providers will tell what is the employee and employer contribution. They defined it."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, fine, because we can..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "But there will be a base definition from them."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "After talking to drop a message and... What are the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And could..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Information we... Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Thank you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Thank you so much."
+      }
+    ],
+    "raw_meeting": "**Weekly HR status call **\n🕞 Started at 06:00 PM on 03 Nov, lasted 24m",
+    "raw_content": "kailash chanda | 00:03\nSharwan is the...\nMadan Mobina Skrip Tanta. Then... So once the better... Go next step.\nSpeaker 2 | 00:39\nYeah...\nkailash chanda | 00:40\nA part of the ftillator.\nSpeaker 2 | 00:40\nLet's go ahead. Sandesh, do you have anything from your end?\nSpeaker 3 | 00:45\nOnly a quick update on the website. As I mentioned, I've met two teams. Yesterday I spoke to a company called Magnetode, and today a company called Marketing Genius. So there will be another call set up with Margaret Wood, and for tomorrow's call, it's more like I was them to present as a case study. How they are going to help us overall in content data along with branding and similar companies know what they have to work for.\nSpeaker 2 | 01:19\nOkay, so one of the ways of working is a website developer company. Something they have to do content with minimal intervention.\nSpeaker 3 | 01:28\nYes.\nSpeaker 2 | 01:30\nYeah, because I don't see anyone has time now. Okay, like Sharwan, these guys, they will try to help, but it shouldn't be that they should... They will be the sole owners of the content.\nSpeaker 3 | 01:44\nNo, that is what they will only validate. Because whatever the data we are going to post, the subject matter expert from our end, they will only validate it. Otherwise, I'm asking them to prepare the content.\nIt is not from us we always support with testimonials, blogs, whatever we need to present, but otherwise content, data, and everything including social media presentations like story presentations, postings, everything has to be driven by them.\nSo that is the scope I'm giving them. So the company that I spoke to is Marketing Genius. They are actually... Compared to both, I like them as in their liberation. Both of them have knowledge on Salesforce. Earlier they had worked and they started as a doll.\nSo they have a good understanding of the overall industry and they're currently into digital marketing. So this mostly will have a call on Monday. I'll loop you into both of these meetings because... We already have seen their support when it comes to data. They are completely relying on our data.\nThat is the reason I'm keeping them as a last option. As of... So tomorrow one call and Monday one call and then we'll close the website. They are... Both the companies, not just the website.\nThat is the start of it. So website then linking our CRM to the website. Linking our even hiring portal for Krisp page to the website. So entire website will be an interactive one. Okay, anything else other than this? No major things. As I said, Claude, it is showing one $25 for a certification.\nSo I informed Sen to update the team. At least three we need. Then again, for the third step, we need ten people to complete certification. So even if you are getting more, they're still okay. I understood.\nSpeaker 2 | 03:52\nFrom start to... Because the next step has other criteria right where we need a name per customer.\nSpeaker 3 | 03:59\nCustomer yeah. So I informed she Sha to you know she Sha for three. So who is immediately available who can complete his checking so he is going to do it.\nSpeaker 2 | 04:14\nOkay and yeah anything else from your side?\nSpeaker 3 | 04:25\nNothing, Rag, and anything decided on AI fresh number and driver.\nSpeaker 2 | 04:32\nI am working on it. I will send it to you. Actually, we might have to hire an AI practice lead.\nSpeaker 3 | 04:44\nOkay.\nSpeaker 2 | 04:45\nSo I will send the both JDS for you. I was looking for someone but joined somewhere else, so now we have to search for new guys.\nSpeaker 3 | 04:57\nOkay. They will be working from the US.\nSpeaker 2 | 05:00\nNo, India only.\nSpeaker 3 | 05:02\nOkay.\nSpeaker 2 | 05:03\nSo the US VP of sales requirement is there, right? Santosh. So I want you to look for US guys. You have a crystal-clear JD and a few things. What I want to add is that because this is US hiring, I don't know how much Varun is involved.\nI have experience with US sourcing. But a few things I want to add is I want someone who has worked as a Salesforce account executive or an AVP or an RVP for at least two to three years and then moved to even if they are working currently in Salesforce. I'm okay with that.\nBut even if the past experiences are Salesforce and then they move on to someone like us who are like Salesforce partners and they are working there is fine, but that is a must criteria.\nSpeaker 3 | 05:58\nOkay, having Salesforce exposure is a must.\nSpeaker 2 | 06:00\nYeah, so he should have worked as a Salesforce account executive or an AVP or an RVP.\nSpeaker 3 | 06:08\nOkay.\nSpeaker 2 | 06:09\nThen worked in companies... Like us, a little bit bigger than us... Fine, but who are Salesforce partners? Okay, and who was doing the Salesforce services selling? Understood?\nSpeaker 3 | 06:24\nYeah, and how many are we aiming for? The number of positions only one.\nSpeaker 2 | 06:31\nOkay, yeah... I will slowly send you. That is the VP of sales, right? So we are looking for someone senior... That's the reason. You see there the targets and all are bit high. So I will slowly send you the AVP of sales JD okay...\nkailash chanda | 06:48\nTo or greater or handle or success...\nSpeaker 2 | 06:52\nWith the ISO Santosh the keys.\nSpeaker 3 | 06:57\nThere was a problem yesterday. I think...\nkailash chanda | 06:59\nWas in...\nSpeaker 3 | 06:59\nAF has sent...\nkailash chanda | 07:00\nA decision...\nSpeaker 3 | 07:00\nA mail...\nkailash chanda | 07:00\nTo put...\nSpeaker 3 | 07:00\nTo them again. The... Keys were not working so he has sent an email. I've asked as to include you. I hope you didn't in that communication because once the keys are fine then he already started. We have got 18 new laptops because considering all the people who have AI email ID, we need to have the accounts.\nSo it is taking two to three hours for each laptop. So he is parallel working on three to four laptops every day. These configurations, these are empty laptops as of now. Once this is done then we will start working on the people who are working.\nSo this might take even longer than three to four hours, okay? So because that's a problem.\nSpeaker 2 | 07:46\nWe get it by 50 even this go... Right? They might ask anytime, like, \"Do we have AI on the sock?\" Because that is again, a healthcare client.\nSpeaker 3 | 07:55\nOkay.\nSpeaker 2 | 07:56\nActually, I was checking their agreements and all. I was a bit worried that they might ask for that. I didn't see anywhere. As of now they didn't ask, but any point of time they might come back and ask, \"Do you guys have a sock and are so certified?\"\nkailash chanda | 08:10\nI think tomorrow we have with the CI... So Marshall is the...\nSpeaker 2 | 08:15\nThen that question will come tomorrow...\nkailash chanda | 08:17\nYeah...\nSpeaker 2 | 08:17\nIf you have a meeting with CO that portion will come so we need this as soon as possible. They will not sign if they ask that question and if that is a recommendation guideline, they are not going to sign it.\nBecause I think GOHEALTH has the patient data.\nkailash chanda | 08:36\nYeah they will have patient data. But maybe as Raghu tries to get it by 15 or get me a finite date then that will help us. But whatever is required... Now we have right sales, laptops, the crowds striking installations, everything we have right. I gave... We got the window. Please.\nSpeaker 3 | 08:59\nMicrosoft... It is not working. He's again... He is working with that team to rescind it.\nkailash chanda | 09:07\nOkay. I think they mentioned...\nSpeaker 2 | 09:08\nJust speed up some...\nkailash chanda | 09:09\nYeah...\nSpeaker 2 | 09:09\nBecause we might lose this project. At least if we have some concrete date in the next two weeks because the project won't start at least one week after we sign and all we can tell them that we are getting signed on November 15th. Satisfied on November 15th.\nSpeaker 3 | 09:25\nOkay.\nSpeaker 2 | 09:27\nEven because Q4, as I told you in the last meeting, we are targeting... Everyone will first ask... Do you guys have so and so certification? LLM is very regulated. Okay.\nThe next one is the profile sourcing has to improve. I see the profiles, but like the quality of profiles we... I am not satisfied. So just talk to Van. Once I had a discussion with him. I don't know whether he told you or not about Informatic and... Or there was a PM position both...\nSpeaker 3 | 10:09\nI couldn'm.\nSpeaker 2 | 10:11\nExplained him.\nSpeaker 3 | 10:12\nYeah. PM we are working on the updated SCOP again looking for only any of these integrated integration platform experience.\nSpeaker 2 | 10:22\nYeah, and if they have accent because I saw the most recent profile. Someone seeing that profile. See someone having 62 connections in LinkedIn. That's what throws me off. Either they should have someone in the ecosystem in Maurie Tech who is her relative.\nThat's why she is there without any connections with her. Who has 42 connections in today's market? 42 or 62 connections in today's IT market? Yeah. So those are because of our environment writer. Actually, I wanted this call after the delivery comes because you will understand what is going on with delivery. We need a very strong dynamic PM. Things will change very rapidly in Q4.\nSpeaker 3 | 11:15\nOkay.\nSpeaker 2 | 11:16\nIt's just that is the base criteria that I should have experience with the Salesforce ecosystem. But there are many other criteria that I told...\nSpeaker 3 | 11:27\nOkay.\nSpeaker 2 | 11:29\nBecause right now I'm seeing a lot of gaps in delivery. Okay, we are actually not able to afford even now. But because Kailash has that relation with... And Kailash spending a lot of time on those delivery escalations, we are able to subside those orange. Those are very big escalations what we got.\nSo we need a very strong strategic PM.\nSpeaker 3 | 12:05\nOkay, yeah, I'll look into it.\nSpeaker 2 | 12:10\nWith informatic I don't want someone who knows informatic who are technical in informatic know I need someone like Kailash in informatic. Okay, I will see how we show when we have a call tomorrow. Right?\nSo we will see. How is that guy? At least from profile perspective, he looks good, but like unless I talk, I can't tell you. But yeah, we need who will lead because one major thing with Informatic Guy is we don't have any experience. Neither me, nor Kailash, or none of our resources have any experience with Informatic.\nSpeaker 3 | 12:49\nUnderstood? Yeah, and we need...\nSpeaker 2 | 12:51\nWe need a really good guy even like I don't need him like a technical superstar in Informatica, but he should understand what that is because he is mostly in a presales like he will be leading mostly the presales and strategy.\nSo, even Kailash is not hands-on MuleSoft. But he can drive a complete MuleSoft. I need someone like that.\nSpeaker 3 | 13:17\nGot it? I want to send you his CV. I'm sharing it with you.\nSpeaker 2 | 13:22\nOkay? And next thing is, sometimes I think you've created some systems or processes and you have uploaded somewhere. Can you send me that link because we are building some agents. A agent I want to see immediately. I won't be able to do, but I want to see because Seshang team is working on a few agents for delivery. Once that is done, I want to see if we can build any agents for HR\nYeah. So just ping me that link in Dataskate. HR group. I want to see those processes and I want to understand. I will set up a call with our she Shangg's team that is co team to understand the process. Which processes are mostly used, which processes are more like a redundant process where like it's just like an unnecessary waste of time. We want to automate those using AI agents.\nSpeaker 3 | 14:18\nOkay, yeah, and Sen said that it can be done through Slack.\nSpeaker 2 | 14:24\nYeah, Slack backend whatever it is, the interface we are going to use is Slack. Okay. AI freshers and AI practice fleet. I will send out all the details. I have to work on that because I was hoping that guy would come and he would drive this, but he joined somewhere else so now I have to restart from scratch. Anything from you, Kailash?\nkailash chanda | 14:57\nI have one question for you, but it will drop to something later. Is it on the informatic training level? Should we wait until we finalize on this architect or shall we...? You will select a couple of people and we can get them trained.\nSpeaker 2 | 15:13\nBook. Couple of people...\nkailash chanda | 15:15\nI mean, from the tech team, if you allocate any two resources or identify two or three resources internally, if we can get them trained. Eight...\nSpeaker 2 | 15:27\nAre they already allocated to something else, right? Are there any who are not allocated to anything?\nkailash chanda | 15:33\nOn the bandwidth... I'm not sure, but I was asking, \"Do we...?\"\nSpeaker 2 | 15:37\nNo...\nkailash chanda | 15:37\nHave any...?\nSpeaker 2 | 15:37\nNot bandwidth. They are already allocated to some technology yet...\nkailash chanda | 15:41\nYes. No, but I think I spoke to someone. Maybe if we can pick one from that team and one from our Mulesoft team, then maybe we can... That's what I was thinking of. If we can at least start training them, they will have some understanding, right? So...\nSpeaker 2 | 16:00\nTwo people... What we will do is the two...\nkailash chanda | 16:05\nIf the architect comes in and if we have one guy developer comes in and two resources supporting right, he will have at least two or three people in house rate who can start to.\nSpeaker 2 | 16:16\nWhat is the effort just to train two people or ten people?\nkailash chanda | 16:23\nIt is the same effort from training will not change anything. But as you said, everybody is allocated into some projects. So finding a big number... I'm not sure that's why I asked for two people.\nSpeaker 2 | 16:37\nNow if you're doing some training and enabling, it should be a longer goal, not for the intermediary. Look for contractors to do the project.\nkailash chanda | 16:47\nNo kidding.\nSpeaker 2 | 16:52\nIf we have a longer goal, like... Okay, we need at least 10 people, 10 interns in Informatica. Then let's go ahead with hiring new people in Informatica or like a segregating or whoever is not in the projects and then move them completely to Informatica.\nkailash chanda | 17:11\nOkay. Got it? Okay. I'll plan that accordingly.\nSpeaker 3 | 17:20\nAnd a for even.\nSpeaker 2 | 17:22\nThis contracted resource allocation creates a process, and it shouldn't randomly come from Kailash. There should be some process. Okay, this whatever data was signed, we need a resource. So there will be a contractor. There should be some process for that and I don't want Kailash to be involved in that.\nSpeaker 3 | 17:46\nNo, there is a gap. I said we were actually talking to Therma on interviews. So this... Cope was already discussed with him and was not aware. So we discussed with him about the pricing today but yeah, once we have a requirement...\nSpeaker 2 | 18:02\nPlus, there is a RPA requirement about how it came to you guys. So this is where Redone has to pick Kailash if some project needs a resource. So this should stop because I have seen yesterday there was a kickoff which I was off. Skyla has to take over the kickoff meeting. Currently what I am seeing is Kailash like a kind of a kitchen sink. Anyone anything they're going to Kailash which should stop. I need processes around this.\nOkay, like democracy, if some source requires RPA resource, it should come to you, not Kailash and Kailash. You have to direct in that direct...\nkailash chanda | 18:58\nSure. Then, sir, I will start doing that.\nSpeaker 2 | 19:03\nSometimes if you create a process, right? Okay, this is how the process is for any new resource requirement from whoever the project is leading. It says that. Okay, if you need the project has to send an email or like a send a Slack message or something to HR which is Sash and Santos will reach out to Kailash or Santosh will reach out to external team or Santosh will reach out to our own doctor.\nThe process is completely different.\nSpeaker 3 | 19:33\nYeah. Raising the request should...\nSpeaker 2 | 19:35\nProcess so that even Kailash knows. Okay, if someone comes asking for resources, Kailash will say like this is the process go and I want this process documented and so that we can point them go check this page. This is where the new resource process is.\nSpeaker 3 | 19:50\nThere we'll try to publish to all leads like, you know, who are like seniors and who generally, you know, raise a request for resource. We'll send it to all those.\nSpeaker 2 | 20:02\nYeah, but just maintain one folder with all processes, and that way, anyone who has a doubt can actually say, \"Did you even go and read those processes?\" Because finally, those processes have to be slowly automated.\nThat is my goal.\nSpeaker 3 | 20:20\nUnderstood. It makes sense.\nSpeaker 2 | 20:25\nAnything else?\nkailash chanda | 20:27\nNo.\nSpeaker 3 | 20:28\nOn's hiring, Raghu, considering you know Tom joining because I was thinking that he'll be on several payrolls. That is the reason why Webex is pushing to connect with PayPal. But if we are going to run it... Because I need some guidance because there are no other employees as of now.\nWhat are the documents needed? What are the documents he needs to sign? Because E is something I know that he needs to sign it. And you need to sign it before within two days, I think from the date of joining.\nSpeaker 2 | 21:01\nYeah, he will be on Dataskate only, and he can't be on Cerebral.\nSpeaker 3 | 21:05\nSo if it is Datask, then I need to... If you can connect me to CPA, we will understand what the statutory requirements are like I needs to be filled and within the first two days from the date of joining only that has to be signed by you locally.\nSo that is one which I used to take care of earlier, so I'm aware of it. Insurance again... Anyways, I'll be connecting with you the guy in a while. Are the other employees available? Are they going to consider how many people will be there to start with to give some number. What is it insurance?\nSpeaker 2 | 21:47\nThere might be some other guys... That's what you are sourcing for VP of sales, right? There will be a VP of sales couple of them.\nSpeaker 3 | 21:56\nOkay, as of now we do not have any MA so it is a starting so it will be...\nSpeaker 2 | 22:00\nOnly we will start with one.\nSpeaker 3 | 22:02\nOkay, so what I understood from Paul is our existing... It is not a standard thing from our company. It can be 50-50 and for few it will be hundred percent gone by the company. So she has suggested to go for fifty...\nkailash chanda | 22:16\nWho's stop...\nSpeaker 3 | 22:16\nFifty so that employee will be conscious. So I think...\nSpeaker 2 | 22:20\nIn this case it won't work...\nkailash chanda | 22:21\nCan... Just asked for the diagram...\nSpeaker 2 | 22:22\nLike that. But...\nkailash chanda | 22:23\nThat you shared...\nSpeaker 2 | 22:23\nI'll check with...\nkailash chanda | 22:24\nEarlier with...\nSpeaker 2 | 22:24\nWe wait once...\nkailash chanda | 22:25\nOn phase two. Can...\nSpeaker 2 | 22:26\nOkay?\nkailash chanda | 22:26\nYou share the diagram...\nSpeaker 2 | 22:28\nI don't know what we offered him if... We are giving full insurance. Yeah. Generally there will be employer contribution and employee contribution that you can ask in the plans... What he is going to... Do, what will be employer contribution and what will be employee contribution. Don't go with what CBL suggests because CBL working model is completely different.\nSpeaker 3 | 22:47\nYeah, and... Even she has mentioned to talk to... We wait for approval because it is not... Yeah, who? The employees... It changed from one to another... Because we do not have any. And... When I spoke to Vijay last week, he said we do not have any policies like insurance, benefits, and other things. Obviously, he's from the state he's joining. I think there is no...\nkailash chanda | 23:07\nDoes not...\nSpeaker 3 | 23:08\nPolicy in... Particular if...\nkailash chanda | 23:08\nEverything in...\nSpeaker 3 | 23:08\nHe as an automation if you do...\nkailash chanda | 23:10\nBut to...\nSpeaker 3 | 23:10\nNot have a new policy, I don't think so it will be a question. But insurance is something... Because he insisted on it. Okay, I'll talk to Anthropic and I'll get back because three things we need in insurance: medical claims like regular health and dental.\nSo what are the charges? I don't know how to pick all the options. I think that just talk...\nSpeaker 2 | 23:33\nTo and see what is the employer contribution and what is the employee contribution.\nSpeaker 3 | 23:38\nOkay? I think there will be... It changes. It varies based on the options he chooses and the employee chooses. So if we are offering... Whether we are offering a hundred percent... The answer is no, of course.\nBut considering there are three options. One is 00% born by the employer. One is 50% is completely born by the employee. I think completely born with the employee may not work out. He will definitely ask for that.\nSpeaker 2 | 24:03\nWill come from him. So the insurance providers will tell what is the employee and employer contribution. They defined it.\nSpeaker 3 | 24:13\nOkay, fine, because we can...\nSpeaker 2 | 24:16\nBut there will be a base definition from them.\nSpeaker 3 | 24:20\nAfter talking to drop a message and... What are the...\nkailash chanda | 24:23\nAnd could...\nSpeaker 3 | 24:24\nInformation we... Okay.\nSpeaker 2 | 24:30\nYeah, okay...\nkailash chanda | 24:32\nOkay. Thank you.\nSpeaker 2 | 24:32\nThank you so much."
+  }
+}
