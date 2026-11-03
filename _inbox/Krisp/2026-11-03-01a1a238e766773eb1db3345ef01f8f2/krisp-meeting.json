@@ -1,0 +1,370 @@
+{
+  "id": "01a1a238e766773eb1db3345ef01f8f2",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a19e4cb1ae75bea5e841739d7d0096",
+      "title": "STAR team weekly meeting",
+      "duration": 481,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "3lnqh1j22d72i6nuen6j7gt7gk_20261103T160000Z",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vijay@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sravankiran@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sasank@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-03T16:14:38.040Z",
+      "end_date": "2026-11-03T16:22:39.040Z",
+      "url": "https://app.krisp.ai/m/01a19e4cb1ae75bea5e841739d7d0096?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That is basically for any new customer or any customer to that matter or to the AE we are saying here are the capabilities we will enable for this price. So it's like there is no scope involved. We need not go back and forth with scoping and pricing and all that.\nIt's a quick thing we can say. \"Here are the five capabilities. Here is the price.\" It's kind of... It reduces a lot of back and forth between sales and pre-sales. They're coming to me, Kailash, or anybody from the sales perspective. Sales can directly take this out of the ten features you gave us. Five features are already covered under our price. This is the price for the rest."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Sorry, was this discussed with Kailash?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, we discussed this, I think, late last week, okay? He actually shared... A couple of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Package the car."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "QUICKSTAR templates as well that other partners are using where we can come up with Ron from that perspective."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I went through..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A couple of portals ago and I saw they're publishing their quick starts. So I shared... Which I want to say that if we can come up with something like this... Again, one more thing is enablement toward the team shown because they will not know what feature runs into what.\nSo when we are giving this quick start, we have to enable the team to say that. \"Hey, this is what we have to do."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yep, that will be their Kailash."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So one thing, Shawan, Kailash, even Vijay and she... Shawan called... Couldn't join because I asked him to join some webinar."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So this meeting and there will be another meeting I will set up mostly on Mondays between sales and pre-sales team."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "These two meetings are must-do attend. I don't care what you have. If you want me to change the time early in the morning, I'm okay to change."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Because I think it's better to..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The thing happening in Dataskate is everything is getting worked on silos. Nobody knows what is happening in Datask. They only know what they are doing."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "From a timing perspective, if it could be early, that's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It is better."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Much better because..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "It's up early. But the sales call... I can't set it up early because..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Sales days are on."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "They will..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And the 2..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Be onset..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Ryan is on the p st side st."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I will still talk to him and see if he can attend at 8 am Eastern for one day."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, but I mean, at least this..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Two calls are very important because now it's time... Everybody has to onboard and generate and run the revenue under seven one. One thing is, we have to hire one senior sales lead ASAP. I don't want you to be involved in..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I already put that out. I don't know if you got a chance to look at the email. I did send over the JD, and I asked before the end of the number. I need someone on board it."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, keep pressure on your HR team. Follow up with them aggressively."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I will. I'll push them to make sure we are getting resumes, we are doing interest and we like somebody before the end of this month."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, can you send out one email to Vijay with this reply back to this meeting invoice like what is deliverable by this so that we will know?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, I will transcribe. I'm transcribing the meeting as well, so I'll use that engine, send out an email kind of minutes of the meeting."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay? Anything from you, Kailash?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay. I see we have a few more minutes. I've heard this from... I think a couple of... As when I was talking with... It is about sales for... As said there were more talking about... \"Are you the customer? Zero did you already implement this yourself and all that?\"\nSome of the products like Claude Force, things like that, right where they're expecting us to already do it so that we can pitch in a better story when we are with the customer saying, \"We have already done it. Here is the good, here is the bad.\"\nSo this is how we suggest this product over that and all that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So one thing, what we are doing with Agent Fabric is we are doing the same thing like we are creating a customer zero chance. So how we can add Salesforce to it, whether it is Salesforce or Claude Force or whether it is whatever we have already like a sales cloud or whatever we have.\nIf we can extend that customer zero story of Agent Fabric to Salesforce then I think we can show the end story."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, I think we can start with Claude Force. That probably is the easiest thing. Not much credits will be involved but if it is either Slack bot or agent for it will involve credits which we may have to buy or I don't know how that works as a partner, but that is something which involves cost."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "What credits do we need for Slack bot?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Agent Force Credits."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Why we need Agent Force for Slack."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So even Slack at the end of the day uses the flex credits that the Agent Force platform uses. There might be some actions that are given for free, but not everything is available."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Well, how these guys are doing, they are creating a Slack bot right? Sank and all to create a so... Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Let me. Let me check. I think if it's just limited to sales was probably it is free."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Let me are interface intera like interfacing is through the mules so like a from flagboard, they're interfacing everything to the mules."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Because we already have mules license, so that's what they are doing."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I don't think Mulesoft would be needed unless you're planning to showcase the Mulesoft capability, right? You can probably have all this as an API on Salesforce itself. Salesforce has hosted API servers."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, I think the extension is... That is what I was thinking once because they are now creating an ADLC for Mulesoft development end-to-end so that we will reduce the human hours required with the different agents.\nAll agents go through the agent fabric. So once that is done, I want to extend that to the Salesforce agents where we get this sales data, pipeline data, everything and what intelligence we can build around the sales data we have and even the project data we have got."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, Shereth was talking to me on this. Let me connect with Shashanka on this and see a high level where we can pitch in from a Salesforce perspective and show the capabilities as well there."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. Yeah."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sounds good. I'll send out the deliverables before this week. Karagu and I'll ask Vijay to track them."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. Yeah."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sounds good, that's all I had."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay then. Yeah, thank you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You, thank you."
+      }
+    ],
+    "raw_meeting": "**STAR team weekly meeting**\n🕞 Started at 04:14 PM on 03 Nov, lasted 8m",
+    "raw_content": "Speaker 2 | 00:00\nThat is basically for any new customer or any customer to that matter or to the AE we are saying here are the capabilities we will enable for this price. So it's like there is no scope involved. We need not go back and forth with scoping and pricing and all that.\nIt's a quick thing we can say. \"Here are the five capabilities. Here is the price.\" It's kind of... It reduces a lot of back and forth between sales and pre-sales. They're coming to me, Kailash, or anybody from the sales perspective. Sales can directly take this out of the ten features you gave us. Five features are already covered under our price. This is the price for the rest.\nSpeaker 3 | 00:46\nSorry, was this discussed with Kailash?\nSpeaker 2 | 00:50\nYeah, we discussed this, I think, late last week, okay? He actually shared... A couple of...\nkailash chanda | 00:59\nPackage the car.\nSpeaker 2 | 00:59\nQUICKSTAR templates as well that other partners are using where we can come up with Ron from that perspective.\nkailash chanda | 01:07\nSo I went through...\nSpeaker 2 | 01:08\nOkay...\nkailash chanda | 01:08\nA couple of portals ago and I saw they're publishing their quick starts. So I shared... Which I want to say that if we can come up with something like this... Again, one more thing is enablement toward the team shown because they will not know what feature runs into what.\nSo when we are giving this quick start, we have to enable the team to say that. \"Hey, this is what we have to do.\nSpeaker 2 | 01:35\nYep, that will be their Kailash.\nkailash chanda | 01:37\nOkay?\nSpeaker 2 | 01:38\nYeah.\nSpeaker 3 | 01:38\nSo one thing, Shawan, Kailash, even Vijay and she... Shawan called... Couldn't join because I asked him to join some webinar.\nkailash chanda | 01:47\nOkay.\nSpeaker 3 | 01:47\nSo this meeting and there will be another meeting I will set up mostly on Mondays between sales and pre-sales team.\nkailash chanda | 01:55\nHey...\nSpeaker 3 | 01:56\nThese two meetings are must-do attend. I don't care what you have. If you want me to change the time early in the morning, I'm okay to change.\nSpeaker 2 | 02:05\nBecause I think it's better to...\nSpeaker 3 | 02:08\nThe thing happening in Dataskate is everything is getting worked on silos. Nobody knows what is happening in Datask. They only know what they are doing.\nSpeaker 2 | 02:22\nFrom a timing perspective, if it could be early, that's...\nkailash chanda | 02:26\nIt is better.\nSpeaker 2 | 02:26\nMuch better because...\nSpeaker 3 | 02:29\nIt's up early. But the sales call... I can't set it up early because...\nkailash chanda | 02:33\nYeah.\nSpeaker 3 | 02:33\nSales days are on.\nkailash chanda | 02:34\nThey will...\nSpeaker 3 | 02:34\nAnd the 2...\nkailash chanda | 02:34\nBe onset...\nSpeaker 3 | 02:34\nRyan is on the p st side st.\nSpeaker 2 | 02:37\nYeah.\nkailash chanda | 02:37\nExactly.\nSpeaker 3 | 02:37\nI will still talk to him and see if he can attend at 8 am Eastern for one day.\nSpeaker 2 | 02:42\nOkay, but I mean, at least this...\nSpeaker 3 | 02:45\nTwo calls are very important because now it's time... Everybody has to onboard and generate and run the revenue under seven one. One thing is, we have to hire one senior sales lead ASAP. I don't want you to be involved in...\nSpeaker 2 | 03:03\nI already put that out. I don't know if you got a chance to look at the email. I did send over the JD, and I asked before the end of the number. I need someone on board it.\nSpeaker 3 | 03:15\nYeah, keep pressure on your HR team. Follow up with them aggressively.\nSpeaker 2 | 03:22\nI will. I'll push them to make sure we are getting resumes, we are doing interest and we like somebody before the end of this month.\nSpeaker 3 | 03:30\nOkay, can you send out one email to Vijay with this reply back to this meeting invoice like what is deliverable by this so that we will know?\nSpeaker 2 | 03:41\nYeah, I will transcribe. I'm transcribing the meeting as well, so I'll use that engine, send out an email kind of minutes of the meeting.\nSpeaker 3 | 03:50\nOkay? Anything from you, Kailash?\nSpeaker 2 | 03:55\nOkay. I see we have a few more minutes. I've heard this from... I think a couple of... As when I was talking with... It is about sales for... As said there were more talking about... \"Are you the customer? Zero did you already implement this yourself and all that?\"\nSome of the products like Claude Force, things like that, right where they're expecting us to already do it so that we can pitch in a better story when we are with the customer saying, \"We have already done it. Here is the good, here is the bad.\"\nSo this is how we suggest this product over that and all that.\nSpeaker 3 | 04:31\nSo one thing, what we are doing with Agent Fabric is we are doing the same thing like we are creating a customer zero chance. So how we can add Salesforce to it, whether it is Salesforce or Claude Force or whether it is whatever we have already like a sales cloud or whatever we have.\nIf we can extend that customer zero story of Agent Fabric to Salesforce then I think we can show the end story.\nSpeaker 2 | 04:59\nYeah, I think we can start with Claude Force. That probably is the easiest thing. Not much credits will be involved but if it is either Slack bot or agent for it will involve credits which we may have to buy or I don't know how that works as a partner, but that is something which involves cost.\nSpeaker 3 | 05:24\nWhat credits do we need for Slack bot?\nSpeaker 2 | 05:26\nAgent Force Credits.\nSpeaker 3 | 05:30\nWhy we need Agent Force for Slack.\nSpeaker 2 | 05:32\nSo even Slack at the end of the day uses the flex credits that the Agent Force platform uses. There might be some actions that are given for free, but not everything is available.\nSpeaker 3 | 05:45\nWell, how these guys are doing, they are creating a Slack bot right? Sank and all to create a so... Okay.\nSpeaker 2 | 05:55\nLet me. Let me check. I think if it's just limited to sales was probably it is free.\nSpeaker 3 | 06:00\nLet me are interface intera like interfacing is through the mules so like a from flagboard, they're interfacing everything to the mules.\nSpeaker 2 | 06:09\nSo okay.\nSpeaker 3 | 06:11\nBecause we already have mules license, so that's what they are doing.\nSpeaker 2 | 06:15\nI don't think Mulesoft would be needed unless you're planning to showcase the Mulesoft capability, right? You can probably have all this as an API on Salesforce itself. Salesforce has hosted API servers.\nSpeaker 3 | 06:31\nYeah, I think the extension is... That is what I was thinking once because they are now creating an ADLC for Mulesoft development end-to-end so that we will reduce the human hours required with the different agents.\nAll agents go through the agent fabric. So once that is done, I want to extend that to the Salesforce agents where we get this sales data, pipeline data, everything and what intelligence we can build around the sales data we have and even the project data we have got.\nSpeaker 2 | 07:06\nYeah, Shereth was talking to me on this. Let me connect with Shashanka on this and see a high level where we can pitch in from a Salesforce perspective and show the capabilities as well there.\nSpeaker 3 | 07:20\nOkay. Yeah.\nSpeaker 2 | 07:25\nSounds good. I'll send out the deliverables before this week. Karagu and I'll ask Vijay to track them.\nSpeaker 3 | 07:35\nOkay. Yeah.\nSpeaker 2 | 07:39\nSounds good, that's all I had.\nSpeaker 3 | 07:42\nOkay then. Yeah, thank you.\nSpeaker 2 | 07:43\nYou, thank you."
+  }
+}
