@@ -1,0 +1,375 @@
+{
+  "id": "01a1a30e485477189a55cdba1c0e1f62",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a2aff749777bb3f42a4eccef3942",
+      "title": "Kailash / Mariella Discuss HMRS (IDP)",
+      "duration": 697,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "7sj48m4fmqaj0fdfgekpfhsp1s",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "mariella.amaya@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.io"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        }
+      ],
+      "start_date": "2026-11-03T20:04:11.797Z",
+      "end_date": "2026-11-03T20:15:48.797Z",
+      "url": "https://app.krisp.ai/m/01a1a2aff749777bb3f42a4eccef3942?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Your voice is very low. Not able to hear you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Should... It's packed in here today."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, it's okay. I think we can talk."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "How are you?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm doing great. How are you?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'm doing good, hopefully by close."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That how did Q3 closes good..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Why didn't... They had agent force, and I was trying to close it, and he emailed procurement, and the guy never got back to the budget, so that was that. I wanted you involved in it. It's MRS. I don't know the RS..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Kit. Sorry Marilla, your voice is breaking up a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "They are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't know, let me check even I am plugging in my LAN rather than whatf to see if just makes some difference.\nYeah, it looks like the headset, can we try it? Your Jira plug. Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, I'll switch to this.\nHear me now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's easy. Just easy."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Better. I always get those complaints and I'm like, \"I spend so much money on these freaking heads.\" It's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "[Laughter] I know they're matching mice with your output as well, so I... Sorry. It was breaking too much. So I said."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sometimes cheaper things work better. So the account is HMR. They are a servicing account in Richmond, Virginia, and they process a lot of documents because I think they do like claims for what is it? Medical funding? Sometimes they have attorneys have to pay and plaintiff.\nSo they process a lot of documents. I don't exactly know how many documents. That's one thing I need to get more information on. I met them and I can see the recording. I met them two weeks ago. It was an introductory call with me and the Cora because she was new and we wanted to get an understanding of what you guys were doing. They had unapplied cache that they're going to be able to use some of it for IDP. It's between IDP and Tableau, but I think they want to see how because they're using ChatGPT to do their IDP basically processor invoices..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. That's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Which is not..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not good."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. So I feel like there's. We have a strong play there. My solution. Engineer is going to do the demo for them and kind of explain like how we would be a better choice for IDP instead of Claude. This Claude is not going to do. It doesn't have the same.\nLike. I don't know. Features or."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, and the data is outright there are no guard rails, it is just out on the LL M but here Salesforce does not expose all of the data, it keeps them kind of..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Secure. We have the PI. Part of it. I know they might not have any PI invoices, but still the information is not going out in the sun and everything is available. And likewise here it's automated fully right? You receive in an email. You call it, you insert it back somewhere.\nSo all of that is possible with us rather than going with ChatGPT. This is more secure than any future scope. We can get that increased into the platform or flow, whatever you are planning to sell, right? Depending upon the ecosystem..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That's why I feel confident on this, because I'm like, \"There's no way you can get the same things that I do.\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Claude so that's the only basically, that's only like battle. He has to prove it because they do process a lot of documents, so I think they definitely need that. I guess my question for you would be what the implementation timeline and pricing are."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think... Marilla, I need to know more details on how the documents are being received and what the different document types are that we are receiving. Then I can give you a cost estimate on it. So if you have the transcript, please share it with me.\nI will resume it and come back to see what we can propose."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, they did give me documents. Can I send you the documents that they sent me?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "PO please. Please. That's would beg."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "When? Well, on... We think I sent a... An email.\nSo, Victoria, her name is... Okay, I have the documents, I'll forward them to you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "He said... This is based out of Virginia."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "They're based out of Richmond, Virginia."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Is that har? Servicing?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Umm, and your last email is at... I/O. AI. Okay, I'll send you the recording, which doesn't go into detail on IDP. It was more of an intro."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Documents or are you...?\nWhat usually...? Okay, I'll send you the documents. I was going to say, too, what is the timeline for IDP implementation, because I know Rose said it was pretty easy."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It is easy, but depending upon the variation. Marilla, if the invoices are pretty straightforward, we won't take too long. If assuming we receive an email and there are two types of documents that we need to extract and insert into Salesforce, then probably we'll do it in three weeks to four weeks, right?\nBut depending upon the complexity and variation if the invoices. Like we did a project which had 110 different formats of invoices. So that took more time to test and validate. So I can give the pricing and estimate depending on the complexity, depending on the channels, what systems we need to include, what features they want. All of this we can categorize and give them to say that \"Hey, this is what the price and timeline looks like.\"\nBut if the client is looking for a faster solution on a time crunch, I will work out with the team and see how we can get it that fast."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, they haven't mentioned that it's a time crunch."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "But they definitely need it, and they're using Claude right now for those features, so I emailed them. They do look a little complex. So you'll have to look at it and see what the timeline's going to be for that and then usually for implementation costs for IDP or SB what does it usually range in?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So per floor, we charge 3,500 and per document type, we are 3,000. So if they have invoices, if they have ID proofs, if they have finance documents examining these three, then it would be 9,000 plus 3,000."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So 10000 from implementation..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "12,000, but yeah, because three documents and one..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "1212 thousandm."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Floor, right? So it comes to 1000, but once I look through and do more scoping, I can give you. I can give you an exact price..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, yeah, go ahead and review that when you get a moment. The meeting is on Friday morning..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. I think I'll review it and give you an update. Either before I lock off today or tomorrow morning."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A reminder to send you that recording. I don't know if it helps, because you can kind of understand a little bit of the what the company does. H&R recording. Okay. And then. Okay, yeah, because I want to kind of have, like, an idea.\nIf they do kind of ask me, like, a range, I can kind of be like, okay, this is like a rough estimate..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's where I'll leave..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Because once we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You and I will give you an estimate to say that, \"Hey, this will land somewhere here.\" Then probably you can adjust before we present pricing, we'll do the scoping and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Looking at their budget, we can adjust how much you can put for licensing if there is implementation cost unless you can add some more buffer to your licensing and give a bit of a better price for yourself.\nSo we can figure that out and work together to see how we can close this."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, yeah, cause..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "My goal is to try to close it before Thanksgiving, so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That is amazing, and I want to get that rough..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, okay, perfect. Well, if you have any questions before then, let me know. Then if you can get that to me before Friday so that I can give them an idea. Then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect nof..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'll keep you posted after Friday morning. How the meeting goes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Will do that. Thank you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay. Awesome. Thank you so much, Kailash."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks a lot. For..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'll talk to you soon. Of... Course. Have a good one. Bye."
+      }
+    ],
+    "raw_meeting": "**Kailash / Mariella Discuss HMRS (IDP)**\n🕞 Started at 08:04 PM on 03 Nov, lasted 11m",
+    "raw_content": "kailash chanda | 00:18\nYour voice is very low. Not able to hear you.\nSpeaker 2 | 00:26\nShould... It's packed in here today.\nkailash chanda | 00:31\nYeah, it's okay. I think we can talk.\nSpeaker 2 | 00:36\nHow are you?\nkailash chanda | 00:37\nI'm doing great. How are you?\nSpeaker 2 | 00:40\nI'm doing good, hopefully by close.\nkailash chanda | 00:44\nThat how did Q3 closes good...\nSpeaker 2 | 00:49\nWhy didn't... They had agent force, and I was trying to close it, and he emailed procurement, and the guy never got back to the budget, so that was that. I wanted you involved in it. It's MRS. I don't know the RS...\nkailash chanda | 01:29\nKit. Sorry Marilla, your voice is breaking up a...\nSpeaker 2 | 01:32\nThey are...\nkailash chanda | 01:44\nI don't know, let me check even I am plugging in my LAN rather than whatf to see if just makes some difference.\nYeah, it looks like the headset, can we try it? Your Jira plug. Okay...\nSpeaker 2 | 02:08\nOkay, I'll switch to this.\nHear me now.\nkailash chanda | 02:25\nIt's easy. Just easy.\nSpeaker 2 | 02:28\nBetter. I always get those complaints and I'm like, \"I spend so much money on these freaking heads.\" It's...\nkailash chanda | 02:36\n[Laughter] I know they're matching mice with your output as well, so I... Sorry. It was breaking too much. So I said.\nSpeaker 2 | 02:46\nSometimes cheaper things work better. So the account is HMR. They are a servicing account in Richmond, Virginia, and they process a lot of documents because I think they do like claims for what is it? Medical funding? Sometimes they have attorneys have to pay and plaintiff.\nSo they process a lot of documents. I don't exactly know how many documents. That's one thing I need to get more information on. I met them and I can see the recording. I met them two weeks ago. It was an introductory call with me and the Cora because she was new and we wanted to get an understanding of what you guys were doing. They had unapplied cache that they're going to be able to use some of it for IDP. It's between IDP and Tableau, but I think they want to see how because they're using ChatGPT to do their IDP basically processor invoices...\nkailash chanda | 03:49\nOkay. That's...\nSpeaker 2 | 03:50\nWhich is not...\nkailash chanda | 03:50\nNot good.\nSpeaker 2 | 03:51\nYeah. So I feel like there's. We have a strong play there. My solution. Engineer is going to do the demo for them and kind of explain like how we would be a better choice for IDP instead of Claude. This Claude is not going to do. It doesn't have the same.\nLike. I don't know. Features or.\nkailash chanda | 04:10\nYeah, and the data is outright there are no guard rails, it is just out on the LL M but here Salesforce does not expose all of the data, it keeps them kind of...\nSpeaker 2 | 04:20\nYes.\nkailash chanda | 04:20\nSecure. We have the PI. Part of it. I know they might not have any PI invoices, but still the information is not going out in the sun and everything is available. And likewise here it's automated fully right? You receive in an email. You call it, you insert it back somewhere.\nSo all of that is possible with us rather than going with ChatGPT. This is more secure than any future scope. We can get that increased into the platform or flow, whatever you are planning to sell, right? Depending upon the ecosystem...\nSpeaker 2 | 04:55\nThat's why I feel confident on this, because I'm like, \"There's no way you can get the same things that I do.\"\nkailash chanda | 05:01\nYes...\nSpeaker 2 | 05:01\nClaude so that's the only basically, that's only like battle. He has to prove it because they do process a lot of documents, so I think they definitely need that. I guess my question for you would be what the implementation timeline and pricing are.\nkailash chanda | 05:18\nI think... Marilla, I need to know more details on how the documents are being received and what the different document types are that we are receiving. Then I can give you a cost estimate on it. So if you have the transcript, please share it with me.\nI will resume it and come back to see what we can propose.\nSpeaker 2 | 05:39\nOkay, they did give me documents. Can I send you the documents that they sent me?\nkailash chanda | 05:43\nPO please. Please. That's would beg.\nSpeaker 2 | 05:49\nWhen? Well, on... We think I sent a... An email.\nSo, Victoria, her name is... Okay, I have the documents, I'll forward them to you.\nkailash chanda | 06:36\nHe said... This is based out of Virginia.\nSpeaker 2 | 06:40\nThey're based out of Richmond, Virginia.\nkailash chanda | 06:43\nPerfect. Is that har? Servicing?\nSpeaker 2 | 06:46\nUmm, and your last email is at... I/O. AI. Okay, I'll send you the recording, which doesn't go into detail on IDP. It was more of an intro.\nkailash chanda | 07:06\nOkay...\nSpeaker 2 | 07:08\nDocuments or are you...?\nWhat usually...? Okay, I'll send you the documents. I was going to say, too, what is the timeline for IDP implementation, because I know Rose said it was pretty easy.\nkailash chanda | 07:34\nIt is easy, but depending upon the variation. Marilla, if the invoices are pretty straightforward, we won't take too long. If assuming we receive an email and there are two types of documents that we need to extract and insert into Salesforce, then probably we'll do it in three weeks to four weeks, right?\nBut depending upon the complexity and variation if the invoices. Like we did a project which had 110 different formats of invoices. So that took more time to test and validate. So I can give the pricing and estimate depending on the complexity, depending on the channels, what systems we need to include, what features they want. All of this we can categorize and give them to say that \"Hey, this is what the price and timeline looks like.\"\nBut if the client is looking for a faster solution on a time crunch, I will work out with the team and see how we can get it that fast.\nSpeaker 2 | 08:30\nOkay, they haven't mentioned that it's a time crunch.\nkailash chanda | 08:34\nOkay...\nSpeaker 2 | 08:35\nBut they definitely need it, and they're using Claude right now for those features, so I emailed them. They do look a little complex. So you'll have to look at it and see what the timeline's going to be for that and then usually for implementation costs for IDP or SB what does it usually range in?\nkailash chanda | 09:02\nSo per floor, we charge 3,500 and per document type, we are 3,000. So if they have invoices, if they have ID proofs, if they have finance documents examining these three, then it would be 9,000 plus 3,000.\nSpeaker 2 | 09:20\nSo 10000 from implementation...\nkailash chanda | 09:21\n12,000, but yeah, because three documents and one...\nSpeaker 2 | 09:24\n1212 thousandm.\nkailash chanda | 09:26\nFloor, right? So it comes to 1000, but once I look through and do more scoping, I can give you. I can give you an exact price...\nSpeaker 2 | 09:35\nOkay, yeah, go ahead and review that when you get a moment. The meeting is on Friday morning...\nkailash chanda | 09:41\nPerfect. I think I'll review it and give you an update. Either before I lock off today or tomorrow morning.\nSpeaker 2 | 09:49\nA reminder to send you that recording. I don't know if it helps, because you can kind of understand a little bit of the what the company does. H&R recording. Okay. And then. Okay, yeah, because I want to kind of have, like, an idea.\nIf they do kind of ask me, like, a range, I can kind of be like, okay, this is like a rough estimate...\nkailash chanda | 10:22\nThat's where I'll leave...\nSpeaker 2 | 10:23\nBecause once we...\nkailash chanda | 10:24\nYou and I will give you an estimate to say that, \"Hey, this will land somewhere here.\" Then probably you can adjust before we present pricing, we'll do the scoping and...\nSpeaker 2 | 10:34\nYeah...\nkailash chanda | 10:34\nLooking at their budget, we can adjust how much you can put for licensing if there is implementation cost unless you can add some more buffer to your licensing and give a bit of a better price for yourself.\nSo we can figure that out and work together to see how we can close this.\nSpeaker 2 | 10:51\nOkay, yeah, cause...\nkailash chanda | 10:52\nOkay...\nSpeaker 2 | 10:52\nMy goal is to try to close it before Thanksgiving, so...\nkailash chanda | 10:55\nThat is amazing, and I want to get that rough...\nSpeaker 2 | 11:00\nYeah, okay, perfect. Well, if you have any questions before then, let me know. Then if you can get that to me before Friday so that I can give them an idea. Then...\nkailash chanda | 11:09\nPerfect nof...\nSpeaker 2 | 11:10\nI'll keep you posted after Friday morning. How the meeting goes.\nkailash chanda | 11:13\nWill do that. Thank you.\nSpeaker 2 | 11:15\nOkay. Awesome. Thank you so much, Kailash.\nkailash chanda | 11:17\nThanks a lot. For...\nSpeaker 2 | 11:18\nI'll talk to you soon. Of... Course. Have a good one. Bye."
+  }
+}
