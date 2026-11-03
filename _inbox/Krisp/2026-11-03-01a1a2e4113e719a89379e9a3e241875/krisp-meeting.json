@@ -1,0 +1,1982 @@
+{
+  "id": "01a1a2e4113e719a89379e9a3e241875",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a2770f6870cca4c6d1b1049a6ee3",
+      "title": "Mulesoft + Absolute Solutions Process Mapping",
+      "duration": 471,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "19ulqgvtsda6le7n498h24q306",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "larellano@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amanda.lok@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "bodwyer@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "joseph.ragain@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "davis@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "jon.knipper@absolutedx.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "rich.fobes@absolutedx.com"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        }
+      ],
+      "start_date": "2026-11-03T19:21:46.539Z",
+      "end_date": "2026-11-03T19:29:37.539Z",
+      "url": "https://app.krisp.ai/m/01a1a2770f6870cca4c6d1b1049a6ee3?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A medical report saying, \"Here's the medical report for the exam you authorized for your...\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For some..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'm done with this file now on..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The alternative."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The scheduling end, so I want to move it along..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. And..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To billing."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Then. So I guess the question was like, \"So right now, when we...\""
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So I'm... Going to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Do you guys, like, draw a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Flip it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Parallel and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Tell me, like, what..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Closed send..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is the difference..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A billing..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Between you guys? Or is it the same thing, just a different..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Status. This will you know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Times stamp it for medical report..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Well, to be honest, I..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sent to the adjuster..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Didn't see..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "New Sof..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Trigger there the closed..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "RPA as a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To send a billing..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Competitor. I..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Is the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Don't know."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Trigger to create this file..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So, Peter, I can answer this question."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To create a billing..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Robotic IQ..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Record within..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is, I would say, a parallel..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Salesforce. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Solution to unsoft but the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'll refresh."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Problem with Misoft..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It's probably been created by now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "LP basically..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It's been a few..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Right now there will not be an innovation because they start kind of selling..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That product. So that's where..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If I'm working this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I turn..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Now on the billing side..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To robotic IQ that's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If I'm..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Where I saw..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Searching that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That they are being..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "As. So ID number..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In this space..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And they are..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Obviously there's the two..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Really aligned..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Records here, right? The referral..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To RP yeah. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Record on the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "There will be future innovation..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Referral object and the billing object."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And being..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "There's the two..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Some work done. So it's exactly a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Records. I think the way they..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Replica for..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Had it set up is that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Software, but you will see..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Where is the related tab it?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "More innovation and investments because the company itself is based..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I think the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And dependent on."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Billing there's a link to the billing file. Yeah, that shows up here. You can access it that way. So I'm now going to go to the billing record."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Probably a dumb question, but what is the...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So that's all done, you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Different Claude?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, via a flow that we have created..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So now..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Just to create a billing record flow, which we have. That's what I've been working on for a bit to map all kinds of stuff that maps over from the referral side over to the billing side."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You want the same thing to happen over and over..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And so now I'm in the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "At scale..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Billing record. Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Go ahead. I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Reliable that..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Was just going... To say and this is what we implemented yesterday."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The browser..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Rolled it out. Yesterday was the first day..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Extension is maybe nice..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Did this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Want to do something..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So bear with us on this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Once or..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Twice, but if you want to do repetitive work..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Right. Lots of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "On scale..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Just kind of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This is going to cost..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Hold onto..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You. If you..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The desk..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Making sure you know no big crazy things are happening on rollout which sometimes they do..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The L needs to reason about what the process is doing..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "But so yeah, now on the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What's on the screen..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Billing side..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Where it needs to play..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You a lot of the information should get mapped over here."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And it's probabilistic, so it means that you know, it..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I didn't put in... A lot of the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The same exacts..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Information on the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Maybe each..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Front end. But..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Time and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Typically what happens is that, you know, these..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's more expensive..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A lot of these fields will get pulled over..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Because it's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "From the scheduling..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Using tokens."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Side. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hard to figure out on what..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Meaning, you know, on the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To d..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Billing side..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Where to..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We're. We're..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Click... What..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Looking for..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It needs to do..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Numbers. Let's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Say our..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of having that for..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Rate for the provider, you know, the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Routine administrative..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Amount that we owe the provider for that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "MRI is four hundred bucks."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Automated doesn't make sense. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And then the rate that we're charging to our client is six hundred. So those data..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's... Very rough... Is repeatable at large..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Most of the time we will get pulled over from scheduling."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Scale. This is how it's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I kind..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Done..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Of rushed through..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And then needs to be located..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It. So. So I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And I..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Didn't enter..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Think it's a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Some of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Much more..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The data that would populate it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Better option than using..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "But typically it would..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Browser use or computer use..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And, you know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so that's..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Good. I understand the explanation."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I'm just going to stop you simply because we got..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But I..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "About five..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Guess the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Minutes left."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One benefit of..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, sure. And I just. I think for..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Going the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The most part... Out of here. Would be..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm talking out of my ass."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "When this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't know what..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Information gets..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm talking about, but..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Populated into different forms. That..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The idea..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Might be..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of the agency can figure out."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Something that would be..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But let's say the rparies are..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Relatable to what we're doing versus the actual billing part."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Elements of the an element change..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so, you're saying how these fields are then mapped to other."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. So, for example, we get all this information from the front end. We go ahead and bill it on two different types of forms. I mean, in theory, one is a Hick 100 form, which is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The agent..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "What we use for all of our workers' comp clients."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Defined with..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And then, from a group health perspective, we build the EDI in some different ways on an what's called an 837 file. Both get created in here, and once they're triggered, an Excel file for the 37 s gets taken out and we then upload that into an SFTP site. It gets sent via..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But the trait that you are paying..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "DI to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is that you're..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Our different clients, and they get the information from the billing side, from the workers' comp side. It creates this form. These two forms right here, we're creating them, then we're manually..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It can..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Taking them out..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Make sense..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We're putting them into email again, and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We're either..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Want to st..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Emailing them to our clients..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Over and over..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Or if they have a portal or something like that, we're uploading it. But from that standpoint, everything is manual as far as taking it out of here and doing something with it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, and to build on that too, John, on the a 37 side, you know, maybe something that is relevant here. So we have reports that have been built for our 08: thirty seven extraction. So, basically it's a report..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Deterministic automation. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This is..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Built and has, you know, a... Crazy amount of fields that are needed..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A brain that's constantly thinking..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In order for us to then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "About how do..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Have that file get integrated into what's called an DI file. You know, through different parameters, I'll put that data into this report and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A good use of..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You know, everything's filled in..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This is where you combine..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And everything's ready to go. Well, the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Approaches. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Process now is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Where you..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'm going to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Need some kind of..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Export this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Reasoning and leisure. And so..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Report. I'm going to export it via..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's where you can combine two..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You know, a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Things, I..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "CSV file..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Would say, for this kind of..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Details only. I'm going to export it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thinking. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know, I say two plus two. You're going to..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Once I get that file..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Immediately answer without thinking. But if I ask you a more complex math question, you..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "There it is."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have to be... So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'm going to, you know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I would say that..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Maybe check it. Or it's obviously going..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To download to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Combination. It's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To my system."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A combination of twos."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "This file..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We go back to there, and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "This Excel..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If we..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "File, I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Go down the RPA..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Will run..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Side, we are thinking..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "File Zilla..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One, how..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Which you know, is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Was ever..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Our s FTP..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In the when the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You know, portal..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Process fails, like, what does the UI looks..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Platform that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Like right..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We use..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Now, for..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Which is here..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Example? And maybe we can just..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I will..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Get there."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Take this file, I'm going..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I just spoke about..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To put..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It into..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Error gets..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thrown, my..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A different..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "User can make a change, right? I think going..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Server that we have a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Back to the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Connection to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Developer to go ahead fix the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "With, you know, via file..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "RPA, is there a way..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Zilla. The FTP connection."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To like a pick the user or somehow like..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In this... Case, let's say I take... That file. I'm going to put it into this Data..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You kind of continue in the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Dimensions folder."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Process for us to stop, let..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That system is then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Fail and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Going to... Convert, you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No way to..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Know, those..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Speed that up..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Three files that are on that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To my work..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Excel file into what they call EDI files. And that's... Just all the billing side."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, we..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So all..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can definitely..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That's a manual process today."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Think about these..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Okay? And then how do you...? So payment from people is there...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Human out."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Another portal that they have to go to pay?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I would say with our opinion and..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "No, they..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I guess in..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Well, they'll either pay us..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Automation, it's not only about the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Via AC into our bank..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Product itself."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Accounts, or they'll... We have a lock box that they could send the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "MIP and..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Checks. But once that stuff..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "RRP and..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Comes in, we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And whatever..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Take that information..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "These are all tools..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That can be..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Go back into..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Developed, but..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The billing..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's important to..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Record. And..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Know how..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We updated it in there. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You implemented that..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "If you want to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Determines the how robust and..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Show. So for example, if we bill out $600..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "How flexible it is for..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The insurance company sends us..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Use. Definitely..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "A check, we find the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Account number coming here."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We have a..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Say we were paid..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Very experienced team that..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "600 dollars."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can work..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "We then take that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "With Kailash to build the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "600 dollars..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Optimal solution."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And look up our contract for the provider..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But this..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And then we're paying the provider four hundred dollars. So we make the difference between the 400 and the 600. But all that gets put in here and this is how we keep record of it. Then at this point..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Really amazing that a lot of stuff you're building."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Once they go ahead..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I can't..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And submit..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Foresee a lot of unknowns..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The bill, we have a zap..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Unknowns that..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Set up."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Things are popping up. We should have thought about that."
+      }
+    ],
+    "raw_meeting": "**Mulesoft + Absolute Solutions Process Mapping**\n🕞 Started at 07:21 PM on 03 Nov, lasted 7m",
+    "raw_content": "Speaker 2 | 00:01\nA medical report saying, \"Here's the medical report for the exam you authorized for your...\"\nkailash chanda | 00:06\nFor some...\nSpeaker 2 | 00:09\nI'm done with this file now on...\nkailash chanda | 00:10\nThe alternative.\nSpeaker 2 | 00:10\nThe scheduling end, so I want to move it along...\nkailash chanda | 00:12\nOkay. And...\nSpeaker 2 | 00:13\nTo billing.\nkailash chanda | 00:13\nThen. So I guess the question was like, \"So right now, when we...\"\nSpeaker 2 | 00:15\nSo I'm... Going to...\nkailash chanda | 00:17\nDo you guys, like, draw a...\nSpeaker 2 | 00:18\nFlip it...\nkailash chanda | 00:18\nParallel and...\nSpeaker 2 | 00:18\nTo this...\nkailash chanda | 00:19\nTell me, like, what...\nSpeaker 2 | 00:19\nClosed send...\nkailash chanda | 00:19\nIs the difference...\nSpeaker 2 | 00:20\nA billing...\nkailash chanda | 00:21\nBetween you guys? Or is it the same thing, just a different...\nSpeaker 2 | 00:23\nStatus. This will you know...\nkailash chanda | 00:24\nYou know?\nSpeaker 2 | 00:24\nTimes stamp it for medical report...\nkailash chanda | 00:26\nWell, to be honest, I...\nSpeaker 2 | 00:27\nSent to the adjuster...\nkailash chanda | 00:27\nDidn't see...\nSpeaker 2 | 00:29\nAnd that...\nkailash chanda | 00:29\nNew Sof...\nSpeaker 2 | 00:30\nTrigger there the closed...\nkailash chanda | 00:31\nRPA as a...\nSpeaker 2 | 00:31\nTo send a billing...\nkailash chanda | 00:32\nCompetitor. I...\nSpeaker 2 | 00:32\nIs the...\nkailash chanda | 00:32\nDon't know.\nSpeaker 2 | 00:33\nTrigger to create this file...\nkailash chanda | 00:35\nSo, Peter, I can answer this question.\nSpeaker 2 | 00:36\nTo create a billing...\nkailash chanda | 00:39\nRobotic IQ...\nSpeaker 2 | 00:39\nRecord within...\nkailash chanda | 00:40\nIs, I would say, a parallel...\nSpeaker 2 | 00:41\nSalesforce. So...\nkailash chanda | 00:41\nSolution to unsoft but the...\nSpeaker 2 | 00:43\nI'll refresh.\nkailash chanda | 00:44\nProblem with Misoft...\nSpeaker 2 | 00:44\nIt's probably been created by now.\nkailash chanda | 00:45\nLP basically...\nSpeaker 2 | 00:46\nIt's been a few...\nkailash chanda | 00:46\nRight now there will not be an innovation because they start kind of selling...\nSpeaker 2 | 00:51\nYou know...\nkailash chanda | 00:51\nThat product. So that's where...\nSpeaker 2 | 00:53\nIf I'm working this...\nkailash chanda | 00:54\nI turn...\nSpeaker 2 | 00:54\nNow on the billing side...\nkailash chanda | 00:55\nTo robotic IQ that's...\nSpeaker 2 | 00:56\nIf I'm...\nkailash chanda | 00:57\nWhere I saw...\nSpeaker 2 | 00:57\nSearching that...\nkailash chanda | 00:57\nThat they are being...\nSpeaker 2 | 00:58\nAs. So ID number...\nkailash chanda | 00:59\nIn this space...\nSpeaker 2 | 00:59\nYou know...\nkailash chanda | 00:59\nAnd they are...\nSpeaker 2 | 01:00\nObviously there's the two...\nkailash chanda | 01:00\nReally aligned...\nSpeaker 2 | 01:01\nRecords here, right? The referral...\nkailash chanda | 01:01\nTo RP yeah. So...\nSpeaker 2 | 01:02\nRecord on the...\nkailash chanda | 01:02\nThere will be future innovation...\nSpeaker 2 | 01:03\nReferral object and the billing object.\nkailash chanda | 01:05\nAnd being...\nSpeaker 2 | 01:05\nThere's the two...\nkailash chanda | 01:05\nSome work done. So it's exactly a...\nSpeaker 2 | 01:07\nRecords. I think the way they...\nkailash chanda | 01:08\nReplica for...\nSpeaker 2 | 01:08\nHad it set up is that...\nkailash chanda | 01:09\nSoftware, but you will see...\nSpeaker 2 | 01:10\nWhere is the related tab it?\nkailash chanda | 01:11\nMore innovation and investments because the company itself is based...\nSpeaker 2 | 01:15\nI think the...\nkailash chanda | 01:16\nAnd dependent on.\nSpeaker 2 | 01:16\nBilling there's a link to the billing file. Yeah, that shows up here. You can access it that way. So I'm now going to go to the billing record.\nkailash chanda | 01:23\nProbably a dumb question, but what is the...?\nSpeaker 2 | 01:24\nSo that's all done, you...\nkailash chanda | 01:25\nDifferent Claude?\nSpeaker 2 | 01:25\nNo, via a flow that we have created...\nkailash chanda | 01:28\nSo now...\nSpeaker 2 | 01:29\nJust to create a billing record flow, which we have. That's what I've been working on for a bit to map all kinds of stuff that maps over from the referral side over to the billing side.\nkailash chanda | 01:40\nYou want the same thing to happen over and over...\nSpeaker 2 | 01:43\nAnd so now I'm in the...\nkailash chanda | 01:44\nAt scale...\nSpeaker 2 | 01:44\nBilling record. Yeah.\nSpeaker 3 | 01:45\nGo ahead. I...\nkailash chanda | 01:46\nReliable that...\nSpeaker 3 | 01:46\nWas just going... To say and this is what we implemented yesterday.\nkailash chanda | 01:48\nThe browser...\nSpeaker 3 | 01:49\nRolled it out. Yesterday was the first day...\nkailash chanda | 01:50\nExtension is maybe nice...\nSpeaker 3 | 01:51\nThat we...\nkailash chanda | 01:51\nIf you...\nSpeaker 3 | 01:51\nDid this...\nkailash chanda | 01:52\nWant to do something...\nSpeaker 3 | 01:52\nSo bear with us on this...\nkailash chanda | 01:53\nOnce or...\nSpeaker 2 | 01:54\nYeah...\nkailash chanda | 01:55\nTwice, but if you want to do repetitive work...\nSpeaker 2 | 01:57\nRight. Lots of...\nkailash chanda | 01:58\nOn scale...\nSpeaker 2 | 01:59\nJust kind of...\nkailash chanda | 02:00\nThis is going to cost...\nSpeaker 2 | 02:01\nHold onto...\nkailash chanda | 02:01\nYou. If you...\nSpeaker 2 | 02:02\nThe desk...\nkailash chanda | 02:02\nHave the...\nSpeaker 2 | 02:02\nMaking sure you know no big crazy things are happening on rollout which sometimes they do...\nkailash chanda | 02:07\nThe L needs to reason about what the process is doing...\nSpeaker 2 | 02:10\nBut so yeah, now on the...\nkailash chanda | 02:11\nWhat's on the screen...\nSpeaker 2 | 02:12\nBilling side...\nkailash chanda | 02:12\nWhere it needs to play...\nSpeaker 2 | 02:13\nYou a lot of the information should get mapped over here.\nkailash chanda | 02:17\nAnd it's probabilistic, so it means that you know, it...\nSpeaker 2 | 02:20\nI didn't put in... A lot of the...\nkailash chanda | 02:21\nThe same exacts...\nSpeaker 2 | 02:22\nInformation on the...\nkailash chanda | 02:22\nMaybe each...\nSpeaker 2 | 02:23\nFront end. But...\nkailash chanda | 02:23\nTime and...\nSpeaker 2 | 02:24\nTypically what happens is that, you know, these...\nkailash chanda | 02:26\nIt's more expensive...\nSpeaker 2 | 02:27\nA lot of these fields will get pulled over...\nkailash chanda | 02:29\nBecause it's...\nSpeaker 2 | 02:29\nFrom the scheduling...\nkailash chanda | 02:30\nUsing tokens.\nSpeaker 2 | 02:30\nSide. So...\nkailash chanda | 02:31\nHard to figure out on what...\nSpeaker 2 | 02:31\nMeaning, you know, on the...\nkailash chanda | 02:32\nTo d...\nSpeaker 2 | 02:32\nBilling side...\nkailash chanda | 02:32\nWhere to...\nSpeaker 2 | 02:33\nWe're. We're...\nkailash chanda | 02:33\nClick... What...\nSpeaker 2 | 02:33\nLooking for...\nkailash chanda | 02:33\nIt needs to do...\nSpeaker 2 | 02:35\nNumbers. Let's...\nkailash chanda | 02:35\nAnd the...\nSpeaker 2 | 02:36\nSay our...\nkailash chanda | 02:36\nOf having that for...\nSpeaker 2 | 02:37\nRate for the provider, you know, the...\nkailash chanda | 02:39\nRoutine administrative...\nSpeaker 2 | 02:39\nAmount that we owe the provider for that...\nkailash chanda | 02:41\nYou know...\nSpeaker 2 | 02:41\nMRI is four hundred bucks.\nkailash chanda | 02:42\nAutomated doesn't make sense. So...\nSpeaker 2 | 02:44\nAnd then the rate that we're charging to our client is six hundred. So those data...\nkailash chanda | 02:50\nThat's... Very rough... Is repeatable at large...\nSpeaker 2 | 02:53\nMost of the time we will get pulled over from scheduling.\nkailash chanda | 02:55\nScale. This is how it's...\nSpeaker 2 | 02:55\nI kind...\nkailash chanda | 02:56\nDone...\nSpeaker 2 | 02:56\nOf rushed through...\nkailash chanda | 02:56\nAnd then needs to be located...\nSpeaker 2 | 02:57\nIt. So. So I...\nkailash chanda | 02:57\nAnd I...\nSpeaker 2 | 02:57\nDidn't enter...\nkailash chanda | 02:58\nThink it's a...\nSpeaker 2 | 02:58\nSome of...\nkailash chanda | 02:58\nMuch more...\nSpeaker 2 | 02:58\nThe data that would populate it...\nkailash chanda | 03:00\nBetter option than using...\nSpeaker 2 | 03:01\nBut typically it would...\nkailash chanda | 03:02\nBrowser use or computer use...\nSpeaker 2 | 03:04\nAnd, you know...\nkailash chanda | 03:05\nOkay, so that's...\nSpeaker 3 | 03:06\nYeah...\nkailash chanda | 03:07\nGood. I understand the explanation.\nSpeaker 3 | 03:07\nI'm just going to stop you simply because we got...\nkailash chanda | 03:09\nBut I...\nSpeaker 3 | 03:09\nAbout five...\nkailash chanda | 03:09\nGuess the...\nSpeaker 3 | 03:10\nMinutes left.\nkailash chanda | 03:10\nOne benefit of...\nSpeaker 3 | 03:10\nOkay, sure. And I just. I think for...\nkailash chanda | 03:13\nGoing the...\nSpeaker 3 | 03:13\nThe most part... Out of here. Would be...\nkailash chanda | 03:15\nI'm talking out of my ass.\nSpeaker 3 | 03:16\nWhen this...\nkailash chanda | 03:16\nI don't know what...\nSpeaker 3 | 03:17\nInformation gets...\nkailash chanda | 03:17\nI'm talking about, but...\nSpeaker 3 | 03:18\nPopulated into different forms. That...\nkailash chanda | 03:19\nThe idea...\nSpeaker 3 | 03:20\nMight be...\nkailash chanda | 03:20\nOf the agency can figure out.\nSpeaker 3 | 03:21\nSomething that would be...\nkailash chanda | 03:21\nBut let's say the rparies are...\nSpeaker 3 | 03:23\nRelatable to what we're doing versus the actual billing part.\nkailash chanda | 03:27\nElements of the an element change...\nSpeaker 2 | 03:29\nOkay, so, you're saying how these fields are then mapped to other.\nSpeaker 3 | 03:36\nYeah. So, for example, we get all this information from the front end. We go ahead and bill it on two different types of forms. I mean, in theory, one is a Hick 100 form, which is...\nkailash chanda | 03:46\nThe agent...\nSpeaker 3 | 03:46\nWhat we use for all of our workers' comp clients.\nkailash chanda | 03:48\nDefined with...\nSpeaker 3 | 03:49\nAnd then, from a group health perspective, we build the EDI in some different ways on an what's called an 837 file. Both get created in here, and once they're triggered, an Excel file for the 37 s gets taken out and we then upload that into an SFTP site. It gets sent via...\nkailash chanda | 04:10\nBut the trait that you are paying...\nSpeaker 3 | 04:11\nDI to...\nkailash chanda | 04:12\nIs that you're...\nSpeaker 3 | 04:13\nOur different clients, and they get the information from the billing side, from the workers' comp side. It creates this form. These two forms right here, we're creating them, then we're manually...\nkailash chanda | 04:22\nIt can...\nSpeaker 3 | 04:22\nTaking them out...\nkailash chanda | 04:23\nMake sense...\nSpeaker 3 | 04:23\nWe're putting them into email again, and...\nkailash chanda | 04:25\nIf you...\nSpeaker 3 | 04:25\nWe're either...\nkailash chanda | 04:25\nWant to st...\nSpeaker 3 | 04:25\nEmailing them to our clients...\nkailash chanda | 04:27\nOver and over...\nSpeaker 3 | 04:27\nOr if they have a portal or something like that, we're uploading it. But from that standpoint, everything is manual as far as taking it out of here and doing something with it.\nSpeaker 2 | 04:38\nYeah, and to build on that too, John, on the a 37 side, you know, maybe something that is relevant here. So we have reports that have been built for our 08: thirty seven extraction. So, basically it's a report...\nkailash chanda | 04:57\nDeterministic automation. So...\nSpeaker 2 | 04:58\nThat is...\nkailash chanda | 04:58\nThis is...\nSpeaker 2 | 04:58\nBuilt and has, you know, a... Crazy amount of fields that are needed...\nkailash chanda | 05:06\nA brain that's constantly thinking...\nSpeaker 2 | 05:07\nIn order for us to then...\nkailash chanda | 05:09\nAbout how do...\nSpeaker 2 | 05:09\nHave that file get integrated into what's called an DI file. You know, through different parameters, I'll put that data into this report and...\nkailash chanda | 05:22\nA good use of...\nSpeaker 2 | 05:22\nYou know, everything's filled in...\nkailash chanda | 05:24\nThis is where you combine...\nSpeaker 2 | 05:24\nAnd everything's ready to go. Well, the...\nkailash chanda | 05:25\nApproaches. So...\nSpeaker 2 | 05:26\nProcess now is...\nkailash chanda | 05:27\nWhere you...\nSpeaker 2 | 05:27\nI'm going to...\nkailash chanda | 05:27\nNeed some kind of...\nSpeaker 2 | 05:28\nExport this...\nkailash chanda | 05:28\nReasoning and leisure. And so...\nSpeaker 2 | 05:30\nReport. I'm going to export it via...\nkailash chanda | 05:32\nThat's where you can combine two...\nSpeaker 2 | 05:33\nYou know, a...\nkailash chanda | 05:34\nThings, I...\nSpeaker 2 | 05:34\nCSV file...\nkailash chanda | 05:34\nWould say, for this kind of...\nSpeaker 2 | 05:36\nDetails only. I'm going to export it.\nkailash chanda | 05:38\nThinking. So...\nSpeaker 2 | 05:38\nAnd then...\nkailash chanda | 05:39\nYou know, I say two plus two. You're going to...\nSpeaker 2 | 05:40\nOnce I get that file...\nkailash chanda | 05:41\nImmediately answer without thinking. But if I ask you a more complex math question, you...\nSpeaker 2 | 05:46\nThere it is.\nkailash chanda | 05:46\nHave to be... So...\nSpeaker 2 | 05:48\nI'm going to, you know...\nkailash chanda | 05:49\nI would say that...\nSpeaker 2 | 05:49\nMaybe check it. Or it's obviously going...\nkailash chanda | 05:51\nIt's a...\nSpeaker 2 | 05:51\nTo download to...\nkailash chanda | 05:52\nCombination. It's...\nSpeaker 2 | 05:52\nTo my system.\nkailash chanda | 05:52\nA combination of twos.\nSpeaker 2 | 05:55\nAnd then...\nkailash chanda | 05:56\nOkay...\nSpeaker 2 | 05:56\nThis file...\nkailash chanda | 05:57\nWe go back to there, and...\nSpeaker 2 | 05:57\nThis Excel...\nkailash chanda | 05:59\nIf we...\nSpeaker 2 | 05:59\nFile, I...\nkailash chanda | 05:59\nGo down the RPA...\nSpeaker 2 | 06:00\nWill run...\nkailash chanda | 06:01\nSide, we are thinking...\nSpeaker 2 | 06:02\nFile Zilla...\nkailash chanda | 06:03\nOne, how...\nSpeaker 2 | 06:03\nWhich you know, is...\nkailash chanda | 06:03\nWas ever...\nSpeaker 2 | 06:04\nOur s FTP...\nkailash chanda | 06:05\nIn the when the...\nSpeaker 2 | 06:07\nYou know, portal...\nkailash chanda | 06:07\nProcess fails, like, what does the UI looks...\nSpeaker 2 | 06:10\nPlatform that...\nkailash chanda | 06:10\nLike right...\nSpeaker 2 | 06:10\nWe use...\nkailash chanda | 06:10\nNow, for...\nSpeaker 2 | 06:11\nWhich is here...\nkailash chanda | 06:11\nExample? And maybe we can just...\nSpeaker 2 | 06:13\nI will...\nkailash chanda | 06:13\nGet there.\nSpeaker 2 | 06:13\nTake this file, I'm going...\nkailash chanda | 06:13\nI just spoke about...\nSpeaker 2 | 06:14\nTo put...\nkailash chanda | 06:14\nYou know...\nSpeaker 2 | 06:14\nIt into...\nkailash chanda | 06:15\nError gets...\nSpeaker 2 | 06:15\nYou know...\nkailash chanda | 06:16\nThrown, my...\nSpeaker 2 | 06:16\nA different...\nkailash chanda | 06:16\nUser can make a change, right? I think going...\nSpeaker 2 | 06:18\nServer that we have a...\nkailash chanda | 06:19\nBack to the...\nSpeaker 2 | 06:19\nConnection to...\nkailash chanda | 06:19\nDeveloper to go ahead fix the...\nSpeaker 2 | 06:21\nWith, you know, via file...\nkailash chanda | 06:22\nRPA, is there a way...\nSpeaker 2 | 06:23\nZilla. The FTP connection.\nkailash chanda | 06:24\nTo like a pick the user or somehow like...\nSpeaker 2 | 06:26\nIn this... Case, let's say I take... That file. I'm going to put it into this Data...\nkailash chanda | 06:30\nYou kind of continue in the...\nSpeaker 2 | 06:31\nDimensions folder.\nkailash chanda | 06:31\nProcess for us to stop, let...\nSpeaker 2 | 06:33\nThat system is then...\nkailash chanda | 06:34\nFail and...\nSpeaker 2 | 06:34\nGoing to... Convert, you...\nkailash chanda | 06:36\nNo way to...\nSpeaker 2 | 06:36\nKnow, those...\nkailash chanda | 06:37\nSpeed that up...\nSpeaker 2 | 06:37\nThree files that are on that...\nkailash chanda | 06:38\nTo my work...\nSpeaker 2 | 06:38\nExcel file into what they call EDI files. And that's... Just all the billing side.\nkailash chanda | 06:42\nYes, we...\nSpeaker 2 | 06:42\nSo all...\nkailash chanda | 06:43\nCan definitely...\nSpeaker 2 | 06:43\nThat's a manual process today.\nkailash chanda | 06:44\nThink about these...\nSpeaker 4 | 06:47\nOkay? And then how do you...? So payment from people is there...?\nkailash chanda | 06:50\nHuman out.\nSpeaker 4 | 06:50\nAnother portal that they have to go to pay?\nkailash chanda | 06:52\nSo I would say with our opinion and...\nSpeaker 3 | 06:54\nNo, they...\nkailash chanda | 06:55\nI guess in...\nSpeaker 3 | 06:55\nWell, they'll either pay us...\nkailash chanda | 06:57\nAutomation, it's not only about the...\nSpeaker 3 | 06:57\nVia AC into our bank...\nkailash chanda | 06:59\nProduct itself.\nSpeaker 3 | 06:59\nAccounts, or they'll... We have a lock box that they could send the...\nkailash chanda | 07:02\nMIP and...\nSpeaker 3 | 07:02\nChecks. But once that stuff...\nkailash chanda | 07:03\nRRP and...\nSpeaker 3 | 07:03\nComes in, we...\nkailash chanda | 07:04\nAnd whatever...\nSpeaker 3 | 07:04\nTake that information...\nkailash chanda | 07:05\nThese are all tools...\nSpeaker 3 | 07:06\nAnd we...\nkailash chanda | 07:06\nThat can be...\nSpeaker 3 | 07:06\nGo back into...\nkailash chanda | 07:07\nDeveloped, but...\nSpeaker 3 | 07:07\nThe billing...\nkailash chanda | 07:08\nIt's important to...\nSpeaker 3 | 07:09\nRecord. And...\nkailash chanda | 07:09\nKnow how...\nSpeaker 3 | 07:09\nWe updated it in there. So...\nkailash chanda | 07:11\nYou implemented that...\nSpeaker 3 | 07:13\nIf you want to...\nkailash chanda | 07:13\nDetermines the how robust and...\nSpeaker 3 | 07:15\nShow. So for example, if we bill out $600...\nkailash chanda | 07:16\nHow flexible it is for...\nSpeaker 3 | 07:17\nThe insurance company sends us...\nkailash chanda | 07:18\nUse. Definitely...\nSpeaker 3 | 07:18\nA check, we find the...\nkailash chanda | 07:19\nWe can...\nSpeaker 3 | 07:19\nAccount number coming here.\nkailash chanda | 07:20\nWe have a...\nSpeaker 3 | 07:20\nSay we were paid...\nkailash chanda | 07:20\nVery experienced team that...\nSpeaker 3 | 07:21\n600 dollars.\nkailash chanda | 07:22\nWe can work...\nSpeaker 3 | 07:22\nWe then take that...\nkailash chanda | 07:23\nWith Kailash to build the...\nSpeaker 3 | 07:24\n600 dollars...\nkailash chanda | 07:24\nOptimal solution.\nSpeaker 3 | 07:25\nAnd look up our contract for the provider...\nkailash chanda | 07:27\nBut this...\nSpeaker 3 | 07:27\nAnd then we're paying the provider four hundred dollars. So we make the difference between the 400 and the 600. But all that gets put in here and this is how we keep record of it. Then at this point...\nkailash chanda | 07:37\nReally amazing that a lot of stuff you're building.\nSpeaker 3 | 07:39\nOnce they go ahead...\nkailash chanda | 07:40\nI can't...\nSpeaker 3 | 07:40\nAnd submit...\nkailash chanda | 07:41\nForesee a lot of unknowns...\nSpeaker 3 | 07:41\nThe bill, we have a zap...\nkailash chanda | 07:42\nUnknowns that...\nSpeaker 3 | 07:42\nSet up.\nkailash chanda | 07:43\nThings are popping up. We should have thought about that."
+  }
+}
