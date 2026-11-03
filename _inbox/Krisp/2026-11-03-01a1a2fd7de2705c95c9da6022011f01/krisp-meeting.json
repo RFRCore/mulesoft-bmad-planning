@@ -1,0 +1,1818 @@
+{
+  "id": "01a1a2fd7de2705c95c9da6022011f01",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a29307a073af9320169acfd978cc",
+      "title": "DataSkate Mule Developer Intro",
+      "duration": 1523,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "250k41fom5o6pa44pft6t817q3",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "akhilesh@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "dcochran@berksconstructiongroup.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vince@wiserspread.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vivekn@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        }
+      ],
+      "start_date": "2026-11-03T19:31:57.895Z",
+      "end_date": "2026-11-03T19:57:20.895Z",
+      "url": "https://app.krisp.ai/m/01a1a29307a073af9320169acfd978cc?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So s how at to speed are you on what we're trying to accomplish here? And, or should I just kind of start at the top?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And they have..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I'd start at the top."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. So basically, we have just recently purchased the off-the-shelf platform, and I've been using it for the past two or three months to build out APIs and points to integrate Salesforce, Pro Core, and Sage Intact. For the most part, it's several objects across all three systems doing a live, bidirectional sync."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So what we've been doing is basically utilizing Salesforce. So myself, I'm a Salesforce developer, and I'm helping out Bergs here on the Salesforce side, which is the main, I'd say, driving system of the whole integration.\nSo, on the Salesforce side, we're..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's why I was like to ask..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Able to, you know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "About just like a feedback..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Do just about whatever..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Over there..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We want."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "How can my us provide some feedback...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "But on..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "On the error..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "On the Procore Sage Intact side, we're pretty limited as far as what those systems offer."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And it cost money with it's..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So what we've been doing is a sort of, you know, web hook based integration to, you know, be able to achieve these live bidirectional syncs..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The right way or you do it..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Across the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Differently. But I have a lot of pushback."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Up to this..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Or an..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Point, I'd..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Option is..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Say we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Really challenge."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Are about..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "People do it and they don't know."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Three objects..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But you know, usually..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Deep. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A record..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If you think of it in terms of Salesforce objects, we have set up a bidirectional sync on..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Right? So they're going to have to translate that because..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Accounts. We've set up. We're currently finishing up the BI direct BI directional sync..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To everybody."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "On contacts and we are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know, I asked him..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Just finishing up opportunities..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm like..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "As well."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know, how many? 7. They would never..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So we started at the top and are working our way down as far as the data structure goes. But yeah, we're looking to bring on someone who can help."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Custom. It is not..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, do the mules build of this. We... Myself, I usually do the discovery figure out what core API endpoints we need to use, what sales force intact API endpoints we need to use. I'll usually test them using Postman to make sure that we'll be able to do what we want to do.\nThen we just need that built into Mulesoft is essentially what the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The ex..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "What we're looking at doing."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is. Because that because they don't mention..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "So how are you doing the BI directionally? You are using change data capture in..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Salesforce in data capture."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We are better when meeting your..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No. So pretty much it's just... So from the Salesforce side, it's just an HTTP call out that's triggered by either... I have the Apex built into Salesforce to build the request bodies and send"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Like I Said..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Them to Mulesoft, and then Mulesoft..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I am on..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Puts them where they need to go."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of RPA as a great..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "And then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "With the business I know."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In Procore and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not going to do it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sage, they have web hooks..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And I don't mind not..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That we are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Pay if I have a better product. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Utilizing. So we in Mulesoft, we have a web hooks endpoint..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "How can we handle..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That we're sending the web hooks..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What we've already built and you..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To from Sgent..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can see and we..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Procor and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can, you know, see him before I enter the an engagement. I don't know."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Having it... Back to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Costs. Or..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The Salesforce or..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I mean, we can start something smaller and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sage wherever they need to go..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "As I scale, we can figure out the costs later. But what would..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Any other..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That look like? If I'm already on RPMUS and I have some processes..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "So yeah... I do have experience..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That I have to complete to look like?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Integrating Procore and C systems in one of my projects..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Well, the good thing is that we know..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Recently. So where..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "How we are..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "I created a, say, job..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have process..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Then I integrated data, I loaded data from Procore..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And we don't have..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so you worked with... No, Sage Intact had an old legacy..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Itself and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "XML API we're not..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Modernize it..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Using that, we're using the newer..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "REST API is that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Make it error..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The one you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And try..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Had an..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To simulate..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Experience with or did you use the old..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What elements can be improved..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "XML 1?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "As well."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "No, I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And it's..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Didn't work..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A better..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "With Sage..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Situation than you know starting..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Intact in. I would say..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "From scratch where you have to..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "I work..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Do the whole business analysis and how to talk to business users are not..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Sageage sage not sage intact."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Appropriate for the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Implementation. So we can think..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "How it's implemented in..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Got it. Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Take it step by step."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Not. Yeah. So I guess I can kind of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I mean, that's a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Maybe be helpful to kind..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sal call..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Of walk through our..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Whatever. Like..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Any point environment..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't know what it looks like something where..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Kind of show you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "People like..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "What's built there..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Part but we can play..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Again. We're not... I'm myself. I'm not a, you know, any point..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sax trial where..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Together with..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Guru by any means. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can think..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I might even need your help when it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And we..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Comes to navigating..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Or whatever..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The platform itself. But I can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can you examine what you..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Give you a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have together..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A high-level view of what we're doing."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Sure."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Let's do that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And, hey, just so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You know..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I'm getting ready to share..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Kind of. I was thinking..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "With you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To align with..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "All the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Peter to..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Files that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Say that once a sandbox..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I downloaded from the design center."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is provided, we will automate one of the..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Flows we..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes, so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Done for you..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You should have quite..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And what..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "A bit. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We have done for..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "In addition to what Vince is about to... Show you. I'll..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Will build..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Be giving..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Your robotic..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You a dump of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Edule and..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Everything we have..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "In design..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Go through it and say that hey, this..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Center. All right."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sounds looks good, works good. Then we can say that hey, let's kind of proceeded. Then we could discuss on the pricing and then see how do we want to move forward?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, let's see. Where should we go?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'll just go to the one-time manager and give you an idea..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Here. 40 minutes."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Of what was being built for us and what we're looking forward to here, right? Like I said, I'm not a big Mule. I don't really have any experience building at any point. So there's any design like Microsoft just design architecture, kind of an API architecture design that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But I can't go in there because..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You feel..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I still have..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Like you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Gen cards."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Know was done either poorly here or could be done a different way. Don't hesitate to speak up because that's exactly what we're..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "One by one."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. So far, pretty much everything's been done in this DE environment. Nothing has been pushed to production yet. We're basically trying to wrap up. There are about three more objects we need to accomplish a bi-directional sync in a dev environment before we're ready to deploy to production.\nSo everything right now is in the dev environment. The way they kind of set it up was they had a process API that would then give it to the service APIs based on what was happening. So inside...\nSo all these expose these endpoints which are being called from directly from Salesforce Pro Core. Sage..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So once I have one quick question. I mean, I totally agree on the approach that whatever they proposed earlier looks good, but I know... Say you guys are in the credit consumption mode, right? So what happens is every... I know there is a bit of reusability, but depending upon the footprint, right? Tomorrow, let's say that we are not going to have hundreds of APIs, right? There'll be a set of 20-30 APIs. Now every API you deploy, it would consume around 200 or 400 credits per day, right?\nSo now if you see Sage SP dev... So the Sage SP dev independently would consume 200 to 400 credits a day just to keep running. And when the message flows from the API to the SAP, that would again increase the message count.\nSo I mean reusability is coming with the cost. I'm not sure if they explained that portion of it to you. So now we have to work around to see if that really makes sense with the volume and the cost. Do you want to use it as a reusable or you want to make it in a single flow, because every flow will be charged every day that is running. Likewise, every message that is sent from PayPal to SAP will again consume the number of messages depending on the volume.\nIf you have good volume... I mean a normal volume. I think three million messages should be good enough. Then we should be okay. But that's where I wanted to call it out."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, absolutely don't know. Like I said, we were very trusting in the people we're working with that they were making the correct decisions and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Calls here. If that wasn't being done, feel free to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I sure..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Let me know why."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not. What? I..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes, and guys, listen, if you have any if there are any questions or concerns, guys reach out to Nicole over at Mulesoft, right? Make sure that we keep her plugged in. Peter... Yeah, because anything that we need, if there's... And we see any issues, whatever it is, we want to make sure we keep those folks in fact, that one of them was going to try to join this call. Looks like they haven't been able to do it.\nBut let's make sure we keep the folks over at Salesforce and Mulesoft engaged, please."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm in touch with Nicole every day, so I will keep her updated."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Date, so we will... That shouldn't be an issue, so... Okay, thanks."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And I just shared that file with you guys."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, let me look for it. Okay. I got the fi la. And I will..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Share it with him..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Hey, Vince, do you want it as well? The. I'll send it to you, I'll..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Send you any..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Then I think because that is hosted on SharePoint, we will not be able to access it because we don't have Microsoft logins. So maybe once... Into your project, once you have an email ID created for him, then he should be able to access it."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Well, I shared it with anybody who has a link, so they should be able to get to it. Let me know if you can."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, then we'll try to create a free login and... Okay,"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "All right. I'll check the tiles."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Short please. S okay, so any if wince and then if you are kind of aligned or do you have any questions for PI, then I think I will kind of have him allocated to your project and then we could get the paperwork started and walk it around."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. I want to make sure that I've given you guys enough so that you can scope this properly."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To make sure that you know that 100% you've got the right resource involved to be able to work with Vince to where we can build live."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "You know, again, as I was telling you. For. This isn't one of those where you thought, okay, well, let go, spend a week figuring stuff out, let's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Do it. We need people who are in this thing day in and day out, and they know what they're doing."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's where..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And then."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I've got... Said has already worked on Procore integrations and then..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, cool."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A different version of Sage, not exactly that, but a different version of Sage. So that's where I brought him to align who has experience on these systems and I think..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "He should be good enough."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Alright. And so I'll send. So I sent you a log in, so I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Should send it to Said now, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, please send it to Said. I'll share his email address in the chat and we see one."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, I've got it. I've just shared stuff with you. I've sent you guys an email, if you can go through what I sent you and let me know. Other than the login I'm going to give you, let me know if there's anything else that I can pull out of Mulesoft..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To send you guys..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you. Thanks. We will review the documents and come back to you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, how about you events?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Non good. Basically, it's pretty much s whatever you need. As far as you know, being onboarded. Just let us know, you know, what we've built so far. I'd say it works pretty well. I'm not. I it's not so much as, you know, needing to change too much of what's built, but rather, you know, just continuing on with the same kind of functionality we've been getting and just. We're just gonna keep marching down additional objects and additional things to sync, and that's the goal.\nSo whatever you need to get, any info you need..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's rock and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Let me..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Sure wins, I appreciate it. Thanks."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, I just sent the user ti let me check. And then like I gave you, I said you everything that I have, you have everything that I've pulled for you guys. I've sent everyone. So between the e mail and the folder I just shared, if there's anything else that you need, please let me know."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Do testing. I'd do it. I should be okay."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Yup, I guess any point you have shared me any invitation for any point platform access, I will log into that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What? Tom...\nI wanted, but okay. I think this is a start. Next... Toy... And Cars... And Copple... Metal... Met..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, anything else we need though."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "No means we're good as of now. So Dan shared ANYPOINT platform access, and he has shared Rammels, I believe, of YP so I'll see, I'll create a free Microsoft account or a OneDrive account and I'll see if I'm able to access it or not."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. And again, if not, anyone with the link should be able to get access to it, but if not, let me know I can always just zip it up and get it to you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sure."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. And while we're on this call, do you want to go ahead and accept the invite that I sent you? And then that way I can set up permissions or accept the invite. And then tell me what permissions that. That you need.\nAnd I'll do it."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "All right, just give me a moment."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Hey, Vijay, if you don't need to hang out, you don't hang out. I'll just get him set up and then we can touch base later. That way you can do what you got to do."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sounds good."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "All right, thanks, Vijay. I appreciate it."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Bye. Let me quickly share my screen..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Create this away for... Again. Okay, I don't do where we can get this..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "So. Yep."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Cotonut funny got the copper metal in."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. I see you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think you should be asking fun if we should create a new work totally sales for partnership that..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And right now it's still showing. E mail not verified."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Company better in Palo\nAlto. As at... Which is... Okay, we'll start with this later."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "One second."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I guess..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Structure change as well..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Any point us..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Accompanied Martha work the combination met at the Pushta. Once we feel that we are making progress and we will fall in i of AA monthly or 1020k is..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Do I just need to add a permission? Is it maybe what we need to do? I need to give you permission to do something so you can finish."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Use this..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And so what? What permission would we need to get you started?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Us Atlantic jet company to me..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "So for my user..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Same couple..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Right..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In nep..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "I'll just bring you my user."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Same and..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "I just give..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For different..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Me a moment."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "States can have the same company..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Been here in the chat."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I mean, I've got organization administrators. I mean, are you going to need that or."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Until we go to eleven..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Yup, I won't need them."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "There is nothing that will happen."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So if I do that... Then you'll have access. You can just give yourself whatever else you need, right?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "You're right."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I was hey. So what I'm saying is. And ant both a simple pair March and the subject enm of the like you did from gir bl..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To data..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yep, everything looks good. The only thing is it's not... I'm not sure if it matters, but just it still shows the email not verified, but I gave you org."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Okay, I guess just a minute."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No change. The article registration copies are..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. And it shows. Yeah, it shows. Organization administrator."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "One second. I'm just trying to verify the two set of two factor authentication."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "That's how your email will be verified typically."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In a good..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I mean, on my end, it shows that the MFA is enabled."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "I see. Absolutely.\nYup, I have done the email verification there. Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Still not showing that it's done. Are you having a problem logging in now?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "No, I'm okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "There you go. Yep, I see it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In Japan and..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, so is it safe to say you have everything you need?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Yep, we have. Good."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So you can go and do what you got to do, review everything, and make sure that you guys feel confident and comfortable because this engagement that we have ends, I think, on Wednesday of next week. So we want to make sure that by Wednesday of next week, you guys have been able to get in, review everything, make sure you feel confident and comfortable."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The first work if you bring to indicate..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And then we'll yeah, we'll start the I guess we have to do like a block of hours, I would imagine. Coal."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Will not..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Is that how you guys do it?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Get in suspended..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. However it is, you guys do it for the. For the billing side, I guess..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Cleish will just."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, then we're building... We generally do by block of our hourly engagement. So we will assign Kailash to your project and number of hours. Do you need him for the month of full? 160 hours to say that he can complete whatever task winsass in.\nWe will be able..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To that. So I'll share the billing rate on the one-time application per month, and then we can..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Figure it out."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And then the only other thing is that, you know, we would we're going to know by Wednesday of next week how much time we're going to need."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yes. So we'll let you know everything on Wednesday. I just want to make sure that this week that you guys were all plugged in, you could scope everything, and that there were... Any questions, any concerns that you guys would need, whatever access you need just so that we can hit the ground running with vents?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, sure. Okay..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Sure."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank great..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks a lot, thank you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, awesome. Is there anything else, guys?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, I think we should be good."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, okay, and if you do, just send me an email, let me know, and I'll get into the platform and get you whatever you need."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, thank you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "All right, guys, thanks. Have a good day y."
+      }
+    ],
+    "raw_meeting": "**DataSkate Mule Developer Intro**\n🕞 Started at 07:31 PM on 03 Nov, lasted 25m",
+    "raw_content": "Speaker 2 | 00:00\nSo s how at to speed are you on what we're trying to accomplish here? And, or should I just kind of start at the top?\nkailash chanda | 00:11\nAnd they have...\nSpeaker 3 | 00:12\nI'd start at the top.\nSpeaker 2 | 00:17\nYeah. So basically, we have just recently purchased the off-the-shelf platform, and I've been using it for the past two or three months to build out APIs and points to integrate Salesforce, Pro Core, and Sage Intact. For the most part, it's several objects across all three systems doing a live, bidirectional sync.\nSpeaker 3 | 00:58\nOkay.\nSpeaker 2 | 00:59\nSo what we've been doing is basically utilizing Salesforce. So myself, I'm a Salesforce developer, and I'm helping out Bergs here on the Salesforce side, which is the main, I'd say, driving system of the whole integration.\nSo, on the Salesforce side, we're...\nkailash chanda | 01:21\nThat's why I was like to ask...\nSpeaker 2 | 01:21\nAble to, you know...\nkailash chanda | 01:22\nAbout just like a feedback...\nSpeaker 2 | 01:22\nDo just about whatever...\nkailash chanda | 01:23\nOver there...\nSpeaker 2 | 01:23\nWe want.\nkailash chanda | 01:24\nHow can my us provide some feedback...?\nSpeaker 2 | 01:26\nBut on...\nkailash chanda | 01:26\nOn the error...\nSpeaker 2 | 01:26\nOn the Procore Sage Intact side, we're pretty limited as far as what those systems offer.\nkailash chanda | 01:31\nAnd it cost money with it's...\nSpeaker 2 | 01:33\nSo what we've been doing is a sort of, you know, web hook based integration to, you know, be able to achieve these live bidirectional syncs...\nkailash chanda | 01:43\nThe right way or you do it...\nSpeaker 2 | 01:44\nAcross the...\nkailash chanda | 01:45\nDifferently. But I have a lot of pushback.\nSpeaker 2 | 01:47\nUp to this...\nkailash chanda | 01:48\nOr an...\nSpeaker 2 | 01:48\nPoint, I'd...\nkailash chanda | 01:48\nOption is...\nSpeaker 2 | 01:49\nSay we...\nkailash chanda | 01:49\nReally challenge.\nSpeaker 2 | 01:50\nAre about...\nkailash chanda | 01:50\nPeople do it and they don't know.\nSpeaker 2 | 01:52\nThree objects...\nkailash chanda | 01:53\nBut you know, usually...\nSpeaker 2 | 01:54\nDeep. So...\nkailash chanda | 01:55\nA record...\nSpeaker 2 | 01:55\nIf you think of it in terms of Salesforce objects, we have set up a bidirectional sync on...\nkailash chanda | 02:02\nRight? So they're going to have to translate that because...\nSpeaker 2 | 02:04\nAccounts. We've set up. We're currently finishing up the BI direct BI directional sync...\nkailash chanda | 02:08\nTo everybody.\nSpeaker 2 | 02:09\nOn contacts and we are...\nkailash chanda | 02:13\nYou know, I asked him...\nSpeaker 2 | 02:14\nJust finishing up opportunities...\nkailash chanda | 02:15\nI'm like...\nSpeaker 2 | 02:16\nAs well.\nkailash chanda | 02:16\nYou know, how many? 7. They would never...\nSpeaker 2 | 02:18\nSo we started at the top and are working our way down as far as the data structure goes. But yeah, we're looking to bring on someone who can help.\nkailash chanda | 02:30\nCustom. It is not...\nSpeaker 2 | 02:32\nYeah, do the mules build of this. We... Myself, I usually do the discovery figure out what core API endpoints we need to use, what sales force intact API endpoints we need to use. I'll usually test them using Postman to make sure that we'll be able to do what we want to do.\nThen we just need that built into Mulesoft is essentially what the...\nkailash chanda | 03:03\nThe ex...\nSpeaker 2 | 03:04\nWhat we're looking at doing.\nkailash chanda | 03:05\nIs. Because that because they don't mention...\nSpeaker 4 | 03:08\nSo how are you doing the BI directionally? You are using change data capture in...\nSpeaker 2 | 03:13\nSalesforce in data capture.\nSpeaker 4 | 03:19\nYeah.\nkailash chanda | 03:23\nWe are better when meeting your...\nSpeaker 2 | 03:24\nNo. So pretty much it's just... So from the Salesforce side, it's just an HTTP call out that's triggered by either... I have the Apex built into Salesforce to build the request bodies and send\nkailash chanda | 03:43\nLike I Said...\nSpeaker 2 | 03:43\nThem to Mulesoft, and then Mulesoft...\nkailash chanda | 03:45\nI am on...\nSpeaker 2 | 03:45\nPuts them where they need to go.\nkailash chanda | 03:46\nOf RPA as a great...\nSpeaker 2 | 03:48\nAnd then...\nkailash chanda | 03:48\nWith the business I know.\nSpeaker 2 | 03:49\nIn Procore and...\nkailash chanda | 03:51\nNot going to do it.\nSpeaker 2 | 03:52\nSage, they have web hooks...\nkailash chanda | 03:54\nAnd I don't mind not...\nSpeaker 2 | 03:55\nThat we are...\nkailash chanda | 03:55\nPay if I have a better product. So...\nSpeaker 2 | 03:57\nUtilizing. So we in Mulesoft, we have a web hooks endpoint...\nkailash chanda | 04:01\nHow can we handle...\nSpeaker 2 | 04:02\nThat we're sending the web hooks...\nkailash chanda | 04:03\nWhat we've already built and you...\nSpeaker 2 | 04:05\nTo from Sgent...\nkailash chanda | 04:06\nCan see and we...\nSpeaker 2 | 04:06\nProcor and...\nkailash chanda | 04:06\nCan, you know, see him before I enter the an engagement. I don't know.\nSpeaker 2 | 04:11\nHaving it... Back to...\nkailash chanda | 04:12\nCosts. Or...\nSpeaker 2 | 04:12\nThe Salesforce or...\nkailash chanda | 04:13\nI mean, we can start something smaller and...\nSpeaker 2 | 04:15\nSage wherever they need to go...\nkailash chanda | 04:16\nAs I scale, we can figure out the costs later. But what would...\nSpeaker 2 | 04:21\nAny other...\nkailash chanda | 04:22\nThat look like? If I'm already on RPMUS and I have some processes...\nSpeaker 4 | 04:26\nSo yeah... I do have experience...\nkailash chanda | 04:28\nThat I have to complete to look like?\nSpeaker 4 | 04:29\nIntegrating Procore and C systems in one of my projects...\nkailash chanda | 04:32\nWell, the good thing is that we know...\nSpeaker 4 | 04:34\nRecently. So where...\nkailash chanda | 04:36\nHow we are...\nSpeaker 4 | 04:36\nI created a, say, job...\nkailash chanda | 04:37\nHave process...\nSpeaker 4 | 04:38\nThen I integrated data, I loaded data from Procore...\nkailash chanda | 04:41\nAnd we don't have...\nSpeaker 2 | 04:46\nOkay, so you worked with... No, Sage Intact had an old legacy...\nkailash chanda | 04:50\nItself and...\nSpeaker 2 | 04:50\nXML API we're not...\nkailash chanda | 04:52\nModernize it...\nSpeaker 2 | 04:52\nUsing that, we're using the newer...\nkailash chanda | 04:53\nYou know...\nSpeaker 2 | 04:55\nREST API is that...\nkailash chanda | 04:56\nMake it error...\nSpeaker 2 | 04:57\nThe one you...\nkailash chanda | 04:57\nAnd try...\nSpeaker 2 | 04:58\nHad an...\nkailash chanda | 04:58\nTo simulate...\nSpeaker 2 | 04:58\nExperience with or did you use the old...\nkailash chanda | 04:59\nWhat elements can be improved...\nSpeaker 2 | 05:00\nXML 1?\nkailash chanda | 05:01\nAs well.\nSpeaker 4 | 05:02\nNo, I...\nkailash chanda | 05:03\nAnd it's...\nSpeaker 4 | 05:03\nDidn't work...\nkailash chanda | 05:03\nA better...\nSpeaker 4 | 05:04\nWith Sage...\nkailash chanda | 05:04\nSituation than you know starting...\nSpeaker 4 | 05:05\nIntact in. I would say...\nkailash chanda | 05:06\nFrom scratch where you have to...\nSpeaker 4 | 05:06\nI work...\nkailash chanda | 05:07\nDo the whole business analysis and how to talk to business users are not...\nSpeaker 3 | 05:12\nSageage sage not sage intact.\nkailash chanda | 05:13\nAppropriate for the...\nSpeaker 3 | 05:14\nYeah...\nkailash chanda | 05:15\nImplementation. So we can think...\nSpeaker 3 | 05:16\nOkay.\nkailash chanda | 05:16\nHow it's implemented in...\nSpeaker 2 | 05:17\nGot it. Okay...\nkailash chanda | 05:20\nTake it step by step.\nSpeaker 2 | 05:21\nNot. Yeah. So I guess I can kind of...\nkailash chanda | 05:25\nI mean, that's a...\nSpeaker 2 | 05:26\nMaybe be helpful to kind...\nkailash chanda | 05:27\nSal call...\nSpeaker 2 | 05:27\nOf walk through our...\nkailash chanda | 05:28\nWhatever. Like...\nSpeaker 2 | 05:28\nAny point environment...\nkailash chanda | 05:29\nI don't know what it looks like something where...\nSpeaker 2 | 05:31\nKind of show you...\nkailash chanda | 05:32\nPeople like...\nSpeaker 2 | 05:32\nWhat's built there...\nkailash chanda | 05:33\nPart but we can play...\nSpeaker 2 | 05:34\nAgain. We're not... I'm myself. I'm not a, you know, any point...\nkailash chanda | 05:36\nSax trial where...\nSpeaker 2 | 05:37\nYou know...\nkailash chanda | 05:38\nTogether with...\nSpeaker 2 | 05:39\nGuru by any means. So...\nkailash chanda | 05:39\nWe can think...\nSpeaker 2 | 05:40\nI might even need your help when it...\nkailash chanda | 05:41\nAnd we...\nSpeaker 2 | 05:42\nComes to navigating...\nkailash chanda | 05:43\nOr whatever...\nSpeaker 2 | 05:44\nThe platform itself. But I can...\nkailash chanda | 05:46\nCan you examine what you...\nSpeaker 2 | 05:47\nGive you a...\nkailash chanda | 05:48\nHave together...\nSpeaker 2 | 05:48\nA high-level view of what we're doing.\nSpeaker 4 | 05:51\nSure.\nSpeaker 2 | 05:53\nLet's do that.\nSpeaker 3 | 05:55\nAnd, hey, just so...\nkailash chanda | 05:56\nYeah...\nSpeaker 3 | 05:56\nYou know...\nkailash chanda | 05:56\nI think...\nSpeaker 3 | 05:56\nI'm getting ready to share...\nkailash chanda | 05:57\nKind of. I was thinking...\nSpeaker 3 | 05:59\nWith you...\nkailash chanda | 05:59\nTo align with...\nSpeaker 3 | 05:59\nAll the...\nkailash chanda | 06:00\nPeter to...\nSpeaker 3 | 06:00\nFiles that...\nkailash chanda | 06:00\nSay that once a sandbox...\nSpeaker 3 | 06:01\nI downloaded from the design center.\nkailash chanda | 06:02\nIs provided, we will automate one of the...\nSpeaker 3 | 06:04\nOkay?\nkailash chanda | 06:04\nFlows we...\nSpeaker 3 | 06:04\nYes, so...\nkailash chanda | 06:05\nDone for you...\nSpeaker 3 | 06:05\nYou should have quite...\nkailash chanda | 06:06\nAnd what...\nSpeaker 3 | 06:06\nA bit. So...\nkailash chanda | 06:07\nWe have done for...\nSpeaker 3 | 06:07\nIn addition to what Vince is about to... Show you. I'll...\nkailash chanda | 06:09\nWill build...\nSpeaker 3 | 06:09\nBe giving...\nkailash chanda | 06:09\nYour robotic...\nSpeaker 3 | 06:10\nYou a dump of...\nkailash chanda | 06:10\nEdule and...\nSpeaker 3 | 06:11\nEverything we have...\nkailash chanda | 06:11\nYou can...\nSpeaker 3 | 06:11\nIn design...\nkailash chanda | 06:12\nGo through it and say that hey, this...\nSpeaker 3 | 06:13\nCenter. All right.\nkailash chanda | 06:13\nSounds looks good, works good. Then we can say that hey, let's kind of proceeded. Then we could discuss on the pricing and then see how do we want to move forward?\nSpeaker 2 | 06:24\nOkay, let's see. Where should we go?\nkailash chanda | 06:29\nOkay.\nSpeaker 2 | 06:29\nI'll just go to the one-time manager and give you an idea...\nkailash chanda | 06:35\nHere. 40 minutes.\nSpeaker 2 | 06:35\nOf what was being built for us and what we're looking forward to here, right? Like I said, I'm not a big Mule. I don't really have any experience building at any point. So there's any design like Microsoft just design architecture, kind of an API architecture design that...\nkailash chanda | 06:59\nBut I can't go in there because...\nSpeaker 2 | 07:00\nYou feel...\nkailash chanda | 07:00\nI still have...\nSpeaker 2 | 07:00\nLike you...\nkailash chanda | 07:01\nGen cards.\nSpeaker 2 | 07:01\nKnow was done either poorly here or could be done a different way. Don't hesitate to speak up because that's exactly what we're...\nSpeaker 4 | 07:13\nOne by one.\nSpeaker 2 | 07:14\nYeah. So far, pretty much everything's been done in this DE environment. Nothing has been pushed to production yet. We're basically trying to wrap up. There are about three more objects we need to accomplish a bi-directional sync in a dev environment before we're ready to deploy to production.\nSo everything right now is in the dev environment. The way they kind of set it up was they had a process API that would then give it to the service APIs based on what was happening. So inside...\nSo all these expose these endpoints which are being called from directly from Salesforce Pro Core. Sage...\nkailash chanda | 08:07\nSo once I have one quick question. I mean, I totally agree on the approach that whatever they proposed earlier looks good, but I know... Say you guys are in the credit consumption mode, right? So what happens is every... I know there is a bit of reusability, but depending upon the footprint, right? Tomorrow, let's say that we are not going to have hundreds of APIs, right? There'll be a set of 20-30 APIs. Now every API you deploy, it would consume around 200 or 400 credits per day, right?\nSo now if you see Sage SP dev... So the Sage SP dev independently would consume 200 to 400 credits a day just to keep running. And when the message flows from the API to the SAP, that would again increase the message count.\nSo I mean reusability is coming with the cost. I'm not sure if they explained that portion of it to you. So now we have to work around to see if that really makes sense with the volume and the cost. Do you want to use it as a reusable or you want to make it in a single flow, because every flow will be charged every day that is running. Likewise, every message that is sent from PayPal to SAP will again consume the number of messages depending on the volume.\nIf you have good volume... I mean a normal volume. I think three million messages should be good enough. Then we should be okay. But that's where I wanted to call it out.\nSpeaker 2 | 09:59\nNo, absolutely don't know. Like I said, we were very trusting in the people we're working with that they were making the correct decisions and...\nkailash chanda | 10:09\nYes.\nSpeaker 2 | 10:09\nCalls here. If that wasn't being done, feel free to...\nkailash chanda | 10:14\nI sure...\nSpeaker 2 | 10:14\nLet me know why.\nkailash chanda | 10:16\nNot. What? I...\nSpeaker 3 | 10:16\nYes, and guys, listen, if you have any if there are any questions or concerns, guys reach out to Nicole over at Mulesoft, right? Make sure that we keep her plugged in. Peter... Yeah, because anything that we need, if there's... And we see any issues, whatever it is, we want to make sure we keep those folks in fact, that one of them was going to try to join this call. Looks like they haven't been able to do it.\nBut let's make sure we keep the folks over at Salesforce and Mulesoft engaged, please.\nkailash chanda | 10:46\nI'm in touch with Nicole every day, so I will keep her updated.\nSpeaker 3 | 10:50\nOkay.\nkailash chanda | 10:50\nDate, so we will... That shouldn't be an issue, so... Okay, thanks.\nSpeaker 3 | 10:59\nAnd I just shared that file with you guys.\nkailash chanda | 11:02\nOkay, let me look for it. Okay. I got the fi la. And I will...\nSpeaker 3 | 11:09\nYeah.\nkailash chanda | 11:09\nShare it with him...\nSpeaker 3 | 11:11\nHey, Vince, do you want it as well? The. I'll send it to you, I'll...\nkailash chanda | 11:18\nI think...\nSpeaker 3 | 11:18\nSend you any...\nkailash chanda | 11:19\nThen I think because that is hosted on SharePoint, we will not be able to access it because we don't have Microsoft logins. So maybe once... Into your project, once you have an email ID created for him, then he should be able to access it.\nSpeaker 3 | 11:37\nWell, I shared it with anybody who has a link, so they should be able to get to it. Let me know if you can.\nkailash chanda | 11:42\nOkay, then we'll try to create a free login and... Okay,\nSpeaker 4 | 11:50\nAll right. I'll check the tiles.\nkailash chanda | 11:51\nShort please. S okay, so any if wince and then if you are kind of aligned or do you have any questions for PI, then I think I will kind of have him allocated to your project and then we could get the paperwork started and walk it around.\nSpeaker 3 | 12:19\nYeah. I want to make sure that I've given you guys enough so that you can scope this properly.\nkailash chanda | 12:24\nOkay.\nSpeaker 3 | 12:24\nTo make sure that you know that 100% you've got the right resource involved to be able to work with Vince to where we can build live.\nkailash chanda | 12:34\nYes.\nSpeaker 3 | 12:34\nYou know, again, as I was telling you. For. This isn't one of those where you thought, okay, well, let go, spend a week figuring stuff out, let's...\nkailash chanda | 12:40\nNo.\nSpeaker 3 | 12:40\nDo it. We need people who are in this thing day in and day out, and they know what they're doing.\nkailash chanda | 12:44\nThat's where...\nSpeaker 3 | 12:45\nAnd then.\nkailash chanda | 12:45\nI've got... Said has already worked on Procore integrations and then...\nSpeaker 3 | 12:50\nOkay, cool.\nkailash chanda | 12:51\nA different version of Sage, not exactly that, but a different version of Sage. So that's where I brought him to align who has experience on these systems and I think...\nSpeaker 3 | 13:03\nOkay.\nkailash chanda | 13:03\nHe should be good enough.\nSpeaker 3 | 13:05\nAlright. And so I'll send. So I sent you a log in, so I...\nkailash chanda | 13:09\nOkay.\nSpeaker 3 | 13:10\nShould send it to Said now, right?\nkailash chanda | 13:11\nYes, please send it to Said. I'll share his email address in the chat and we see one.\nSpeaker 3 | 13:16\nYeah, I've got it. I've just shared stuff with you. I've sent you guys an email, if you can go through what I sent you and let me know. Other than the login I'm going to give you, let me know if there's anything else that I can pull out of Mulesoft...\nkailash chanda | 13:30\nOkay. Okay.\nSpeaker 3 | 13:31\nTo send you guys...\nkailash chanda | 13:32\nThank you. Thanks. We will review the documents and come back to you.\nSpeaker 3 | 13:38\nOkay, how about you events?\nSpeaker 2 | 13:41\nNon good. Basically, it's pretty much s whatever you need. As far as you know, being onboarded. Just let us know, you know, what we've built so far. I'd say it works pretty well. I'm not. I it's not so much as, you know, needing to change too much of what's built, but rather, you know, just continuing on with the same kind of functionality we've been getting and just. We're just gonna keep marching down additional objects and additional things to sync, and that's the goal.\nSo whatever you need to get, any info you need...\nkailash chanda | 14:26\nIt's rock and...\nSpeaker 2 | 14:26\nLet me...\nSpeaker 4 | 14:28\nSure wins, I appreciate it. Thanks.\nSpeaker 3 | 14:32\nOkay, I just sent the user ti let me check. And then like I gave you, I said you everything that I have, you have everything that I've pulled for you guys. I've sent everyone. So between the e mail and the folder I just shared, if there's anything else that you need, please let me know.\nkailash chanda | 14:52\nDo testing. I'd do it. I should be okay.\nSpeaker 4 | 15:01\nYup, I guess any point you have shared me any invitation for any point platform access, I will log into that.\nkailash chanda | 15:16\nWhat? Tom...\nI wanted, but okay. I think this is a start. Next... Toy... And Cars... And Copple... Metal... Met...\nSpeaker 2 | 15:44\nNo, anything else we need though.\nSpeaker 4 | 15:47\nNo means we're good as of now. So Dan shared ANYPOINT platform access, and he has shared Rammels, I believe, of YP so I'll see, I'll create a free Microsoft account or a OneDrive account and I'll see if I'm able to access it or not.\nSpeaker 3 | 16:11\nOkay. And again, if not, anyone with the link should be able to get access to it, but if not, let me know I can always just zip it up and get it to you.\nSpeaker 2 | 16:22\nSure.\nSpeaker 3 | 16:23\nOkay. And while we're on this call, do you want to go ahead and accept the invite that I sent you? And then that way I can set up permissions or accept the invite. And then tell me what permissions that. That you need.\nAnd I'll do it.\nSpeaker 4 | 16:41\nAll right, just give me a moment.\nSpeaker 3 | 17:03\nHey, Vijay, if you don't need to hang out, you don't hang out. I'll just get him set up and then we can touch base later. That way you can do what you got to do.\nSpeaker 2 | 17:11\nSounds good.\nSpeaker 3 | 17:12\nAll right, thanks, Vijay. I appreciate it.\nSpeaker 4 | 17:15\nBye. Let me quickly share my screen...\nkailash chanda | 17:30\nCreate this away for... Again. Okay, I don't do where we can get this...\nSpeaker 4 | 17:36\nSo. Yep.\nkailash chanda | 17:50\nCotonut funny got the copper metal in.\nSpeaker 3 | 17:54\nOkay. I see you...\nkailash chanda | 18:20\nI think you should be asking fun if we should create a new work totally sales for partnership that...\nSpeaker 3 | 18:39\nAnd right now it's still showing. E mail not verified.\nSpeaker 4 | 18:48\nOkay...\nkailash chanda | 18:49\nCompany better in Palo\nAlto. As at... Which is... Okay, we'll start with this later.\nSpeaker 4 | 19:06\nOne second.\nSpeaker 3 | 19:07\nI guess...\nkailash chanda | 19:07\nStructure change as well...\nSpeaker 3 | 19:09\nAny point us...\nkailash chanda | 19:11\nAccompanied Martha work the combination met at the Pushta. Once we feel that we are making progress and we will fall in i of AA monthly or 1020k is...\nSpeaker 3 | 19:32\nDo I just need to add a permission? Is it maybe what we need to do? I need to give you permission to do something so you can finish.\nSpeaker 4 | 19:39\nYeah.\nkailash chanda | 19:40\nUse this...\nSpeaker 3 | 19:41\nAnd so what? What permission would we need to get you started?\nkailash chanda | 19:46\nUs Atlantic jet company to me...\nSpeaker 4 | 19:49\nSo for my user...\nkailash chanda | 19:50\nSame couple...\nSpeaker 4 | 19:51\nRight...\nkailash chanda | 19:51\nIn nep...\nSpeaker 4 | 19:52\nI'll just bring you my user.\nkailash chanda | 19:53\nSame and...\nSpeaker 4 | 19:54\nI just give...\nkailash chanda | 19:54\nFor different...\nSpeaker 4 | 19:54\nMe a moment.\nkailash chanda | 19:55\nStates can have the same company...\nSpeaker 4 | 19:58\nBeen here in the chat.\nSpeaker 3 | 20:00\nI mean, I've got organization administrators. I mean, are you going to need that or.\nkailash chanda | 20:05\nUntil we go to eleven...\nSpeaker 4 | 20:07\nYup, I won't need them.\nkailash chanda | 20:10\nThere is nothing that will happen.\nSpeaker 3 | 20:14\nSo if I do that... Then you'll have access. You can just give yourself whatever else you need, right?\nSpeaker 4 | 20:19\nYou're right.\nkailash chanda | 20:22\nI was hey. So what I'm saying is. And ant both a simple pair March and the subject enm of the like you did from gir bl...\nSpeaker 3 | 20:37\nOkay...\nkailash chanda | 20:37\nTo data...\nSpeaker 3 | 20:38\nYep, everything looks good. The only thing is it's not... I'm not sure if it matters, but just it still shows the email not verified, but I gave you org.\nSpeaker 4 | 20:51\nOkay, I guess just a minute.\nkailash chanda | 21:06\nNo change. The article registration copies are...\nSpeaker 3 | 21:15\nYeah. And it shows. Yeah, it shows. Organization administrator.\nSpeaker 4 | 21:25\nOne second. I'm just trying to verify the two set of two factor authentication.\nSpeaker 3 | 21:34\nOkay.\nSpeaker 4 | 21:35\nThat's how your email will be verified typically.\nkailash chanda | 21:42\nIn a good...\nSpeaker 3 | 21:42\nI mean, on my end, it shows that the MFA is enabled.\nSpeaker 4 | 21:46\nI see. Absolutely.\nYup, I have done the email verification there. Okay.\nSpeaker 3 | 22:47\nStill not showing that it's done. Are you having a problem logging in now?\nSpeaker 4 | 22:51\nNo, I'm okay.\nSpeaker 3 | 22:54\nThere you go. Yep, I see it.\nkailash chanda | 22:56\nIn Japan and...\nSpeaker 3 | 22:56\nOkay, so is it safe to say you have everything you need?\nSpeaker 4 | 23:00\nYep, we have. Good.\nSpeaker 3 | 23:09\nSo you can go and do what you got to do, review everything, and make sure that you guys feel confident and comfortable because this engagement that we have ends, I think, on Wednesday of next week. So we want to make sure that by Wednesday of next week, you guys have been able to get in, review everything, make sure you feel confident and comfortable.\nkailash chanda | 23:34\nThe first work if you bring to indicate...\nSpeaker 3 | 23:36\nAnd then we'll yeah, we'll start the I guess we have to do like a block of hours, I would imagine. Coal.\nkailash chanda | 23:42\nWill not...\nSpeaker 3 | 23:42\nIs that how you guys do it?\nkailash chanda | 23:43\nGet in suspended...\nSpeaker 4 | 23:45\nOkay.\nSpeaker 3 | 23:46\nYeah. However it is, you guys do it for the. For the billing side, I guess...\nkailash chanda | 23:50\nI think...\nSpeaker 3 | 23:50\nCleish will just.\nkailash chanda | 23:51\nYeah, then we're building... We generally do by block of our hourly engagement. So we will assign Kailash to your project and number of hours. Do you need him for the month of full? 160 hours to say that he can complete whatever task winsass in.\nWe will be able...\nSpeaker 3 | 24:11\nYes...\nkailash chanda | 24:11\nTo that. So I'll share the billing rate on the one-time application per month, and then we can...\nSpeaker 3 | 24:16\nOkay.\nkailash chanda | 24:18\nFigure it out.\nSpeaker 3 | 24:20\nAnd then the only other thing is that, you know, we would we're going to know by Wednesday of next week how much time we're going to need.\nkailash chanda | 24:28\nOkay...\nSpeaker 3 | 24:29\nYes. So we'll let you know everything on Wednesday. I just want to make sure that this week that you guys were all plugged in, you could scope everything, and that there were... Any questions, any concerns that you guys would need, whatever access you need just so that we can hit the ground running with vents?\nkailash chanda | 24:44\nOkay, sure. Okay...\nSpeaker 4 | 24:45\nSure.\nkailash chanda | 24:46\nThank great...\nSpeaker 2 | 24:47\nYeah.\nkailash chanda | 24:48\nThanks a lot, thank you.\nSpeaker 3 | 24:49\nOkay, awesome. Is there anything else, guys?\nkailash chanda | 24:51\nNo, I think we should be good.\nSpeaker 3 | 24:53\nYeah, okay, and if you do, just send me an email, let me know, and I'll get into the platform and get you whatever you need.\nkailash chanda | 25:01\nOkay, thank you.\nSpeaker 3 | 25:04\nAll right, guys, thanks. Have a good day y."
+  }
+}
