@@ -1,0 +1,571 @@
+{
+  "id": "01a1a877998b7096a680c7172a6a66db",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a7449663731096745b34d8701467",
+      "title": "Dataskate Introduction to CISO",
+      "duration": 1374,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g8gpj2ga38kpj0ha26p0k8h1g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6l138ca484q44hhp8cokae1k64s3ega571342e1l6p1kcdpj64qg",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "jennifer.gunias@gohealthuc.com"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "lavanya.devulapalli@gohealthuc.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "karon.ford@gohealthuc.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "jeremy.rapazzo@gohealthuc.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "diab.hitti@gohealthuc.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "debra.irisova@gohealthuc.com"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        },
+        {
+          "index": 5
+        },
+        {
+          "index": 6
+        }
+      ],
+      "start_date": "2026-11-04T21:05:40.540Z",
+      "end_date": "2026-11-04T21:28:34.540Z",
+      "url": "https://app.krisp.ai/m/01a1a7449663731096745b34d8701467?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "All right. Hello there."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey, hi, everybody. Sorry, I got a couple of minutes late due to my earlier call. Raghu, I apologize for that."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Appreciate that. All right, Kailash, I want to introduce you to our CO and our cybersecurity team a couple of folks from our cybersecurity team today. So I'll have them go ahead and go first. Then, Kailash, I'll let you talk a little bit about your background, your company, and what you're looking to do with our company. Dia, will you go first, please?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "The most important person is Koran here."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Man to the service."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Yeah, correct. He's lying, he's a CO, so he's the most important person, but yeah, I'm Cran Ford. I am an architect here. I work very closely with our IM engineer who mostly supports Cellpoint. So, hoping that you can come in and help us get ramped up, specifically with fast provisioning.\nI've been here seven years."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. That's nice to know."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Thanks."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Next motion, Jeremy."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Jeremy Repulso, Senior Manager, IT Engineering. My team, and reports to me. My team's responsible for the engineering portion of the identity management products as well as some of our SaaS solutions with Microsoft.\nSo it's been with the company for a little over four years now."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So I've been here for about five years. What I do is I need the IT infrastructure and the cybersecurity area for health. So we see a lot of integrations, a lot of architectures, a lot of technology.\nSo yeah. So, I've been in the industry for a very long time, so I'm interested to hear a bit more about you and how we can potentially leverage your services."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sure, thanks, Jeremy. Thanks, Kailash. So I'm Kailash, I head the integration and automation at Dataskate. Dataskate, we have been in the business for the last 17 years. We are based out of New Jersey and Texas. We have spread across five locations in the globe, two in the US, two in India, and recently we started up in Latin America as well. We started our journey as a pure integration play partner in the market providing services. Most of them were on-prem, and that's where we started our journey while the cloud moved, while the industry moved towards the cloud, and that's where we got introduced towards the cloud integrations, cloud services, and that's where Salesforce came into the picture. We got introduced to Salesforce providing an onboarding working across these applications to be integrated and onboarded into Salesforce, and that's where we have been working along with the clients. As of now, we are across close to 210 members across the globe, majoratively around 60 to 70 people in offshore US and, as I mentioned recently, in Latin America as well. Nice to meet you all.\nAs for the next steps, I think we went down the scope of onboarding you guys having already Salesforce existing and integrated with APIC, we ran down the scope for 17 more applications, out of which six being priority to be considered and onboarded for Salesforce, and then work along with the remaining part of it.\nSo overall projection of the work to be get done we proposed for six months. Out of which we divided it into three phases. Our first phase will be working down understanding the requirements, getting the access of each systems, understanding their capabilities of API connection, custom connectors to build and everything to put forward a design. The second phase runs down into development as well as testing, and the third phase runs into UAT where we would provide you. Once the systems are onboarded, you guys will verify it, make sure it's working as expected and confirmation to make them live.\nSo this whole six months would be broken down into these three parts and majority of the time the team would work and involve you guys as and when needed on demand to verify. The first couple of weeks is where the first month or so is where we would work on the access requirements, finalizing the design and all the\nrequirements that we put forward and get approval on the design. From the second month, development and other things would start. Verifying involves you guys as in we complete one of these applications to be onboarded, verify them, and then put them forward for UT and once you guys approve for UT, we would make them live as we go.\nSo if there are any in-dependent applications, we would complete them and make all of them live at once. Otherwise, we could go as we complete the UT approach. We would work along with you guys to say if you want to go with individual applications live or the first six priorities to be completed and go live, we can plan that accordingly. We would have a project manager who would be working with you guys to plan that and then execute along with it and share the updates on a weekly basis. On you guys."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "What is your extent? I don't know. I'm going to have you asking redundant questions. So I do apologize, but what is your extent in terms of after the integration and I'm assuming you go through testing and I think you mentioned it. What about from a support perspective that potentially could be related to a vendor, not specifically towards the integration, but we need somebody to obviously walk them through and explain the issue that we're facing so we can help solve the problem.\nI want to... I'm trying to understand how deep your support is after the integration and the testing."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So what we would do is we would during the integration development and testing, whatever issues run down, the team would capture them and kind of put down a high level overview on how the issue was solved.\nAnd once we go live, we maintain a two weeks period of maintenance period. In these two weeks, we would make sure the solution is running as expected and no issues are being encountered. In these two weeks, if an issue comes up that hasn't been caught during the testing, which has a lower probability,\nwe do understand that there will be scenarios. So whatever comes up, we would bring it up to the respective point of contact from cohealth, provide an explanation, work on the fix, and then go live and capture documentation for the same.\nSo in these two weeks, we would work along with one of your team members to showcase what we have done and do a handoff of how we have handled, what issues we have faced, what customer integrations we have built. All of these would in the main these two weeks work around doing all of this\nbut in case any issues, we will do that as well. By the end of two weeks, as a self-sufficient knowledge has been passed out, and then we hand it over to you guys. If we feel that any gap is provided to say that we are not able to cover in two weeks or so, then probably we would discuss...\nBut the whole plan would be laid out to hand it over in two weeks."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So would you be on the call with us, talking to the vendor, trying to figure out why something is not working?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, in the two weeks, yes, they will be in the call along with you to fix that and make sure that is done."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "How many of the integrations work that you've done? That included Cellt?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I would say we have done at least around six to seven projects that have sale point into it. We have done for a couple of enterprise clients as well where we have done sale point work and that included. They are, I would say, not into...\nHealthcare, they are more into retail and manufacturing that have been done, and that's where we have experienced it."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Are your engineers assuming? Are they trained and certified in sales point?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, they are certified and experienced. All of our engineers are experienced who have done and developed purely in the sales point, not cross-trained or having anybody. They have been eventually growing into the experience and how we have acquired and hired them as we enabled ourselves into sales point.\nSo all of our resources with respect to each technical stack have been higher on their past experiences and how we have trained. We haven't cross-trained anybody on trade."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I don't know, maybe Lavana asked that question, but so you would be open if we wanted to call or have a couple of references?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, you will be."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Jeremy Koran. Any questions?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I, Kailash, does have plans. If you want to see the scope PowerPoint, or if you want to see his Dataskate PowerPoint, he's got all those two. But we advised him that you guys would probably be more question and answer based.\nYeah, okay."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Yeah, I had a couple of questions as far as the integration work that would be performed by the engineers. How are they developing that? Is it AI-assisted in any way? Or is it...? What is their process for that?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I think the majority of the work is being done by their own experience and hands-on, but AI would be used only to support them in any cases. The whole solution, as of now, we are in the process of building an AI-enabled delivery which currently is in progress.\nBut depending on the client's compliance and others, we could decide to go on AI-assisted delivery or manual delivery."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Okay. And then as far as the applications that are developed during the course of the agreement, would we be working with the same engineers? Would it be different engineers per application?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Per application."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think we will assign a group of developers to Kailash's project, and they would be the ones who would be all throughout the project continuously allocated and dedicatedly assigned to Kailash. They would not be shuffled or jumbled. For example, if three of the developers are working on those integrations, on the whole 17 integrations, we have allocated around six to five to six developers. All of them would be working on them, and they are purely allocated.\nIf Kailash, as a developer, completes the first integration, he would be picking up the second application to develop it. So the developers allocated would be working dedicatedly for..."
+      },
+      {
+        "speaker": "Speaker 5",
+        "speakerIndex": 5,
+        "text": "Okay, and the last question I had, for the 17 applications. So your expectation is that you'll complete all 17 applications within that six-month time frame."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Maybe it's semantics when you say developers, you're not talking software code developers, right? You're talking more engineers and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Point. Engineers, yes."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Integrators. Okay?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's right."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I want to make sure they're okay."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "The only question I have is around the expertise, right? So I don't... Look, if you could send me the seventeen applications in scope for this. But I'm hoping that one is in that list, right? Because we have applications that are just old, their legacy. No REST API, right? Talk to me about your... You call them developers, but like DEA mentioned, they're integrators, right? Talk to me about the ability to integrate without API. Do you have that ability on your team Done that before?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think when we spoke last fall with the team engineers, he did mention that a database connectivity or an API-based connectivity or a file-based connectivity is something that they have done before and should be able to integrate for applications via database or JDBC or DBC connections in case they are not enabled with them."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Okay, and they've done this before."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "They have done that before, yes, but either one of the connections should be available either with the APIs or with the database which provides an ODBC or JDBC connectivity."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Okay, the list is loading, so I can't confirm if one API is on there, but I know that several of the applications don't have any APIs available, so I was just curious about..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "You don't have to tell me on this call how you're going to do that, but..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sorry, I think I should..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "I just wanted to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have. I..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Make sure."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Should have had my engineer as well could have done that. But I could..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "No."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I could come back to say... But in our last call, we did bring that up to confirm. I mean to raise this point that if there are no APIs as either of the systems have to provide the ability to connect via the database for JDBC or files either one or the solution, they should be able to help us out."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "A lot of Africans."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I was going to reference you, so you go ahead."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "I was going to say one API is part of that. Koran. Those 17 applications are the ones that you, Jeremy, and I talked about and listed, so it's the same ones."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Okay, good, thank you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So just from past experience, typically any work on the application side would require... Let's say preferred some kind of a conceptual and a detailed design architecture. Is that part of the scope?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, dear. So as I mentioned, the first one month, the team would go through each of these applications. Understand how we are going to look through or connect through and then propose a design.\nDesign is the outcome of the architecture. Once we decide to say that how we are going to architect the solution, they will put forward the design and provide it for the review with the goHealth perspective point of contact and then proceed with development.\nIf we all agree and confirm that that's the agreed-upon solution to go forward."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So that would include connectivity, infrastructure, and application architectures."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "When we say application architecture, if one pack is an application, we might not architect the one packs, but we will put..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Sure..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Forward a design on how to connect to one packs and what the error handling is, what the scenarios are, all of these would be..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah. No, I should have clarified if it's an application layer, what I think about if it does not allow or accept any connectors, APIs, or anything else, and if you have to develop some kind of an interface to it, then that needs to be architected for us to understand how then it's going to be able to relay the information back to us."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think we will put forward that. As I said, when the APAS are not available, either we would connect with the ODVC or JDVC database connections or have a file interface that the application could consume so that they would..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Architect and high-level solutions would be provided there."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, good. And what? Would you. Over. What? Would you see your access or your team would need? Type what? What type of access would your team need for them to be successful?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think. So for every client, what we do is for non-production, we try to get as much full access or otherwise somebody who is available to respond in a shorter SL for the team to have that, so that way they will not be tied up or delayed on any work with respect to access.\nBut in the production, we would have the full access with cohe and we would work along with you to make them live. But during testing and development, it's good to have the full access or IENT access."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Admin access to the application."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes to the applications, yeah."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "To sell point probably..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For the sell point, not... The end applications, because the end applications is not something that we would work on or accept the connectivity and ingestion part of it. Right? But the rest for sell point is what I'm talking about."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So here's what I worry about. It's the same worry that I have whether I'm outsourcing it or our team doing it as I don't like... I worry about specific configurations and policy creation in a sell point in production that is not fully documented and not understood. At some point in time we would have to transition that support from you to us, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So I need to make sure that all everything that we do from a change perspective is completely documented."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "As I mentioned, they have every change or every policy is. All of these will be discussed during the first couple of months as part of the requirement and design, and as we provide for review and approval. You confirm that. Hey, this is what the policy is being placed, and this is what we agree. The same would be done.\nAny change post-requirement and design approvals, we will bring back to the respective owners, business owners, or the technical owners from goHealth to get that into review and have a change or a version update to those documents to document that this has been agreed and approved on and then move forward with the change.\nSo that's where the first couple of months are heavily spent on the requirement and design and documentation. Any change for those approvals will be documented and routed through the whole cycle again to confirm that this change... What is the requirement? What is the impact, or what is the analysis that is being done? Impact analysis being done and how it is going to change the design, and that design is going to be put forward for the review and, post-review, again after approvals, that change would start into implementation.\nWhile this is being done for one particular application, if that is taking more time, then we would start looking into the next application to have the developers utilized to maintain or agree upon the timeline to get that completed.\nSo these scope changes will be considered and be part of it if there is any change in particular to those applications."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Raghu and Jennifer, are you guys thinking once it's outside of sales point like integration sales point is working... Connectivity there would you and the team then be supporting the application layers of these various applications that we have integrated with?\nI'm talking about application layer, I'm not talking about platform sales point or connectivity."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I think we do that now, right? I don't think it'd be any different. Or do we not...?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Some app we don't... Or some..."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Or not right for one pack second. I don't like that."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So yeah, I guess my question is the support perspective outside of sales... Who's going to own it and we don't...? Maybe we don't have to resolve this here, but that's something we need to be thinking about."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If we don't own it... Well, you don't. We have to go to the vendor. I think it's within my team, so we have to figure it out."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Because we have like non IT quote unquote colum them owners, if you will. Right, okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'm just it's always a problem. Yeah. Are we doing any of those applications that fall in the ' 17 outside of my ownership of ONA?"
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "I'll go at once again."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'm thinking that translation application that we just brought in, right? That was a good one. Boost lingo or whatever. If we were trying to automate or put some integrations into that, it is one where it has said we don't own it, but we don't have an owner, and we continue to spin on those types of applications."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That's right."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, we can highlight those... It's a good call out."
+      },
+      {
+        "speaker": "Speaker 6",
+        "speakerIndex": 6,
+        "text": "Yeah, like Krisp paint. I think it's owned by compliance and does not fall under yours, Jennifer."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sometimes I think we have to help them because when something fails, they come to us regardless of whether we claim ownership or not."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, we just worked with the marketing team on a fresh paint issue. Yeah, Meg Meghan Quilln. I believe, if I'm not mistaken, she owns it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, exactly."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Yeah, okay, that's all I had that was informative. I appreciate the time..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you again. Thanks, everybody, but again, I apologize for being late. Any questions we have, we are open. I any post this call as well. If anything I have to answer, then I could just email away. I'll have the team reply back and get any questions clarified."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Wells, me, you, we appreciate your time."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Thank you."
+      }
+    ],
+    "raw_meeting": "**Dataskate Introduction to CISO**\n🕞 Started at 09:05 PM on 04 Nov, lasted 22m",
+    "raw_content": "Speaker 2 | 00:15\nAll right. Hello there.\nkailash chanda | 00:17\nHey, hi, everybody. Sorry, I got a couple of minutes late due to my earlier call. Raghu, I apologize for that.\nSpeaker 2 | 00:26\nAppreciate that. All right, Kailash, I want to introduce you to our CO and our cybersecurity team a couple of folks from our cybersecurity team today. So I'll have them go ahead and go first. Then, Kailash, I'll let you talk a little bit about your background, your company, and what you're looking to do with our company. Dia, will you go first, please?\nSpeaker 3 | 00:47\nThe most important person is Koran here.\nSpeaker 2 | 00:50\nMan to the service.\nSpeaker 4 | 00:52\nYeah, correct. He's lying, he's a CO, so he's the most important person, but yeah, I'm Cran Ford. I am an architect here. I work very closely with our IM engineer who mostly supports Cellpoint. So, hoping that you can come in and help us get ramped up, specifically with fast provisioning.\nI've been here seven years.\nkailash chanda | 01:22\nOkay. That's nice to know.\nSpeaker 3 | 01:27\nThanks.\nkailash chanda | 01:28\nThanks...\nSpeaker 3 | 01:29\nNext motion, Jeremy.\nSpeaker 5 | 01:32\nJeremy Repulso, Senior Manager, IT Engineering. My team, and reports to me. My team's responsible for the engineering portion of the identity management products as well as some of our SaaS solutions with Microsoft.\nSo it's been with the company for a little over four years now.\nSpeaker 3 | 01:51\nSo I've been here for about five years. What I do is I need the IT infrastructure and the cybersecurity area for health. So we see a lot of integrations, a lot of architectures, a lot of technology.\nSo yeah. So, I've been in the industry for a very long time, so I'm interested to hear a bit more about you and how we can potentially leverage your services.\nkailash chanda | 02:19\nSure, thanks, Jeremy. Thanks, Kailash. So I'm Kailash, I head the integration and automation at Dataskate. Dataskate, we have been in the business for the last 17 years. We are based out of New Jersey and Texas. We have spread across five locations in the globe, two in the US, two in India, and recently we started up in Latin America as well. We started our journey as a pure integration play partner in the market providing services. Most of them were on-prem, and that's where we started our journey while the cloud moved, while the industry moved towards the cloud, and that's where we got introduced towards the cloud integrations, cloud services, and that's where Salesforce came into the picture. We got introduced to Salesforce providing an onboarding working across these applications to be integrated and onboarded into Salesforce, and that's where we have been working along with the clients. As of now, we are across close to 210 members across the globe, majoratively around 60 to 70 people in offshore US and, as I mentioned recently, in Latin America as well. Nice to meet you all.\nAs for the next steps, I think we went down the scope of onboarding you guys having already Salesforce existing and integrated with APIC, we ran down the scope for 17 more applications, out of which six being priority to be considered and onboarded for Salesforce, and then work along with the remaining part of it.\nSo overall projection of the work to be get done we proposed for six months. Out of which we divided it into three phases. Our first phase will be working down understanding the requirements, getting the access of each systems, understanding their capabilities of API connection, custom connectors to build and everything to put forward a design. The second phase runs down into development as well as testing, and the third phase runs into UAT where we would provide you. Once the systems are onboarded, you guys will verify it, make sure it's working as expected and confirmation to make them live.\nSo this whole six months would be broken down into these three parts and majority of the time the team would work and involve you guys as and when needed on demand to verify. The first couple of weeks is where the first month or so is where we would work on the access requirements, finalizing the design and all the\nrequirements that we put forward and get approval on the design. From the second month, development and other things would start. Verifying involves you guys as in we complete one of these applications to be onboarded, verify them, and then put them forward for UT and once you guys approve for UT, we would make them live as we go.\nSo if there are any in-dependent applications, we would complete them and make all of them live at once. Otherwise, we could go as we complete the UT approach. We would work along with you guys to say if you want to go with individual applications live or the first six priorities to be completed and go live, we can plan that accordingly. We would have a project manager who would be working with you guys to plan that and then execute along with it and share the updates on a weekly basis. On you guys.\nSpeaker 3 | 06:02\nWhat is your extent? I don't know. I'm going to have you asking redundant questions. So I do apologize, but what is your extent in terms of after the integration and I'm assuming you go through testing and I think you mentioned it. What about from a support perspective that potentially could be related to a vendor, not specifically towards the integration, but we need somebody to obviously walk them through and explain the issue that we're facing so we can help solve the problem.\nI want to... I'm trying to understand how deep your support is after the integration and the testing.\nkailash chanda | 06:39\nSo what we would do is we would during the integration development and testing, whatever issues run down, the team would capture them and kind of put down a high level overview on how the issue was solved.\nAnd once we go live, we maintain a two weeks period of maintenance period. In these two weeks, we would make sure the solution is running as expected and no issues are being encountered. In these two weeks, if an issue comes up that hasn't been caught during the testing, which has a lower probability,\nwe do understand that there will be scenarios. So whatever comes up, we would bring it up to the respective point of contact from cohealth, provide an explanation, work on the fix, and then go live and capture documentation for the same.\nSo in these two weeks, we would work along with one of your team members to showcase what we have done and do a handoff of how we have handled, what issues we have faced, what customer integrations we have built. All of these would in the main these two weeks work around doing all of this\nbut in case any issues, we will do that as well. By the end of two weeks, as a self-sufficient knowledge has been passed out, and then we hand it over to you guys. If we feel that any gap is provided to say that we are not able to cover in two weeks or so, then probably we would discuss...\nBut the whole plan would be laid out to hand it over in two weeks.\nSpeaker 3 | 08:12\nSo would you be on the call with us, talking to the vendor, trying to figure out why something is not working?\nkailash chanda | 08:18\nYes, in the two weeks, yes, they will be in the call along with you to fix that and make sure that is done.\nSpeaker 3 | 08:26\nHow many of the integrations work that you've done? That included Cellt?\nkailash chanda | 08:31\nI would say we have done at least around six to seven projects that have sale point into it. We have done for a couple of enterprise clients as well where we have done sale point work and that included. They are, I would say, not into...\nHealthcare, they are more into retail and manufacturing that have been done, and that's where we have experienced it.\nSpeaker 3 | 08:54\nAre your engineers assuming? Are they trained and certified in sales point?\nkailash chanda | 08:58\nYeah, they are certified and experienced. All of our engineers are experienced who have done and developed purely in the sales point, not cross-trained or having anybody. They have been eventually growing into the experience and how we have acquired and hired them as we enabled ourselves into sales point.\nSo all of our resources with respect to each technical stack have been higher on their past experiences and how we have trained. We haven't cross-trained anybody on trade.\nSpeaker 3 | 09:34\nI don't know, maybe Lavana asked that question, but so you would be open if we wanted to call or have a couple of references?\nkailash chanda | 09:43\nYes, you will be.\nSpeaker 3 | 09:50\nJeremy Koran. Any questions?\nSpeaker 2 | 09:52\nI, Kailash, does have plans. If you want to see the scope PowerPoint, or if you want to see his Dataskate PowerPoint, he's got all those two. But we advised him that you guys would probably be more question and answer based.\nYeah, okay.\nSpeaker 5 | 10:09\nYeah, I had a couple of questions as far as the integration work that would be performed by the engineers. How are they developing that? Is it AI-assisted in any way? Or is it...? What is their process for that?\nkailash chanda | 10:22\nYeah, I think the majority of the work is being done by their own experience and hands-on, but AI would be used only to support them in any cases. The whole solution, as of now, we are in the process of building an AI-enabled delivery which currently is in progress.\nBut depending on the client's compliance and others, we could decide to go on AI-assisted delivery or manual delivery.\nSpeaker 5 | 10:53\nOkay. And then as far as the applications that are developed during the course of the agreement, would we be working with the same engineers? Would it be different engineers per application?\nkailash chanda | 11:06\nNo.\nSpeaker 5 | 11:06\nPer application.\nkailash chanda | 11:08\nI think we will assign a group of developers to Kailash's project, and they would be the ones who would be all throughout the project continuously allocated and dedicatedly assigned to Kailash. They would not be shuffled or jumbled. For example, if three of the developers are working on those integrations, on the whole 17 integrations, we have allocated around six to five to six developers. All of them would be working on them, and they are purely allocated.\nIf Kailash, as a developer, completes the first integration, he would be picking up the second application to develop it. So the developers allocated would be working dedicatedly for...\nSpeaker 5 | 11:48\nOkay, and the last question I had, for the 17 applications. So your expectation is that you'll complete all 17 applications within that six-month time frame.\nkailash chanda | 12:03\nYes.\nSpeaker 3 | 12:07\nMaybe it's semantics when you say developers, you're not talking software code developers, right? You're talking more engineers and...\nkailash chanda | 12:16\nPoint. Engineers, yes.\nSpeaker 3 | 12:17\nIntegrators. Okay?\nkailash chanda | 12:18\nThat's right.\nSpeaker 3 | 12:18\nI want to make sure they're okay.\nSpeaker 4 | 12:23\nThe only question I have is around the expertise, right? So I don't... Look, if you could send me the seventeen applications in scope for this. But I'm hoping that one is in that list, right? Because we have applications that are just old, their legacy. No REST API, right? Talk to me about your... You call them developers, but like DEA mentioned, they're integrators, right? Talk to me about the ability to integrate without API. Do you have that ability on your team Done that before?\nkailash chanda | 13:02\nI think when we spoke last fall with the team engineers, he did mention that a database connectivity or an API-based connectivity or a file-based connectivity is something that they have done before and should be able to integrate for applications via database or JDBC or DBC connections in case they are not enabled with them.\nSpeaker 4 | 13:25\nOkay, and they've done this before.\nkailash chanda | 13:27\nThey have done that before, yes, but either one of the connections should be available either with the APIs or with the database which provides an ODBC or JDBC connectivity.\nSpeaker 4 | 13:39\nOkay, the list is loading, so I can't confirm if one API is on there, but I know that several of the applications don't have any APIs available, so I was just curious about...\nkailash chanda | 13:53\nNo...\nSpeaker 4 | 13:53\nYou don't have to tell me on this call how you're going to do that, but...\nkailash chanda | 13:57\nSorry, I think I should...\nSpeaker 4 | 13:57\nI just wanted to...\nkailash chanda | 13:58\nHave. I...\nSpeaker 4 | 13:58\nMake sure.\nkailash chanda | 13:58\nShould have had my engineer as well could have done that. But I could...\nSpeaker 4 | 14:02\nNo.\nkailash chanda | 14:02\nI could come back to say... But in our last call, we did bring that up to confirm. I mean to raise this point that if there are no APIs as either of the systems have to provide the ability to connect via the database for JDBC or files either one or the solution, they should be able to help us out.\nSpeaker 3 | 14:24\nA lot of Africans.\nSpeaker 2 | 14:29\nI was going to reference you, so you go ahead.\nSpeaker 6 | 14:32\nI was going to say one API is part of that. Koran. Those 17 applications are the ones that you, Jeremy, and I talked about and listed, so it's the same ones.\nSpeaker 4 | 14:42\nOkay, good, thank you.\nSpeaker 3 | 14:45\nSo just from past experience, typically any work on the application side would require... Let's say preferred some kind of a conceptual and a detailed design architecture. Is that part of the scope?\nkailash chanda | 15:00\nYes, dear. So as I mentioned, the first one month, the team would go through each of these applications. Understand how we are going to look through or connect through and then propose a design.\nDesign is the outcome of the architecture. Once we decide to say that how we are going to architect the solution, they will put forward the design and provide it for the review with the goHealth perspective point of contact and then proceed with development.\nIf we all agree and confirm that that's the agreed-upon solution to go forward.\nSpeaker 3 | 15:37\nSo that would include connectivity, infrastructure, and application architectures.\nkailash chanda | 15:43\nWhen we say application architecture, if one pack is an application, we might not architect the one packs, but we will put...\nSpeaker 3 | 15:51\nSure...\nkailash chanda | 15:51\nForward a design on how to connect to one packs and what the error handling is, what the scenarios are, all of these would be...\nSpeaker 3 | 16:00\nYeah. No, I should have clarified if it's an application layer, what I think about if it does not allow or accept any connectors, APIs, or anything else, and if you have to develop some kind of an interface to it, then that needs to be architected for us to understand how then it's going to be able to relay the information back to us.\nkailash chanda | 16:18\nI think we will put forward that. As I said, when the APAS are not available, either we would connect with the ODVC or JDVC database connections or have a file interface that the application could consume so that they would...\nSpeaker 3 | 16:30\nOkay...\nkailash chanda | 16:30\nArchitect and high-level solutions would be provided there.\nSpeaker 3 | 16:33\nYeah, good. And what? Would you. Over. What? Would you see your access or your team would need? Type what? What type of access would your team need for them to be successful?\nkailash chanda | 16:44\nI think. So for every client, what we do is for non-production, we try to get as much full access or otherwise somebody who is available to respond in a shorter SL for the team to have that, so that way they will not be tied up or delayed on any work with respect to access.\nBut in the production, we would have the full access with cohe and we would work along with you to make them live. But during testing and development, it's good to have the full access or IENT access.\nSpeaker 3 | 17:19\nAdmin access to the application.\nkailash chanda | 17:20\nYes to the applications, yeah.\nSpeaker 4 | 17:26\nTo sell point probably...\nkailash chanda | 17:26\nFor the sell point, not... The end applications, because the end applications is not something that we would work on or accept the connectivity and ingestion part of it. Right? But the rest for sell point is what I'm talking about.\nSpeaker 3 | 17:40\nSo here's what I worry about. It's the same worry that I have whether I'm outsourcing it or our team doing it as I don't like... I worry about specific configurations and policy creation in a sell point in production that is not fully documented and not understood. At some point in time we would have to transition that support from you to us, right?\nkailash chanda | 18:05\nYes...\nSpeaker 3 | 18:05\nSo I need to make sure that all everything that we do from a change perspective is completely documented.\nkailash chanda | 18:12\nAs I mentioned, they have every change or every policy is. All of these will be discussed during the first couple of months as part of the requirement and design, and as we provide for review and approval. You confirm that. Hey, this is what the policy is being placed, and this is what we agree. The same would be done.\nAny change post-requirement and design approvals, we will bring back to the respective owners, business owners, or the technical owners from goHealth to get that into review and have a change or a version update to those documents to document that this has been agreed and approved on and then move forward with the change.\nSo that's where the first couple of months are heavily spent on the requirement and design and documentation. Any change for those approvals will be documented and routed through the whole cycle again to confirm that this change... What is the requirement? What is the impact, or what is the analysis that is being done? Impact analysis being done and how it is going to change the design, and that design is going to be put forward for the review and, post-review, again after approvals, that change would start into implementation.\nWhile this is being done for one particular application, if that is taking more time, then we would start looking into the next application to have the developers utilized to maintain or agree upon the timeline to get that completed.\nSo these scope changes will be considered and be part of it if there is any change in particular to those applications.\nSpeaker 3 | 19:50\nRaghu and Jennifer, are you guys thinking once it's outside of sales point like integration sales point is working... Connectivity there would you and the team then be supporting the application layers of these various applications that we have integrated with?\nI'm talking about application layer, I'm not talking about platform sales point or connectivity.\nSpeaker 2 | 20:17\nI think we do that now, right? I don't think it'd be any different. Or do we not...?\nSpeaker 3 | 20:24\nSome app we don't... Or some...\nSpeaker 6 | 20:27\nOr not right for one pack second. I don't like that.\nSpeaker 3 | 20:30\nSo yeah, I guess my question is the support perspective outside of sales... Who's going to own it and we don't...? Maybe we don't have to resolve this here, but that's something we need to be thinking about.\nSpeaker 2 | 20:42\nIf we don't own it... Well, you don't. We have to go to the vendor. I think it's within my team, so we have to figure it out.\nSpeaker 3 | 20:51\nBecause we have like non IT quote unquote colum them owners, if you will. Right, okay.\nSpeaker 2 | 20:56\nI'm just it's always a problem. Yeah. Are we doing any of those applications that fall in the ' 17 outside of my ownership of ONA?\nSpeaker 6 | 21:05\nI'll go at once again.\nSpeaker 2 | 21:08\nI'm thinking that translation application that we just brought in, right? That was a good one. Boost lingo or whatever. If we were trying to automate or put some integrations into that, it is one where it has said we don't own it, but we don't have an owner, and we continue to spin on those types of applications.\nSpeaker 3 | 21:27\nThat's right.\nSpeaker 2 | 21:28\nYeah, we can highlight those... It's a good call out.\nSpeaker 6 | 21:36\nYeah, like Krisp paint. I think it's owned by compliance and does not fall under yours, Jennifer.\nSpeaker 2 | 21:48\nSometimes I think we have to help them because when something fails, they come to us regardless of whether we claim ownership or not.\nSpeaker 3 | 21:57\nYeah, we just worked with the marketing team on a fresh paint issue. Yeah, Meg Meghan Quilln. I believe, if I'm not mistaken, she owns it.\nSpeaker 2 | 22:06\nYeah, exactly.\nSpeaker 3 | 22:07\nYeah, okay, that's all I had that was informative. I appreciate the time...\nkailash chanda | 22:14\nThank you again. Thanks, everybody, but again, I apologize for being late. Any questions we have, we are open. I any post this call as well. If anything I have to answer, then I could just email away. I'll have the team reply back and get any questions clarified.\nSpeaker 3 | 22:32\nWells, me, you, we appreciate your time.\nSpeaker 2 | 22:38\nThank you."
+  }
+}
