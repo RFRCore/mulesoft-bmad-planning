@@ -1,0 +1,155 @@
+{
+  "id": "01a1a72dcca970b9b7a021fa39c1bcb1",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a3064aff7168a12fbf7d4a886b08",
+      "title": "10:25 AM - Slack meeting November 4",
+      "duration": 193,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": null,
+      "participants": [],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-04T15:25:28.320Z",
+      "end_date": "2026-11-04T15:28:41.320Z",
+      "url": "https://app.krisp.ai/m/01a1a3064aff7168a12fbf7d4a886b08?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Hello..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey. It's... Check about this."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Shepherudy is an endpoint valsa basically endpoints update to create a operations like a the mainago but point yeah but point and yeah can datas on the okay sage to proco proker to sage and at on the manlo sales force role in plays the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "They integrate the source of truth and a source of trutho. Oneth and discovery session calls kunna una log a very requestcious and ath da..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Mulesoft codebase in the... Are jarply, zip, lea..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Name mormal rules of codebase code access 1D and gp sano but name already."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Indegra see Achilles. I will tell you one thing. All these people are very straightforward."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Hey..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Don't beat around the bush. You can directly ask them, but this is what I want. If you ask CODEBAS, he might think that you don't know whether to take jar and look into it. Then what will be our approach? Adundita Malinik and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Punish I prevent any e mail ru I was able to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Without communications."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Download the jars."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So you don't rush into it, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You have to plan. Look to it. Do it up. AP now I am a process as..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Cross AP search system... Apose and rendon a sales for system a pa EAs process... Apa syning gest nano..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A type of AP object synjson are currently... In the g..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "The just AP code download jo acade call and process a ph o..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Are they? If you started sorry to push you, but if you started at 3 o'clock 12 o'clock it is 9 o'clock. The part analysis iipal. Why are maku enterprise lo a time luxury on the aglas? That is the main thing in SMB. You have to understand. Okay... Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      }
+    ],
+    "raw_meeting": "**10:25 AM - Slack meeting November 4**\n🕞 Started at 03:25 PM on 04 Nov, lasted 3m",
+    "raw_content": "kailash chanda | 00:09\nHello...\nkailash chanda | 00:11\nHey. It's... Check about this.\nkailash chanda | 00:13\nShepherudy is an endpoint valsa basically endpoints update to create a operations like a the mainago but point yeah but point and yeah can datas on the okay sage to proco proker to sage and at on the manlo sales force role in plays the...\nkailash chanda | 00:39\nHey...\nkailash chanda | 00:40\nThey integrate the source of truth and a source of trutho. Oneth and discovery session calls kunna una log a very requestcious and ath da...\nkailash chanda | 00:54\nOkay...\nkailash chanda | 00:55\nYeah...\nkailash chanda | 00:57\nMulesoft codebase in the... Are jarply, zip, lea...\nkailash chanda | 01:02\nName mormal rules of codebase code access 1D and gp sano but name already.\nkailash chanda | 01:07\nIndegra see Achilles. I will tell you one thing. All these people are very straightforward.\nkailash chanda | 01:14\nHey...\nkailash chanda | 01:15\nDon't beat around the bush. You can directly ask them, but this is what I want. If you ask CODEBAS, he might think that you don't know whether to take jar and look into it. Then what will be our approach? Adundita Malinik and...\nkailash chanda | 01:43\nPunish I prevent any e mail ru I was able to...\nkailash chanda | 01:46\nWithout communications.\nkailash chanda | 01:46\nDownload the jars.\nkailash chanda | 01:48\nSo you don't rush into it, right?\nkailash chanda | 01:52\nOkay.\nkailash chanda | 01:52\nYou have to plan. Look to it. Do it up. AP now I am a process as...\nkailash chanda | 02:04\nCross AP search system... Apose and rendon a sales for system a pa EAs process... Apa syning gest nano...\nkailash chanda | 02:14\nA type of AP object synjson are currently... In the g...\nkailash chanda | 02:29\nThe just AP code download jo acade call and process a ph o...\nkailash chanda | 02:37\nAre they? If you started sorry to push you, but if you started at 3 o'clock 12 o'clock it is 9 o'clock. The part analysis iipal. Why are maku enterprise lo a time luxury on the aglas? That is the main thing in SMB. You have to understand. Okay... Yeah.\nkailash chanda | 03:06\nYeah."
+  }
+}
