@@ -1,0 +1,216 @@
+{
+  "id": "01a1a78305f1735a8256cb1329c37dd6",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a72b666974ecac5f44472a5d16e0",
+      "title": "11:58 AM - Slack meeting November 4",
+      "duration": 197,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": null,
+      "participants": [],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        }
+      ],
+      "start_date": "2026-11-04T16:58:13.540Z",
+      "end_date": "2026-11-04T17:01:30.540Z",
+      "url": "https://app.krisp.ai/m/01a1a72b666974ecac5f44472a5d16e0?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "He asked me who is doing good? So on professional salon concepts, I think we completed around 95% of work. Because I know they have that Chatterbit licensing thing. So today we had a call to hand over the remaining five flows for U80, and we said that we could get this live early, but the client came back saying that they established a sync using scripts written in Claude, and they don't want to go live with Mulesoft.\nYeah, and because Chatterbit license is something that extension is not getting possible, and they want to... They are seeing that the Claude script is working fine, and they don't want to continue it.\nThey said they would reach out to Salesforce. So immediately my project manager informed me. I thought I'd ping you first. Should we have a call and tell them the Claude script is a one-time thing?\nIt's not something that runs every time, and debugging and having all those things is a challenge. But before I even provide justification to them, I thought first we should talk and sort out a plan to say what we should do here."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. Wow. Interesting. Didn't expect that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Then to say that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Because we gave ten weeks of time, but right now I think we are on the fifth weekend. I think we made around 95% progress and everything was going pretty smooth. I don't know. Suddenly... Why? What? From their side, they are saying that the Chatterbit license extension is something that forced them to do this custom scripting using Claude, and they were skeptical, but now they are feeling that it is good and confident, and they want to continue with that."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Interesting. Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, I haven't heard anything from the customer, so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "They haven't..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I guess."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Do you think let's wait until they reach you guys?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, maybe we do that, and then I'll inform the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Core account..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Executive, Sydney..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Cool. Yeah."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "But yeah, and then I guess..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Let's see..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If they..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Both just..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Get back, then..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Prepare our..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can work on it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay? Thank you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That works."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Have they paid you guys?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not yet. [Laughter] So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We are working. That's where I'll talk to them later, but I want them to continue and see what we can do, so that's okay. So thank..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Cool. Well, I'll let you know if I hear anything, and then we can set up some time to talk through why that's a bad idea."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, thanks as..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay. Thank you so much."
+      }
+    ],
+    "raw_meeting": "**11:58 AM - Slack meeting November 4**\n🕞 Started at 04:58 PM on 04 Nov, lasted 3m",
+    "raw_content": "kailash chanda | 00:00\nHe asked me who is doing good? So on professional salon concepts, I think we completed around 95% of work. Because I know they have that Chatterbit licensing thing. So today we had a call to hand over the remaining five flows for U80, and we said that we could get this live early, but the client came back saying that they established a sync using scripts written in Claude, and they don't want to go live with Mulesoft.\nYeah, and because Chatterbit license is something that extension is not getting possible, and they want to... They are seeing that the Claude script is working fine, and they don't want to continue it.\nThey said they would reach out to Salesforce. So immediately my project manager informed me. I thought I'd ping you first. Should we have a call and tell them the Claude script is a one-time thing?\nIt's not something that runs every time, and debugging and having all those things is a challenge. But before I even provide justification to them, I thought first we should talk and sort out a plan to say what we should do here.\nSpeaker 2 | 01:34\nYeah. Wow. Interesting. Didn't expect that.\nkailash chanda | 01:38\nYeah...\nSpeaker 2 | 01:39\nThen to say that.\nkailash chanda | 01:40\nBecause we gave ten weeks of time, but right now I think we are on the fifth weekend. I think we made around 95% progress and everything was going pretty smooth. I don't know. Suddenly... Why? What? From their side, they are saying that the Chatterbit license extension is something that forced them to do this custom scripting using Claude, and they were skeptical, but now they are feeling that it is good and confident, and they want to continue with that.\nSpeaker 2 | 02:12\nInteresting. Okay.\nkailash chanda | 02:13\nOkay, so...\nSpeaker 2 | 02:15\nYeah, I haven't heard anything from the customer, so...\nkailash chanda | 02:17\nThey haven't...\nSpeaker 2 | 02:18\nI guess.\nkailash chanda | 02:18\nDo you think let's wait until they reach you guys?\nSpeaker 2 | 02:23\nYeah, maybe we do that, and then I'll inform the...\nkailash chanda | 02:29\nNo...\nSpeaker 2 | 02:29\nCore account...\nkailash chanda | 02:30\nExactly.\nSpeaker 2 | 02:30\nExecutive, Sydney...\nkailash chanda | 02:31\nOkay. Cool. Yeah.\nSpeaker 2 | 02:35\nBut yeah, and then I guess...\nkailash chanda | 02:36\nLet's see...\nSpeaker 2 | 02:36\nWe can...\nkailash chanda | 02:36\nIf they...\nSpeaker 2 | 02:36\nBoth just...\nkailash chanda | 02:37\nGet back, then...\nSpeaker 2 | 02:37\nPrepare our...\nkailash chanda | 02:37\nWe can work on it.\nSpeaker 2 | 02:40\nOkay.\nkailash chanda | 02:40\nOkay? Thank you.\nSpeaker 2 | 02:42\nThat works.\nkailash chanda | 02:42\nThanks.\nSpeaker 2 | 02:42\nHave they paid you guys?\nkailash chanda | 02:45\nNot yet. [Laughter] So...\nSpeaker 2 | 02:47\nOkay.\nkailash chanda | 02:47\nWe are working. That's where I'll talk to them later, but I want them to continue and see what we can do, so that's okay. So thank...\nSpeaker 2 | 02:59\nCool. Well, I'll let you know if I hear anything, and then we can set up some time to talk through why that's a bad idea.\nkailash chanda | 03:04\nYeah, thanks as...\nSpeaker 2 | 03:06\nOkay. Thank you so much."
+  }
+}
