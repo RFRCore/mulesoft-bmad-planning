@@ -1,0 +1,45 @@
+{
+  "id": "01a1a7734e9d7053ad74e7256a21ba7e",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1a320220974ddb9a64a2968f466c4",
+      "title": "ClientCall",
+      "duration": 3124,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6kpkcc1i8h0j6ghk88p48ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6t236cph6514cgho64qkcc1k650j6gpl690kcca48h2k2e1j6l20_20261104T163000Z",
+      "participants": [],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-04T15:52:40.680Z",
+      "end_date": "2026-11-04T16:44:44.680Z",
+      "url": "https://app.krisp.ai/m/01a1a320220974ddb9a64a2968f466c4?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1a743aa07768fb9873552fb3c40e4",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 3117.7,
+      "size": 12470688,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-11T16:45:14.267Z"
+    },
+    "raw_meeting": "**ClientCall**\n🕞 Started at 03:52 PM on 04 Nov, lasted 52m"
+  }
+}
