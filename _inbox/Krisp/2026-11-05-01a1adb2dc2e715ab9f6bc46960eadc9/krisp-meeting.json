@@ -1,0 +1,72 @@
+{
+  "id": "01a1adb2dc2e715ab9f6bc46960eadc9",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1ac67070c702ba09b3a68534cf3e7",
+      "title": "AR Weekly Meeting",
+      "duration": 1237,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "6t9p63hc6s0al2junqagdbn6i1_20261105T213000Z",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "parul@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": null,
+          "id": "569af61037385df3a44fcbce86d2e3a9",
+          "first_name": "parul",
+          "email": "924d67bd53af46468762c97cc856b1bf@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": null,
+          "id": "d6d940da327e5be28db6e25043c8ae75",
+          "first_name": "Mukul",
+          "email": "e6a60e5199dd4eaebe4c5c5a4de1efc4@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-05T21:31:31.472Z",
+      "end_date": "2026-11-05T21:52:08.472Z",
+      "url": "https://app.krisp.ai/m/01a1ac67070c702ba09b3a68534cf3e7?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1ada04303737f9c54f0b89975afe2",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 1225.541,
+      "size": 2863104,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-12T21:52:22.568Z"
+    },
+    "raw_meeting": "**AR Weekly Meeting**\n🕞 Started at 09:31 PM on 05 Nov, lasted 20m"
+  }
+}
