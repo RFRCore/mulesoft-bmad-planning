@@ -1,0 +1,442 @@
+{
+  "id": "01a1ac9d5a3774eaad5d40bdda251cfd",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1ab96290c75f78f49bdf8505f1c42",
+      "title": "ClientCall",
+      "duration": 855,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6kpkcc1i8h0j6ghk88p48ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6t236cph6514cgho64qkcc1k650j6gpl690kcca48h2k2e1j6l20_20261105T163000Z",
+      "participants": [],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "index": 3,
+          "last_name": "Rajan",
+          "id": "f87239b4273755799010a07480fbbf3b",
+          "first_name": "Davis",
+          "email": "davis@dataskate.io"
+        }
+      ],
+      "start_date": "2026-11-05T16:33:59.237Z",
+      "end_date": "2026-11-05T16:48:14.237Z",
+      "url": "https://app.krisp.ai/m/01a1ab96290c75f78f49bdf8505f1c42?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "With Nick, this guy is... He's a new account executive, and he's really influential. If we do right by him, I think that it'll go really far. So, yeah, if... I just... I basically told him. I said, \"It's going to be an hour session. He only can be on the first thirty minutes, but then he has a conflict, so I said, \"No problem. We're just going to take him through, ask a bunch of questions. They're going to share their screen. We'll get done as much as we can.\"\nBut we'll have a follow-up beginning of next week to kind ofize them. I don't think... I think it's just asking questions here. Davis, there's nothing that we need to come prepared for, to present or anything like that. This next session is really just to ask questions and remember what the client said. He goes, \"I know I have a Ferrari.\nSalesforce meals? I have a Ferrari, but I'm just using it to pick up groceries. I need to use it. It's meant to be used.\" So if we could just take that time, that hour, and you and Servon can ask questions, and we can document... Of course, we'll record all of it, and then we can have a follow-up session next week. Then we can reconnect with the team internally along with Nick, the account executive, and say, \"Okay, this is what we recommend. Connect here first, this is easy, and then I would do this and this.\"\nSo I don't..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But before we get on to the call, do we know what the ecosystem is like? What systems do they have?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "Yeah, so we've already had a call with the client."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Okay..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "Yeah, so and we have the full... Not have everything."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "So I'll quickly take you through that. And I... The reason I bought in Kailash was because of how you handle this. I mean, how have you handled this in the past, right? So basically, they already have Mulesoft setup, but it's not working.\nThat's required. Okay, so it looks like there's a lot of... There's a lot of stuff. So basically, Mulesoft has not been set up correctly, right? So they have three instances of Activate.\nActivate is their ERP system, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "And it's based on a three local, I mean, it's three systems used by three..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "And they have news and they're basically they're trying to push data into Salesforce, right? That's pretty much it's a very simple I don't know yeah, very simple I don't know what this and how can you screw this up, right?\nSo I was so what is not working for QD, right? Invoices. Sales. Orders. Codes. Sometimes arrive without their product links... And customer. The customer in total come across but not what was ordered, you know. So invoices order scores..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We didn't come across the Dall."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Don't... Yeah, the whole day's data sometimes is missing. This is a serious issue, right? This is causing a lot of production supply chain delays and stuff like that for them, right? So report numbers change on refresh.\nI don't know how this is even happening when fresh it's changing the... You continue on and off for... So this is on and off for two years, okay? From a business standpoint, what is happening is Lucas is one of the directors, right? I don't know, Ryan."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No. He checks a Salesforce against Activate."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "It's actuate and it's like a full mess, right? So and obviously regional managers use it and it's completely like, you know, datas missing. It's a huge mess, isn't it? So yeah, the idea is it's not set up properly.\nSo we have to ask them the questions. So, yeah, so the idea is, what can we review, right? So I'm assuming some of the resources, right? We can look at what records are missing from what location, what are the records, how each customer code is matched, right?\nRecords are getting matched right now for invoices, codes, and all that, right? So these are some line items that I put together. They have a seven-day reload logic, right? Why? Invoice lines are deleted and reloaded, what happens if it fails.\nSo these are some of the things which are to be set up, right? So I was like, \"What do we need from them to look at all...?\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think..."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Of this."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The first step there is to put it down. Let's get the codebase right. What exactly they have in Mulesoft, what whoever developed it right, let's get the codebase because if you see on the top concerns when you ran me through each one of them..."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sometimes they arrive without product lines, sometimes they don't come across at all, right? So I want to see first what the query is on what condition they are querying it, right? Do they have an identifier or watermark or something so that they don't miss it?\nSometimes what they do is they run on an updated date rather than a created date, or they run on a created date rather than an updated date. What happens is we do a query from 9 am to 9 pm and then something that comes in between created or updated after 8:50 or so will get missed.\nSo with your points, let's ask to give us the Mulesoft codebase access to Mulesoft. So our team will do a run through likewise and ask all the questions that you have written. So that way we will know why and what is the reason for the data missing."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Right now, do you think they will be in a position where we do this tomorrow or before we get into the call tomorrow?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "Do you mean do we prepare it in advance?"
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "For example, what is actually saying is that we should get the code base so we know what the product lines are, what is missing, what is not missing, right?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "We can do that. We're going to send over the questionnaire. Remember, you guys were going to work on that."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So one thing..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "So can you...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is the client aligned to do the assessment or are we trying to convince or win over the client to do the assessment?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "No, yeah, they're totally open to it. They told us that they bought a Ferrari and they're using it to go get groceries, and they want to use it on the track. So can we put that? We have to send over those questions today. Davis in advance.\nI mean, it's not a whole lot of time, but can we request that code base in the questions or how do we come ready with it? Can you put that together in the list?"
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Yeah. So, Cash, will that help or how...? I mean, do we need to repeat this?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm still trying to understand what the questions are that we want to ask because if they are in for the assessment, did we promise any reassessment or what's the deal like? Right?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "We promised, I think, we promised them five or six hours or something like an assessment. I think we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "Yeah, so it's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So let's..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "Not like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Assume a one-day assessment. So let's say that..."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, five, six hours, one day, then we say that. Okay, give us access. These are the business questions that you put down, Davis, and access to Mulesoft, access to activate one of the instances at least where they are seeing more issues. Access to Salesforce, right? Then..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "No."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Once we have all the answers and the access, then we can give them a concrete report to say that, \"Hey, this is what it's causing and this is what it will take to fix it.\""
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Fair enough. So when you need this access, you just basically use a user ID and password, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Right..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Just use the right password for us to view, right? For us to understand. Okay, what are the columns inside the order table for activating that we are trying to bring in? What is the query? If we know if they can give us a report like, \"Okay, from October 1st to October 30th, inactivate this was there and in Salesforce this was missing.\" Then we will debug to say that what are the conditions or corner scenarios we are missing or the code currently written is missing."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Okay, fair enough. So what I'll do is I will put those questions through, and Ryan, you can share with the customer."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "The other thing is. So this call is like tomorrow night, I think around midnight. Would you be able to join or SA or anybody can join?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I will join, Shashank. We have... Working on one agent demo, so I will join. If there is anything..."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Okay, but we want to look at this. So they are happy to hand over the keys to us. Kailash, share."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think that is better is because..."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What happens, right? The more questions we ask, the more things... It is better to say that, guys. We will sign an NDA and we'll give you an eight-hour demo. Give us access within one day. We'll do the research, come back, and share the findings.\nIf you are okay, we'll then sign the future demo for the work and take it forward. That's what I'm thinking. But... Because I was not in the call. What do you think, Raghu?"
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "I think they should be happy with it once we sign the NDA. Do you need access to anything else? Is it just Mulesoft or do you need...?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "Here's the thing, let's not bring up an NDA unless they ask for it, right? Because that can all things like three, four days, right? So if they ask for an NDA, no problem, we'll get it signed, but let's not bring it up."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "But as far as... Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think, Davis, the Salesforce access activate access and meals off taxes."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "I think that's pretty much right. So once you have that... So we don't want to ask these questions. So Raghu, the problem is they don't have a technical person on their side, right?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "Lucas is kind of he's."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Kind of right. So he has MuleSoft-related technical expertise and all of that, right? So the easier thing for us to do is you hand over the keys to us, and we will do a review ourselves, and we will tell you what to fix for you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think that will be better. But Davis, put down a few questions in the business perspective, right?"
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If you scroll up onto the diagram which you prepared, right? So let's go to the issues, right? So invoices, sales orders, and quotes sometimes arrive without product lines.\nSo first ask... In today's call, what is the driver for MuleSoft to pick data from activate for an invoice, sales order, and quote? Is it the creation or what is the driver for us to pick it up?\nSecond, is there a scenario where you create a dummy or a blank invoice and then later add products? Right? You create first an invoice and then add product lines. Because once it's created, the invoice MuleSoft must be querying in that short time frame to say that, \"Hey, at 9 o'clock, I have to run exactly at 9 o'clock.\" It got created for an invoice, but the lines are not added, so we just picked it up.\nRight? That is the first few questions we ask. What are the scenarios that MuleSoft wants? Do you want MuleSoft to pick the data, and how sales orders and quotes are getting created? Are they created first and then the lines are added?\nSo we want to understand that is MuleSoft picking up the sales order or a quote based on creation time? If yes, then we will add... Then we know what to do, so we will check if there are line items or not.\nIf it is not, we will skip that, right? So business questions. Put down some business questions for today and just share them so that way we know they didn't think that. Okay, these people didn't come back with any questions and just asked for the keys, right?\nSo let's put down to say that, ask for the business questions."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "And if we do this? SW this is technically a free five, six hours of work, right? So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, we'll just put it to one day. So we and the outcomes are to find out, analyze the issue, come back to what the issue is, and then share it."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "No. But if we get the keys, can we just fix it? Or. Or not. Instead of analyzing?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's where... What I'm thinking, Davis, is... Let's assume... Now if they say that the code first is a regular code created and I'm picking on created data, then I'm adding one product. Because assuming I don't know the business, but assuming I'm on a call with the customer, I said create code. It opens a UI and then I keep adding one product."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But if it's getting an entry created into the table, then immediately MULE must be picking up. So I want to understand what is the business scenarios that we want to pick it up and is there a scenario that product lines are added later?\nOkay. Then depending on that, we have to figure out how much time we will need because fixing is not a big thing. That is the main is testing it again and then closing it. So that's more important..."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "I think we should be able to... To be very honest, we can analyze and fix as well, unless there are no surprises, right? If there are no surprises."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The main thing to do is ask for some earlier data for October where they saw issues."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "So we will ask for data from the first of October to 31st October."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, where they are seeing issues. It will help us analyze the issue."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Yeah. Okay, so we'll put together some questions, Ryan, but I think when we get on the call, we should push the call towards... Hey, give us the access and we will have a look at it and we'll figure this out and we'll give you those solutions."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 2,
+        "text": "Okay? Sounds good."
+      },
+      {
+        "speaker": "Davis Rajan",
+        "speakerIndex": 3,
+        "text": "Okay. Sounds good. Bye."
+      }
+    ],
+    "raw_meeting": "**ClientCall**\n🕞 Started at 04:33 PM on 05 Nov, lasted 14m",
+    "raw_content": "ryan | 00:00\nWith Nick, this guy is... He's a new account executive, and he's really influential. If we do right by him, I think that it'll go really far. So, yeah, if... I just... I basically told him. I said, \"It's going to be an hour session. He only can be on the first thirty minutes, but then he has a conflict, so I said, \"No problem. We're just going to take him through, ask a bunch of questions. They're going to share their screen. We'll get done as much as we can.\"\nBut we'll have a follow-up beginning of next week to kind ofize them. I don't think... I think it's just asking questions here. Davis, there's nothing that we need to come prepared for, to present or anything like that. This next session is really just to ask questions and remember what the client said. He goes, \"I know I have a Ferrari.\nSalesforce meals? I have a Ferrari, but I'm just using it to pick up groceries. I need to use it. It's meant to be used.\" So if we could just take that time, that hour, and you and Servon can ask questions, and we can document... Of course, we'll record all of it, and then we can have a follow-up session next week. Then we can reconnect with the team internally along with Nick, the account executive, and say, \"Okay, this is what we recommend. Connect here first, this is easy, and then I would do this and this.\"\nSo I don't...\nkailash chanda | 01:27\nBut before we get on to the call, do we know what the ecosystem is like? What systems do they have?\nryan | 01:34\nYeah, so we've already had a call with the client.\nkailash chanda | 01:36\nPerfect. Okay...\nryan | 01:38\nYeah, so and we have the full... Not have everything.\nDavis Rajan | 01:41\nSo I'll quickly take you through that. And I... The reason I bought in Kailash was because of how you handle this. I mean, how have you handled this in the past, right? So basically, they already have Mulesoft setup, but it's not working.\nThat's required. Okay, so it looks like there's a lot of... There's a lot of stuff. So basically, Mulesoft has not been set up correctly, right? So they have three instances of Activate.\nActivate is their ERP system, right?\nkailash chanda | 02:09\nOkay.\nDavis Rajan | 02:10\nAnd it's based on a three local, I mean, it's three systems used by three...\nkailash chanda | 02:14\nYeah.\nDavis Rajan | 02:16\nAnd they have news and they're basically they're trying to push data into Salesforce, right? That's pretty much it's a very simple I don't know yeah, very simple I don't know what this and how can you screw this up, right?\nSo I was so what is not working for QD, right? Invoices. Sales. Orders. Codes. Sometimes arrive without their product links... And customer. The customer in total come across but not what was ordered, you know. So invoices order scores...\nkailash chanda | 02:48\nWe didn't come across the Dall.\nDavis Rajan | 02:49\nDon't... Yeah, the whole day's data sometimes is missing. This is a serious issue, right? This is causing a lot of production supply chain delays and stuff like that for them, right? So report numbers change on refresh.\nI don't know how this is even happening when fresh it's changing the... You continue on and off for... So this is on and off for two years, okay? From a business standpoint, what is happening is Lucas is one of the directors, right? I don't know, Ryan.\nkailash chanda | 03:23\nNo. He checks a Salesforce against Activate.\nDavis Rajan | 03:26\nIt's actuate and it's like a full mess, right? So and obviously regional managers use it and it's completely like, you know, datas missing. It's a huge mess, isn't it? So yeah, the idea is it's not set up properly.\nSo we have to ask them the questions. So, yeah, so the idea is, what can we review, right? So I'm assuming some of the resources, right? We can look at what records are missing from what location, what are the records, how each customer code is matched, right?\nRecords are getting matched right now for invoices, codes, and all that, right? So these are some line items that I put together. They have a seven-day reload logic, right? Why? Invoice lines are deleted and reloaded, what happens if it fails.\nSo these are some of the things which are to be set up, right? So I was like, \"What do we need from them to look at all...?\"\nkailash chanda | 04:31\nI think...\nDavis Rajan | 04:31\nOf this.\nkailash chanda | 04:33\nThe first step there is to put it down. Let's get the codebase right. What exactly they have in Mulesoft, what whoever developed it right, let's get the codebase because if you see on the top concerns when you ran me through each one of them...\nDavis Rajan | 04:49\nYeah...\nkailash chanda | 04:49\nSometimes they arrive without product lines, sometimes they don't come across at all, right? So I want to see first what the query is on what condition they are querying it, right? Do they have an identifier or watermark or something so that they don't miss it?\nSometimes what they do is they run on an updated date rather than a created date, or they run on a created date rather than an updated date. What happens is we do a query from 9 am to 9 pm and then something that comes in between created or updated after 8:50 or so will get missed.\nSo with your points, let's ask to give us the Mulesoft codebase access to Mulesoft. So our team will do a run through likewise and ask all the questions that you have written. So that way we will know why and what is the reason for the data missing.\nDavis Rajan | 05:41\nRight now, do you think they will be in a position where we do this tomorrow or before we get into the call tomorrow?\nryan | 05:50\nDo you mean do we prepare it in advance?\nDavis Rajan | 05:53\nFor example, what is actually saying is that we should get the code base so we know what the product lines are, what is missing, what is not missing, right?\nryan | 06:04\nWe can do that. We're going to send over the questionnaire. Remember, you guys were going to work on that.\nDavis Rajan | 06:09\nYeah.\nkailash chanda | 06:10\nSo one thing...\nryan | 06:10\nSo can you...?\nkailash chanda | 06:11\nIs the client aligned to do the assessment or are we trying to convince or win over the client to do the assessment?\nryan | 06:18\nNo, yeah, they're totally open to it. They told us that they bought a Ferrari and they're using it to go get groceries, and they want to use it on the track. So can we put that? We have to send over those questions today. Davis in advance.\nI mean, it's not a whole lot of time, but can we request that code base in the questions or how do we come ready with it? Can you put that together in the list?\nDavis Rajan | 06:43\nYeah. So, Cash, will that help or how...? I mean, do we need to repeat this?\nkailash chanda | 06:49\nI'm still trying to understand what the questions are that we want to ask because if they are in for the assessment, did we promise any reassessment or what's the deal like? Right?\nryan | 07:01\nWe promised, I think, we promised them five or six hours or something like an assessment. I think we...\nkailash chanda | 07:07\nOkay...\nryan | 07:08\nYeah, so it's...\nkailash chanda | 07:08\nSo let's...\nryan | 07:08\nNot like...\nkailash chanda | 07:09\nAssume a one-day assessment. So let's say that...\nDavis Rajan | 07:11\nYeah.\nkailash chanda | 07:11\nOkay, five, six hours, one day, then we say that. Okay, give us access. These are the business questions that you put down, Davis, and access to Mulesoft, access to activate one of the instances at least where they are seeing more issues. Access to Salesforce, right? Then...\nryan | 07:28\nNo.\nkailash chanda | 07:29\nOnce we have all the answers and the access, then we can give them a concrete report to say that, \"Hey, this is what it's causing and this is what it will take to fix it.\"\nDavis Rajan | 07:39\nFair enough. So when you need this access, you just basically use a user ID and password, right?\nkailash chanda | 07:46\nYeah.\nDavis Rajan | 07:46\nRight...\nkailash chanda | 07:46\nJust use the right password for us to view, right? For us to understand. Okay, what are the columns inside the order table for activating that we are trying to bring in? What is the query? If we know if they can give us a report like, \"Okay, from October 1st to October 30th, inactivate this was there and in Salesforce this was missing.\" Then we will debug to say that what are the conditions or corner scenarios we are missing or the code currently written is missing.\nDavis Rajan | 08:15\nOkay, fair enough. So what I'll do is I will put those questions through, and Ryan, you can share with the customer.\nryan | 08:21\nYes.\nDavis Rajan | 08:22\nThe other thing is. So this call is like tomorrow night, I think around midnight. Would you be able to join or SA or anybody can join?\nkailash chanda | 08:32\nI will join, Shashank. We have... Working on one agent demo, so I will join. If there is anything...\nDavis Rajan | 08:39\nOkay, but we want to look at this. So they are happy to hand over the keys to us. Kailash, share.\nkailash chanda | 08:47\nI think that is better is because...\nDavis Rajan | 08:49\nYeah.\nkailash chanda | 08:49\nWhat happens, right? The more questions we ask, the more things... It is better to say that, guys. We will sign an NDA and we'll give you an eight-hour demo. Give us access within one day. We'll do the research, come back, and share the findings.\nIf you are okay, we'll then sign the future demo for the work and take it forward. That's what I'm thinking. But... Because I was not in the call. What do you think, Raghu?\nDavis Rajan | 09:15\nI think they should be happy with it once we sign the NDA. Do you need access to anything else? Is it just Mulesoft or do you need...?\nryan | 09:22\nHere's the thing, let's not bring up an NDA unless they ask for it, right? Because that can all things like three, four days, right? So if they ask for an NDA, no problem, we'll get it signed, but let's not bring it up.\nkailash chanda | 09:33\nOkay, so...\nryan | 09:34\nBut as far as... Yeah.\nkailash chanda | 09:36\nI think, Davis, the Salesforce access activate access and meals off taxes.\nDavis Rajan | 09:45\nI think that's pretty much right. So once you have that... So we don't want to ask these questions. So Raghu, the problem is they don't have a technical person on their side, right?\nryan | 09:56\nLucas is kind of he's.\nDavis Rajan | 09:57\nKind of right. So he has MuleSoft-related technical expertise and all of that, right? So the easier thing for us to do is you hand over the keys to us, and we will do a review ourselves, and we will tell you what to fix for you.\nkailash chanda | 10:13\nPerfect.\nDavis Rajan | 10:14\nYeah.\nkailash chanda | 10:14\nI think that will be better. But Davis, put down a few questions in the business perspective, right?\nDavis Rajan | 10:19\nYeah.\nkailash chanda | 10:19\nIf you scroll up onto the diagram which you prepared, right? So let's go to the issues, right? So invoices, sales orders, and quotes sometimes arrive without product lines.\nSo first ask... In today's call, what is the driver for MuleSoft to pick data from activate for an invoice, sales order, and quote? Is it the creation or what is the driver for us to pick it up?\nSecond, is there a scenario where you create a dummy or a blank invoice and then later add products? Right? You create first an invoice and then add product lines. Because once it's created, the invoice MuleSoft must be querying in that short time frame to say that, \"Hey, at 9 o'clock, I have to run exactly at 9 o'clock.\" It got created for an invoice, but the lines are not added, so we just picked it up.\nRight? That is the first few questions we ask. What are the scenarios that MuleSoft wants? Do you want MuleSoft to pick the data, and how sales orders and quotes are getting created? Are they created first and then the lines are added?\nSo we want to understand that is MuleSoft picking up the sales order or a quote based on creation time? If yes, then we will add... Then we know what to do, so we will check if there are line items or not.\nIf it is not, we will skip that, right? So business questions. Put down some business questions for today and just share them so that way we know they didn't think that. Okay, these people didn't come back with any questions and just asked for the keys, right?\nSo let's put down to say that, ask for the business questions.\nDavis Rajan | 12:02\nAnd if we do this? SW this is technically a free five, six hours of work, right? So...\nkailash chanda | 12:08\nYeah, we'll just put it to one day. So we and the outcomes are to find out, analyze the issue, come back to what the issue is, and then share it.\nDavis Rajan | 12:19\nNo. But if we get the keys, can we just fix it? Or. Or not. Instead of analyzing?\nkailash chanda | 12:24\nThat's where... What I'm thinking, Davis, is... Let's assume... Now if they say that the code first is a regular code created and I'm picking on created data, then I'm adding one product. Because assuming I don't know the business, but assuming I'm on a call with the customer, I said create code. It opens a UI and then I keep adding one product.\nDavis Rajan | 12:47\nYeah...\nkailash chanda | 12:47\nBut if it's getting an entry created into the table, then immediately MULE must be picking up. So I want to understand what is the business scenarios that we want to pick it up and is there a scenario that product lines are added later?\nOkay. Then depending on that, we have to figure out how much time we will need because fixing is not a big thing. That is the main is testing it again and then closing it. So that's more important...\nDavis Rajan | 13:18\nI think we should be able to... To be very honest, we can analyze and fix as well, unless there are no surprises, right? If there are no surprises.\nkailash chanda | 13:26\nThe main thing to do is ask for some earlier data for October where they saw issues.\nDavis Rajan | 13:33\nSo we will ask for data from the first of October to 31st October.\nkailash chanda | 13:36\nYeah, where they are seeing issues. It will help us analyze the issue.\nDavis Rajan | 13:40\nYeah. Okay, so we'll put together some questions, Ryan, but I think when we get on the call, we should push the call towards... Hey, give us the access and we will have a look at it and we'll figure this out and we'll give you those solutions.\nkailash chanda | 13:54\nExactly.\nryan | 13:55\nOkay? Sounds good.\nDavis Rajan | 13:57\nOkay. Sounds good. Bye."
+  }
+}
