@@ -1,0 +1,336 @@
+{
+  "id": "01a1ac8f49a675bd951e208d76d3a909",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a8624d5b721cb8d2adcf6b7310fa",
+      "title": "Quick Sync",
+      "duration": 2621,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "4q3bfvlg90i8nh4e45tibr5cvj",
+      "participants": [
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "karin.mcwilliams@dashealth.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "dharma@dataskate.io"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vijay@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        }
+      ],
+      "start_date": "2026-11-05T15:49:24.236Z",
+      "end_date": "2026-11-05T16:33:05.236Z",
+      "url": "https://app.krisp.ai/m/01a1a8624d5b721cb8d2adcf6b7310fa?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Shall I share my dream?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. I will give you the username and password. You can do it. It will give me an OTP. Then I will give it to you.\nOkay, so I think... No, go to Amazon. Yeah, now you can complete the process, add your... Everybody you added..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Yes. Like Krisp has mentioned in the message, it allows only five email recipients to act here."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "It's up to 10 we can add if I'm not sure. If we add ten email IDs, it will go to 10 email IDs exactly. So 12 transactions might happen. I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So how you are doing, I mean, you will bring it to one email ID and then you will send or. I don't, I didn't understand the process."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Here I directly went into this email voucher valid for one year. So two things are there: one is a shareable link, one is an email... Where we can add email IDs, and it will..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can add spa e mail eds. Okay. Yeah. Can you add those? Spa. Email address?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "I believe I have added 57 people, 30 transactions, 22 full-time Krisp followed by... Sale and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, right."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "My... It would go with personalized gift cards and like we have mentioned from Dataskate they will receive and this is the message."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Select net banking, select card... KARUR.\nYes. Yep. He. I note down the username. It is 3560-938-1381. I pinged the password in a Slack.\n3. It would not allow copy paste 35609381.\nYeah. Come down... Okay, transaction. Okay, the transaction pin is 4317, that's it. And then OpenAI is 496."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "43171 of three digits."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, wait. 92 816-969-2816."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can see it done.\nOkay. You want to do...\nWhy did she just fall in the sky? Kill."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "I have initiated again, you might receive one transaction and not the other."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Same 4317..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "If I 0547.\nIncome? Incomeing. The 10%. Competence?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The Oxyle bat is not powered."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That.\nSo many for his innovation."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "A transaction. Finish. 4 370."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah. For 31s97194289."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "You would receive one more."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, five one three six. 152961529."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Thanks.\nEight one. Is all of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This 14-kilogram machine operated by just two people..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "When it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can harvest as much as 30 hand picks working the same row. The cutting blade is designed to only cut the uppermost layer, collecting just the tender newly sprouted leaf tips and buds. This portable harvester, about 140cm long and weighing 14kg, requires two workers walking on opposite sides. Each TED output varies by terrain and operator scale, but this method can be 60 times faster than a single in cluter in some conditions. Spring tea, harvested in late April to May, contains the highest amino acid content and alpineine concentration of the year. These young leaves, rich in flavor.\nAlways remind your children of these words. Tell your children if a relationship doesn't work, come home.\nIf life becomes too difficult, come home. If the world turns its back on you, come home. If you make mistakes, come home. You don't have to pretend to be strong all the time. You don't have to face every battle of Rome. Remember, Rome should never be a place where you fear judgment. It should always be a place where you find love, comfort, and understanding.\nIf you believe family should..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "I just like one more, please."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Zero 4852514. Be a safe place and live alike. Always remark independently. But my idea... After our time. This invention is a genius. It's a coating that gives a plain wall a mirror-like finish. He loads the roller with a mixture, then spreads it across the surface in long even strokes, working from top to bottom as he covers each section. The wall reflects his movements and the roof around him, leaving a glossy surface that looks almost like a giant mirror. This invention is genius."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "To the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "715, double 8097. I don't tell times. Every transaction.\nDid you verify if anybody is getting it?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Yes. Morgan came after he received some pushpin that he got."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Nice."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "I did trust."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "Can I come over to you, please?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No 1 3959."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "I shall bring my chancer around."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What are the GE qualities that distinguish Indian women from women of other nationalities? Our spirit of sacrifice endured. And thirdly, saving fulfilling our dreams while living in a joint family and enduring all ups and downs. You will find these qualities. This sounded fake to me at first too.\nBut did you know that in China, expired items are not thrown away, and their expiry dates are not changed to resell them either? Instead, it's a proper industry in itself, running millions. In China, expired items like bread, biscuits, maggie, and cookies are collected from stores and bakeries and sent to a factory. In the factory, one machine first removes their wrappers and sends them to another machine where all these items get mixed together and converted into powder. After that, this powder goes into a dry chamber or its moisture is reduced to zero so its shelf life goes up.\nListen to the most interesting part. This powder is then sold at good prices to goat, chicken, and fish and many other animal farms where it's used as feed. Meaning what is waste in India is a profitable business in China. All of this then something that gets passed around.\nI don't know how many hundred people we thought we were talking to at some nice little mall across good old America, but I'm pretty sure that people didn't tell the survey people. Hey, illegal drugs. Let's turn around and see how many we have hands around there with...\nI'll join.\nSomething that if I have a lemon and you want a lemon and I want a lemon... Okay, but we only have one lemon. What's the fairest way to divide the lemon? Split it. Split it in half, right? Okay, that makes sense, no one would argue with that. Great, you want a disaster for baking, I wanted the juice for lemon. We could have had 100% of what we wanted if we just took a second and said, \"Wait, what do you need a lemon for?\"\nBut instead we just go, \"Well, let's cut it in half and you got half of what you needed throughout the half.\" Never have I ever lied about the number of boys I... [Laughter] Yeah, and you data your husband like a boyfriend before marrying him.\nYeah. Wow. 15 years of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Kind of like you might have received."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "38360897.\nAB. You.\nThe tour is one minute... [Laughter].\n1975."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. On five."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The person you have called.\nBrand reported a first and came and then after 07 and then I what monsoon summons the...\nA collect. Okay. 7331589.\nThis is the last one, and it is... Hello, San a 150k under one 80k.\nUhh, okay. No suggestions, recommendation, okay, in the end. Okay. Other works are Colgi and... Mother. Okay, right..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Six failies."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Can't... Last wording. Peace."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "588054, double eight. Did I give more or less number, sir? No. 52528 zero five four."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Okay, 054, double eight."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 2,
+        "text": "Yeah, over. Thanks. Thanks for your time."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      }
+    ],
+    "raw_meeting": "**Quick Sync**\n🕞 Started at 03:49 PM on 05 Nov, lasted 43m",
+    "raw_content": "kailash chanda | 00:06\nShall I share my dream?\nkailash chanda | 00:09\nOkay. I will give you the username and password. You can do it. It will give me an OTP. Then I will give it to you.\nOkay, so I think... No, go to Amazon. Yeah, now you can complete the process, add your... Everybody you added...\nkailash chanda | 01:03\nYes. Like Krisp has mentioned in the message, it allows only five email recipients to act here.\nkailash chanda | 01:09\nOkay.\nkailash chanda | 01:09\nIt's up to 10 we can add if I'm not sure. If we add ten email IDs, it will go to 10 email IDs exactly. So 12 transactions might happen. I...\nkailash chanda | 01:27\nSo how you are doing, I mean, you will bring it to one email ID and then you will send or. I don't, I didn't understand the process.\nkailash chanda | 01:36\nHere I directly went into this email voucher valid for one year. So two things are there: one is a shareable link, one is an email... Where we can add email IDs, and it will...\nkailash chanda | 01:50\nYou can add spa e mail eds. Okay. Yeah. Can you add those? Spa. Email address?\nkailash chanda | 01:58\nI believe I have added 57 people, 30 transactions, 22 full-time Krisp followed by... Sale and...\nkailash chanda | 02:08\nOkay, right.\nkailash chanda | 02:12\nMy... It would go with personalized gift cards and like we have mentioned from Dataskate they will receive and this is the message.\nkailash chanda | 02:43\nSelect net banking, select card... KARUR.\nYes. Yep. He. I note down the username. It is 3560-938-1381. I pinged the password in a Slack.\n3. It would not allow copy paste 35609381.\nYeah. Come down... Okay, transaction. Okay, the transaction pin is 4317, that's it. And then OpenAI is 496.\nkailash chanda | 05:34\n43171 of three digits.\nkailash chanda | 05:35\nNo, wait. 92 816-969-2816.\nSpeaker 3 | 05:44\nOkay.\nkailash chanda | 05:56\nYou can see it done.\nOkay. You want to do...\nWhy did she just fall in the sky? Kill.\nkailash chanda | 10:41\nI have initiated again, you might receive one transaction and not the other.\nkailash chanda | 10:46\nSame 4317...\nkailash chanda | 10:53\nIf I 0547.\nIncome? Incomeing. The 10%. Competence?\nkailash chanda | 13:16\nThe Oxyle bat is not powered.\nSpeaker 3 | 13:22\nThat.\nSo many for his innovation.\nkailash chanda | 16:28\nA transaction. Finish. 4 370.\nkailash chanda | 16:32\nYeah. For 31s97194289.\nkailash chanda | 19:34\nYou would receive one more.\nkailash chanda | 19:36\nYeah, five one three six. 152961529.\nSpeaker 3 | 19:48\nThanks.\nEight one. Is all of...\nkailash chanda | 21:10\nThis 14-kilogram machine operated by just two people...\nSpeaker 3 | 21:13\nWhen it...\nkailash chanda | 21:14\nCan harvest as much as 30 hand picks working the same row. The cutting blade is designed to only cut the uppermost layer, collecting just the tender newly sprouted leaf tips and buds. This portable harvester, about 140cm long and weighing 14kg, requires two workers walking on opposite sides. Each TED output varies by terrain and operator scale, but this method can be 60 times faster than a single in cluter in some conditions. Spring tea, harvested in late April to May, contains the highest amino acid content and alpineine concentration of the year. These young leaves, rich in flavor.\nAlways remind your children of these words. Tell your children if a relationship doesn't work, come home.\nIf life becomes too difficult, come home. If the world turns its back on you, come home. If you make mistakes, come home. You don't have to pretend to be strong all the time. You don't have to face every battle of Rome. Remember, Rome should never be a place where you fear judgment. It should always be a place where you find love, comfort, and understanding.\nIf you believe family should...\nkailash chanda | 22:38\nI just like one more, please.\nkailash chanda | 22:40\nZero 4852514. Be a safe place and live alike. Always remark independently. But my idea... After our time. This invention is a genius. It's a coating that gives a plain wall a mirror-like finish. He loads the roller with a mixture, then spreads it across the surface in long even strokes, working from top to bottom as he covers each section. The wall reflects his movements and the roof around him, leaving a glossy surface that looks almost like a giant mirror. This invention is genius.\nSpeaker 3 | 24:58\nTo the...\nkailash chanda | 25:03\n715, double 8097. I don't tell times. Every transaction.\nDid you verify if anybody is getting it?\nkailash chanda | 26:03\nYes. Morgan came after he received some pushpin that he got.\nkailash chanda | 26:10\nOkay. Nice.\nSpeaker 3 | 27:48\nI did trust.\nSpeaker 4 | 28:02\nCan I come over to you, please?\nkailash chanda | 28:05\nNo 1 3959.\nkailash chanda | 28:30\nI shall bring my chancer around.\nkailash chanda | 29:31\nWhat are the GE qualities that distinguish Indian women from women of other nationalities? Our spirit of sacrifice endured. And thirdly, saving fulfilling our dreams while living in a joint family and enduring all ups and downs. You will find these qualities. This sounded fake to me at first too.\nBut did you know that in China, expired items are not thrown away, and their expiry dates are not changed to resell them either? Instead, it's a proper industry in itself, running millions. In China, expired items like bread, biscuits, maggie, and cookies are collected from stores and bakeries and sent to a factory. In the factory, one machine first removes their wrappers and sends them to another machine where all these items get mixed together and converted into powder. After that, this powder goes into a dry chamber or its moisture is reduced to zero so its shelf life goes up.\nListen to the most interesting part. This powder is then sold at good prices to goat, chicken, and fish and many other animal farms where it's used as feed. Meaning what is waste in India is a profitable business in China. All of this then something that gets passed around.\nI don't know how many hundred people we thought we were talking to at some nice little mall across good old America, but I'm pretty sure that people didn't tell the survey people. Hey, illegal drugs. Let's turn around and see how many we have hands around there with...\nI'll join.\nSomething that if I have a lemon and you want a lemon and I want a lemon... Okay, but we only have one lemon. What's the fairest way to divide the lemon? Split it. Split it in half, right? Okay, that makes sense, no one would argue with that. Great, you want a disaster for baking, I wanted the juice for lemon. We could have had 100% of what we wanted if we just took a second and said, \"Wait, what do you need a lemon for?\"\nBut instead we just go, \"Well, let's cut it in half and you got half of what you needed throughout the half.\" Never have I ever lied about the number of boys I... [Laughter] Yeah, and you data your husband like a boyfriend before marrying him.\nYeah. Wow. 15 years of...\nkailash chanda | 32:41\nKind of like you might have received.\nkailash chanda | 32:44\n38360897.\nAB. You.\nThe tour is one minute... [Laughter].\n1975.\nSpeaker 3 | 35:30\nOkay. On five.\nkailash chanda | 39:09\nThe person you have called.\nBrand reported a first and came and then after 07 and then I what monsoon summons the...\nA collect. Okay. 7331589.\nThis is the last one, and it is... Hello, San a 150k under one 80k.\nUhh, okay. No suggestions, recommendation, okay, in the end. Okay. Other works are Colgi and... Mother. Okay, right...\nSpeaker 3 | 42:19\nSix failies.\nkailash chanda | 42:23\nOkay.\nkailash chanda | 42:50\nCan't... Last wording. Peace.\nkailash chanda | 42:54\n588054, double eight. Did I give more or less number, sir? No. 52528 zero five four.\nkailash chanda | 43:20\nOkay, 054, double eight.\nSpeaker 3 | 43:22\nThank you.\nkailash chanda | 43:25\nYeah, over. Thanks. Thanks for your time.\nSpeaker 3 | 43:28\nThank you.\nkailash chanda | 43:29\nOkay."
+  }
+}
