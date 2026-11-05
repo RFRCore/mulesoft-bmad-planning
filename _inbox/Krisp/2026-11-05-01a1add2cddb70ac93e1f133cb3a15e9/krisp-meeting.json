@@ -1,0 +1,996 @@
+{
+  "id": "01a1add2cddb70ac93e1f133cb3a15e9",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1ac91d5957027962886b23c963de0",
+      "title": "Daily Sales Call",
+      "duration": 1538,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "2rdgn5n8i1it3o6pg7e5kuirnl_20261105T220000Z",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "aadi@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "dev@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "amar@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": null,
+          "id": "833174d54fc452279a67e75867de4775",
+          "first_name": "aadi",
+          "email": "ed37b34609e64cab9bb6add3b8f5f541@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "index": 4,
+          "last_name": null,
+          "id": "03234aed64d55bc68a9df51ea6ccba98",
+          "first_name": "amar",
+          "email": "493e88f71268488b8e5424fa400d0179@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-05T22:00:57.904Z",
+      "end_date": "2026-11-05T22:26:35.904Z",
+      "url": "https://app.krisp.ai/m/01a1ac91d5957027962886b23c963de0?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "He ran over."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "A long call you know it strips everything of you. As... Very good one though."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Ryan, absolute... Are we all good or anything else? Is there with Lucas? That's right."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah, absolutely they're still going back and forth. I know... Servn last... I saw Servan was working on something with him and said that he was going to get some scope. Awesome. Let me scope and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Timeline as soon as possible. And they said, yeah, cool. So it's not as it's not when we met with them yesterday and certainly Davis was there and, Lucas and Amanda and the team and we just went in, we went in.\nIt's a high price. I think we went in like 36k or something like that. And originally we went in like at we originally went at 16. So we tried to like descope it as an MVP with still giving them everything that they need.\nSo I think they're going back and forth now to try to figure that out. But we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "When is the next one?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "It's tomorrow."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so, can you add Shawan to the call so that..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "I'm sorry now I'm in the mixed up with Q di absolute next call is Monday."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One day."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "It's Monday, you're on it and you're going to add... I'll add Davis to it. I mean I'll add a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "To it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, you can remove me, you can add someone and Davis, that will be good."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah. Shawan, can I just keep you on there or... I don't. I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Can't remove you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You can keep me. No worries."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah, because I don't..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But I..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Own it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Don't want them to feel that so many people are around. The call from Datask."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Right? Someone needs access to those opposite mappings, Chairman. I think I just gave them access to something too. Okay, cool. Yeah, so that's on Monday, but we're going back and forth. Then Lucas made a good point. The kid's pretty good. He's like, \"Guys, I agree with them. We're assuming that they're going to say no at the $46 price or at the $36,000 price.\" What we need to do is first we need to get a no.\nThen if it's out of the price range, and then we can descope it and pull things back. So that's where we left it last time. I totally agreed with that. So many times we're like, \"We don't think they're going to do this.\"\nThen we go in and we should have gone in first with what we recommend, here's the entire solution, and then pull it back from there. So I like his approach. So that's what we're going to do."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Where that guy's good, he's good."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "He's really good."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Cool. Okay, so, how is it going? Any new scopings added to Salesforce?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Maybe I need your help on this. I got like two of them that I'm trying to get feedback from that I'm kind of holding Salesforce off right now. One was Jackson. It's called. One one with Jackson, it's called Cornet, and I added you to in Servant, and then the other one, there's and there's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Which one is... That's the content? Okay, do you need scoping or someone is not replying...?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "You found our flanks are like most of them and I messaged them."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can yeah can you tell me what are pending corcnet is won..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah. And, ho. You put up and they're both inframatico deals."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, I'll take a look..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Or both are inf okay..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah, and PayPal solutions PayPal is the one with Ryan..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "He didn't share..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "And then..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That as well..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Content with Jackson. I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Both are..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Shared it both. There are two channels, yeah, both are infra."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, I'll pin them as well. I will take a look and get back to you maybe tomorrow morning."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Okay, cool. Because I sent them both because I sent them both messages about an hour ago, because I know that the team is leaving for the day, so I'm not going to get anything else. So I said, \"Okay, we're still working on this.\"\nJust to make sure that I get back to them before they reach out to me. But, yeah, I need your help on that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Nobody's perfect itho that greater than or equal to eleven no eleven one okay, I'm just pulling up sales force. Closed date if I look through November closed date why is CONDX in November? In November? No, closed date is 10:29. Why is this coming ups?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "So if you look at the filters. I had... I messaged him to look at this because it's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Which one?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Closed date i for the closing this month. I messaged you to look at it because it's closed greater than 101. So we have October and November in here. We need to pull all the deals from October. We need to go in there.\nIf they didn't close in October and we think they're going to close in November, we need to move them to November."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You have to update the closed date..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You are not able to update it."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "No, I've already updated, but everyone else..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, everybody..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "With their deals like if it's 10/30, we need to move it to November, and we need to have this month just be November because we're looking at October and November right now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The main thing I want is from you guys is I'm sharing my screen, right? So if..."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You see this example auto rabbit right now, we don't know whether this is moving forward or not. We have to check back with the account executive to see that, \"Hey, Bobby Jan, is Auto Rabbit in play or not in play?\"\nIf it's..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not in play, let's close it out, right? So I think that cleanup everybody..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Has to do your own account. So that way exactly we will know what is there for November and how much carry forward we are getting from October to November, right? This is all from October, right? Whatever input is greater than or equal to close to greater than equal.\nBut now if I add a filter that tells me, \"Okay, created data is greater than or equal to 11/26.\" Now this tells me that new deals coming in November what we created new, right? So that gives us curated events we coordinate.\nSo now see this one, right? I am who created equip equipped created by Amar. Okay, Amar, because we are... You gave it to scoping, you put it here."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Yes. That's why I put it in scope, yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, until we get a price, don't put it here, put it in the deal intro. Once you get a price and scope it out..."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Then bring it here. Okay, that just makes things easier. Okay..."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Cool. So that way it will give us the totally around five deals. We got into it six deals, right? So I'm using this formula to do that. But again, update all of your deals with a closed date. What is not going in?\nSo that way we will know exactly what is happening. Any update on commerce law or how is it?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah. So commerce law we're meeting him again. I just gave him a breakdown of what we would need in order to... Because we're still trying to push to have that manual resource, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "So he wanted to know what we need to know in order to scope out the manual resource. So I just threw it in GPT and gave a list of five questions of what we need to know. I gave it to him. So he's going to get answers from the client, so we're going to be able to scope that out."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, perfect. So perfect. I think right now we are going to build an agent on top of this, all of our sales. So that way for who we are... They can just ask the agent and get more details.\nSo that way updates will help everything to get into play. 80/20. Anything from this female or...?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah, Sam is still working... I just talked to her yesterday about it. She's still working, going back and forth with it. So yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's still well..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Still hoping to get it in..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In progress. Still want integrated... Okay, that's nice. Okay, that's cool. Any other thing that you see, Ryan, that you feel will carry over blue dot safe? I..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "More still."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Think this is from Ryan's notice."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yes, I have to reach out to him on blue dot Auburn. I'm still working with Sonny on that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah, Commerce design Infinity, I'm going to call him. I don't know if it's this month. But... I'm going to call him. But, yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The best way to get updates of all the pending accounts from every account executive is to try to get an account mapping right, so you don't have to ask for an account mapping request. Say that. \"Hey, we have worked on five to ten, three to four deals last month, and we have a quick ten to fifteen minutes check to verify all of these accounts, and then try to get an account marketing request where we can say that hey,\nwhat are these current accounts or her current accounts, and where we can help and support too?\" So that way we will have more information on how to bring more revenue into your buckets, right?\nSo probably by November 13th, try to schedule at least three account mapping calls from each one of you. So that way at least we'll have nine mapping accounts, nine account mapping calls. Then that will be a good way to start with.\nThen we'll understand we'll get the old updates, and we can talk and figure out what the new updates are. Okay. So when you get these account mapping requests or meetings set up, add me into the calls, and I want to chime in and see... We can give more info on the technical side.\nI know I don't want to pull Davis or Shishan or anybody directly in there. So first, let's get onto the call, give them the technical updates they want, and then slowly, we can get into the scoping and then go to Davis and others.\nOkay? So by thirteen..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "I have a question..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "About account mapping. So let's say I have Sonny, who I have three or four deals with you. I'm going to set up a call with him..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A call with them. Yes."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Have you on it so we can... Okay? Sure."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One thing is about the old accounts, Ryan. Like whatever, with Sonny, you have three accounts we will casually discuss, you can state the conversation, and then we will talk about the new accounts. Hey, what is the pipeline looking like? What's going on, what's the next thing that you have, right?\nThen he will say that, \"Okay, I have four accounts and these are the things.\" Then any technical thing that is there. I will help you guys on that call itself so that they can win that confidence and get into motion there.\nRight? So what happens right now is without account mapping. If Ryan is an account executive, Ryan feels okay. This deal is better to go to Dataskate then they are coming to Dataskate. What happens with account mapping is we can say that, \"Hey, we are strong here. We didn't already do this scenario. Let's do it.\"\nRight now it's happening in the reverse way. The account executive is coming. Did you do it in account mapping? Did you do QuickBooks Desktop? But if we get on an account mapping call, you have four accounts.\nOkay, can you give me the use cases? Don't share me the accounts, let's start slowly, right? Okay, what are the scenarios and the things? Okay, this one we did it already. I did this one. I have a client reference, we will talk to you. It was a challenge. We resolved it, we'll try to build it.\nSo what happens is that way our relationship will improve from the tiers, right? More we will get into one and two and then it gives a sense of confidence for us. We know that we are going to get so many deals, right? That will be more better is what I feel. Let's try it out and start doing that, okay? Cool.\nOkay, Ari, and about any of your accounts that are closing in..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Well, I have sad news that both of them slipped away. One slipped because another integration partner came into play."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is that not the one, right? CF Bank shares. Which partner took it in?"
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Seef shares..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "The account, but they didn't give me any information on who's the partner. It's actually... It's not running by Nicole, it's actually running by some core, and I spoke to Nate today. The client is out of budget, so it's closed now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so I am just reaching out to say that. Okay, what is CF Bank shares? Who was the...? It's an info opportunity, right?"
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "It was an info opportunity."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it. Good. Okay, that's good. Okay, and what's the other one...?"
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "The other one is from Nicholas. Name of the company CF sorry, got confused CF banks shares is by Nicholas. It came from O. And. With Nate. It was, where is like name it was..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so that's where we want to bring... Went with somebody..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "No, that, they're out of budget now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Budget. Okay, got it. Okay, cool, no worries, I will get that done. Okay, I'll find out whom it is assigned to and what it is. The earlier one you said by... Who was the account executive? I'm sorry guys, I'm missing it."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Okay, I'm gonna I can repeat no problem."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Nicholas Veci, right? Nicholas Vecci is for."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "So Nicos..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Vig yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'll reach out to the..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Nicholas Virg..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "AP. I'll reach out to the Arab, nobody's... Okay, cool, okay, anything else?"
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Please come tomorrow. Actually, it is Sanjay who is pushing me to core. The name of the core rep is Harry."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, tomorrow is the..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Harry Kims..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Call, right?"
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Tomorrow's the call. So what we're trying to do, it's a infor it's a informatica opportunity. So I basically introduced like, you know, Sanji, we are doing the data quality check. So he spoke to Harry in front of me.\nSo that's how we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, Sunjay..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Got into touch with them."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Has a big deal with Mulesoft. Okay, he just pinged me today that he's working on one big deal with Mulesoft... Which might be very big +300 plus. So..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "He told me..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, we have to get on to that. So that will be one big win with Sanjay and..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A couple of wins with Sanjay. The whole team will get into confidence. That's my motto, so that's where I'm working to."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "It's a big play for us, but he is marketing us to the next level. He was speaking about us to Nicole. He speaks very highly of us."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's good. Let's see."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "So he is a very big shot for us."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Let's try to support him and wherever... Let's see what we can do. But any other progress, Ali, from your side?"
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "I have updated the Dail daily status."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, perfect..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Yes, so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's important..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "I met... Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Days, so. Okay, Ama, how is it going with you?"
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Well, I have updated my tracker. Not sure if you had a chance to see it. Austin..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not good."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Newman was extremely busy, so I did not get a chance to see to meet him. But the will and Michael and... I met three. I mean, I added new opportunities today. I added three opportunities.\nBecause Michael is talking to a few other customers. He said, \"I am not sure about it yet, Amer, but give me some time. Give me till tomorrow so that I can update you.\" Some law firm that he's having a conversation. Three already created.\nYou, Davis, or Stron are part of it. Other than that, they'll let me know this week more. Austin and I have a meeting tomorrow at 09:00 am where he'll debate. He'll tell me two more opportunities that he's currently working on. He said, \"I'm so sorry, I'm so busy.\"\nSo he moved our call a few times. But I'll have more updates tomorrow from Austin Newman about opportunities."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, that's good. Okay..."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Other than... That Kailash, if you look at my PPT between Atlanta, I'm not sure if you saw it, but I have updated..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, I didn't get a chance. I'll do it tomorrow, so I will walk..."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Through it. And..."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Sounds good."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Amma, I have one news as well on the Blockchain JP..."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Just saying that I think the client is looking to work around on the project, but they have some questions, and they are working on the pricing. So I think this month, that may move around. So that's one thing."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "A PayPal flow is something that is definitely going to close. I'm 100% sure there are two opportunities that I feel positive after meeting the... So with both of them, they assured me these will close, and you can forecast it as well."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "While I sat down with all these as I asked them, \"Tell me, what are you forecasting this week?\" Based on whatever you are forecasting, that is what I will forecast to my leadership. So I have either marked lost or won. Even though I am updating Slack where I'm mentioning and I'm tagging you that, \"Hey, Kailash.\"\nSo for example, there's one opportunity which I said that I'm marking this lost on Salesforce. However, the... Have told me I am going to follow up with the customer two more times, but I'm not going to forecast it.\nWe will push this through if it happens..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "amar",
+        "speakerIndex": 4,
+        "text": "But don't forecast it. Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it. Okay, cool. So yeah, I think that is one part of it that's good to know. Okay, I think we are right on the process. So next week, as I said, focus on account mapping meetings to see what we can do and our registration for the event, right?\nThat is very important. I think we are pumping in a lot of buzz around it. Even... Is marketing the event because he's initiating the event. The whole event is planned by him, so he's marketing it as well internally, but he wants us to push to every... That we talk with. Let it be core, let it be anybody.\nOkay, we are working on the plan for happy hour. So don't call out a happy hour right now. But I will tell you by Monday what the plan for happy hour is. Because I told... The same thing that he AI mentioned that there are 200 people in Canada. Everybody wants a happy hour.\nIf you put it open... We need a space and how do we decide on the space? So I think he said that he will come back, he'll talk to fuel leaders and come back. So yeah, as of now, just let them know that we'll be there. 9 to 5 the demos will be running in multiple times, but the first one is scheduled at 11:00 am local time... That will be at 11:00 am and then they can register and RSVP.\nOkay, but probably by Monday... I will keep you updated on how it is. Okay, the third one."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Good s..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The third part is. I think I'll be flying on Tuesday. So give me... I'll have polos from Dataskate, so I'll bring your respective sizes. You can ping me on which size fits for you. Then I will bring that size of the polo for you guys and let me know, Ryan, if you want me to bring those stickers or labels like we discussed. GSA approved or we can say INF partner or MAF champion bringing those ideas as well because it takes me a couple of days to get them printed or whatever is done.\nSo if you guys tell me the size and the codes that you want to get printed, then I will do that. Right? Let's say if you want to say GSA approved on the front, I'll say GSA approved on the back.\nI will just call it out as an info and MAF partner or whatever it is. Give me the taglines and your t-shirt sizes. I'll get you guys while I land in the US, okay?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Okay, Ryan, Otis just asked for the SW for data cleanup on three objects they're ready to sign."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Three objects."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah, three object objects. Can we get ASW...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Give them."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Data cup?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Did we give them a price? $10K or anything else? Okay..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "We haven't given him anything. I'm still waiting back. I haven't heard back from... But he's just pinging right now. He wants an SW for data cleanup on three objects. They're ready to pull the trigger, you saw, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I'll get that generated. No need to wait for him. Ryan, do you want to ask him how much did you... Or should I just send it for $10K and see what he says?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Sen it for ten k. So what he..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Says, I think he said... Wait, didn't he say..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Did you talk anywhere?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "To clean up on accounts, contacts, and ops? It would be for K pack accounts, contacts, ops, it would be a 4K package..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No. He sold it for 4K. Don't tell me, man."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "He said... I know. If we did clean up on accounts, contacts, and ops, it would be for the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "4K package."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It is only accounts and contacts for 4K but ops would be additional."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Okay. So let's just give him the updated SFW and then he can come back."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay sure..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Thanks."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you. Hope you guys... See you. Thanks a lot. Ping me off... Disposing okay..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Yeah, Kailash. Whenever... 5-10 minutes. I can have tomorrow or the day after tomorrow to understand what this account mapping is and how I should contact them."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Account mapping is nothing, right? You are working, you can go to Adam Green's example. I'm just taking an example, right? Hey Adam. Okay, I wanted to work along with you on what Amar is talking about today, right? Hey. What are you forecasting for this month or for this week? What opportunities do you have? Do you think we can get on a call with Kailash and myself, and we'll figure out what opportunities and how we can support you?\nIf we have done something similar in the past, I just want to collaborate and make things better and get things moving faster. So do you think this is something possible that we can do? Right? So..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Slowly we will ask one by one and then as them. Okay..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Yeah, I'm going to pay Max today. He was telling me that he has a client meeting, but he was very busy, so I didn't get a chance to talk to him in detail. But I'm going to pick him up tomorrow. Maybe I'll get a scoping call. Scope for tomorrow. Let's see."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, thank you."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "But your the document you share, it really helps. It really helps."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Okay, cool..."
+      },
+      {
+        "speaker": "aadi",
+        "speakerIndex": 2,
+        "text": "Y thank you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you guys. Bye."
+      }
+    ],
+    "raw_meeting": "**Daily Sales Call**\n🕞 Started at 10:00 PM on 05 Nov, lasted 25m",
+    "raw_content": "aadi | 00:05\nHe ran over.\nryan | 00:10\nA long call you know it strips everything of you. As... Very good one though.\nkailash chanda | 00:20\nRyan, absolute... Are we all good or anything else? Is there with Lucas? That's right.\nryan | 00:27\nYeah, absolutely they're still going back and forth. I know... Servn last... I saw Servan was working on something with him and said that he was going to get some scope. Awesome. Let me scope and...\nkailash chanda | 00:41\nOkay...\nryan | 00:43\nTimeline as soon as possible. And they said, yeah, cool. So it's not as it's not when we met with them yesterday and certainly Davis was there and, Lucas and Amanda and the team and we just went in, we went in.\nIt's a high price. I think we went in like 36k or something like that. And originally we went in like at we originally went at 16. So we tried to like descope it as an MVP with still giving them everything that they need.\nSo I think they're going back and forth now to try to figure that out. But we...\nkailash chanda | 01:13\nWhen is the next one?\nryan | 01:14\nIt's tomorrow.\nkailash chanda | 01:16\nOkay, so, can you add Shawan to the call so that...\nryan | 01:20\nI'm sorry now I'm in the mixed up with Q di absolute next call is Monday.\nkailash chanda | 01:33\nOne day.\nryan | 01:34\nIt's Monday, you're on it and you're going to add... I'll add Davis to it. I mean I'll add a...\nkailash chanda | 01:40\nNo...\nryan | 01:40\nTo it.\nkailash chanda | 01:40\nYeah, you can remove me, you can add someone and Davis, that will be good.\nryan | 01:46\nYeah. Shawan, can I just keep you on there or... I don't. I...\nkailash chanda | 01:49\nYou can...\nryan | 01:49\nCan't remove you.\nkailash chanda | 01:50\nYou can keep me. No worries.\nryan | 01:51\nYeah, because I don't...\nkailash chanda | 01:52\nBut I...\nryan | 01:52\nOwn it...\nkailash chanda | 01:52\nDon't want them to feel that so many people are around. The call from Datask.\nryan | 01:56\nRight? Someone needs access to those opposite mappings, Chairman. I think I just gave them access to something too. Okay, cool. Yeah, so that's on Monday, but we're going back and forth. Then Lucas made a good point. The kid's pretty good. He's like, \"Guys, I agree with them. We're assuming that they're going to say no at the $46 price or at the $36,000 price.\" What we need to do is first we need to get a no.\nThen if it's out of the price range, and then we can descope it and pull things back. So that's where we left it last time. I totally agreed with that. So many times we're like, \"We don't think they're going to do this.\"\nThen we go in and we should have gone in first with what we recommend, here's the entire solution, and then pull it back from there. So I like his approach. So that's what we're going to do.\nkailash chanda | 02:52\nWhere that guy's good, he's good.\nryan | 02:54\nHe's really good.\nkailash chanda | 02:56\nCool. Okay, so, how is it going? Any new scopings added to Salesforce?\nryan | 03:04\nMaybe I need your help on this. I got like two of them that I'm trying to get feedback from that I'm kind of holding Salesforce off right now. One was Jackson. It's called. One one with Jackson, it's called Cornet, and I added you to in Servant, and then the other one, there's and there's...\nkailash chanda | 03:27\nWhich one is... That's the content? Okay, do you need scoping or someone is not replying...?\nryan | 03:35\nYou found our flanks are like most of them and I messaged them.\nkailash chanda | 03:39\nCan yeah can you tell me what are pending corcnet is won...\nryan | 03:44\nYeah. And, ho. You put up and they're both inframatico deals.\nkailash chanda | 03:54\nOkay, I'll take a look...\naadi | 03:58\nOkay.\nkailash chanda | 03:58\nOr both are inf okay...\nryan | 04:02\nYeah, and PayPal solutions PayPal is the one with Ryan...\nkailash chanda | 04:12\nHe didn't share...\nryan | 04:12\nAnd then...\nkailash chanda | 04:13\nThat as well...\nryan | 04:14\nContent with Jackson. I...\nkailash chanda | 04:15\nBoth are...\nryan | 04:15\nShared it both. There are two channels, yeah, both are infra.\nkailash chanda | 04:18\nOkay, I'll pin them as well. I will take a look and get back to you maybe tomorrow morning.\nryan | 04:22\nOkay, cool. Because I sent them both because I sent them both messages about an hour ago, because I know that the team is leaving for the day, so I'm not going to get anything else. So I said, \"Okay, we're still working on this.\"\nJust to make sure that I get back to them before they reach out to me. But, yeah, I need your help on that.\nkailash chanda | 04:39\nNobody's perfect itho that greater than or equal to eleven no eleven one okay, I'm just pulling up sales force. Closed date if I look through November closed date why is CONDX in November? In November? No, closed date is 10:29. Why is this coming ups?\nryan | 05:05\nSo if you look at the filters. I had... I messaged him to look at this because it's...\nkailash chanda | 05:11\nWhich one?\nryan | 05:12\nClosed date i for the closing this month. I messaged you to look at it because it's closed greater than 101. So we have October and November in here. We need to pull all the deals from October. We need to go in there.\nIf they didn't close in October and we think they're going to close in November, we need to move them to November.\nkailash chanda | 05:33\nYou have to update the closed date...\nryan | 05:35\nYeah...\nkailash chanda | 05:36\nYou are not able to update it.\nryan | 05:39\nNo, I've already updated, but everyone else...\nkailash chanda | 05:41\nOkay, everybody...\nryan | 05:41\nWith their deals like if it's 10/30, we need to move it to November, and we need to have this month just be November because we're looking at October and November right now.\nkailash chanda | 05:52\nThe main thing I want is from you guys is I'm sharing my screen, right? So if...\namar | 05:57\nYes.\nkailash chanda | 05:58\nYou see this example auto rabbit right now, we don't know whether this is moving forward or not. We have to check back with the account executive to see that, \"Hey, Bobby Jan, is Auto Rabbit in play or not in play?\"\nIf it's...\nryan | 06:13\nYeah...\nkailash chanda | 06:13\nNot in play, let's close it out, right? So I think that cleanup everybody...\nryan | 06:15\nYes.\nkailash chanda | 06:17\nHas to do your own account. So that way exactly we will know what is there for November and how much carry forward we are getting from October to November, right? This is all from October, right? Whatever input is greater than or equal to close to greater than equal.\nBut now if I add a filter that tells me, \"Okay, created data is greater than or equal to 11/26.\" Now this tells me that new deals coming in November what we created new, right? So that gives us curated events we coordinate.\nSo now see this one, right? I am who created equip equipped created by Amar. Okay, Amar, because we are... You gave it to scoping, you put it here.\namar | 07:14\nYes. That's why I put it in scope, yes.\nkailash chanda | 07:16\nOkay, until we get a price, don't put it here, put it in the deal intro. Once you get a price and scope it out...\namar | 07:24\nOkay...\nkailash chanda | 07:24\nThen bring it here. Okay, that just makes things easier. Okay...\namar | 07:28\nGot it.\nkailash chanda | 07:29\nCool. So that way it will give us the totally around five deals. We got into it six deals, right? So I'm using this formula to do that. But again, update all of your deals with a closed date. What is not going in?\nSo that way we will know exactly what is happening. Any update on commerce law or how is it?\nryan | 07:52\nYeah. So commerce law we're meeting him again. I just gave him a breakdown of what we would need in order to... Because we're still trying to push to have that manual resource, right?\nkailash chanda | 08:03\nOkay.\nryan | 08:03\nSo he wanted to know what we need to know in order to scope out the manual resource. So I just threw it in GPT and gave a list of five questions of what we need to know. I gave it to him. So he's going to get answers from the client, so we're going to be able to scope that out.\nkailash chanda | 08:38\nOkay, perfect. So perfect. I think right now we are going to build an agent on top of this, all of our sales. So that way for who we are... They can just ask the agent and get more details.\nSo that way updates will help everything to get into play. 80/20. Anything from this female or...?\nryan | 09:06\nYeah, Sam is still working... I just talked to her yesterday about it. She's still working, going back and forth with it. So yeah...\nkailash chanda | 09:14\nIt's still well...\nryan | 09:14\nStill hoping to get it in...\nkailash chanda | 09:15\nIn progress. Still want integrated... Okay, that's nice. Okay, that's cool. Any other thing that you see, Ryan, that you feel will carry over blue dot safe? I...\nryan | 09:25\nMore still.\nkailash chanda | 09:25\nThink this is from Ryan's notice.\nryan | 09:29\nYes, I have to reach out to him on blue dot Auburn. I'm still working with Sonny on that.\nkailash chanda | 09:37\nOkay...\nryan | 09:39\nYeah, Commerce design Infinity, I'm going to call him. I don't know if it's this month. But... I'm going to call him. But, yeah...\nkailash chanda | 09:51\nThe best way to get updates of all the pending accounts from every account executive is to try to get an account mapping right, so you don't have to ask for an account mapping request. Say that. \"Hey, we have worked on five to ten, three to four deals last month, and we have a quick ten to fifteen minutes check to verify all of these accounts, and then try to get an account marketing request where we can say that hey,\nwhat are these current accounts or her current accounts, and where we can help and support too?\" So that way we will have more information on how to bring more revenue into your buckets, right?\nSo probably by November 13th, try to schedule at least three account mapping calls from each one of you. So that way at least we'll have nine mapping accounts, nine account mapping calls. Then that will be a good way to start with.\nThen we'll understand we'll get the old updates, and we can talk and figure out what the new updates are. Okay. So when you get these account mapping requests or meetings set up, add me into the calls, and I want to chime in and see... We can give more info on the technical side.\nI know I don't want to pull Davis or Shishan or anybody directly in there. So first, let's get onto the call, give them the technical updates they want, and then slowly, we can get into the scoping and then go to Davis and others.\nOkay? So by thirteen...\nryan | 11:27\nI have a question...\nkailash chanda | 11:28\nYeah...\nryan | 11:30\nAbout account mapping. So let's say I have Sonny, who I have three or four deals with you. I'm going to set up a call with him...\nkailash chanda | 11:36\nA call with them. Yes.\nryan | 11:38\nHave you on it so we can... Okay? Sure.\nkailash chanda | 11:42\nOne thing is about the old accounts, Ryan. Like whatever, with Sonny, you have three accounts we will casually discuss, you can state the conversation, and then we will talk about the new accounts. Hey, what is the pipeline looking like? What's going on, what's the next thing that you have, right?\nThen he will say that, \"Okay, I have four accounts and these are the things.\" Then any technical thing that is there. I will help you guys on that call itself so that they can win that confidence and get into motion there.\nRight? So what happens right now is without account mapping. If Ryan is an account executive, Ryan feels okay. This deal is better to go to Dataskate then they are coming to Dataskate. What happens with account mapping is we can say that, \"Hey, we are strong here. We didn't already do this scenario. Let's do it.\"\nRight now it's happening in the reverse way. The account executive is coming. Did you do it in account mapping? Did you do QuickBooks Desktop? But if we get on an account mapping call, you have four accounts.\nOkay, can you give me the use cases? Don't share me the accounts, let's start slowly, right? Okay, what are the scenarios and the things? Okay, this one we did it already. I did this one. I have a client reference, we will talk to you. It was a challenge. We resolved it, we'll try to build it.\nSo what happens is that way our relationship will improve from the tiers, right? More we will get into one and two and then it gives a sense of confidence for us. We know that we are going to get so many deals, right? That will be more better is what I feel. Let's try it out and start doing that, okay? Cool.\nOkay, Ari, and about any of your accounts that are closing in...\naadi | 13:30\nWell, I have sad news that both of them slipped away. One slipped because another integration partner came into play.\nkailash chanda | 13:41\nIs that not the one, right? CF Bank shares. Which partner took it in?\naadi | 13:50\nSeef shares...\nkailash chanda | 13:50\nYou know...\naadi | 13:51\nThe account, but they didn't give me any information on who's the partner. It's actually... It's not running by Nicole, it's actually running by some core, and I spoke to Nate today. The client is out of budget, so it's closed now.\nkailash chanda | 14:18\nOkay, so I am just reaching out to say that. Okay, what is CF Bank shares? Who was the...? It's an info opportunity, right?\naadi | 14:37\nIt was an info opportunity.\nkailash chanda | 14:43\nGot it. Good. Okay, that's good. Okay, and what's the other one...?\naadi | 14:55\nThe other one is from Nicholas. Name of the company CF sorry, got confused CF banks shares is by Nicholas. It came from O. And. With Nate. It was, where is like name it was...\nkailash chanda | 15:21\nOkay, so that's where we want to bring... Went with somebody...\naadi | 15:29\nNo, that, they're out of budget now.\nkailash chanda | 15:32\nBudget. Okay, got it. Okay, cool, no worries, I will get that done. Okay, I'll find out whom it is assigned to and what it is. The earlier one you said by... Who was the account executive? I'm sorry guys, I'm missing it.\naadi | 15:49\nOkay, I'm gonna I can repeat no problem.\nkailash chanda | 15:51\nNicholas Veci, right? Nicholas Vecci is for.\naadi | 15:53\nSo Nicos...\nkailash chanda | 15:54\nOkay.\naadi | 15:54\nVig yeah...\nkailash chanda | 15:54\nI'll reach out to the...\naadi | 15:55\nNicholas Virg...\nkailash chanda | 15:55\nAP. I'll reach out to the Arab, nobody's... Okay, cool, okay, anything else?\naadi | 16:03\nPlease come tomorrow. Actually, it is Sanjay who is pushing me to core. The name of the core rep is Harry.\nkailash chanda | 16:12\nOkay, tomorrow is the...\naadi | 16:13\nHarry Kims...\nkailash chanda | 16:13\nCall, right?\naadi | 16:15\nTomorrow's the call. So what we're trying to do, it's a infor it's a informatica opportunity. So I basically introduced like, you know, Sanji, we are doing the data quality check. So he spoke to Harry in front of me.\nSo that's how we...\nkailash chanda | 16:32\nYeah, Sunjay...\naadi | 16:32\nGot into touch with them.\nkailash chanda | 16:33\nHas a big deal with Mulesoft. Okay, he just pinged me today that he's working on one big deal with Mulesoft... Which might be very big +300 plus. So...\naadi | 16:45\nHe told me...\nkailash chanda | 16:46\nYeah, we have to get on to that. So that will be one big win with Sanjay and...\naadi | 16:52\nYes...\nkailash chanda | 16:52\nA couple of wins with Sanjay. The whole team will get into confidence. That's my motto, so that's where I'm working to.\naadi | 16:59\nIt's a big play for us, but he is marketing us to the next level. He was speaking about us to Nicole. He speaks very highly of us.\nkailash chanda | 17:08\nThat's good. Let's see.\naadi | 17:10\nSo he is a very big shot for us.\nkailash chanda | 17:13\nLet's try to support him and wherever... Let's see what we can do. But any other progress, Ali, from your side?\naadi | 17:19\nI have updated the Dail daily status.\nkailash chanda | 17:23\nOkay, perfect...\naadi | 17:24\nYes, so...\nkailash chanda | 17:24\nThat's important...\naadi | 17:25\nI met... Yeah.\nkailash chanda | 17:26\nDays, so. Okay, Ama, how is it going with you?\namar | 17:35\nWell, I have updated my tracker. Not sure if you had a chance to see it. Austin...\nkailash chanda | 17:39\nNot good.\namar | 17:40\nNewman was extremely busy, so I did not get a chance to see to meet him. But the will and Michael and... I met three. I mean, I added new opportunities today. I added three opportunities.\nBecause Michael is talking to a few other customers. He said, \"I am not sure about it yet, Amer, but give me some time. Give me till tomorrow so that I can update you.\" Some law firm that he's having a conversation. Three already created.\nYou, Davis, or Stron are part of it. Other than that, they'll let me know this week more. Austin and I have a meeting tomorrow at 09:00 am where he'll debate. He'll tell me two more opportunities that he's currently working on. He said, \"I'm so sorry, I'm so busy.\"\nSo he moved our call a few times. But I'll have more updates tomorrow from Austin Newman about opportunities.\nkailash chanda | 18:45\nOkay, that's good. Okay...\namar | 18:47\nOther than... That Kailash, if you look at my PPT between Atlanta, I'm not sure if you saw it, but I have updated...\nkailash chanda | 18:52\nNo, I didn't get a chance. I'll do it tomorrow, so I will walk...\namar | 18:56\nOkay...\nkailash chanda | 18:56\nThrough it. And...\namar | 18:58\nSounds good.\nkailash chanda | 18:59\nAmma, I have one news as well on the Blockchain JP...\namar | 19:04\nOkay.\nkailash chanda | 19:04\nJust saying that I think the client is looking to work around on the project, but they have some questions, and they are working on the pricing. So I think this month, that may move around. So that's one thing.\namar | 19:19\nA PayPal flow is something that is definitely going to close. I'm 100% sure there are two opportunities that I feel positive after meeting the... So with both of them, they assured me these will close, and you can forecast it as well.\nkailash chanda | 19:35\nOkay...\namar | 19:35\nWhile I sat down with all these as I asked them, \"Tell me, what are you forecasting this week?\" Based on whatever you are forecasting, that is what I will forecast to my leadership. So I have either marked lost or won. Even though I am updating Slack where I'm mentioning and I'm tagging you that, \"Hey, Kailash.\"\nSo for example, there's one opportunity which I said that I'm marking this lost on Salesforce. However, the... Have told me I am going to follow up with the customer two more times, but I'm not going to forecast it.\nWe will push this through if it happens...\nkailash chanda | 20:14\nOkay...\namar | 20:14\nBut don't forecast it. Okay.\nkailash chanda | 20:16\nGot it. Okay, cool. So yeah, I think that is one part of it that's good to know. Okay, I think we are right on the process. So next week, as I said, focus on account mapping meetings to see what we can do and our registration for the event, right?\nThat is very important. I think we are pumping in a lot of buzz around it. Even... Is marketing the event because he's initiating the event. The whole event is planned by him, so he's marketing it as well internally, but he wants us to push to every... That we talk with. Let it be core, let it be anybody.\nOkay, we are working on the plan for happy hour. So don't call out a happy hour right now. But I will tell you by Monday what the plan for happy hour is. Because I told... The same thing that he AI mentioned that there are 200 people in Canada. Everybody wants a happy hour.\nIf you put it open... We need a space and how do we decide on the space? So I think he said that he will come back, he'll talk to fuel leaders and come back. So yeah, as of now, just let them know that we'll be there. 9 to 5 the demos will be running in multiple times, but the first one is scheduled at 11:00 am local time... That will be at 11:00 am and then they can register and RSVP.\nOkay, but probably by Monday... I will keep you updated on how it is. Okay, the third one.\nryan | 21:45\nGood s...\nkailash chanda | 21:46\nThe third part is. I think I'll be flying on Tuesday. So give me... I'll have polos from Dataskate, so I'll bring your respective sizes. You can ping me on which size fits for you. Then I will bring that size of the polo for you guys and let me know, Ryan, if you want me to bring those stickers or labels like we discussed. GSA approved or we can say INF partner or MAF champion bringing those ideas as well because it takes me a couple of days to get them printed or whatever is done.\nSo if you guys tell me the size and the codes that you want to get printed, then I will do that. Right? Let's say if you want to say GSA approved on the front, I'll say GSA approved on the back.\nI will just call it out as an info and MAF partner or whatever it is. Give me the taglines and your t-shirt sizes. I'll get you guys while I land in the US, okay?\nryan | 22:47\nOkay, Ryan, Otis just asked for the SW for data cleanup on three objects they're ready to sign.\nkailash chanda | 22:53\nThree objects.\nryan | 22:56\nYeah, three object objects. Can we get ASW...?\nkailash chanda | 22:58\nGive them.\nryan | 22:58\nData cup?\nkailash chanda | 22:59\nDid we give them a price? $10K or anything else? Okay...\nryan | 23:02\nWe haven't given him anything. I'm still waiting back. I haven't heard back from... But he's just pinging right now. He wants an SW for data cleanup on three objects. They're ready to pull the trigger, you saw, right?\nkailash chanda | 23:13\nYeah, I'll get that generated. No need to wait for him. Ryan, do you want to ask him how much did you... Or should I just send it for $10K and see what he says?\nryan | 23:28\nSen it for ten k. So what he...\nkailash chanda | 23:29\nOkay...\nryan | 23:29\nSays, I think he said... Wait, didn't he say...\nkailash chanda | 23:34\nDid you talk anywhere?\nryan | 23:35\nTo clean up on accounts, contacts, and ops? It would be for K pack accounts, contacts, ops, it would be a 4K package...\nkailash chanda | 23:40\nNo. He sold it for 4K. Don't tell me, man.\nryan | 23:43\nHe said... I know. If we did clean up on accounts, contacts, and ops, it would be for the...\nkailash chanda | 23:47\nNo...\nryan | 23:48\n4K package.\nkailash chanda | 23:49\nIt is only accounts and contacts for 4K but ops would be additional.\nryan | 23:56\nOkay. So let's just give him the updated SFW and then he can come back.\nkailash chanda | 24:00\nOkay sure...\nryan | 24:02\nThanks.\nkailash chanda | 24:03\nThank you. Hope you guys... See you. Thanks a lot. Ping me off... Disposing okay...\naadi | 24:09\nYeah, Kailash. Whenever... 5-10 minutes. I can have tomorrow or the day after tomorrow to understand what this account mapping is and how I should contact them.\nkailash chanda | 24:18\nAccount mapping is nothing, right? You are working, you can go to Adam Green's example. I'm just taking an example, right? Hey Adam. Okay, I wanted to work along with you on what Amar is talking about today, right? Hey. What are you forecasting for this month or for this week? What opportunities do you have? Do you think we can get on a call with Kailash and myself, and we'll figure out what opportunities and how we can support you?\nIf we have done something similar in the past, I just want to collaborate and make things better and get things moving faster. So do you think this is something possible that we can do? Right? So...\naadi | 24:57\nOkay.\nkailash chanda | 24:57\nSlowly we will ask one by one and then as them. Okay...\naadi | 25:00\nYeah, I'm going to pay Max today. He was telling me that he has a client meeting, but he was very busy, so I didn't get a chance to talk to him in detail. But I'm going to pick him up tomorrow. Maybe I'll get a scoping call. Scope for tomorrow. Let's see.\nkailash chanda | 25:17\nOkay, thank you.\naadi | 25:18\nBut your the document you share, it really helps. It really helps.\nkailash chanda | 25:24\nPerfect. Okay, cool...\naadi | 25:26\nY thank you.\nkailash chanda | 25:27\nThank you guys. Bye."
+  }
+}
