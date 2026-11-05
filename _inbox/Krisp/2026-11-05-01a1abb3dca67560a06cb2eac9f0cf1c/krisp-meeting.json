@@ -1,0 +1,808 @@
+{
+  "id": "01a1abb3dca67560a06cb2eac9f0cf1c",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1a7749d6b76f9885fb524277255f3",
+      "title": "Kailash / Tahseen",
+      "duration": 1957,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "0vhvafddn8sbakr1nv8vm3fm7v",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "ttaj@runarmarketing.com"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ],
+      "start_date": "2026-11-05T12:00:41.981Z",
+      "end_date": "2026-11-05T12:33:18.981Z",
+      "url": "https://app.krisp.ai/m/01a1a7749d6b76f9885fb524277255f3?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Stop in my... Join in the... Hey, that's it. How are you...?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Good. Thank you. How are you?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Doing? Good, give me one second..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No worries, take your time."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sorry. Okay, so yeah, how about you?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Good, how are you?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm doing good, thank you. So yeah, again, nice to meet you. I'm Kailash. I am a co-founder for Dataskate. I had the integration and automation."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The Kailash voice is sounding a bit distant... I'm having trouble hearing you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Is it better now?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Okay. So I'm a co-founder at Dataskate. I had the integration and automation for Dataskate. We cover North America's both America and Canada as of now and looking out for further expansion next year. Currently, we are catering to small and medium businesses as part of Salesforce."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Interesting. So you're just like a Salesforce partner or an Mulesoft partner as well?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So basically we started off with the Mulesoft partnership and right now we are we started doing even Salesforce.."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, interesting. So when did the sales first consulting start?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Salesforce I would say probably we started this year around March."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, pretty decent then."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes. Prettycent, Mulesoft, we have..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Been in the ecosystem for a long time, I..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Would say close to eight years, but Salesforce, we started out very recently."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Interesting. And then where are you getting most of your business and inquiries from right now? I mean, you said the Americas, but..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Is it primarily relationship-driven or are you guys doing any marketing around it?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's relationship, and the account executives that we are working along with Salesforce."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so you've got a partner like partner account manager or something alliances..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I won't say partner account manager. We work with the account executives inside Salesforce with the AVP and RVPS and then get introduced to them with the deals."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Got it. So how did you come across Ronard?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We were looking out for somebody who can help grow our presence strategically inside the Salesforce ecosystem. That's where we found a couple of organizations, and Ronard was one of them."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Wow. Because I started this business one and a half years ago, so I'm being a marketer, I'm very curious to find out. Was it online, was it through LMS, or was it through LinkedIn? No way. Wow."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah. So that's because we were looking for some organizations or partner alliances who provide specific Salesforce partner services right along..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I see."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "With some marketing. That's where we saw Ronard and then we thought, okay, this sounds... It was more interesting to see a separate tab itself or a page for Salesforce Partner Services. That's where it caught our attention to understand what you guys do and how you can help us to take it further.\nBut so that's the whole plan."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, absolutely. And I'd love to learn more because I think. I mean, of course you've got like the marketing side of it, the partner alliances side of it and of course, the sales side of it, and the lines kind of get blurry in terms of like, who does what at some point.\nSo I mean, you must have read already. I was a Salesforce for six and a half years. I to lead global partner marketing and through that I used to work very closely with the ISCS and SI Partners. I was based in London and I moved to Dubai almost two years ago, and I started my own, gig.\nSo yes, I work with the I SI partners and both S as well as IC partners in the capacity of like either a fractional C or project and you know, or project based where they are like, okay, this is what we want.\nAnd I think with the size. And I actually did like a workshop that's why the LL must have picked up was, I did a workshop with Salesforce where because a lot of the consulting partners like. How do we strengthen the relationship with Salesforce as and how do we kind of, you know, gain their mind share, right, and mind share and credibility and be on top of mine?\nSo you get pulled into the deal and everything. So I did that with Salesforce in Dubai and was quite, I mean, was well attended and stuff. So that's something that I do as well. And with most of the partners that I work with, I'm like, you need to sit down and look at what your you know, the foundations, right?\nLike what is your differentiation? Because there are just so many I partners. And say for is as you know, it's very easy to differentiate based on the product feature. For SA, it's difficult. And you know, of course you can add the advisory and you can add the industry angle to it, all of that.\nI think the first part of the engagement is usually. Okay, can we just sit down? Workshop. Okay. What are the things that we really want to communicate? And this is our USB this is our you know where our sweet spot commercially where we can win and we can help Salesforce win as well.\nAnd then how do we articulate this and then you know, have the same messaging to the a same messaging to the customers. So there's no cohesiveness because what I find that you know as most of the SSIS like they're different digital foot footprints say different things.\nSo. So they don't understand. And a lot of it comes to the as to decode what they do. They don't have the time. They have like 10000 things. And right now I think Mark is behind them to sell AI SI ports or whatever he wants to call it right now with we all midterm elections are going to go with Trump.\nSo I don't know. I don't see the red. I see the blues. So we. We don't know what's going to happen. So yeah, so I mean, having said that. So there's a lot going on. And the thing is, like I always tell them that you of course Salesforce is one, but you have to build your own demand engine just because there's so many we all keep happening and all of that, right?\nSo this is all that I can obviously help you with. And the second part is actually having someone who can build those relationships for you for the. As for the RV PS and stuff get you those, you know, pull you into the deals and everything.\nSo that's more of the partner alliances."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If. I'm sorry to..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Stop you, but..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sure. Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Are you okay to. Can you record this session? So that way it'll have..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'm recording this already, so you'll see it in the meeting in white."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Offit. Okay, thank you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I'm not recording the call, but hang on, I'll record it. I'm just transcribing it, but let me hit record."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, yeah, I think one of my other co-founders wants to join, but he's running late, so I just wanted to see that."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, I'll record it. I was just transcribing it, but I'll record it as..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Well after..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That. So yes. So I think there's a second part is like having someone. So I do work with like a specialized because she's a Salesforce Pam, she's to do..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Partner on management and all of that. So I have that network I have a CO as well. Again, EXHALESCORE because this is in my community now. So I might not be sitting here in Dubai, I might not have relationships with the as and RVPs in the US however, I have worked with ICE, an SI partner in the US to help them build that momentum because ultimately you need the decks and offerings. What do you want to see?\nAnd crystallize it more and then do luncheon learns for the ES again? What are you going to show to them? You cannot talk to them about \"This is what we do. How can you help them?\" Been so kind of getting that clarity is something that I can do.\nBut on the other hand, if you want someone to have... Because you'll need this foundation anyway. Then you take this foundation and activate it in the ecosystem. That could come through specialized partner alliances. A person who can do that full-time, fractionally, or a number of hours in a month or whatever you want to do so that I can help you get introduced to people.\nBecause honestly, I don't think I'll be... I can do that here in Dubai. So most of these contacts are in the US..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So they are part of your orc that'sin. Or is it just the relations..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That do..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Work with them on, like a referral slash specialized sports because I'm like, okay, I'm working. Then I work closely with you to transfer this knowledge so then you can take it because what happens is even afterward, they still require marketing support where they are like, \"Hey, I'm going to do this. Can you look at the presentation or can you look at a couple of other things or look at the email campaign that's going?\" And I'm like, \"Okay.\"\nBecause then that becomes... They will have kept in terms of getting the number of meetings with the... All of those things that are not tied to me and that's just going to be unresk.\nSo I partner with them, I'm like, \"Look, you are specialized in that, I'm specialized in this, so it's just an easy transfer of knowledge and...\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Knowledge and like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So it would..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Of the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Be a more collaborative approach between you and... I don't know if they're an individual or they're the other..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, individual..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Person. They are individuals."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so they would kind of..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So just like me, I have an advisory then. So then usually I mean depending on you because there... I feel in the recent time you have both... Whatever your budget is, I guess."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it, I think easier. Here I go."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Hey, how are you?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Good, thank you. How are you?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So we were just..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Go ahe."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Discussing... Ago on how and what... Blunar Marketings provides services specific to Salesforce Partnership Services. So that's where... She was letting me know that she has a couple of folks who are independent and outside... Runar who acted as a partner account manager and crossed for Salesforce and generally... Trained ties up with them to serve with the Americas as... Tharcin is located in the... If I missed something to recap the... Please to cover that up."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, I mean the only thing is I think... Google market has so many different angles to it, right? Like you would still need the foundation, you'd still need the messaging, and the narrative to articulate what's the value that you bring to those as to help them take you seriously because they are bombarded with meeting requests from all across.\nSo I still feel that that's a foundation bit where it's very marketing-heavy. Then you've got a mid-section where you have collaboration of marketing and sales, in this case, the partner alliances, and then it's partner alliances, right?\nSo I almost break this up into marketing and partner alliances and then partner alliances. Who can just take this and run with it? Because ultimately, if you don't give them enough material, they are not going to succeed because your messaging and everything is going to be very fragmented and the stuff that they would need.\nSo hence, I mean, yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So when you break down marketing, can you go a bit more in detail on what you cover in marketing as part of the service?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So as I said, there are two engagement models. One is a fractional CMO, so where we don't have... We know, okay, this is our challenge. Then I've got 10, 20, or 30 hours, and then I sit down with mostly... I think, again, you've gone through my website.\nBut my whole value proposition is that I work with founders. So I'm not like an agency where I'm like, \"Okay, you tell me what to do.\" I want to sit down with you and brainstorm how we can actually build authority and convert that into a pipeline, right?\nSo that is something for a fractional CMO, and then when we can decide, okay, this is the challenge, and do a three-month thing where we define these are the challenges we are facing. This is a solution, and we can go with it from marketing right from messaging positioning to launching an actual campaign as well. The other side is more product based.\nBut you are like, okay, you know what? We might probably already have a team and we might not need someone like for on a factctional CMO basis, but I just want you to fix like our messaging or positioning to Salesforce or like have a study session with us that we see.\nOkay. This is what we this is what our goal is. And what are the XYZ things that we could do? And then I can help you with it. And honestly, as I like with marketing, there are so many that if you want to generate lead like long tail, the qualified lead.\nSo then I can help you with like, thought leadership piece, a contest, inndication, you know, roundtables and all of those things as well. And lastly events. So like, I work with another SI for Dream Pours.\nSo like, how do they maximize ROI from dream poss? And like they this year, they didn't even, sponsor Dreamforce, they were just going. So they're like, okay, they see, we don't have enough budgets right now, so how can we maximize what we are doing to get most meetings?\nAnd again, a lot of it is simplifying what the showcase and then kind of bringing more clarity and focus."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For the odds that you have worked with on the marketing side of it, are they region-specific? Or did you serve any of the part SA partners who were part of North America? Or is it the other part of the world like Europe and Asia?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Of the world like the Europe and ABI..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. So both... I mean now, because it's been as I said, I'm just one and a half years in the business. So I have worked with clients in the US, in Europe, specifically in the Netherlands and the UK, where I was based. India, Dubai, obviously, and then I'm having conversations with partners in Sydney as well. Australia, yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So all of..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So I think that phase to... Is very favorable in terms of time zone."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I think you stand much favorable for E or the West and the East. So while working with multiple partners in. I wanted to understand what were the kind of approaches. Or I would not say approach, but the requirement on these clients is to enter into Salesforce ecosystem. Or what was their kind of requirements that you catered mostly to?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sure. So I think again, as I said, it's varied, right? So for example, one could be as I said, like the partner in the US. I helped them engage more with Salesforce. How do they get more visibility to Salesforce? Helping them with lunch and learns and figuring that thing out. That was for the US one of the clients there was an SI and we merged together.\nThen a lot of it was okay, how do we go to market with Salesforce? So I did a lot of interviews with people at Salesforce and figured out what their messaging and positioning is going to be within Salesforce.\nSo that was one of the ideas. I already told you about Dream Pose. Then, I mean, one of the clients that currently I'm working with from the Netherlands, they've been in business for four or five years. They don't have a demand engine, so we're building a demand engine.\nWhile they actually focus on not just Salesforce, but how can we get them more long-tail leads so that they are not overly dependent on Salesforce for it? So I'm helping them build the pipeline to... Sorry, authority to pipeline engine.\nThen yes, and I think on the fractional CMO, these are all project-based, right? On a fractional CMO basis, it's really what they want. So a couple of my clients are based in Dubai. They don't have a marketing person.\nSo then I literally do everything for them from... So they were sponsoring agents for the Burj Khalifa and Dubai, so helping them with the logistics meetings, running round tables for them, running lunch and lunch for them in the Salesforce to buy office.\nSo all of those things."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So as part of marketing, is it outbound, the only thing you cover? Or as you mentioned, thought leadership posts and other posts on LinkedIn and other activities as well?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. So that's all content. So content is fine. What I don't do yet is performance marketing because performance... I feel like there are much more specialized agencies, so that's not something that I specialize in.\nSo I mean, for those things, you would rather go to a specialist agency. Is that something that I don't do? All the others I do because again, I do have a team of writers and a team of content syndication where we can launch these campaigns and get those qualified leads."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it? Are there any questions from you side?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So how you entered into Salesforce and what is the story?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That's an interesting one. So I've always been in tech marketing, and I was actually in India as well to work with this company called Persistent Systems. Yes. So that time, it was not as big as how it's become.\nYeah, I was in Pune, then I moved to London. Then, yeah, I mean, with Persistent Systems, I used to take care of marketing of different partnerships. So that time they had open stack and Salesforce was obviously quite big.\nSo I used to work with the sales team in the US for marketing to the back like ten years ago and 15 years ago actually. So, yeah, that's how I came to think about Salesforce. I think Salesforce has always been a very... It's a dream company.\nWhen I went to London, that's it, I got a job at Salesforce. Not very easily, because it took some time, at least a couple of years, to get into Salesforce. But yeah, since I'd already done this part of it and I knew how App Exchange...\nYeah, I got into it. Then, yeah, I started as a manager and very locally in London, and when I left, I was director of global partner marketing."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "So your customers currently in North America, are they like a larger size or boutique size? What?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So boutique, I don't think large because you know what the large ones are with Summit and stuff, they already have teams and they already have a big budget. I don't think that... They have partner account managers from Salesforce.\nSo partner marketing managers from Salesforce, right? So they don't engage with me. For me, it's usually smaller and midsized companies that I have. Having said that, I worked with this company called 360 Degree Cloud in India, and they have, I think, around 6,000-7,000 employees. That was a big one where they already had a team. They had a vice president of marketing, but ST was a founder. He still got me for... I was kind of working as a faculty CMO for almost six months with them."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, so how many customers do you have currently in North America?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So North America, I mean, mostly it's for me, it's on a fractional same-mo basis. I don't really take it. Most of them are product-based. So I currently have none of the products have ended already.\nSo I bought one in the pipeline, which hopefully should convert. But there were three customers, all projects. So one which I said was an SI, the other was... One was the merger of SSI and... I did the to-market strategy for them for Salesforce."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. So do you have anyone in the US? Who takes care of...? Okay, so what are their roles? Who works for you in the US?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So they don't work for me. I partner with them. So basically, there's this whole thing if they have any marketing thing, it comes to me. I've got the sales thing. I just referred to them. Or then if there's... As I was just telling Kailash as well that they want foundational stuff and then go to alliances, and they work with me.\nSo I have, as I said, a network of all of these folks. So yeah, if you need me, I can help you. I mean, on the call, I want to understand what exactly your requirement is. Is it primarily to have someone build those relationships with the as and... PS in the US, or is there something else? Accordingly, either I can introduce you to someone or figure out if that's something that I can help you with."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Tell us you want to go here."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So two things here. We want... As I told you, we started off with Mulesoft here, and we are currently serving the small businesses. A couple of requirements, one is to increase our presence on the core side. Two is to go into the next level of the market and expand, right?\nThat's the growth market. So currently we are working, but we want to expand ourselves and have more coverage in the growth market. So that..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The growth..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Way. And a commer..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Markets would be..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sorry..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In the business segment in North America."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, yeah, in the North America like GRB and then the commercial part of it, right? So we want to currently..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Got it..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We are serving the small business and now we want to kind of move forward into the growth and the commercial part of it. And likewise..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Got a it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Increased the presence. As I mentioned, we started off our Salesforce practice in March, and we want to have increased the services on the core products sales, cloud, service cloud, and health cloud.\nRight on these parts of..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, interesting, cool. I mean, if that's the core idea of it. So again, as I said, I can help you with foundation methoding and stuff, but if you need someone that will be more specialist or ideally based in the region...\nRight? What I'll do is if there's any more information you want to share, you can. Then I can just send out an email to a couple of folks that I already know and then have them introduce you. As I said, most of them are Excel Force, so it's just easier. They know how they work, they know they work for the as and stuff, so it just makes sense.\nThen if in that process, if they require... As I said, they require more marketing in terms of the support like the foundation, the assets, and everything, then obviously, I can build those for you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But these contacts that are based out of the US that you mentioned have worked with partners of the small and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Medium businesses..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I mean, that's where that's what the speedspot is, I feel. So you're talking about the size of the businesses that they worked with, such as yours, such as you, right? Like yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's right."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I mean, that's what I'm saying. That's the sweet spot because I feel that these are scaling partners. So they're not startups, but they are scaling. That's the segment that requires the most amount of support.\nI speak that on behalf of marketing as well as alliances."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it. Okay, so yeah, I think that would be great if we could get through the introductions there, but..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sure..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Likewise, look through on the marketing and branding side as well to see what it is."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, no, perfect. Sounds good. Let me just give you a couple of days. I'll just summarize the call and everything and send it over to them and see who's interested and then make the introductions."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sure, I think that's great."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Cool, thank you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "And thir. So what will be like I want to understand like what will be your cost like if you have to do our marketing like whether it is like found laying foundation or like a even setting up our because currently we don't have any like a strong marketing foundation.\nSo we started with like all a relationships. So like we were getting projects. So we didn't concentrate much on either marketing or branding. But now we are in a position where like, if we have to scale, we have to set that up like whether it's marketing or branding.\nSo like we want to understand your services and the costs so that like we can see if you can be our CMO or under drive our marketing."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah. So I think in terms of... I can summarize this in the email as well afterward. So for fractional CMO, I've got packages from 10-10, 10 hours, 20 hours, 10 hours, 20 hours, 30 hours. These are the packages starting from $2,500 up to $6,000.\nThat's depending on every month. You get so many hours. Or on the other hand, that will obviously depend on the scope of the project, but they all start at $2,500 beginning where we are like, \"Okay, this is what we wanted.\" Or use it.\nWe say, \"Okay, we want to have X number of assets or we want to launch X number of campaigns in three months or four months.\" Then you know that defined timeline and scope and everything.\nSo then that's product-based. Or if you look... Or if you say, \"Actually, I don't know what I need.\" So we said, \"Okay, let's just start with a fractional samemo, and you'll get more value for money because that way you're not tied in.\" This is out of scope and this is out of timeline and all of that.\nSo then those are the two engagement models that I work on."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. So I think we will be mostly interested in the second one. Frankly, as you told, right, we still don't know what we need in marketing. So I think the fractional CMO will suit us. So you can send us a proposal.\nWhat is your backend team? Who do you have? If we need some branding, whether it is a redo of our website or redo of our link in and those things... Do you have a team?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes, I do. In fact, I can share examples. I literally did one for Statskarta. Statskarta is a specialist revenue cloud provider. So we did that whole thing. So we started with the method because doing the website has two components. One is obviously the aesthetics and the look in the field, but content, right?\nYeah, so it did like messaging and positioning workshops distill down. Okay, what is your value? What is something that you want to showcase? Because I think gone are the times when we filled the website with 50 pages. No one has the time. You just tell me what you do and make it simple.\nIf you're not able to explain that to me in ten seconds and it's already gone right then, optimize it for the fact that I was so happy. I'm sorry, I'm digressing. I was so happy when Kailash said that he found me on LinkedIn. It's because I put a lot of content on LinkedIn, and if you look at LMS, they have the crawlers and they get...\nSo again, putting out thought leadership pieces, it's not about engagement, but making sure that Loom picks it up or if your... Goes and looks at your website or your listing and all of those things, just making sure that all of these things are cohesive.\nSo long story short, yes, we've done this. We have a website team, we have obviously the content team as well, and I can send you examples of what we've done in the past. But again, all of these things are aesthetic. It all comes down to messaging and positioning because if you don't have that, you can have the best website.\nBut yeah, you don't understand what you do. It does not make sense. So I always tell them, it's just to get the messaging thing. Then all of these things can be easily sorted."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "When you say messaging, it is like an outline of what you're talking about or like, what exactly is this messaging?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So messaging is like, you sit down there. So I'll probably have a workshop with them, the two of you. We sit down and we find out, okay, where are you operating and which sets you apart from the others? What is the value that you want to communicate?\nI get into really details as to why... Why should they take you seriously? Then I come down with a messaging hierarchy. Do we have time? We've got one minute. But I can share an example of what I did with status because that's exactly what we did.\nSo then we need to have a messaging hierarchy because once you have the hierarchy, what is it, why should they take you seriously? All of those things. Then you can take that messaging hierarchy and have the same message on your app exchange listing and have the same message to E so that there's cohesiveness.\nSo your digital footprints are not talking or your collaterals are not talking about something else. It's distilling that down is the workshop. So where we find out the messaging positions, positioning, and proposition and create a hierarchy for you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So when..."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, next."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You say an... These are... It's a marketplace for the solutions or the products that we build to run through."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, which is called Agent Exchange now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes, so you guys have a listing on AppExchange, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, we don't have a listing..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So then... How are you? So you're not a Salesforce partner?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We are the source partner. But I don't have a product that is part of AppExchange."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No, but you have solution SI partners on Agent Exchange."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I haven't looked through, to be honest. Still, now that if we are listed on."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Do you have to get that? My God. We have to get that sorted for you because, I mean, of course, they've got the product but... For is sus, but they've got listings for us as well..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so it briefs out on what we are or what exactly happens when an SS is listed on the app exchange."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So two things. Honestly, if you tell me... Let me open it for you. If you tell me that, am I going to get a lot of enquiries from the app exchange/agent exchange? No, you don't, but it's always good.\nIf you define your industry and stuff, for example, there's an SS that works on nonprofits, right? Only specializes in nonprofits. So when a nonprofit comes in and is like, \"Actually, I want to look for someone from the nonprofit,\" and then they click on the marketplace, they come on your listing.\nSo that's what I'm saying. A lot of times, SS and SS will go on there, so I'm not saying you'll directly get business from there, but it's a sanity check. You need to have it updated because if people look at it, it should at least be updated."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It, okay, got that. Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, but take a look at it, and I think it's... Yeah, just make sure you have a presence there."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it, sure. Okay. I think right now I don't think we are on it. But let. Let me kind of see if we can. How to get on to it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No worries at all. Cool. I know we're over time. Thank you so much for reaching out. This was great. I am going to distill down the requirement and try to send it to my network in the US and try to see if anyone can help you with the Alliances stuff.\nThen I'll send you the packages for the capital CMO as well."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay. And in..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "That package, the cost of your backend team will be included."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Or it will... No. So then there are two things, right? For example, ten hours I cannot say I'm going to build you a website exactly as well. So you have fractional and then all of these are you have the website.\nSo website, all of those things would be a separate product, but as a fractional thing. I said I would definitely sit down with you for messaging and positioning. That's not going to be a separate project.\nThat's going to be part of it. But website, as you know, it's a different project. I cannot combine that in advisory services, or if you say you want to make a video or something that's separate but LinkedIn content, all of those...\nOkay, bed in."
+      },
+      {
+        "speaker": "Speaker 3",
+        "speakerIndex": 3,
+        "text": "Okay, yeah, then we'll be waiting for that proposal."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Awesome. Yeah, sounds good. Thank you so much. Bye."
+      }
+    ],
+    "raw_meeting": "**Kailash / Tahseen**\n🕞 Started at 12:00 PM on 05 Nov, lasted 32m",
+    "raw_content": "kailash chanda | 00:06\nStop in my... Join in the... Hey, that's it. How are you...?\nSpeaker 2 | 00:15\nGood. Thank you. How are you?\nkailash chanda | 00:16\nDoing? Good, give me one second...\nSpeaker 2 | 00:20\nNo worries, take your time.\nkailash chanda | 01:20\nSorry. Okay, so yeah, how about you?\nSpeaker 2 | 01:31\nGood, how are you?\nkailash chanda | 01:32\nI'm doing good, thank you. So yeah, again, nice to meet you. I'm Kailash. I am a co-founder for Dataskate. I had the integration and automation.\nSpeaker 2 | 01:46\nThe Kailash voice is sounding a bit distant... I'm having trouble hearing you.\nkailash chanda | 01:52\nOkay. Is it better now?\nSpeaker 2 | 01:54\nYes...\nkailash chanda | 01:55\nPerfect. Okay. So I'm a co-founder at Dataskate. I had the integration and automation for Dataskate. We cover North America's both America and Canada as of now and looking out for further expansion next year. Currently, we are catering to small and medium businesses as part of Salesforce.\nSpeaker 2 | 02:20\nInteresting. So you're just like a Salesforce partner or an Mulesoft partner as well?\nkailash chanda | 02:26\nSo basically we started off with the Mulesoft partnership and right now we are we started doing even Salesforce..\nSpeaker 2 | 02:37\nOkay, interesting. So when did the sales first consulting start?\nkailash chanda | 02:41\nSalesforce I would say probably we started this year around March.\nSpeaker 2 | 02:47\nOkay, pretty decent then.\nkailash chanda | 02:49\nYes. Prettycent, Mulesoft, we have...\nSpeaker 2 | 02:51\nOkay...\nkailash chanda | 02:51\nBeen in the ecosystem for a long time, I...\nSpeaker 2 | 02:54\nYeah...\nkailash chanda | 02:54\nWould say close to eight years, but Salesforce, we started out very recently.\nSpeaker 2 | 02:59\nInteresting. And then where are you getting most of your business and inquiries from right now? I mean, you said the Americas, but...\nkailash chanda | 03:07\nYeah...\nSpeaker 2 | 03:07\nIs it primarily relationship-driven or are you guys doing any marketing around it?\nkailash chanda | 03:11\nIt's relationship, and the account executives that we are working along with Salesforce.\nSpeaker 2 | 03:17\nOkay, so you've got a partner like partner account manager or something alliances...\nkailash chanda | 03:22\nI won't say partner account manager. We work with the account executives inside Salesforce with the AVP and RVPS and then get introduced to them with the deals.\nSpeaker 2 | 03:33\nGot it. So how did you come across Ronard?\nkailash chanda | 03:37\nWe were looking out for somebody who can help grow our presence strategically inside the Salesforce ecosystem. That's where we found a couple of organizations, and Ronard was one of them.\nSpeaker 2 | 03:52\nWow. Because I started this business one and a half years ago, so I'm being a marketer, I'm very curious to find out. Was it online, was it through LMS, or was it through LinkedIn? No way. Wow.\nkailash chanda | 04:06\nYeah. So that's because we were looking for some organizations or partner alliances who provide specific Salesforce partner services right along...\nSpeaker 2 | 04:15\nI see.\nkailash chanda | 04:16\nWith some marketing. That's where we saw Ronard and then we thought, okay, this sounds... It was more interesting to see a separate tab itself or a page for Salesforce Partner Services. That's where it caught our attention to understand what you guys do and how you can help us to take it further.\nBut so that's the whole plan.\nSpeaker 2 | 04:38\nYeah, absolutely. And I'd love to learn more because I think. I mean, of course you've got like the marketing side of it, the partner alliances side of it and of course, the sales side of it, and the lines kind of get blurry in terms of like, who does what at some point.\nSo I mean, you must have read already. I was a Salesforce for six and a half years. I to lead global partner marketing and through that I used to work very closely with the ISCS and SI Partners. I was based in London and I moved to Dubai almost two years ago, and I started my own, gig.\nSo yes, I work with the I SI partners and both S as well as IC partners in the capacity of like either a fractional C or project and you know, or project based where they are like, okay, this is what we want.\nAnd I think with the size. And I actually did like a workshop that's why the LL must have picked up was, I did a workshop with Salesforce where because a lot of the consulting partners like. How do we strengthen the relationship with Salesforce as and how do we kind of, you know, gain their mind share, right, and mind share and credibility and be on top of mine?\nSo you get pulled into the deal and everything. So I did that with Salesforce in Dubai and was quite, I mean, was well attended and stuff. So that's something that I do as well. And with most of the partners that I work with, I'm like, you need to sit down and look at what your you know, the foundations, right?\nLike what is your differentiation? Because there are just so many I partners. And say for is as you know, it's very easy to differentiate based on the product feature. For SA, it's difficult. And you know, of course you can add the advisory and you can add the industry angle to it, all of that.\nI think the first part of the engagement is usually. Okay, can we just sit down? Workshop. Okay. What are the things that we really want to communicate? And this is our USB this is our you know where our sweet spot commercially where we can win and we can help Salesforce win as well.\nAnd then how do we articulate this and then you know, have the same messaging to the a same messaging to the customers. So there's no cohesiveness because what I find that you know as most of the SSIS like they're different digital foot footprints say different things.\nSo. So they don't understand. And a lot of it comes to the as to decode what they do. They don't have the time. They have like 10000 things. And right now I think Mark is behind them to sell AI SI ports or whatever he wants to call it right now with we all midterm elections are going to go with Trump.\nSo I don't know. I don't see the red. I see the blues. So we. We don't know what's going to happen. So yeah, so I mean, having said that. So there's a lot going on. And the thing is, like I always tell them that you of course Salesforce is one, but you have to build your own demand engine just because there's so many we all keep happening and all of that, right?\nSo this is all that I can obviously help you with. And the second part is actually having someone who can build those relationships for you for the. As for the RV PS and stuff get you those, you know, pull you into the deals and everything.\nSo that's more of the partner alliances.\nkailash chanda | 07:49\nIf. I'm sorry to...\nSpeaker 2 | 07:50\nYeah...\nkailash chanda | 07:50\nStop you, but...\nSpeaker 2 | 07:51\nSure. Yeah.\nkailash chanda | 07:52\nAre you okay to. Can you record this session? So that way it'll have...\nSpeaker 2 | 07:54\nI'm recording this already, so you'll see it in the meeting in white.\nkailash chanda | 07:57\nOffit. Okay, thank you.\nSpeaker 2 | 07:59\nI'm not recording the call, but hang on, I'll record it. I'm just transcribing it, but let me hit record.\nkailash chanda | 08:03\nOkay, yeah, I think one of my other co-founders wants to join, but he's running late, so I just wanted to see that.\nSpeaker 2 | 08:10\nNo, I'll record it. I was just transcribing it, but I'll record it as...\nkailash chanda | 08:12\nPerfect.\nSpeaker 2 | 08:12\nWell after...\nkailash chanda | 08:13\nThank you.\nSpeaker 2 | 08:13\nThat. So yes. So I think there's a second part is like having someone. So I do work with like a specialized because she's a Salesforce Pam, she's to do...\nkailash chanda | 08:25\nOkay.\nSpeaker 2 | 08:26\nPartner on management and all of that. So I have that network I have a CO as well. Again, EXHALESCORE because this is in my community now. So I might not be sitting here in Dubai, I might not have relationships with the as and RVPs in the US however, I have worked with ICE, an SI partner in the US to help them build that momentum because ultimately you need the decks and offerings. What do you want to see?\nAnd crystallize it more and then do luncheon learns for the ES again? What are you going to show to them? You cannot talk to them about \"This is what we do. How can you help them?\" Been so kind of getting that clarity is something that I can do.\nBut on the other hand, if you want someone to have... Because you'll need this foundation anyway. Then you take this foundation and activate it in the ecosystem. That could come through specialized partner alliances. A person who can do that full-time, fractionally, or a number of hours in a month or whatever you want to do so that I can help you get introduced to people.\nBecause honestly, I don't think I'll be... I can do that here in Dubai. So most of these contacts are in the US...\nkailash chanda | 09:32\nSo they are part of your orc that'sin. Or is it just the relations...\nSpeaker 2 | 09:36\nSo I...\nkailash chanda | 09:36\nThat do...\nSpeaker 2 | 09:37\nWork with them on, like a referral slash specialized sports because I'm like, okay, I'm working. Then I work closely with you to transfer this knowledge so then you can take it because what happens is even afterward, they still require marketing support where they are like, \"Hey, I'm going to do this. Can you look at the presentation or can you look at a couple of other things or look at the email campaign that's going?\" And I'm like, \"Okay.\"\nBecause then that becomes... They will have kept in terms of getting the number of meetings with the... All of those things that are not tied to me and that's just going to be unresk.\nSo I partner with them, I'm like, \"Look, you are specialized in that, I'm specialized in this, so it's just an easy transfer of knowledge and...\"\nkailash chanda | 10:16\nOkay...\nSpeaker 2 | 10:16\nKnowledge and like...\nkailash chanda | 10:16\nSo it would...\nSpeaker 2 | 10:17\nOf the...\nkailash chanda | 10:17\nBe a more collaborative approach between you and... I don't know if they're an individual or they're the other...\nSpeaker 2 | 10:24\nNo, individual...\nkailash chanda | 10:24\nPerson. They are individuals.\nSpeaker 2 | 10:26\nYes.\nkailash chanda | 10:27\nOkay, so they would kind of...\nSpeaker 2 | 10:28\nSo just like me, I have an advisory then. So then usually I mean depending on you because there... I feel in the recent time you have both... Whatever your budget is, I guess.\nkailash chanda | 10:40\nGot it, I think easier. Here I go.\nSpeaker 3 | 10:44\nHey, how are you?\nSpeaker 2 | 10:46\nGood, thank you. How are you?\nkailash chanda | 10:50\nSo we were just...\nSpeaker 3 | 10:51\nGo ahe.\nkailash chanda | 10:51\nDiscussing... Ago on how and what... Blunar Marketings provides services specific to Salesforce Partnership Services. So that's where... She was letting me know that she has a couple of folks who are independent and outside... Runar who acted as a partner account manager and crossed for Salesforce and generally... Trained ties up with them to serve with the Americas as... Tharcin is located in the... If I missed something to recap the... Please to cover that up.\nSpeaker 2 | 11:27\nNo, I mean the only thing is I think... Google market has so many different angles to it, right? Like you would still need the foundation, you'd still need the messaging, and the narrative to articulate what's the value that you bring to those as to help them take you seriously because they are bombarded with meeting requests from all across.\nSo I still feel that that's a foundation bit where it's very marketing-heavy. Then you've got a mid-section where you have collaboration of marketing and sales, in this case, the partner alliances, and then it's partner alliances, right?\nSo I almost break this up into marketing and partner alliances and then partner alliances. Who can just take this and run with it? Because ultimately, if you don't give them enough material, they are not going to succeed because your messaging and everything is going to be very fragmented and the stuff that they would need.\nSo hence, I mean, yeah...\nkailash chanda | 12:17\nSo when you break down marketing, can you go a bit more in detail on what you cover in marketing as part of the service?\nSpeaker 2 | 12:27\nSo as I said, there are two engagement models. One is a fractional CMO, so where we don't have... We know, okay, this is our challenge. Then I've got 10, 20, or 30 hours, and then I sit down with mostly... I think, again, you've gone through my website.\nBut my whole value proposition is that I work with founders. So I'm not like an agency where I'm like, \"Okay, you tell me what to do.\" I want to sit down with you and brainstorm how we can actually build authority and convert that into a pipeline, right?\nSo that is something for a fractional CMO, and then when we can decide, okay, this is the challenge, and do a three-month thing where we define these are the challenges we are facing. This is a solution, and we can go with it from marketing right from messaging positioning to launching an actual campaign as well. The other side is more product based.\nBut you are like, okay, you know what? We might probably already have a team and we might not need someone like for on a factctional CMO basis, but I just want you to fix like our messaging or positioning to Salesforce or like have a study session with us that we see.\nOkay. This is what we this is what our goal is. And what are the XYZ things that we could do? And then I can help you with it. And honestly, as I like with marketing, there are so many that if you want to generate lead like long tail, the qualified lead.\nSo then I can help you with like, thought leadership piece, a contest, inndication, you know, roundtables and all of those things as well. And lastly events. So like, I work with another SI for Dream Pours.\nSo like, how do they maximize ROI from dream poss? And like they this year, they didn't even, sponsor Dreamforce, they were just going. So they're like, okay, they see, we don't have enough budgets right now, so how can we maximize what we are doing to get most meetings?\nAnd again, a lot of it is simplifying what the showcase and then kind of bringing more clarity and focus.\nkailash chanda | 14:17\nFor the odds that you have worked with on the marketing side of it, are they region-specific? Or did you serve any of the part SA partners who were part of North America? Or is it the other part of the world like Europe and Asia?\nSpeaker 2 | 14:30\nYes.\nkailash chanda | 14:30\nOf the world like the Europe and ABI...\nSpeaker 2 | 14:33\nYeah. So both... I mean now, because it's been as I said, I'm just one and a half years in the business. So I have worked with clients in the US, in Europe, specifically in the Netherlands and the UK, where I was based. India, Dubai, obviously, and then I'm having conversations with partners in Sydney as well. Australia, yes.\nkailash chanda | 14:52\nSo all of...\nSpeaker 2 | 14:53\nSo I think that phase to... Is very favorable in terms of time zone.\nkailash chanda | 14:57\nYeah, I think you stand much favorable for E or the West and the East. So while working with multiple partners in. I wanted to understand what were the kind of approaches. Or I would not say approach, but the requirement on these clients is to enter into Salesforce ecosystem. Or what was their kind of requirements that you catered mostly to?\nSpeaker 2 | 15:23\nSure. So I think again, as I said, it's varied, right? So for example, one could be as I said, like the partner in the US. I helped them engage more with Salesforce. How do they get more visibility to Salesforce? Helping them with lunch and learns and figuring that thing out. That was for the US one of the clients there was an SI and we merged together.\nThen a lot of it was okay, how do we go to market with Salesforce? So I did a lot of interviews with people at Salesforce and figured out what their messaging and positioning is going to be within Salesforce.\nSo that was one of the ideas. I already told you about Dream Pose. Then, I mean, one of the clients that currently I'm working with from the Netherlands, they've been in business for four or five years. They don't have a demand engine, so we're building a demand engine.\nWhile they actually focus on not just Salesforce, but how can we get them more long-tail leads so that they are not overly dependent on Salesforce for it? So I'm helping them build the pipeline to... Sorry, authority to pipeline engine.\nThen yes, and I think on the fractional CMO, these are all project-based, right? On a fractional CMO basis, it's really what they want. So a couple of my clients are based in Dubai. They don't have a marketing person.\nSo then I literally do everything for them from... So they were sponsoring agents for the Burj Khalifa and Dubai, so helping them with the logistics meetings, running round tables for them, running lunch and lunch for them in the Salesforce to buy office.\nSo all of those things.\nkailash chanda | 16:55\nSo as part of marketing, is it outbound, the only thing you cover? Or as you mentioned, thought leadership posts and other posts on LinkedIn and other activities as well?\nSpeaker 2 | 17:07\nYeah. So that's all content. So content is fine. What I don't do yet is performance marketing because performance... I feel like there are much more specialized agencies, so that's not something that I specialize in.\nSo I mean, for those things, you would rather go to a specialist agency. Is that something that I don't do? All the others I do because again, I do have a team of writers and a team of content syndication where we can launch these campaigns and get those qualified leads.\nkailash chanda | 17:37\nGot it? Are there any questions from you side?\nSpeaker 3 | 17:41\nSo how you entered into Salesforce and what is the story?\nSpeaker 2 | 17:46\nThat's an interesting one. So I've always been in tech marketing, and I was actually in India as well to work with this company called Persistent Systems. Yes. So that time, it was not as big as how it's become.\nYeah, I was in Pune, then I moved to London. Then, yeah, I mean, with Persistent Systems, I used to take care of marketing of different partnerships. So that time they had open stack and Salesforce was obviously quite big.\nSo I used to work with the sales team in the US for marketing to the back like ten years ago and 15 years ago actually. So, yeah, that's how I came to think about Salesforce. I think Salesforce has always been a very... It's a dream company.\nWhen I went to London, that's it, I got a job at Salesforce. Not very easily, because it took some time, at least a couple of years, to get into Salesforce. But yeah, since I'd already done this part of it and I knew how App Exchange...\nYeah, I got into it. Then, yeah, I started as a manager and very locally in London, and when I left, I was director of global partner marketing.\nSpeaker 3 | 18:58\nOkay.\nSpeaker 2 | 18:59\nYeah.\nSpeaker 3 | 19:00\nSo your customers currently in North America, are they like a larger size or boutique size? What?\nSpeaker 2 | 19:07\nSo boutique, I don't think large because you know what the large ones are with Summit and stuff, they already have teams and they already have a big budget. I don't think that... They have partner account managers from Salesforce.\nSo partner marketing managers from Salesforce, right? So they don't engage with me. For me, it's usually smaller and midsized companies that I have. Having said that, I worked with this company called 360 Degree Cloud in India, and they have, I think, around 6,000-7,000 employees. That was a big one where they already had a team. They had a vice president of marketing, but ST was a founder. He still got me for... I was kind of working as a faculty CMO for almost six months with them.\nSpeaker 3 | 19:53\nOkay, so how many customers do you have currently in North America?\nSpeaker 2 | 19:59\nSo North America, I mean, mostly it's for me, it's on a fractional same-mo basis. I don't really take it. Most of them are product-based. So I currently have none of the products have ended already.\nSo I bought one in the pipeline, which hopefully should convert. But there were three customers, all projects. So one which I said was an SI, the other was... One was the merger of SSI and... I did the to-market strategy for them for Salesforce.\nSpeaker 3 | 20:31\nOkay. So do you have anyone in the US? Who takes care of...? Okay, so what are their roles? Who works for you in the US?\nSpeaker 2 | 20:42\nSo they don't work for me. I partner with them. So basically, there's this whole thing if they have any marketing thing, it comes to me. I've got the sales thing. I just referred to them. Or then if there's... As I was just telling Kailash as well that they want foundational stuff and then go to alliances, and they work with me.\nSo I have, as I said, a network of all of these folks. So yeah, if you need me, I can help you. I mean, on the call, I want to understand what exactly your requirement is. Is it primarily to have someone build those relationships with the as and... PS in the US, or is there something else? Accordingly, either I can introduce you to someone or figure out if that's something that I can help you with.\nSpeaker 3 | 21:25\nTell us you want to go here.\nkailash chanda | 21:27\nSo two things here. We want... As I told you, we started off with Mulesoft here, and we are currently serving the small businesses. A couple of requirements, one is to increase our presence on the core side. Two is to go into the next level of the market and expand, right?\nThat's the growth market. So currently we are working, but we want to expand ourselves and have more coverage in the growth market. So that...\nSpeaker 2 | 21:58\nThe growth...\nkailash chanda | 21:58\nWay. And a commer...\nSpeaker 2 | 21:58\nMarkets would be...\nkailash chanda | 22:00\nSorry...\nSpeaker 2 | 22:01\nIn the business segment in North America.\nkailash chanda | 22:03\nYes, yeah, in the North America like GRB and then the commercial part of it, right? So we want to currently...\nSpeaker 2 | 22:11\nGot it...\nkailash chanda | 22:11\nWe are serving the small business and now we want to kind of move forward into the growth and the commercial part of it. And likewise...\nSpeaker 2 | 22:18\nGot a it.\nkailash chanda | 22:18\nIncreased the presence. As I mentioned, we started off our Salesforce practice in March, and we want to have increased the services on the core products sales, cloud, service cloud, and health cloud.\nRight on these parts of...\nSpeaker 2 | 22:34\nOkay, interesting, cool. I mean, if that's the core idea of it. So again, as I said, I can help you with foundation methoding and stuff, but if you need someone that will be more specialist or ideally based in the region...\nRight? What I'll do is if there's any more information you want to share, you can. Then I can just send out an email to a couple of folks that I already know and then have them introduce you. As I said, most of them are Excel Force, so it's just easier. They know how they work, they know they work for the as and stuff, so it just makes sense.\nThen if in that process, if they require... As I said, they require more marketing in terms of the support like the foundation, the assets, and everything, then obviously, I can build those for you.\nkailash chanda | 23:19\nBut these contacts that are based out of the US that you mentioned have worked with partners of the small and...\nSpeaker 2 | 23:24\nYes...\nkailash chanda | 23:27\nMedium businesses...\nSpeaker 2 | 23:29\nI mean, that's where that's what the speedspot is, I feel. So you're talking about the size of the businesses that they worked with, such as yours, such as you, right? Like yes...\nkailash chanda | 23:39\nThat's right.\nSpeaker 2 | 23:39\nI mean, that's what I'm saying. That's the sweet spot because I feel that these are scaling partners. So they're not startups, but they are scaling. That's the segment that requires the most amount of support.\nI speak that on behalf of marketing as well as alliances.\nkailash chanda | 23:55\nGot it. Okay, so yeah, I think that would be great if we could get through the introductions there, but...\nSpeaker 2 | 24:03\nSure...\nkailash chanda | 24:03\nLikewise, look through on the marketing and branding side as well to see what it is.\nSpeaker 2 | 24:10\nYeah, no, perfect. Sounds good. Let me just give you a couple of days. I'll just summarize the call and everything and send it over to them and see who's interested and then make the introductions.\nkailash chanda | 24:22\nSure, I think that's great.\nSpeaker 2 | 24:25\nYeah.\nkailash chanda | 24:25\nCool, thank you.\nSpeaker 3 | 24:26\nAnd thir. So what will be like I want to understand like what will be your cost like if you have to do our marketing like whether it is like found laying foundation or like a even setting up our because currently we don't have any like a strong marketing foundation.\nSo we started with like all a relationships. So like we were getting projects. So we didn't concentrate much on either marketing or branding. But now we are in a position where like, if we have to scale, we have to set that up like whether it's marketing or branding.\nSo like we want to understand your services and the costs so that like we can see if you can be our CMO or under drive our marketing.\nSpeaker 2 | 25:08\nYeah. So I think in terms of... I can summarize this in the email as well afterward. So for fractional CMO, I've got packages from 10-10, 10 hours, 20 hours, 10 hours, 20 hours, 30 hours. These are the packages starting from $2,500 up to $6,000.\nThat's depending on every month. You get so many hours. Or on the other hand, that will obviously depend on the scope of the project, but they all start at $2,500 beginning where we are like, \"Okay, this is what we wanted.\" Or use it.\nWe say, \"Okay, we want to have X number of assets or we want to launch X number of campaigns in three months or four months.\" Then you know that defined timeline and scope and everything.\nSo then that's product-based. Or if you look... Or if you say, \"Actually, I don't know what I need.\" So we said, \"Okay, let's just start with a fractional samemo, and you'll get more value for money because that way you're not tied in.\" This is out of scope and this is out of timeline and all of that.\nSo then those are the two engagement models that I work on.\nSpeaker 3 | 26:09\nOkay. So I think we will be mostly interested in the second one. Frankly, as you told, right, we still don't know what we need in marketing. So I think the fractional CMO will suit us. So you can send us a proposal.\nWhat is your backend team? Who do you have? If we need some branding, whether it is a redo of our website or redo of our link in and those things... Do you have a team?\nSpeaker 2 | 26:37\nYes, I do. In fact, I can share examples. I literally did one for Statskarta. Statskarta is a specialist revenue cloud provider. So we did that whole thing. So we started with the method because doing the website has two components. One is obviously the aesthetics and the look in the field, but content, right?\nYeah, so it did like messaging and positioning workshops distill down. Okay, what is your value? What is something that you want to showcase? Because I think gone are the times when we filled the website with 50 pages. No one has the time. You just tell me what you do and make it simple.\nIf you're not able to explain that to me in ten seconds and it's already gone right then, optimize it for the fact that I was so happy. I'm sorry, I'm digressing. I was so happy when Kailash said that he found me on LinkedIn. It's because I put a lot of content on LinkedIn, and if you look at LMS, they have the crawlers and they get...\nSo again, putting out thought leadership pieces, it's not about engagement, but making sure that Loom picks it up or if your... Goes and looks at your website or your listing and all of those things, just making sure that all of these things are cohesive.\nSo long story short, yes, we've done this. We have a website team, we have obviously the content team as well, and I can send you examples of what we've done in the past. But again, all of these things are aesthetic. It all comes down to messaging and positioning because if you don't have that, you can have the best website.\nBut yeah, you don't understand what you do. It does not make sense. So I always tell them, it's just to get the messaging thing. Then all of these things can be easily sorted.\nSpeaker 3 | 28:11\nWhen you say messaging, it is like an outline of what you're talking about or like, what exactly is this messaging?\nSpeaker 2 | 28:18\nSo messaging is like, you sit down there. So I'll probably have a workshop with them, the two of you. We sit down and we find out, okay, where are you operating and which sets you apart from the others? What is the value that you want to communicate?\nI get into really details as to why... Why should they take you seriously? Then I come down with a messaging hierarchy. Do we have time? We've got one minute. But I can share an example of what I did with status because that's exactly what we did.\nSo then we need to have a messaging hierarchy because once you have the hierarchy, what is it, why should they take you seriously? All of those things. Then you can take that messaging hierarchy and have the same message on your app exchange listing and have the same message to E so that there's cohesiveness.\nSo your digital footprints are not talking or your collaterals are not talking about something else. It's distilling that down is the workshop. So where we find out the messaging positions, positioning, and proposition and create a hierarchy for you.\nkailash chanda | 29:17\nSo when...\nSpeaker 3 | 29:17\nOkay, next.\nkailash chanda | 29:18\nYou say an... These are... It's a marketplace for the solutions or the products that we build to run through.\nSpeaker 2 | 29:26\nYeah, which is called Agent Exchange now.\nkailash chanda | 29:28\nYeah, okay.\nSpeaker 2 | 29:28\nYes, so you guys have a listing on AppExchange, right?\nkailash chanda | 29:33\nNo, we don't have a listing...\nSpeaker 2 | 29:35\nSo then... How are you? So you're not a Salesforce partner?\nkailash chanda | 29:38\nWe are the source partner. But I don't have a product that is part of AppExchange.\nSpeaker 2 | 29:43\nNo, but you have solution SI partners on Agent Exchange.\nkailash chanda | 29:49\nI haven't looked through, to be honest. Still, now that if we are listed on.\nSpeaker 2 | 29:53\nDo you have to get that? My God. We have to get that sorted for you because, I mean, of course, they've got the product but... For is sus, but they've got listings for us as well...\nkailash chanda | 30:06\nOkay, so it briefs out on what we are or what exactly happens when an SS is listed on the app exchange.\nSpeaker 2 | 30:13\nSo two things. Honestly, if you tell me... Let me open it for you. If you tell me that, am I going to get a lot of enquiries from the app exchange/agent exchange? No, you don't, but it's always good.\nIf you define your industry and stuff, for example, there's an SS that works on nonprofits, right? Only specializes in nonprofits. So when a nonprofit comes in and is like, \"Actually, I want to look for someone from the nonprofit,\" and then they click on the marketplace, they come on your listing.\nSo that's what I'm saying. A lot of times, SS and SS will go on there, so I'm not saying you'll directly get business from there, but it's a sanity check. You need to have it updated because if people look at it, it should at least be updated.\nkailash chanda | 30:58\nIt, okay, got that. Okay...\nSpeaker 2 | 31:00\nYeah, but take a look at it, and I think it's... Yeah, just make sure you have a presence there.\nkailash chanda | 31:06\nGot it, sure. Okay. I think right now I don't think we are on it. But let. Let me kind of see if we can. How to get on to it.\nSpeaker 2 | 31:14\nNo worries at all. Cool. I know we're over time. Thank you so much for reaching out. This was great. I am going to distill down the requirement and try to send it to my network in the US and try to see if anyone can help you with the Alliances stuff.\nThen I'll send you the packages for the capital CMO as well.\nSpeaker 3 | 31:35\nOkay. And in...\nkailash chanda | 31:36\nThank you.\nSpeaker 3 | 31:36\nThat package, the cost of your backend team will be included.\nSpeaker 2 | 31:40\nOr it will... No. So then there are two things, right? For example, ten hours I cannot say I'm going to build you a website exactly as well. So you have fractional and then all of these are you have the website.\nSo website, all of those things would be a separate product, but as a fractional thing. I said I would definitely sit down with you for messaging and positioning. That's not going to be a separate project.\nThat's going to be part of it. But website, as you know, it's a different project. I cannot combine that in advisory services, or if you say you want to make a video or something that's separate but LinkedIn content, all of those...\nOkay, bed in.\nSpeaker 3 | 32:14\nOkay, yeah, then we'll be waiting for that proposal.\nSpeaker 2 | 32:17\nAwesome. Yeah, sounds good. Thank you so much. Bye."
+  }
+}
