@@ -1,0 +1,1235 @@
+{
+  "id": "01a1ad3e6a8972eb9aef43c39b1ee74c",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1abb6830570f988e09ef10c8a8433",
+      "title": "DataSkate - Condux - Project - Kick-off",
+      "duration": 5353,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "5jpogvjs6r47s9b90ubtus0896",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "charan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "nehapatel@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "phuisenga@condux.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "vijay@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "garrettm@condux.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "praveen@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kalyan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "einsteinmeetingsummaries@salesforce.com"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "afera@salesforce.com"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3,
+          "last_name": null,
+          "id": "35ad004c71015a77902020f049461afc",
+          "first_name": "ryan",
+          "email": "ryan@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-05T18:15:07.475Z",
+      "end_date": "2026-11-05T19:44:20.475Z",
+      "url": "https://app.krisp.ai/m/01a1abb6830570f988e09ef10c8a8433?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Just one for the kitchen cleaner. Flu ink. Monday... Pana was the Valian gazer. But, yeah. M&A... Pana... Like with I'm carrying a gen relu dishwasher but... Disash orange..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Wow. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "[Laughter] day at least a bits. I got a bay your opio and not and fl was okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Slight pre-calculation. Give me one second, okay? Let me share my screen on..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Inton and a rather diner I assumed... Hey, we will have to get this."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so what do the calculation Atlanta send or so we reached down to SMB GRP total 37.31.6 million on Bracotta the Angelo. So the antelo Miro 30% conversion ratio on... And maybe this will..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "If the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Close the..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Agent have I what is this?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Loom full pipe."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, alright. Yeah, I know. It's man... Anyways."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah so whole pipe variety premi regashi the unattached condition. So the DF iPhone Miro SB GRP selection."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "No."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And the name under new business but no..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Hey..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perte. The total pipe we have is 31.6 million. So Dalawala is K 31.6. The town is..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Like, but the mid-market."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Commercial assembly plus commercial."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, I think I'll try to do a little bit maybe that will give you a better one, right? So let's see. One second... Only as now, I think. 16 so Monday was..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Tuesday morning started on the morning..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay my long by that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What they actually Wednesday of the meet?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Wednesday meet of the man?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Venzuan and Kunton and ke a Japan and the region... Ajp Wednesday basically again and she can front face... Yeah. I think we have to put you in the front so that the information goes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So, mule S&B let's. So let me share my screen deal quickly and we'll see how it goes. And in from in the in fabric care. But we will try to get informatic guys in the room and then to see who and how are the invites. Spampy Chrome are they?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Waichama under ky Pingjunamo asking to register."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so alright. Let's... You can maybe add on other new..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'm on research, not only your business."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Let's ruman key at the five banatas..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "27 million. Let me export it to you the only 37 37..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A 6 million Bu."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Other ky I think let me give you this in Slack so you need to analysis say it on the dam and d just before that let's make sure we got everything ready needing care. Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And then..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "This is Jan. Okay, this is Jan. 31st to a cool. So I think it's okay. I think Miro the okay, the record type me I type..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You know okkatema..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Again, it's new business. Yeah, so... Type is new business. This is what it is, and it's not equal to courtesy and... No partner SMB and new software. Okay, so I think we probably got it right, so let me Slack it to you then. Miro just ran this back.\nOkay. So... Let's do this. Gonna... Mike... Pumpy... Channel... Was Slack long.\nOkay, so... Let's say we go by the AA contact industry and could... Let's say..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exact vim a reang nine to 5 and set correctter time and v 200..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Nine to five town. But when we go there, we will basically say eleven to twelve, basically..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Confirm your Lara..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To eleven to twelve..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Eleven as well."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Metal and the entire lunch for Otarga. Then we can continue..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Okay. Demo is sawa will do multiple..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Demo KY as they come in. They can look at it if they really need something. 11 to 12 d and I'll try to see if we can get the. A sales for seller who can talk along scres doorado near go i'll try to see who can actually get that delany JJP... Atlante any what team lo and no."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so... Yeah, ox are no eron same analysis."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Just want it on this sheet. Update the numbers based on this sheet and I think it'll come back in the... Alright. Financial size is slow so you might have to see some of that. Are there or not there kind of... Co industries obviously may or may not have that much partner attached to the...\nOkay. TT TH ekon... Down and transport. I think we can absolutely go by manager Peero on the manage side think still have to go back and say there's the manager has as..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A.\n9.55pm..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The whole room. It's a whole day event. People can come and come. God. The event is like a walking kind of basically saying okay be everyone will have close so we want to make sure I will make sure the manager of the manager so we'll see who's the one I.\nIn the RANJ and mining. So... What? Whole point. Gany, like, what was the point that you were trying to make? And..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, under the law, may not... Krisp approach explains the man so how much we are able to get to it with what relations we have, what we are thinking that okay, in the... Our starts with the account executives and then how much we are able to make it if we perform according to this data."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so... Man, I think that's a good start, but I think there's another way to look at it. Let me just pull this out. So we have 30 close to 38 million pipe okay, that is targeted. MA... Okay 38 million pipe only this is only until January so I assume that at 50% or 60% is accurate and then they all have this closed DNGE but 50% accurate on KA that's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hey."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Right. So that puts us to 17, 1717?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "19 million..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Eighteen and a half to 19 million, right? Samantha can at least 30% bare minimum."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "30% will get closer. So 19, 30% and..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "5.4 million."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That is what we should be targeting out of that five and the close of Nana. We will have to figure it out."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So 5.4 million is covering all the account executives, all the partners across small and medium businesses."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yes. It's so... It is a pipe color. It is targeted until 01:20 27... 1:31 20:27 or pipe..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Black color..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "E pipe or let's assume half of it is fake or they've just created for the sake of tracking. Right? So that puts us at 19 million. Okay, close to about 19 million. So we assume that we will get attached to 30% of those. Our aim, our pipe, is basically 30% of 19 million.\nSo that puts us at 30% and 6 million approx. Let's say we only close 10,600. That is what it is for SB okay-ration."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "How we derive..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, man, is... 30, 39, 38 million round figures. This would... 38 million... Low is the whole 38 million is the whole pipe. So, as last time you mentioned, 30% is the conversion ratio for Salesforce."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so 38 million KY 30 center is around..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "On Friday. And then we're going to take all of those submissions. And we're going to draw..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "30 30% is 11.4 million. And the closing and we are assuming Salesforce will make 11.4 million revenue inside data foundations. Okay, Angelo Miro closed the data pump picture approximately you say 25% is self... Implementation. So memo 11.4 million. Mala 75% is coming to partners, so we are getting 8 and a half million. So 8000000 of ACV is sold or co sold with partners in assembly now. E 8.5 million 61 as gem 61 as a 61 a is accoste 4.4 million on the or if updated it might be 5 million it would e 5 million million.\nIf I me law ma wetage is co ma vtage is coming up to and if I if example Samantha tells Antoniau 5050 relations and we are seeing that she will give us 50% of the deals. Jackson Nagl got 20% of the deals at average. Just the under 60 members. The 30% of SA weighted average.\nSo weighted average is 30% of 5 million and 1.5 million or 151 .5 million can come to mail is the DALA 75% 20 can go to implementation because of these people. So 1.5 75% mean this call Mali. 1.5% or $1.1 million, or 75%? Yes, $1.1 million assuming..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "One go."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The Hunter memo, that is what a CCA V Dataskate can make realistically or close to..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, it's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Real life."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It is."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Dan, you are around $1.1 million pricing is not one-to-one. We are lower than one, so a lot lower than one. So..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Eight eight..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Assuming we put .6 so choose the 600k we are able to make it there for yeah my implementation considering M. Af considering MDM consider SA we are coming to 600 s GLB..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Commercial the... Yeah, SP GRB no SMB GRB the SMB GRB good. So GRB is like underneath SMB. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So $600k is what you should definitely close in. That is your..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "With all positive hy. Or positive things? Yes."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, bear..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We should be able to do it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Me know, right? Yeah. That's like bare minimum. That's on the table kind of that's safe to... Asana that you can close to $600k, you should close north of $600k at least in SMB so you put in... And I think..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Unkara I assumption ana mati michina vitage prakaram they gave it but now I know we know..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You could see..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That Samantha tel has ten opportunities. Now we will know whether these people give 5050 Angelo Samantha and Nijangamak fi tea tee Manakha. So probably by end of November, we can easily identify whether Samantha TED is really in the 5050 bracket or not in the 5050 bracket.\nSo now but I might realign the wetage internally. Magurla... Realign... Then we will run the numbers to see how we will place ourselves in December and January. So it can go up, it can go down."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, I think that's a fair assumption. Prioritize is a fair assumption. I think the caveats here is that we assume and we aim to bring new people in with this new marketing, whatever campaigns that we are running. Field Hub Day. We intend to bring more newer guys, and more importantly, we want to bring in the managers who can help us out.\nYeah, say that I have any questions on that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Ky Lago rejoined..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "So oka ka Kailash. But Samantha 5050 mokes on az gaa like I Andri k50 hmgada."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I have 5050 and a tired to bedtime. The relation, Ryan, is feeling that I have good relations with Samantha where she will give 50% of the deals. Okay, so now I will look through November from my side.\nI will look through November. I know Samantha has X number of deals. If she does not involve number closing deals close to 50%, then one thing is okay. If she brought us only 20% deals then my vantage for us to be realistic. I should change the wage."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah, but before that, we should make sure that she will give 50% of deals."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That is from Ryan and other perspective. We will make them that. Okay. You gave this. You have to bring..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This. But manamo realistic alignment. Kosamo mana every mouthentic realign... I will review with them the boss. You said 5050. She is not drinking. Where is your relation?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, are the internal optics and have an operational. But Mali, I think we will tighten that up, right? That's like an in-house exercise, but... And I think the assumptions are okay, but we assume that where do we get the remaining amounts, right? Our target is at least one to two million between November through January, where do we get the remaining numbers?\nSo the remaining numbers... Aa, Mali, and the first of all you put Mankas and then Aa manager in the... Kailash, right? So Shay Adams actually... Then you may, new cl onto it. So I'll try to get her in. So that way, if we can get her on that day into the office and then we get to talk and show it to her, maybe...\nMaybe that'll be more than needed. Okay. Tawan, we do... So I think we will have to... Then I'll start to talk to these guys. Let me make a note of this. I already went with... As Shay Adams New York even together, and I see it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Shay Adams is New York."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay. So that what that we do is st. N yeah. Yeah, the da okay, palm gu is in Atlanta. Okay, so we Atlanta or weiny Atlantabert? Okay, general on a rule with things like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Tom lies on Bu."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Ky yab du cha ka to me do me and da was a Savannah royal. Savannah Royal."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Saal Chicago..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "But we'll still send her everything. He led the anger and give a message. One Samantha royal is she's inmatic and okay two years so says can okay seesa aa costa do seesa Chicago what's that? My things to me and my..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No Chicago office is run. Asana."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sirs of the... SME together.\nSaid the Chicago tower and GAs. Ella. I think he's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Chicago. December 3. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "December third was okay.\nWe Chicago Marie Slack Pennsylvania Nebraska alright okay Savannah and C. Smith so and then IITER kai AA on aa I think we will have to get this in ka I think we'll have to get one more I think I'll just run that one more time."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "He Jo a fragn on never. Avany."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To Michael Bebad. Sir. We.\nBasically around today so we need at end these are a kind of good in there."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Mad Latin book..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Matt Garden, he wanted it. Okay, so we'll have to get these guys in Atlanta. So I'll try to get him ind okay so in I think we'll have it's a pretty long list of marker one mark for me.\nMarkki award the higherland lo actually I me and the question then me kitcheni you know what? I think we may have missed out something and wechen in the ema on the legunte amerunde."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A new never a name filter. American ization or a d fiveph..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, so me number factter maybe 31. I... As yeah, that is not to say we cannot go with this game, but it's a long holiday. Jo web Ireland I uland branded Lauren Buddia..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Lauren beta an... Except for him."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We take a apologies..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Same large put a masule... Can be like mo or ge this will be the first time so it be..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Were the 2 million on the basic so we have to get this going. Whatever. Another two minutes, but I think we had to get this guy on. Ta jana rame jing..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Kottaga currently but I think they will add..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Jpca in the 2 million on the bar jpg in the y minus kani ren mediacal..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A up pleasantay e quarter in nninburg..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In not a casting I just then yeah and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hundred percent. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I committed in a basically so you didn't catch the but we will have to get JPS matam denni bap plan ther. Okay, so at JP but Jp but call, Jacqueline. Jacqueline. That shows that one is CLY do CC TSPLYM sincere. Rather the.\nSix 70 cents for J.\n6. Okay, Michael. Very advent.\nThe BA.\nAnd your team? Internt.\nOkay, well, a person, the.\nPhoto where is that photo? I want pic in the acut. It's a style. Connect. I think. Deposit."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'll get...\nI step out. In. Do..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Sorry, yes, where is that Dataskate? Okay.\nOkay, mind sharing the details so I can share with the team? Okay. Perfect. Where is it? Okay, T never scared.\nI...\nThink I'll just give them...\nSpeak to them as we were...\nWe love data sched. Let me..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That love..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We want..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is no reciprocation. Only Lago is tho is in the air. In.\nRight now it's in the air. Please get it into the houses. And that low..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "All right. I can make it happen.\nSo we do arm ladder. Okay? Okay. We have made a ton of deals like that. So I think what do children and what co together are the making and again okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For our 17th Wetnngan. Travis. A landowner and traveler."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A 01:17 17th the Travis TED. See I don't think we just need...\nAs actually a Canada mix as long as Kailash basic in anemicu u vi Mexico visa the Kanadaki visa cla me petition dej and you are there's automatic revaluation and on the basic."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Yeah. Mexico, Nadara."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Same thing. Yeah the Margaret or yesterday so I don't think this cow only I'm going to you have enough but I'll already all sp together so that is good do ice."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "A stack is 5% down."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Actually I think nit can and it is usually parable like if you see it's sty go onto the live with as just last one year I mean the Atlanta erock can't. So there is something that is happening like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "San Diegoro. CRI mod Agent Fabric. Come in. NRA y Kazari over Kitched or..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "As Kate is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Mostly, I think... Mid rocker of count to..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To 70 run contest.\nEight.\nSorry. But I well, I have...\nAll right, let's see Cary engage there is this I was getting together schedule want to speak about two weeks.\nWater and Travis get... So hopefully we'll see how it goes. He literally on a... Jp TOGETHERAR.\nSo where were we last time? So me numbers I think they are accurate then in that case. Okay, so the other point is where do we get to a million dollars on AA?\nSo instead, let's actually look at commercial... Now I might have this mean that when a commercial goes on the GA team maybe commercial and... Okay, let's see this is what is the target for mister Tom and with the matter the go after..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Kunalta Japan... You know Mala matlad me... He's kind of a kafir or doubtful..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "That's all get con."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So that's where we want you to talk. Kailash Friday though one consari email... Van Nadara Ina Babulam no Asana fabric mode sales for sales cloud number one no co and he came on to... We are not waiting only for you. We started to do and invest in Korce Radio, Tamman and Kar. Then probably he will get more confidence. Compass, midmarket and Goodn..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Commercial day."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Commercial or not. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So we the key in dents on my message. They are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A J PO and Bethan, then the precomment pre commit agent fabric on the gatex air tax introduced to air health scam partner Prowessor -66. Okay, and a tag... Partner. Yeah, let's see. Okay. Let me just do one other time left I plan implementation partner.\nImplementation partner by data... Than Kailash. So I think we'll have to get to these guys somehow. Otherwise we can't just go into... Alright, so let's just run this before that. Anything else that we missed? Let's see.\nSo in the mid-market, unattached to global, I think 5 million additional as from there. So I think maybe that is what it is. Okay, 78 million on the cloud. Okay, so I think we will have to figure this out which does not have a partner or tags a partner leader, but I think in a partner would not base it yet. SW Partner..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I not s like..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah... Right. Army tags are lucky. But that is not a bad thing. Like Asana Fabric or Mea Lago. I think we'll have to get this guy on. Tom Powers... Contrary to... Let's see Tom... Alright, yeah, okay. I hope the is the sky...\nAnd then there's the copy image you require registration is just for the ping.\nI to it. Alright, let's see. JP is just... I think we want Dataskate mobile is not Dataskate."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah. My team is working on that."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Are they rejected? Okay, we do. Tom Powers. Tom Powers..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Tom New York."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "You're... Okay, I think we'll have to show something. Where is that picture mirror or picture? Wait... I think it's probably a picture... CorelDRAW. I'll make a letter and... Monday as a Tuesday..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "However, April 17th on the last year you put in Q4 I PR kundalli and a ticket and January books kind of... Chaman like put the jan line on events in a..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "January events may actually January in February March on Jan 31st today janlo event on the February starting as k on so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "The e photo me they get on the photo let me pa drinforce so I may Slack with the e for... Canva presentation personal photo. That happened. I think they scared the... To... Image some.\nNext week together. 11, 12, one con."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A New York c..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Alright. I'm getting my to... Okay. What a B2 lunch today? Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In marb in Nana. So I think she reached. She reached out to everybody there. I'm Atlanta. I heard yesterday on. So she told him."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, we didn't... Yeah, that plan together. Okay, yeah, alright, perfect. Alright, so let's look at this last piece. So here it is... A similar... I think we'll have to get this out right. So the Mexico export is there. I'll just give you an example.\nOkay, in the mid-market, yeah, commercial... But this is what we have to basically target. For example, Tom gained almost 4 million, right? It may not be the number of... This thing, but it might be this one, right?\nSo, for example, we might have some logos, or we might be able to bring in and help. So we'll have to try to figure this out at... Master called flexbook flex... Team on their... We'll have to see to... And... In the..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Like sport in the world like sport laments and normal."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Roots like sport to new logo basic APA management to chest arm data governance and a strategy to..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Plant to contact the... Because I get to convince."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Client contact. There is the director of growth. Let's see. What is this flexbo logo?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "A new logo is already in the data."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "I think I'll advance ran and pipeline net one fifteen. Alright, let's see what the details are. Data garners fire plus... So I think the pipe but not on themmo. Let's see if we can centralize the data governance.\nBut why is it a new logo, Eric Chama stack executed no mule play? Yeah, I think it's an NF data 360 play for... Mules prior... Actually, the prior mule was... So that is probably why she wanted to put that, but there's no mule play here, and so it's a more core and far data 360 play. So we should come back and say, \"Okay, what is the there the mules after the assembly but data access policies?\" Hey,\nsir, I think that is what it is. Alright. So are the AI... I think that is what we should be doing in... Let's see how it goes. I think we'll see who is out there, right?\nOkay, Julie can picture."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "How Sirra event. The Sirra. Boots of Tantaa."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We will have to get Julie's attention. Just say Jerry.\nMali. Operma. Okay, even... Thmalip got genai so yeah email message got in the other... I will make sure that she's there. She's based in New York, so I think we might be able to get something Justin female, so we'll try to get...\nOkay, will land. Whoever comes in, they will at least walk with lunch or something. Then we will figure it out. Tawatta... Tuesday..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Two one Wednesday morning were Ksantin and Tuze. Welden."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Wednesday morning... A Wednesday morning I think Wednesday we connect vir chile but nan and Miro you need that relaxation like malijt like a non it just without you knowing it will hurt so you don't want to do that. And the cano music so you can.\nSo Wes Demanna we'll connect him. And I think nanu in gay Japan there ragooner last night called us she and he we had to get a demo instany channel."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So it should have all in an N KY message but Terminator..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "An in demonski. Yes, well..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, there... On so okay, but anyways, instance is not a problem in kind of monchy instance already which is in the II kind of sent it out on instance on... I think we're using Miro, yes. So this is the instance.\nAgain, there... So if you just go in, this has everything it has got MDM and everything on so and it does not have multi-factor authentication or anything.\nSo we should be able..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Nine. Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "To log in and you should be able to see everything and even they are not okay. It has every MDM and online so build a Pantaon but not much the, data quality. Yeah. So data quality, the INJ and Ajgo Tawan again. And he said he's gonna work on it. But if not New York we should definitely have something for atlan... A so essentially and then they me frontfa so me ascript the me as well basically..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "In a... That's the gun. So I think we'll try to give them up internally. Our... I think it should be okay. Is Stany GA under another deal? Stany... So we thought we'd talk through where is that Stany? So we're using Miro set... Let's see what a pipeline you can choose. Chiper."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Pipeline it mula deal works just on re kalberto let's talk about it... On wa... A stage. Artonnado is only mules cor saw ant..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We want to win as much as possible together in Japan. I if he has any friends then please do and see the intent as we help each other out and we'll be there all around that date so they can come at whatever they want. You'll have to think about it.\nOkay, Stany. So the mid PPSU... The... Is lava I like...\nI ex one together."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Mula als the same gazram... Update data..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Didn't put you on."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Already okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "He didn't put you on yet right back to co in.\nAll right so solutions ago the other and there will have the next steps read back to co eleven nine so maybe you know eleven two or not in the eleven sanche so they reach out dealer SPONSOREDAGY reflects port as black spot this was the one that flag spot normad.\nOkay, so there's no one on that. Q is sponsor."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "What's happening? Like viom. Like they're moving from informatic to completely Mulesoft."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Mulesoft.\nAncient Fabric Co. is on there but let's see what is the rather 2027 minute. Let's see one more time. See your business agent Fabric. 2027 as the next year I waited... MCMCMC MS IDP biologics is 75000 year than the res... By my... At this weekend I need to align with IDPsian services profile certain and professional services... Any guys Angelo the MSI then let's see one more time.\nThat see little more time. Okay, so Mulesoft divestitu best case. SA okay, early renewals. Slack yeah, I think maybe this is the one.\nTo pres automation any close one... May the project is the 50 gig services automation. So that's the... Okay, Cynthia, Justin, let's see what this is. Okay or leadership after... Let's see if Mulesoft will be included in the discussion for an early renewal... Mulesoft to increase... Asan generate incrementally... Core internal platform with Mckesson... Cor... Nove... Marbania... Were... Maral... Yeah... Cynthia.\nMamma but a e on a professional service alumni.\nS. And if you see there are opportunities, that is where it is like the IDP is...\nOkay. Professional. The most unprofessional services they... Make particular opportunity later."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "As a general guy for whom they are talking from Mulesoft today."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay so let's see who is that team.\nWhat another chat to Miro? Fine. So... Can I put the line item \"Mulesoft is divesting and married another lay the basic game but who's who is he talking to and they...\" I think Kailash is again transact let's say...\nBeatlesson under... Reville under... Actually can executed sponsor led in so they did not have anyone I think you'll quote the matter. Okay, Cynthia is aligning with core team and the data foundation leadership are the next steps.\nSo the avatom... Another leader maybe Cynthia narrated... We might have to go into contacts and find out."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "He GA on a like from one of our friends who vila CEO del so."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "And... Director but he knows an..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay. And casar kai and how to see I may be a professional services. So they're not allowing partners as they issue. Okay. The they're putting n like almost 07:50 k deal professional services s see here in."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Professional services contracting at ca."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Professional service contracting... So you eat on the other... The manna that I think Cynthia narrated it has a... So I think this is what we might ask the pipeline operation on there. So I think a close...\nSo this is where we might be able to get something, but we don't know at all. So... Another it's a different story altogether.\nAny point... So if you see, a similar transact context... Let's see. Automation assets line items vary. So what do they have? The Salesforce Marketing Claude Data Claude agent for service additional context Service cloud is service. Cloud boxes.\nTen bucks longer to make... Mulesoft is playing on an day for shields of Huntler... Everybody has the...\nLet's see.\nAs Michael loves steals on the outlet.\nAny other that the muser?"
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Intern the like anything where we can enter. So the directing a software then we have one..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "A is why they don't know the other.\nWe... I see. So I don't know if they're in the same team or in fact I even add to get to basically comparing the GenAI Cynthia sincere dally.\nHow many on the opportunity and on... Cynthia and Wittenberg.\nOp 76. Okay... On the okay... Email respond and... Okay we'll get that out again on a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Our last question I happy hour and day you know howmon and the event place bookjtama like or s fo towerlo we can put something if we..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "We will have it's an additional cost and all that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Bits problem and alcohol basic for do either to do limited the we basic but after this cs the problem in DNA I think it is expensive. Why? Catttle. Launch this. Co so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So... Ifj. I'm more thinking on the number of people. How do we... We have to book the locations that are so... If I book 50 and if it's overcrowded or if I book 20 and there are no people, so the difference matters. Let them one other..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Going to place like how many initially if you take the... If more we will pay for more that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It depends on the space. Or if they have multiple halls, then they'll allocate as a smaller one..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay that's maybe we'll have something like a smaller place but we will see the Indian. I my knowledge and I think I'll ask this lady answer email Si and the other... We'll see number twelve, number five.\nI think he may, I add to the gara so I think I can ask. I'm even today... So even if that is the case, then we can do that within the APR. Usually, that's a little bit overhead. I'm going to clean this...\nOn a basic... We might be bound by some rules and regulations, and I'm not quite sure... Internally. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I than buttman will because New York is next week only Asana... Right? Right that we can rape man a meeting with pa we'll start calling and looking for something. Okay. Well, what do you want in? You know? I'll have it ready..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Let together..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In white letter. So I'll book a ticket for the ticket..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Q4. I think yeah. We will want to run a couple of events and then the asa di..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So that..."
+      },
+      {
+        "speaker": "ryan",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One more thing is Marie next week. If we mean we might have to plan a couple of sessions with the Tom or IE onwards and then..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "An exac town."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "He knows most of it all. He does not know that I am supporting you guys, but he... You know that I'm mentoring you, but that's a different story altogether. I don't think that is a big challenge."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No. Nobody came. The internal was just op."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay, Anywaysriday, Saturday."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Later."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Anything else? Okay, the... Yeah, right."
+      }
+    ],
+    "raw_meeting": "**DataSkate - Condux - Project - Kick-off**\n🕞 Started at 06:15 PM on 05 Nov, lasted 1h 29m",
+    "raw_content": "Speaker 2 | 01:06\nJust one for the kitchen cleaner. Flu ink. Monday... Pana was the Valian gazer. But, yeah. M&A... Pana... Like with I'm carrying a gen relu dishwasher but... Disash orange...\nkailash chanda | 01:28\nWow. Okay.\nSpeaker 2 | 01:28\n[Laughter] day at least a bits. I got a bay your opio and not and fl was okay.\nkailash chanda | 01:53\nSlight pre-calculation. Give me one second, okay? Let me share my screen on...\nSpeaker 2 | 02:05\nInton and a rather diner I assumed... Hey, we will have to get this.\nkailash chanda | 02:10\nOkay, so what do the calculation Atlanta send or so we reached down to SMB GRP total 37.31.6 million on Bracotta the Angelo. So the antelo Miro 30% conversion ratio on... And maybe this will...\nSpeaker 2 | 02:40\nIf the...\nkailash chanda | 02:41\nClose the...\nSpeaker 2 | 02:41\nAgent have I what is this?\nkailash chanda | 02:43\nLoom full pipe.\nSpeaker 2 | 02:46\nOkay, alright. Yeah, I know. It's man... Anyways.\nkailash chanda | 03:20\nYeah so whole pipe variety premi regashi the unattached condition. So the DF iPhone Miro SB GRP selection.\nSpeaker 2 | 03:34\nNo.\nkailash chanda | 03:35\nAnd the name under new business but no...\nSpeaker 2 | 03:41\nHey...\nkailash chanda | 03:42\nPerte. The total pipe we have is 31.6 million. So Dalawala is K 31.6. The town is...\nSpeaker 2 | 03:59\nLike, but the mid-market.\nkailash chanda | 04:00\nCommercial assembly plus commercial.\nSpeaker 2 | 04:03\nOkay, I think I'll try to do a little bit maybe that will give you a better one, right? So let's see. One second... Only as now, I think. 16 so Monday was...\nkailash chanda | 04:36\nTuesday morning started on the morning...\nSpeaker 2 | 04:38\nOkay my long by that...\nkailash chanda | 04:41\nWhat they actually Wednesday of the meet?\nSpeaker 2 | 04:44\nOkay...\nkailash chanda | 04:45\nWednesday meet of the man?\nSpeaker 2 | 04:48\nVenzuan and Kunton and ke a Japan and the region... Ajp Wednesday basically again and she can front face... Yeah. I think we have to put you in the front so that the information goes...\nkailash chanda | 05:09\nOkay.\nSpeaker 2 | 05:11\nSo, mule S&B let's. So let me share my screen deal quickly and we'll see how it goes. And in from in the in fabric care. But we will try to get informatic guys in the room and then to see who and how are the invites. Spampy Chrome are they?\nkailash chanda | 05:41\nWaichama under ky Pingjunamo asking to register.\nSpeaker 2 | 05:44\nOkay, so alright. Let's... You can maybe add on other new...\nkailash chanda | 06:02\nI'm on research, not only your business.\nSpeaker 2 | 06:11\nLet's ruman key at the five banatas...\nkailash chanda | 06:22\nOkay.\nSpeaker 2 | 06:23\n27 million. Let me export it to you the only 37 37...\nkailash chanda | 06:34\nA 6 million Bu.\nSpeaker 2 | 06:38\nOther ky I think let me give you this in Slack so you need to analysis say it on the dam and d just before that let's make sure we got everything ready needing care. Okay...\nkailash chanda | 06:58\nAnd then...\nSpeaker 2 | 06:58\nThis is Jan. Okay, this is Jan. 31st to a cool. So I think it's okay. I think Miro the okay, the record type me I type...\nkailash chanda | 07:13\nYou know okkatema...\nSpeaker 2 | 07:18\nAgain, it's new business. Yeah, so... Type is new business. This is what it is, and it's not equal to courtesy and... No partner SMB and new software. Okay, so I think we probably got it right, so let me Slack it to you then. Miro just ran this back.\nOkay. So... Let's do this. Gonna... Mike... Pumpy... Channel... Was Slack long.\nOkay, so... Let's say we go by the AA contact industry and could... Let's say...\nkailash chanda | 08:22\nExact vim a reang nine to 5 and set correctter time and v 200...\nSpeaker 2 | 08:28\nNine to five town. But when we go there, we will basically say eleven to twelve, basically...\nkailash chanda | 08:38\nConfirm your Lara...\nSpeaker 2 | 08:40\nTo eleven to twelve...\nkailash chanda | 08:40\nEleven as well.\nSpeaker 2 | 08:42\nMetal and the entire lunch for Otarga. Then we can continue...\nkailash chanda | 08:48\nOkay. Okay. Demo is sawa will do multiple...\nSpeaker 2 | 08:54\nDemo KY as they come in. They can look at it if they really need something. 11 to 12 d and I'll try to see if we can get the. A sales for seller who can talk along scres doorado near go i'll try to see who can actually get that delany JJP... Atlante any what team lo and no.\nkailash chanda | 09:33\nOkay.\nSpeaker 2 | 09:35\nOkay, so... Yeah, ox are no eron same analysis.\nkailash chanda | 09:44\nOkay.\nSpeaker 2 | 09:45\nJust want it on this sheet. Update the numbers based on this sheet and I think it'll come back in the... Alright. Financial size is slow so you might have to see some of that. Are there or not there kind of... Co industries obviously may or may not have that much partner attached to the...\nOkay. TT TH ekon... Down and transport. I think we can absolutely go by manager Peero on the manage side think still have to go back and say there's the manager has as...\nkailash chanda | 10:49\nA.\n9.55pm...\nSpeaker 2 | 11:00\nThe whole room. It's a whole day event. People can come and come. God. The event is like a walking kind of basically saying okay be everyone will have close so we want to make sure I will make sure the manager of the manager so we'll see who's the one I.\nIn the RANJ and mining. So... What? Whole point. Gany, like, what was the point that you were trying to make? And...\nkailash chanda | 12:00\nNo, under the law, may not... Krisp approach explains the man so how much we are able to get to it with what relations we have, what we are thinking that okay, in the... Our starts with the account executives and then how much we are able to make it if we perform according to this data.\nSpeaker 2 | 12:30\nOkay, so... Man, I think that's a good start, but I think there's another way to look at it. Let me just pull this out. So we have 30 close to 38 million pipe okay, that is targeted. MA... Okay 38 million pipe only this is only until January so I assume that at 50% or 60% is accurate and then they all have this closed DNGE but 50% accurate on KA that's...\nkailash chanda | 13:09\nHey.\nSpeaker 2 | 13:10\nRight. So that puts us to 17, 1717?\nkailash chanda | 13:15\n19 million...\nSpeaker 2 | 13:15\nEighteen and a half to 19 million, right? Samantha can at least 30% bare minimum.\nkailash chanda | 13:24\n30% will get closer. So 19, 30% and...\nSpeaker 2 | 13:26\nYes...\nkailash chanda | 13:29\n5.4 million.\nSpeaker 2 | 13:31\nThat is what we should be targeting out of that five and the close of Nana. We will have to figure it out.\nkailash chanda | 13:37\nSo 5.4 million is covering all the account executives, all the partners across small and medium businesses.\nSpeaker 2 | 13:44\nYes. It's so... It is a pipe color. It is targeted until 01:20 27... 1:31 20:27 or pipe...\nkailash chanda | 14:02\nBlack color...\nSpeaker 2 | 14:02\nE pipe or let's assume half of it is fake or they've just created for the sake of tracking. Right? So that puts us at 19 million. Okay, close to about 19 million. So we assume that we will get attached to 30% of those. Our aim, our pipe, is basically 30% of 19 million.\nSo that puts us at 30% and 6 million approx. Let's say we only close 10,600. That is what it is for SB okay-ration.\nryan | 14:45\nHow we derive...\nkailash chanda | 14:47\nOkay, man, is... 30, 39, 38 million round figures. This would... 38 million... Low is the whole 38 million is the whole pipe. So, as last time you mentioned, 30% is the conversion ratio for Salesforce.\nSpeaker 2 | 15:06\nOkay...\nkailash chanda | 15:07\nOkay, so 38 million KY 30 center is around...\nSpeaker 2 | 15:15\nOn Friday. And then we're going to take all of those submissions. And we're going to draw...\nkailash chanda | 15:22\n30 30% is 11.4 million. And the closing and we are assuming Salesforce will make 11.4 million revenue inside data foundations. Okay, Angelo Miro closed the data pump picture approximately you say 25% is self... Implementation. So memo 11.4 million. Mala 75% is coming to partners, so we are getting 8 and a half million. So 8000000 of ACV is sold or co sold with partners in assembly now. E 8.5 million 61 as gem 61 as a 61 a is accoste 4.4 million on the or if updated it might be 5 million it would e 5 million million.\nIf I me law ma wetage is co ma vtage is coming up to and if I if example Samantha tells Antoniau 5050 relations and we are seeing that she will give us 50% of the deals. Jackson Nagl got 20% of the deals at average. Just the under 60 members. The 30% of SA weighted average.\nSo weighted average is 30% of 5 million and 1.5 million or 151 .5 million can come to mail is the DALA 75% 20 can go to implementation because of these people. So 1.5 75% mean this call Mali. 1.5% or $1.1 million, or 75%? Yes, $1.1 million assuming...\nSpeaker 2 | 17:29\nOne go.\nkailash chanda | 17:32\nThe Hunter memo, that is what a CCA V Dataskate can make realistically or close to...\nSpeaker 2 | 17:39\nYeah, it's...\nkailash chanda | 17:39\nReal life.\nSpeaker 2 | 17:40\nIt is.\nkailash chanda | 17:40\nDan, you are around $1.1 million pricing is not one-to-one. We are lower than one, so a lot lower than one. So...\nSpeaker 2 | 17:50\nEight eight...\nkailash chanda | 17:51\nAssuming we put .6 so choose the 600k we are able to make it there for yeah my implementation considering M. Af considering MDM consider SA we are coming to 600 s GLB...\nSpeaker 2 | 18:08\nCommercial the... Yeah, SP GRB no SMB GRB the SMB GRB good. So GRB is like underneath SMB. So...\nkailash chanda | 18:20\nYes.\nSpeaker 2 | 18:20\nSo $600k is what you should definitely close in. That is your...\nkailash chanda | 18:25\nWith all positive hy. Or positive things? Yes.\nSpeaker 2 | 18:28\nYeah, bear...\nkailash chanda | 18:28\nWe should be able to do it.\nSpeaker 2 | 18:29\nMe know, right? Yeah. That's like bare minimum. That's on the table kind of that's safe to... Asana that you can close to $600k, you should close north of $600k at least in SMB so you put in... And I think...\nkailash chanda | 18:50\nUnkara I assumption ana mati michina vitage prakaram they gave it but now I know we know...\nSpeaker 2 | 18:59\nYou could see...\nkailash chanda | 19:00\nThat Samantha tel has ten opportunities. Now we will know whether these people give 5050 Angelo Samantha and Nijangamak fi tea tee Manakha. So probably by end of November, we can easily identify whether Samantha TED is really in the 5050 bracket or not in the 5050 bracket.\nSo now but I might realign the wetage internally. Magurla... Realign... Then we will run the numbers to see how we will place ourselves in December and January. So it can go up, it can go down.\nSpeaker 2 | 19:42\nYeah, I think that's a fair assumption. Prioritize is a fair assumption. I think the caveats here is that we assume and we aim to bring new people in with this new marketing, whatever campaigns that we are running. Field Hub Day. We intend to bring more newer guys, and more importantly, we want to bring in the managers who can help us out.\nYeah, say that I have any questions on that.\nkailash chanda | 20:13\nKy Lago rejoined...\nSpeaker 2 | 20:14\nOkay.\nryan | 20:15\nSo oka ka Kailash. But Samantha 5050 mokes on az gaa like I Andri k50 hmgada.\nkailash chanda | 20:25\nI have 5050 and a tired to bedtime. The relation, Ryan, is feeling that I have good relations with Samantha where she will give 50% of the deals. Okay, so now I will look through November from my side.\nI will look through November. I know Samantha has X number of deals. If she does not involve number closing deals close to 50%, then one thing is okay. If she brought us only 20% deals then my vantage for us to be realistic. I should change the wage.\nryan | 20:59\nYeah, but before that, we should make sure that she will give 50% of deals.\nkailash chanda | 21:05\nThat is from Ryan and other perspective. We will make them that. Okay. You gave this. You have to bring...\nryan | 21:10\nYeah...\nkailash chanda | 21:10\nThis. But manamo realistic alignment. Kosamo mana every mouthentic realign... I will review with them the boss. You said 5050. She is not drinking. Where is your relation?\nryan | 21:25\nOkay.\nSpeaker 2 | 21:28\nYeah, are the internal optics and have an operational. But Mali, I think we will tighten that up, right? That's like an in-house exercise, but... And I think the assumptions are okay, but we assume that where do we get the remaining amounts, right? Our target is at least one to two million between November through January, where do we get the remaining numbers?\nSo the remaining numbers... Aa, Mali, and the first of all you put Mankas and then Aa manager in the... Kailash, right? So Shay Adams actually... Then you may, new cl onto it. So I'll try to get her in. So that way, if we can get her on that day into the office and then we get to talk and show it to her, maybe...\nMaybe that'll be more than needed. Okay. Tawan, we do... So I think we will have to... Then I'll start to talk to these guys. Let me make a note of this. I already went with... As Shay Adams New York even together, and I see it.\nkailash chanda | 23:01\nShay Adams is New York.\nSpeaker 2 | 23:02\nOkay. So that what that we do is st. N yeah. Yeah, the da okay, palm gu is in Atlanta. Okay, so we Atlanta or weiny Atlantabert? Okay, general on a rule with things like...\nkailash chanda | 23:51\nTom lies on Bu.\nSpeaker 2 | 23:53\nKy yab du cha ka to me do me and da was a Savannah royal. Savannah Royal.\nkailash chanda | 24:03\nSaal Chicago...\nSpeaker 2 | 24:08\nBut we'll still send her everything. He led the anger and give a message. One Samantha royal is she's inmatic and okay two years so says can okay seesa aa costa do seesa Chicago what's that? My things to me and my...\nkailash chanda | 24:50\nNo Chicago office is run. Asana.\nSpeaker 2 | 24:52\nSirs of the... SME together.\nSaid the Chicago tower and GAs. Ella. I think he's...\nkailash chanda | 25:16\nChicago. December 3. Okay.\nSpeaker 2 | 25:19\nDecember third was okay.\nWe Chicago Marie Slack Pennsylvania Nebraska alright okay Savannah and C. Smith so and then IITER kai AA on aa I think we will have to get this in ka I think we'll have to get one more I think I'll just run that one more time.\nkailash chanda | 26:09\nHe Jo a fragn on never. Avany.\nSpeaker 2 | 26:22\nTo Michael Bebad. Sir. We.\nBasically around today so we need at end these are a kind of good in there.\nkailash chanda | 26:47\nMad Latin book...\nSpeaker 2 | 26:59\nMatt Garden, he wanted it. Okay, so we'll have to get these guys in Atlanta. So I'll try to get him ind okay so in I think we'll have it's a pretty long list of marker one mark for me.\nMarkki award the higherland lo actually I me and the question then me kitcheni you know what? I think we may have missed out something and wechen in the ema on the legunte amerunde.\nkailash chanda | 27:52\nA new never a name filter. American ization or a d fiveph...\nSpeaker 2 | 27:57\nOkay, so me number factter maybe 31. I... As yeah, that is not to say we cannot go with this game, but it's a long holiday. Jo web Ireland I uland branded Lauren Buddia...\nkailash chanda | 28:23\nLauren beta an... Except for him.\nSpeaker 2 | 28:44\nWe take a apologies...\nkailash chanda | 28:45\nSame large put a masule... Can be like mo or ge this will be the first time so it be...\nSpeaker 2 | 29:03\nWere the 2 million on the basic so we have to get this going. Whatever. Another two minutes, but I think we had to get this guy on. Ta jana rame jing...\nkailash chanda | 29:23\nKottaga currently but I think they will add...\nSpeaker 2 | 29:28\nJpca in the 2 million on the bar jpg in the y minus kani ren mediacal...\nkailash chanda | 29:42\nA up pleasantay e quarter in nninburg...\nSpeaker 2 | 29:45\nIn not a casting I just then yeah and...\nkailash chanda | 29:48\nHundred percent. Okay.\nSpeaker 2 | 29:49\nI committed in a basically so you didn't catch the but we will have to get JPS matam denni bap plan ther. Okay, so at JP but Jp but call, Jacqueline. Jacqueline. That shows that one is CLY do CC TSPLYM sincere. Rather the.\nSix 70 cents for J.\n6. Okay, Michael. Very advent.\nThe BA.\nAnd your team? Internt.\nOkay, well, a person, the.\nPhoto where is that photo? I want pic in the acut. It's a style. Connect. I think. Deposit.\nkailash chanda | 37:08\nI'll get...\nI step out. In. Do...\nSpeaker 2 | 39:58\nSorry, yes, where is that Dataskate? Okay.\nOkay, mind sharing the details so I can share with the team? Okay. Perfect. Where is it? Okay, T never scared.\nI...\nThink I'll just give them...\nSpeak to them as we were...\nWe love data sched. Let me...\nkailash chanda | 42:25\nThat love...\nSpeaker 2 | 42:27\nWe want...\nkailash chanda | 42:29\nIs no reciprocation. Only Lago is tho is in the air. In.\nRight now it's in the air. Please get it into the houses. And that low...\nSpeaker 2 | 43:01\nAll right. I can make it happen.\nSo we do arm ladder. Okay? Okay. We have made a ton of deals like that. So I think what do children and what co together are the making and again okay...\nkailash chanda | 44:14\nFor our 17th Wetnngan. Travis. A landowner and traveler.\nSpeaker 2 | 44:18\nA 01:17 17th the Travis TED. See I don't think we just need...\nAs actually a Canada mix as long as Kailash basic in anemicu u vi Mexico visa the Kanadaki visa cla me petition dej and you are there's automatic revaluation and on the basic.\nryan | 45:08\nYeah. Mexico, Nadara.\nSpeaker 2 | 45:11\nSame thing. Yeah the Margaret or yesterday so I don't think this cow only I'm going to you have enough but I'll already all sp together so that is good do ice.\nryan | 45:58\nA stack is 5% down.\nSpeaker 2 | 46:02\nActually I think nit can and it is usually parable like if you see it's sty go onto the live with as just last one year I mean the Atlanta erock can't. So there is something that is happening like...\nkailash chanda | 46:31\nSan Diegoro. CRI mod Agent Fabric. Come in. NRA y Kazari over Kitched or...\nSpeaker 2 | 46:42\nAs Kate is...\nkailash chanda | 46:44\nMostly, I think... Mid rocker of count to...\nSpeaker 2 | 46:58\nTo 70 run contest.\nEight.\nSorry. But I well, I have...\nAll right, let's see Cary engage there is this I was getting together schedule want to speak about two weeks.\nWater and Travis get... So hopefully we'll see how it goes. He literally on a... Jp TOGETHERAR.\nSo where were we last time? So me numbers I think they are accurate then in that case. Okay, so the other point is where do we get to a million dollars on AA?\nSo instead, let's actually look at commercial... Now I might have this mean that when a commercial goes on the GA team maybe commercial and... Okay, let's see this is what is the target for mister Tom and with the matter the go after...\nkailash chanda | 50:09\nKunalta Japan... You know Mala matlad me... He's kind of a kafir or doubtful...\nSpeaker 2 | 50:19\nThat's all get con.\nkailash chanda | 50:20\nSo that's where we want you to talk. Kailash Friday though one consari email... Van Nadara Ina Babulam no Asana fabric mode sales for sales cloud number one no co and he came on to... We are not waiting only for you. We started to do and invest in Korce Radio, Tamman and Kar. Then probably he will get more confidence. Compass, midmarket and Goodn...\nSpeaker 2 | 51:01\nCommercial day.\nkailash chanda | 51:03\nCommercial or not. Okay.\nSpeaker 2 | 51:06\nSo we the key in dents on my message. They are...\nkailash chanda | 51:12\nOkay.\nSpeaker 2 | 51:12\nA J PO and Bethan, then the precomment pre commit agent fabric on the gatex air tax introduced to air health scam partner Prowessor -66. Okay, and a tag... Partner. Yeah, let's see. Okay. Let me just do one other time left I plan implementation partner.\nImplementation partner by data... Than Kailash. So I think we'll have to get to these guys somehow. Otherwise we can't just go into... Alright, so let's just run this before that. Anything else that we missed? Let's see.\nSo in the mid-market, unattached to global, I think 5 million additional as from there. So I think maybe that is what it is. Okay, 78 million on the cloud. Okay, so I think we will have to figure this out which does not have a partner or tags a partner leader, but I think in a partner would not base it yet. SW Partner...\nkailash chanda | 53:08\nI not s like...\nSpeaker 2 | 53:09\nYeah... Right. Army tags are lucky. But that is not a bad thing. Like Asana Fabric or Mea Lago. I think we'll have to get this guy on. Tom Powers... Contrary to... Let's see Tom... Alright, yeah, okay. I hope the is the sky...\nAnd then there's the copy image you require registration is just for the ping.\nI to it. Alright, let's see. JP is just... I think we want Dataskate mobile is not Dataskate.\nkailash chanda | 55:02\nYeah. My team is working on that.\nSpeaker 2 | 55:04\nAre they rejected? Okay, we do. Tom Powers. Tom Powers...\nkailash chanda | 55:09\nTom New York.\nSpeaker 2 | 55:24\nYou're... Okay, I think we'll have to show something. Where is that picture mirror or picture? Wait... I think it's probably a picture... CorelDRAW. I'll make a letter and... Monday as a Tuesday...\nkailash chanda | 55:46\nHowever, April 17th on the last year you put in Q4 I PR kundalli and a ticket and January books kind of... Chaman like put the jan line on events in a...\nSpeaker 2 | 55:59\nJanuary events may actually January in February March on Jan 31st today janlo event on the February starting as k on so...\nkailash chanda | 56:17\nOkay...\nSpeaker 2 | 56:18\nThe e photo me they get on the photo let me pa drinforce so I may Slack with the e for... Canva presentation personal photo. That happened. I think they scared the... To... Image some.\nNext week together. 11, 12, one con.\nkailash chanda | 58:46\nA New York c...\nSpeaker 2 | 58:54\nAlright. I'm getting my to... Okay. What a B2 lunch today? Okay.\nkailash chanda | 59:38\nIn marb in Nana. So I think she reached. She reached out to everybody there. I'm Atlanta. I heard yesterday on. So she told him.\nSpeaker 2 | 59:51\nOkay, we didn't... Yeah, that plan together. Okay, yeah, alright, perfect. Alright, so let's look at this last piece. So here it is... A similar... I think we'll have to get this out right. So the Mexico export is there. I'll just give you an example.\nOkay, in the mid-market, yeah, commercial... But this is what we have to basically target. For example, Tom gained almost 4 million, right? It may not be the number of... This thing, but it might be this one, right?\nSo, for example, we might have some logos, or we might be able to bring in and help. So we'll have to try to figure this out at... Master called flexbook flex... Team on their... We'll have to see to... And... In the...\nryan | 01:25\nLike sport in the world like sport laments and normal.\nSpeaker 2 | 01:27\nRoots like sport to new logo basic APA management to chest arm data governance and a strategy to...\nryan | 01:42\nPlant to contact the... Because I get to convince.\nSpeaker 2 | 01:47\nClient contact. There is the director of growth. Let's see. What is this flexbo logo?\nryan | 01:59\nA new logo is already in the data.\nSpeaker 2 | 02:03\nI think I'll advance ran and pipeline net one fifteen. Alright, let's see what the details are. Data garners fire plus... So I think the pipe but not on themmo. Let's see if we can centralize the data governance.\nBut why is it a new logo, Eric Chama stack executed no mule play? Yeah, I think it's an NF data 360 play for... Mules prior... Actually, the prior mule was... So that is probably why she wanted to put that, but there's no mule play here, and so it's a more core and far data 360 play. So we should come back and say, \"Okay, what is the there the mules after the assembly but data access policies?\" Hey,\nsir, I think that is what it is. Alright. So are the AI... I think that is what we should be doing in... Let's see how it goes. I think we'll see who is out there, right?\nOkay, Julie can picture.\nkailash chanda | 04:09\nHow Sirra event. The Sirra. Boots of Tantaa.\nSpeaker 2 | 04:15\nWe will have to get Julie's attention. Just say Jerry.\nMali. Operma. Okay, even... Thmalip got genai so yeah email message got in the other... I will make sure that she's there. She's based in New York, so I think we might be able to get something Justin female, so we'll try to get...\nOkay, will land. Whoever comes in, they will at least walk with lunch or something. Then we will figure it out. Tawatta... Tuesday...\nkailash chanda | 05:14\nTwo one Wednesday morning were Ksantin and Tuze. Welden.\nSpeaker 2 | 05:23\nWednesday morning... A Wednesday morning I think Wednesday we connect vir chile but nan and Miro you need that relaxation like malijt like a non it just without you knowing it will hurt so you don't want to do that. And the cano music so you can.\nSo Wes Demanna we'll connect him. And I think nanu in gay Japan there ragooner last night called us she and he we had to get a demo instany channel.\nkailash chanda | 06:03\nOkay.\nSpeaker 2 | 06:03\nSo it should have all in an N KY message but Terminator...\nkailash chanda | 06:10\nAn in demonski. Yes, well...\nSpeaker 2 | 06:12\nYeah, there... On so okay, but anyways, instance is not a problem in kind of monchy instance already which is in the II kind of sent it out on instance on... I think we're using Miro, yes. So this is the instance.\nAgain, there... So if you just go in, this has everything it has got MDM and everything on so and it does not have multi-factor authentication or anything.\nSo we should be able...\nkailash chanda | 07:27\nNine. Okay.\nSpeaker 2 | 07:27\nTo log in and you should be able to see everything and even they are not okay. It has every MDM and online so build a Pantaon but not much the, data quality. Yeah. So data quality, the INJ and Ajgo Tawan again. And he said he's gonna work on it. But if not New York we should definitely have something for atlan... A so essentially and then they me frontfa so me ascript the me as well basically...\nkailash chanda | 08:14\nOkay.\nSpeaker 2 | 08:16\nIn a... That's the gun. So I think we'll try to give them up internally. Our... I think it should be okay. Is Stany GA under another deal? Stany... So we thought we'd talk through where is that Stany? So we're using Miro set... Let's see what a pipeline you can choose. Chiper.\nkailash chanda | 08:54\nPipeline it mula deal works just on re kalberto let's talk about it... On wa... A stage. Artonnado is only mules cor saw ant...\nSpeaker 2 | 09:10\nWe want to win as much as possible together in Japan. I if he has any friends then please do and see the intent as we help each other out and we'll be there all around that date so they can come at whatever they want. You'll have to think about it.\nOkay, Stany. So the mid PPSU... The... Is lava I like...\nI ex one together.\nkailash chanda | 10:18\nMula als the same gazram... Update data...\nSpeaker 2 | 10:28\nDidn't put you on.\nkailash chanda | 10:29\nAlready okay...\nSpeaker 2 | 10:29\nHe didn't put you on yet right back to co in.\nAll right so solutions ago the other and there will have the next steps read back to co eleven nine so maybe you know eleven two or not in the eleven sanche so they reach out dealer SPONSOREDAGY reflects port as black spot this was the one that flag spot normad.\nOkay, so there's no one on that. Q is sponsor.\nryan | 11:50\nWhat's happening? Like viom. Like they're moving from informatic to completely Mulesoft.\nSpeaker 2 | 11:58\nMulesoft.\nAncient Fabric Co. is on there but let's see what is the rather 2027 minute. Let's see one more time. See your business agent Fabric. 2027 as the next year I waited... MCMCMC MS IDP biologics is 75000 year than the res... By my... At this weekend I need to align with IDPsian services profile certain and professional services... Any guys Angelo the MSI then let's see one more time.\nThat see little more time. Okay, so Mulesoft divestitu best case. SA okay, early renewals. Slack yeah, I think maybe this is the one.\nTo pres automation any close one... May the project is the 50 gig services automation. So that's the... Okay, Cynthia, Justin, let's see what this is. Okay or leadership after... Let's see if Mulesoft will be included in the discussion for an early renewal... Mulesoft to increase... Asan generate incrementally... Core internal platform with Mckesson... Cor... Nove... Marbania... Were... Maral... Yeah... Cynthia.\nMamma but a e on a professional service alumni.\nS. And if you see there are opportunities, that is where it is like the IDP is...\nOkay. Professional. The most unprofessional services they... Make particular opportunity later.\nryan | 16:09\nAs a general guy for whom they are talking from Mulesoft today.\nSpeaker 2 | 16:15\nOkay so let's see who is that team.\nWhat another chat to Miro? Fine. So... Can I put the line item \"Mulesoft is divesting and married another lay the basic game but who's who is he talking to and they...\" I think Kailash is again transact let's say...\nBeatlesson under... Reville under... Actually can executed sponsor led in so they did not have anyone I think you'll quote the matter. Okay, Cynthia is aligning with core team and the data foundation leadership are the next steps.\nSo the avatom... Another leader maybe Cynthia narrated... We might have to go into contacts and find out.\nryan | 17:55\nHe GA on a like from one of our friends who vila CEO del so.\nSpeaker 2 | 18:02\nOkay.\nryan | 18:03\nAnd... Director but he knows an...\nSpeaker 2 | 18:06\nOkay. And casar kai and how to see I may be a professional services. So they're not allowing partners as they issue. Okay. The they're putting n like almost 07:50 k deal professional services s see here in.\nryan | 18:38\nProfessional services contracting at ca.\nSpeaker 2 | 18:42\nProfessional service contracting... So you eat on the other... The manna that I think Cynthia narrated it has a... So I think this is what we might ask the pipeline operation on there. So I think a close...\nSo this is where we might be able to get something, but we don't know at all. So... Another it's a different story altogether.\nAny point... So if you see, a similar transact context... Let's see. Automation assets line items vary. So what do they have? The Salesforce Marketing Claude Data Claude agent for service additional context Service cloud is service. Cloud boxes.\nTen bucks longer to make... Mulesoft is playing on an day for shields of Huntler... Everybody has the...\nLet's see.\nAs Michael loves steals on the outlet.\nAny other that the muser?\nryan | 22:16\nIntern the like anything where we can enter. So the directing a software then we have one...\nSpeaker 2 | 22:24\nA is why they don't know the other.\nWe... I see. So I don't know if they're in the same team or in fact I even add to get to basically comparing the GenAI Cynthia sincere dally.\nHow many on the opportunity and on... Cynthia and Wittenberg.\nOp 76. Okay... On the okay... Email respond and... Okay we'll get that out again on a...\nkailash chanda | 24:27\nOur last question I happy hour and day you know howmon and the event place bookjtama like or s fo towerlo we can put something if we...\nSpeaker 2 | 24:42\nWe will have it's an additional cost and all that...\nkailash chanda | 24:47\nOkay.\nSpeaker 2 | 24:47\nBits problem and alcohol basic for do either to do limited the we basic but after this cs the problem in DNA I think it is expensive. Why? Catttle. Launch this. Co so...\nkailash chanda | 25:06\nSo... Ifj. I'm more thinking on the number of people. How do we... We have to book the locations that are so... If I book 50 and if it's overcrowded or if I book 20 and there are no people, so the difference matters. Let them one other...\nryan | 25:38\nGoing to place like how many initially if you take the... If more we will pay for more that.\nkailash chanda | 25:49\nIt depends on the space. Or if they have multiple halls, then they'll allocate as a smaller one...\nSpeaker 2 | 26:01\nOkay that's maybe we'll have something like a smaller place but we will see the Indian. I my knowledge and I think I'll ask this lady answer email Si and the other... We'll see number twelve, number five.\nI think he may, I add to the gara so I think I can ask. I'm even today... So even if that is the case, then we can do that within the APR. Usually, that's a little bit overhead. I'm going to clean this...\nOn a basic... We might be bound by some rules and regulations, and I'm not quite sure... Internally. So...\nkailash chanda | 27:17\nI than buttman will because New York is next week only Asana... Right? Right that we can rape man a meeting with pa we'll start calling and looking for something. Okay. Well, what do you want in? You know? I'll have it ready...\nSpeaker 2 | 27:42\nLet together...\nkailash chanda | 27:44\nIn white letter. So I'll book a ticket for the ticket...\nSpeaker 2 | 27:48\nQ4. I think yeah. We will want to run a couple of events and then the asa di...\nkailash chanda | 28:00\nOkay...\nSpeaker 2 | 28:01\nSo that...\nryan | 28:03\nOkay.\nkailash chanda | 28:04\nOne more thing is Marie next week. If we mean we might have to plan a couple of sessions with the Tom or IE onwards and then...\nSpeaker 2 | 28:13\nAn exac town.\nkailash chanda | 28:17\nOkay.\nSpeaker 2 | 28:19\nHe knows most of it all. He does not know that I am supporting you guys, but he... You know that I'm mentoring you, but that's a different story altogether. I don't think that is a big challenge.\nkailash chanda | 28:34\nNo. Nobody came. The internal was just op.\nSpeaker 2 | 28:37\nOkay, Anywaysriday, Saturday.\nkailash chanda | 28:45\nOkay. Later.\nSpeaker 2 | 28:48\nAnything else? Okay, the... Yeah, right."
+  }
+}
