@@ -1,0 +1,56 @@
+{
+  "id": "01a1b1f4598e70739a1234533a6bfb98",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1b19f173577238ceacb36e4d7a7af",
+      "title": "Touchbase with Vara",
+      "duration": 535,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "1q5hkhpnrp6jbb44rlnmunsqmp_20261106T173000Z",
+      "participants": [
+        {
+          "id": "11067db77b9851dbaaa8c443d4ef6ffe",
+          "first_name": "vimandi",
+          "email": "vimandi@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-06T17:32:54.555Z",
+      "end_date": "2026-11-06T17:41:49.555Z",
+      "url": "https://app.krisp.ai/m/01a1b19f173577238ceacb36e4d7a7af?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hello. The our client or Chiny. They have an application which does not support a case. Arpawri re cha asa a call 1 o'clock, 3 inia time. Do you think you can join airport or and what? Who else can join to see to confirm but undergo non at leastin busal joining chat and I la ba but no oxar barga we have to create records that is the main thing.\nOkay, you are and in white MOS, not a bar. Good jumper. And what will be the constraint session to understand whether it can write or not?\nOkay.\nAribaro Kajala okay. At least we are your aji now so that you can ask Bargo those questions. Ask barrio to join, okay? And if wago bo jam good. Now, but in case what is the option how to verify whether this is a HTMLSPR sap? What Flex say here? Andon no.\nLaterlex application will go. So flex cha se mostly. Nancy Advanced Manufacturing and Flex dot com.\nWeb portal. But they don't have API, so we just have to see whether that will allow us to do it. Flex rental solutions in the compristion.\nUnderp moa robotic I on the solution a mo.\nAdd Jason intern in Whitelo. So let's see that. Okay, thanks. Thank you."
+      }
+    ],
+    "raw_meeting": "**Touchbase with Vara**\n🕞 Started at 05:32 PM on 06 Nov, lasted 8m",
+    "raw_content": "kailash chanda | 04:47\nHello. The our client or Chiny. They have an application which does not support a case. Arpawri re cha asa a call 1 o'clock, 3 inia time. Do you think you can join airport or and what? Who else can join to see to confirm but undergo non at leastin busal joining chat and I la ba but no oxar barga we have to create records that is the main thing.\nOkay, you are and in white MOS, not a bar. Good jumper. And what will be the constraint session to understand whether it can write or not?\nOkay.\nAribaro Kajala okay. At least we are your aji now so that you can ask Bargo those questions. Ask barrio to join, okay? And if wago bo jam good. Now, but in case what is the option how to verify whether this is a HTMLSPR sap? What Flex say here? Andon no.\nLaterlex application will go. So flex cha se mostly. Nancy Advanced Manufacturing and Flex dot com.\nWeb portal. But they don't have API, so we just have to see whether that will allow us to do it. Flex rental solutions in the compristion.\nUnderp moa robotic I on the solution a mo.\nAdd Jason intern in Whitelo. So let's see that. Okay, thanks. Thank you."
+  }
+}
