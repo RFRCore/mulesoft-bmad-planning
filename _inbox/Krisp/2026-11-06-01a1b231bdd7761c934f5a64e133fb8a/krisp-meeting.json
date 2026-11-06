@@ -1,0 +1,121 @@
+{
+  "id": "01a1b231bdd7761c934f5a64e133fb8a",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1b1ecf92e774fa24ca49887c67b1a",
+      "title": "QDI Surfaces + Salesforce + Dataskate: Sales Process Deep-Dive",
+      "duration": 1039,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "innicnm99h9s04bm88d7rqokhk",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "davis@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "charles.vasquez@qdisurfaces.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "nlydon@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sravankiran@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "lucas.harper@qdisurfaces.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "arif.surmen@qdisurfaces.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "fatih.surmen@qdisurfaces.com"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3,
+          "last_name": "Harper",
+          "id": "5b45fa3814225e9e8a1af87f2998370f",
+          "first_name": "Lucas",
+          "email": "b0d36ec49def424db581362b18798912@noemail.krisp.ai"
+        },
+        {
+          "index": 4
+        },
+        {
+          "index": 5,
+          "last_name": "Lydon",
+          "id": "925f2b4313d55a9ba778b62b1e311d16",
+          "first_name": "Nick",
+          "email": "5073f0ad6bb44e9abbdc9001f4e7d2e3@noemail.krisp.ai"
+        },
+        {
+          "index": 6,
+          "last_name": "Surmen",
+          "id": "af0689c428105059803b87f65c7d150e",
+          "first_name": "Fatih",
+          "email": "1570cf7f445b42c4828a0201142ff4bb@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T18:31:38.866Z",
+      "end_date": "2026-11-06T18:48:57.866Z",
+      "url": "https://app.krisp.ai/m/01a1b1ecf92e774fa24ca49887c67b1a?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1b221f2f0755fabdc8d80136fea5b",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 1033.295,
+      "size": 4132368,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-13T18:49:26.740Z"
+    },
+    "raw_meeting": "**QDI Surfaces + Salesforce + Dataskate: Sales Process Deep-Dive**\n🕞 Started at 06:31 PM on 06 Nov, lasted 17m"
+  }
+}
