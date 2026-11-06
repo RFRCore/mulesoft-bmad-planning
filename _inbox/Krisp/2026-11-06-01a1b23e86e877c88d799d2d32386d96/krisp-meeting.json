@@ -1,0 +1,279 @@
+{
+  "id": "01a1b23e86e877c88d799d2d32386d96",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1b1f5af0d712eaab3b19b8edbd953",
+      "title": "QDI Surfaces + Salesforce + Dataskate: Sales Process Deep-Dive",
+      "duration": 818,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "innicnm99h9s04bm88d7rqokhk",
+      "participants": [
+        {
+          "email": "davis@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "charles.vasquez@qdisurfaces.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "ryan@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "nlydon@salesforce.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "sravankiran@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "kailash@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "lucas.harper@qdisurfaces.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "arif.surmen@qdisurfaces.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "fatih.surmen@qdisurfaces.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "Surmen",
+          "id": "af0689c428105059803b87f65c7d150e",
+          "first_name": "Fatih",
+          "email": "1570cf7f445b42c4828a0201142ff4bb@noemail.krisp.ai"
+        },
+        {
+          "index": 2,
+          "last_name": "Lydon",
+          "id": "925f2b4313d55a9ba778b62b1e311d16",
+          "first_name": "Nick",
+          "email": "5073f0ad6bb44e9abbdc9001f4e7d2e3@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": null,
+          "id": "f779b48bfb265e4c8eb5c7e4a306dfca",
+          "first_name": "Sravankiran",
+          "email": "bc7b6e664ea74bf2bdfdd91ed11f92c3@noemail.krisp.ai"
+        },
+        {
+          "index": 4,
+          "last_name": "Lydon",
+          "id": "925f2b4313d55a9ba778b62b1e311d16",
+          "first_name": "Nick",
+          "email": "5073f0ad6bb44e9abbdc9001f4e7d2e3@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T18:49:04.240Z",
+      "end_date": "2026-11-06T19:02:42.240Z",
+      "url": "https://app.krisp.ai/m/01a1b1f5af0d712eaab3b19b8edbd953?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "There are different ways, actually. We are looking at it. So one way is the first way is we have established customers, the customers established already, we have the records, we have the sales off of that customer.\nSo we want to know what we do with that customer, are we visiting with them, what are their concerns, what are we doing good for them? The second thing is brand new efforts, right? That we don't have the customer yet it's not an established account, a brand new account. We want to measure that effort too.\nSo okay, we have X amount of established customers, but there are so many more out there that we want to earn their business. What do we do on their end? Are we spending 80% of our time on our established customers?\nOnly two goes to the rest. So that is a separate effort. It needs to be separated basically so we can understand. The other way is online. Yes, we have customers that can request inquiries online. We do not... Other than Google Sheets, we don't have software that gathers that information and does anything with that sorry."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Just want to make sure I'm understanding correctly. When you were saying that when customers make requests, you're not documenting that anywhere outside of Excel, correct?"
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "The request is about, you know, if we have this product or if they can match something in their world and you know, that kind of requests actually."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "I mean that to me. Is that not something you would want to document so that fatigue reaches out to me and wants to know about a certain type of courts we have? Wouldn't we want to then have Lucas the sales rep reach out to 15 and say, \"Hey, I saw you had some interest in this. Do you want to talk about it further?\""
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "Correct."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Okay, yes. I mean, I think that's definitely something we would want to pull into the system then because we have ways that we can... Once that's in Salesforce, we can absolutely... Either through email or through AI or just proactively letting a person know, \"Hey, this is the one that we should follow up on first.\" Those are all things we can take action on once it's in the system."
+      },
+      {
+        "speaker": "Sravankiran",
+        "speakerIndex": 3,
+        "text": "Yeah, and one more question from my side, do you have any...? Kind of a sales phone number that people calling for the asking...? Again, probably similar questions as you said today. You have this product again.\nThat's another good channel where you can capture leads, identify what their requests are, call them back, set up a face-to-face if needed or on call. Gather that qualification information."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "Yes, we have that too. Yes."
+      },
+      {
+        "speaker": "Sravankiran",
+        "speakerIndex": 3,
+        "text": "Okay, what tool do you use to get calls? RingCentral? I know there are a lot of them, but ask in a different way. Are your sellers taking these calls in Salesforce or outside of Salesforce?"
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "Outside of Salesforce."
+      },
+      {
+        "speaker": "Sravankiran",
+        "speakerIndex": 3,
+        "text": "Got it. I think that's another good opportunity. I believe... Nick, where we can probably look at maybe ACT or Momentum is great for auto updates in CRM, probably that's a good fit for them, yeah, fatigue."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Just to mention what I think Trevon is recommending here... We don't have to get into all the details right now. But there are some tools you have where if you make these phone calls through Salesforce or if you know you take these inbound phone calls through Salesforce, we can use the transcript to then autopopulate these leads and opportunities.\nSo we're not having to worry about people taking the time to fill it out. If it's accurate, it can be done pretty much instantaneously. And then similarly to what we're talking about a second ago...\nIf it's either of your websites or an email that's sent in for more information, we can have automations that are reaching out to those people immediately because I imagine a lot of your customers are probably reaching out to a lot of different distributors for these materials.\nSo it's obviously very critical. We want to be the first ones to respond. So those are just a couple of areas. I just want to check in on your comment earlier. These are the sorts of recommendations we're trying to get from hearing what your process looks like.\nDoes that make sense so far? Yes, okay, fantastic."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "I would highlight this area that the effort level of sales reps is invisible to the management we are using. We figure out a way to use a few things in Salesforce to gauge their daily activities.\nIt is not perfect at all. But that's another area that we like to gain some insight into how our sales reps are utilizing their time. What kind of activities they are dealing with throughout the day, and in return, are we generating what we are generating in return?"
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Yeah. So ELS, sorry, Nick, really quick, I was just going to ask... Are you using any dashboards really in Salesforce right now? Because another part of this, the benefit of having this data in the system, is that now we can make those exact reports you just asked for.\nHow much are we selling per our biggest account? What does that look like this quarter versus last? How are my sellers doing against each other or against themselves quarter over quarter?"
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "Those we have those yes, we do have dashboards and we have those actually, yes, in place."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Okay, is that capturing activity data, though, for what you just said a second ago?"
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "Yes, and yes, actually, yes, it does. Yeah, it does, actually, it does. I mean it. It tells me that, you know, a rep has 15 activities. And if I go into the details of it, I can see, you know, some of whom are phone calls, some of whom are in person visits or e mail exchanges.\nSo we put something together. We put something together. But I guess you know what we are after is, you know, we don't have the whole information. We have some information. But eventually what's happening is that information is not being used.\nSo. So I guess the reason why we are we have the Salesforce is, you know, Salesforce is helping us. The expectation is it's going to help us to utilize that information in a convenient way. So we couldn't, I guess, figure that out.\nLike, you know, I mean, we have some information, right? I mean, we are not flying blind here, but. But it's an effort that at the end of the day, nobody wants to go to that route, right? It's. It's too much time consuming to get into the details of everything and figure the things out.\nAnd. And it's not convenient at all."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "So yeah, yes, so sorry if you can finish that thought I didn't mean to."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "No, go ahead."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Please now. Yeah. So I think, from what I'm hearing, there are a lot of ways we can take this. But I think honestly, AI legitimately could have a use case here because a big part of that is trying to... If it's good that we have the data, but are we actually doing anything with it?\nIf the answer is no, then a lot of times Agent Force can be helpful because it can take some of that action for you. It can review some of that information for you. Are you using AI at all today?\nWhat does that look like in terms of that strategy?"
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "No, we are not using AI. Okay."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Yeah, I mean, I think that could be useful for some of the outbound marketing pieces, especially if you have... It sounds like there are leads that maybe aren't being followed up on in a very timely fashion.\nOne way we can help with that is outbound marketing of emails that are basically going to look at all of the history of a lead or an opportunity. That could be phone calls, like Sravan had mentioned, that could be emails. It could be previous things that maybe they have purchased from you.\nIt can use that context to then reach out to a lead and say, \"Hey, we saw that you were interested in this product. Would you have any interest if we had a sale or if we had a competing product that's very similar?\" Those are some helpful pieces, especially if these leads are just going untouched sometimes, especially if they're not even being entered into the system right now, that's something that can be helpful for revenue."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "Correct. 100% yes, and Lucas mentioned we have incoming traffic to our showrooms. We are not capturing that information. Well, basically, the information stays with that information.\nSay, a visitor, a customer comes into the showroom and talks to an individual, right? That conversation currently remains between two people, customer and one of the employees. So it's not being shared with the team.\nI wouldn't know what to follow up on in that regard. So, I mean, we are capturing some information, but I guess we are not more than what we are."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Okay, understood. I guess, one last question. I apologize for... I do have to drop for another call in just a minute here. But I think sometimes it's helpful to have a specific goal that we're driving towards because otherwise, there are a lot of different areas we can help with, there are a lot of different areas that... Maybe it's a nice-to-have, but it wouldn't really change the business.\nSo we want to make sure we're doing something that's useful for you all. I guess what would be a specific API or goal that you would want... You would view this as a successful investigation for? Would it be increasing lead conversion? Is it increasing the total lead? Is it increasing revenue?\nWhat's the biggest for you and the team right now?"
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "A lead conversion. I believe in general, we can call it."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Okay, that's super helpful. Yeah, I think with that in mind, let's maybe dig a little bit further into what you were mentioning about these inbound product requests that aren't getting captured today. What is the timeline of responding to that?\nIf there are some areas for one-way we can identify is we can have different lead scoring. So when different leads come in, if we have criteria, that means, \"Hey, this is actually something we tend to win at.\"\nSome leads that... This seems a little soft. I don't know if we need to reach out immediately. You can use that to inform, \"Hey, let's have our sales reps follow up on the hot leads as soon as possible. The slower ones or the ones that seem a little softer. We can have an AI agent or someone else reach out to it, but apologies, I do have to drop.\"\nI'll leave the rest of the crew to answer or ask a couple of more of those questions, but thank you very much for the time. I appreciate it."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 4,
+        "text": "Perfect. I can continue to... I have... I'm going to go over a little bit. I should be dropping, but I want to go another fifteen minutes or so to continue to dig into a little bit of that. So I guess around conversion and thinking about the value of the leads themselves. I'd be curious, Fati, are there certain types of leads, customers' prospects, that are more valuable than others? Curious to you a little bit more about..."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "That's a good question. There are opportunities and leads, right in you guys as well. How do you differentiate leads and opportunities? Which one means what?"
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 4,
+        "text": "So it really depends on the customer's process completely, and some people have different schools of thought around it. I would say after a conversion has happened, there's been a sale, and Sharon, feel free to chime in and share your experience, but that's really what I've seen where it'll convert basically from a lead. They've made a purchase, and the customer at that point.\nOpportunity could be really anything that has potential to generate revenue. So it would be a specific dollar amount associated with a person or an individual business that's very high level."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "Yeah, sorry. Go ahead."
+      },
+      {
+        "speaker": "Sravankiran",
+        "speakerIndex": 3,
+        "text": "Sorry, for... So some other businesses treat leads as more of an expression of interest. \"Hey, I'm interested in your product or service.\" Another meaningful lead. As Nick mentioned, opportunity is always tied with a dollar amount.\nIt's a deal. You close it, you get revenue, and you lose it, you lose revenue. In a straightforward opportunity, it's pretty straightforward. A lead is totally dependent on business-to-business, but most businesses see a lead as an expression of interest. \"Hey, I'm interested in something that your organization is offering.\"\nOkay."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 1,
+        "text": "It's a dilemma, of course, but let me tell you how we are looking at those two, actually three. Now I'll introduce you to another level of it, the opportunity in our world."
+      }
+    ],
+    "raw_meeting": "**QDI Surfaces + Salesforce + Dataskate: Sales Process Deep-Dive**\n🕞 Started at 06:49 PM on 06 Nov, lasted 13m",
+    "raw_content": "Fatih Surmen | 00:00\nThere are different ways, actually. We are looking at it. So one way is the first way is we have established customers, the customers established already, we have the records, we have the sales off of that customer.\nSo we want to know what we do with that customer, are we visiting with them, what are their concerns, what are we doing good for them? The second thing is brand new efforts, right? That we don't have the customer yet it's not an established account, a brand new account. We want to measure that effort too.\nSo okay, we have X amount of established customers, but there are so many more out there that we want to earn their business. What do we do on their end? Are we spending 80% of our time on our established customers?\nOnly two goes to the rest. So that is a separate effort. It needs to be separated basically so we can understand. The other way is online. Yes, we have customers that can request inquiries online. We do not... Other than Google Sheets, we don't have software that gathers that information and does anything with that sorry.\nNick Lydon | 01:25\nJust want to make sure I'm understanding correctly. When you were saying that when customers make requests, you're not documenting that anywhere outside of Excel, correct?\nFatih Surmen | 01:36\nThe request is about, you know, if we have this product or if they can match something in their world and you know, that kind of requests actually.\nNick Lydon | 01:48\nI mean that to me. Is that not something you would want to document so that fatigue reaches out to me and wants to know about a certain type of courts we have? Wouldn't we want to then have Lucas the sales rep reach out to 15 and say, \"Hey, I saw you had some interest in this. Do you want to talk about it further?\"\nFatih Surmen | 02:05\nCorrect.\nNick Lydon | 02:06\nOkay, yes. I mean, I think that's definitely something we would want to pull into the system then because we have ways that we can... Once that's in Salesforce, we can absolutely... Either through email or through AI or just proactively letting a person know, \"Hey, this is the one that we should follow up on first.\" Those are all things we can take action on once it's in the system.\nSravankiran | 02:25\nYeah, and one more question from my side, do you have any...? Kind of a sales phone number that people calling for the asking...? Again, probably similar questions as you said today. You have this product again.\nThat's another good channel where you can capture leads, identify what their requests are, call them back, set up a face-to-face if needed or on call. Gather that qualification information.\nFatih Surmen | 02:52\nYes, we have that too. Yes.\nSravankiran | 02:54\nOkay, what tool do you use to get calls? RingCentral? I know there are a lot of them, but ask in a different way. Are your sellers taking these calls in Salesforce or outside of Salesforce?\nFatih Surmen | 03:10\nOutside of Salesforce.\nSravankiran | 03:12\nGot it. I think that's another good opportunity. I believe... Nick, where we can probably look at maybe ACT or Momentum is great for auto updates in CRM, probably that's a good fit for them, yeah, fatigue.\nNick Lydon | 03:28\nJust to mention what I think Trevon is recommending here... We don't have to get into all the details right now. But there are some tools you have where if you make these phone calls through Salesforce or if you know you take these inbound phone calls through Salesforce, we can use the transcript to then autopopulate these leads and opportunities.\nSo we're not having to worry about people taking the time to fill it out. If it's accurate, it can be done pretty much instantaneously. And then similarly to what we're talking about a second ago...\nIf it's either of your websites or an email that's sent in for more information, we can have automations that are reaching out to those people immediately because I imagine a lot of your customers are probably reaching out to a lot of different distributors for these materials.\nSo it's obviously very critical. We want to be the first ones to respond. So those are just a couple of areas. I just want to check in on your comment earlier. These are the sorts of recommendations we're trying to get from hearing what your process looks like.\nDoes that make sense so far? Yes, okay, fantastic.\nFatih Surmen | 04:26\nI would highlight this area that the effort level of sales reps is invisible to the management we are using. We figure out a way to use a few things in Salesforce to gauge their daily activities.\nIt is not perfect at all. But that's another area that we like to gain some insight into how our sales reps are utilizing their time. What kind of activities they are dealing with throughout the day, and in return, are we generating what we are generating in return?\nNick Lydon | 05:17\nYeah. So ELS, sorry, Nick, really quick, I was just going to ask... Are you using any dashboards really in Salesforce right now? Because another part of this, the benefit of having this data in the system, is that now we can make those exact reports you just asked for.\nHow much are we selling per our biggest account? What does that look like this quarter versus last? How are my sellers doing against each other or against themselves quarter over quarter?\nFatih Surmen | 05:42\nThose we have those yes, we do have dashboards and we have those actually, yes, in place.\nNick Lydon | 05:50\nOkay, is that capturing activity data, though, for what you just said a second ago?\nFatih Surmen | 05:55\nYes, and yes, actually, yes, it does. Yeah, it does, actually, it does. I mean it. It tells me that, you know, a rep has 15 activities. And if I go into the details of it, I can see, you know, some of whom are phone calls, some of whom are in person visits or e mail exchanges.\nSo we put something together. We put something together. But I guess you know what we are after is, you know, we don't have the whole information. We have some information. But eventually what's happening is that information is not being used.\nSo. So I guess the reason why we are we have the Salesforce is, you know, Salesforce is helping us. The expectation is it's going to help us to utilize that information in a convenient way. So we couldn't, I guess, figure that out.\nLike, you know, I mean, we have some information, right? I mean, we are not flying blind here, but. But it's an effort that at the end of the day, nobody wants to go to that route, right? It's. It's too much time consuming to get into the details of everything and figure the things out.\nAnd. And it's not convenient at all.\nNick Lydon | 07:18\nSo yeah, yes, so sorry if you can finish that thought I didn't mean to.\nFatih Surmen | 07:23\nNo, go ahead.\nNick Lydon | 07:24\nPlease now. Yeah. So I think, from what I'm hearing, there are a lot of ways we can take this. But I think honestly, AI legitimately could have a use case here because a big part of that is trying to... If it's good that we have the data, but are we actually doing anything with it?\nIf the answer is no, then a lot of times Agent Force can be helpful because it can take some of that action for you. It can review some of that information for you. Are you using AI at all today?\nWhat does that look like in terms of that strategy?\nFatih Surmen | 07:53\nNo, we are not using AI. Okay.\nNick Lydon | 07:58\nYeah, I mean, I think that could be useful for some of the outbound marketing pieces, especially if you have... It sounds like there are leads that maybe aren't being followed up on in a very timely fashion.\nOne way we can help with that is outbound marketing of emails that are basically going to look at all of the history of a lead or an opportunity. That could be phone calls, like Sravan had mentioned, that could be emails. It could be previous things that maybe they have purchased from you.\nIt can use that context to then reach out to a lead and say, \"Hey, we saw that you were interested in this product. Would you have any interest if we had a sale or if we had a competing product that's very similar?\" Those are some helpful pieces, especially if these leads are just going untouched sometimes, especially if they're not even being entered into the system right now, that's something that can be helpful for revenue.\nFatih Surmen | 08:45\nCorrect. 100% yes, and Lucas mentioned we have incoming traffic to our showrooms. We are not capturing that information. Well, basically, the information stays with that information.\nSay, a visitor, a customer comes into the showroom and talks to an individual, right? That conversation currently remains between two people, customer and one of the employees. So it's not being shared with the team.\nI wouldn't know what to follow up on in that regard. So, I mean, we are capturing some information, but I guess we are not more than what we are.\nNick Lydon | 09:33\nOkay, understood. I guess, one last question. I apologize for... I do have to drop for another call in just a minute here. But I think sometimes it's helpful to have a specific goal that we're driving towards because otherwise, there are a lot of different areas we can help with, there are a lot of different areas that... Maybe it's a nice-to-have, but it wouldn't really change the business.\nSo we want to make sure we're doing something that's useful for you all. I guess what would be a specific API or goal that you would want... You would view this as a successful investigation for? Would it be increasing lead conversion? Is it increasing the total lead? Is it increasing revenue?\nWhat's the biggest for you and the team right now?\nFatih Surmen | 10:14\nA lead conversion. I believe in general, we can call it.\nNick Lydon | 10:18\nOkay, that's super helpful. Yeah, I think with that in mind, let's maybe dig a little bit further into what you were mentioning about these inbound product requests that aren't getting captured today. What is the timeline of responding to that?\nIf there are some areas for one-way we can identify is we can have different lead scoring. So when different leads come in, if we have criteria, that means, \"Hey, this is actually something we tend to win at.\"\nSome leads that... This seems a little soft. I don't know if we need to reach out immediately. You can use that to inform, \"Hey, let's have our sales reps follow up on the hot leads as soon as possible. The slower ones or the ones that seem a little softer. We can have an AI agent or someone else reach out to it, but apologies, I do have to drop.\"\nI'll leave the rest of the crew to answer or ask a couple of more of those questions, but thank you very much for the time. I appreciate it.\nFatih Surmen | 11:02\nThank you.\nNick Lydon | 11:07\nPerfect. I can continue to... I have... I'm going to go over a little bit. I should be dropping, but I want to go another fifteen minutes or so to continue to dig into a little bit of that. So I guess around conversion and thinking about the value of the leads themselves. I'd be curious, Fati, are there certain types of leads, customers' prospects, that are more valuable than others? Curious to you a little bit more about...\nNick Lydon | 11:36\nYeah.\nFatih Surmen | 11:36\nThat's a good question. There are opportunities and leads, right in you guys as well. How do you differentiate leads and opportunities? Which one means what?\nNick Lydon | 11:49\nSo it really depends on the customer's process completely, and some people have different schools of thought around it. I would say after a conversion has happened, there's been a sale, and Sharon, feel free to chime in and share your experience, but that's really what I've seen where it'll convert basically from a lead. They've made a purchase, and the customer at that point.\nOpportunity could be really anything that has potential to generate revenue. So it would be a specific dollar amount associated with a person or an individual business that's very high level.\nFatih Surmen | 12:27\nYeah, sorry. Go ahead.\nSravankiran | 12:29\nSorry, for... So some other businesses treat leads as more of an expression of interest. \"Hey, I'm interested in your product or service.\" Another meaningful lead. As Nick mentioned, opportunity is always tied with a dollar amount.\nIt's a deal. You close it, you get revenue, and you lose it, you lose revenue. In a straightforward opportunity, it's pretty straightforward. A lead is totally dependent on business-to-business, but most businesses see a lead as an expression of interest. \"Hey, I'm interested in something that your organization is offering.\"\nOkay.\nFatih Surmen | 13:09\nIt's a dilemma, of course, but let me tell you how we are looking at those two, actually three. Now I'll introduce you to another level of it, the opportunity in our world."
+  }
+}
