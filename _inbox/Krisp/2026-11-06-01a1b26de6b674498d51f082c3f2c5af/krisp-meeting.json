@@ -1,0 +1,104 @@
+{
+  "id": "01a1b26de6b674498d51f082c3f2c5af",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1b206dece7750b6a9c6497c2daf80",
+      "title": "concertstuff <> Automation",
+      "duration": 1446,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "1p8hl468k0v9ln3qdghe8h86ou",
+      "participants": [
+        {
+          "email": "ntrezza@salesforce.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "dbourque@concertstuff.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "chance@concertstuff.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "bhargav@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "email": "sasank@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "index": 2,
+          "email": "sasank@dataskate.io",
+          "first_name": "sasank",
+          "id": "f4ebfa04e0a05d6db7c7e27447dc457b",
+          "last_name": null
+        },
+        {
+          "index": 3,
+          "email": "6d0fbd6935ec4afd84099fab074c9eff@noemail.krisp.ai",
+          "first_name": "dbourque",
+          "id": "7351d9936dbf56fdb8ef5a0628490e16",
+          "last_name": null
+        },
+        {
+          "index": 4,
+          "email": "addc1b037fb84f39a8a77e61bca7832e@noemail.krisp.ai",
+          "first_name": "chance",
+          "id": "a6b9d327617b5bf4bed2bdc8497b7e2d",
+          "last_name": null
+        },
+        {
+          "index": 5,
+          "email": "783d6300a5154c35bb69f25069ed920e@noemail.krisp.ai",
+          "first_name": "ntrezza",
+          "id": "1115a8d3e0285b799eaab225c9edda3d",
+          "last_name": null
+        }
+      ],
+      "start_date": "2026-11-06T19:30:40.230Z",
+      "end_date": "2026-11-06T19:54:46.230Z",
+      "url": "https://app.krisp.ai/m/01a1b206dece7750b6a9c6497c2daf80?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1b257faf376c8a41f76e5a02ac5c5",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 1437.098,
+      "size": 5747328,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-13T19:55:09.363Z"
+    },
+    "raw_meeting": "**concertstuff  Automation**\n🕞 Started at 07:30 PM on 06 Nov, lasted 24m"
+  }
+}
