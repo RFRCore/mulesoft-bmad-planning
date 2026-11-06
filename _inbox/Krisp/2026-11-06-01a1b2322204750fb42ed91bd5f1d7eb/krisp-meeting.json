@@ -1,0 +1,330 @@
+{
+  "id": "01a1b2322204750fb42ed91bd5f1d7eb",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1b1ecf92e774fa24ca49887c67b1a",
+      "title": "QDI Surfaces + Salesforce + Dataskate: Sales Process Deep-Dive",
+      "duration": 1039,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "innicnm99h9s04bm88d7rqokhk",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "davis@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "charles.vasquez@qdisurfaces.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "ryan@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "nlydon@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sravankiran@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "lucas.harper@qdisurfaces.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "arif.surmen@qdisurfaces.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "fatih.surmen@qdisurfaces.com"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3,
+          "last_name": "Harper",
+          "id": "5b45fa3814225e9e8a1af87f2998370f",
+          "first_name": "Lucas",
+          "email": "b0d36ec49def424db581362b18798912@noemail.krisp.ai"
+        },
+        {
+          "index": 4
+        },
+        {
+          "index": 5,
+          "last_name": "Lydon",
+          "id": "925f2b4313d55a9ba778b62b1e311d16",
+          "first_name": "Nick",
+          "email": "5073f0ad6bb44e9abbdc9001f4e7d2e3@noemail.krisp.ai"
+        },
+        {
+          "index": 6,
+          "last_name": "Surmen",
+          "id": "af0689c428105059803b87f65c7d150e",
+          "first_name": "Fatih",
+          "email": "1570cf7f445b42c4828a0201142ff4bb@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T18:31:38.866Z",
+      "end_date": "2026-11-06T18:48:57.866Z",
+      "url": "https://app.krisp.ai/m/01a1b1ecf92e774fa24ca49887c67b1a?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Join and then Lucas, what did you what do you say for Charles to make sure I caught that."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Charles may join..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hello?"
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Again. Fay and RF may pop in, but it's really just more for... We wanted to have some best practices advice for..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Check one. No, I think we have somebody..."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "The leads and opportunities."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Monday. I..."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "As are data quality issues. We do have a consultant that we're currently working with, and we they've kind of escalated..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, I think one daywards..."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Some of that stuff. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We are looking at..."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "I mean, there're... I'm hoping to have our data quality issues taken care of at least by the end of the month. We'll see what's going on. As for a health check..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One o'clock today..."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Kind of seeing our meal soft how that datas coming through. I mean, I want to give these guys a little bit more time before we start, you know, bringing more heads into the pot. But..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Right? J so..."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "It's more of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "IA soluation of the right. J..."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Just out of curiosity, have you guys ever worked with Activate before?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Right..."
+      },
+      {
+        "speaker": "Speaker 4",
+        "speakerIndex": 4,
+        "text": "No, we haven't worked with Activate, I don't believe. But similar systems, you know, activate is just like, you know, so many other systems that we worked with before. So my team has done research in it and yeah, it you know, it shouldn't be a problem."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "It's helpful to Lucas. Like I given like this has been kind of like a recurring issue that I feel like every like month or two, which I know it's been longer for you, but since we've been working together at least since early this year, I just wanted to basically like start there is like if the Data Foundation is incorrect, that's like a huge issue, right?\nAnd heard you on all those points. I just my mind immediately went there. It's like, let's make sure we get that right. And we do these kind of like health checks with partners. And this was like one of the top partners that was recommended by the Mulesoft team in particular.\nAnd they are familiar and comfortable with a lot of the other areas as well. But just as an fi on that kind of like how this initiation started."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Yeah, I'm all fine for like kind of going into their system and taking a look at that, but again, it's just like we do have someone that's currently working with us right now. It's like if you guys had an experience already with Activate, it would help out kind of the learning curve of the ins and outs of how our system creates a quote and going from a sales order to an invoice. It just. It would be beneficial to just kind of that. That experience already.\nBut. Kind of the focal point that I need a little bit more from possibly Nick is just kind of having some best practices of just going over leads and opportunities. Other distributors just kind of seeing what other people are doing in the market.\nLike we have access to this tool. But then we have a lot of these leads in here already. But it's just we're our sales reps kind of went off and started playing with it. And we have a lot of data and we don't know what to do with it.\nSo I just kind of need some help or guidance to kind of what should we how should we interact with this information?"
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 5,
+        "text": "Yeah, Lucas, just to jump in here, that is 100% a question that we get asked almost every single time we engage with an account. So that's not atypical at all that you have that feeling. I mean, honestly, I'd say the reality is Salesforce, you're totally right. Super strong tool, can use so many different things, but the reality is we have so many different customers that have very different processes.\nSo our recommendations for best practices for leads and for opportunities, like why we want to have a conversation like today so we can understand what your process is and give some recommendations from there.\nTypically, our processes, we meet with a customer, we hear what their sales process and service process looks like, and then we can give those recommendations. Because otherwise, it just wouldn't be meaningful for us to give you advice if it wasn't really tailored to what you're using the system for today. Understandable just to say, \"I think what we still want to do today if you're open to it.\" Lucas is here to hear a little bit more about what the sales process is like today.\nI totally hear you. If touching on the data piece right now isn't the first priority, then that's totally fine. I think either way, it's probably going to be useful for us to know how the team is using the tool right now, and then we can give some more informed recommendations."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Well, I like one of the things we're looking at just for leads wise is we have homeowners or contractors. They'll come into our showroom and sometimes I'll just. I'll take a sample. If one of our customers refers the homeowner again, we don't have a relationship with the homeowner, but the contractor himself.\nSo we still want to get that information, but just following up with these potential leads. You know, it's just we're having these interactions. We give out samples, but we're not really following up with these customers.\nSo it's just. We have this information. It's just. What are we trying to use. This is and that's just one part of our business. We do have campaigns, we do have trade shows. So that can kind of tie into the leads themselves.\nBut again, it's just we're kind of we're looking for advice of just kind of, you know, I don't know what the correct questions to ask because I just don't know what the end picture is going to look like or what it could look like."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 5,
+        "text": "That's totally fine. Yeah. I mean, I think everyone on our side of the call, including the Dataskate team, we have plenty of questions for you. So don't worry about that. I think that our goal from this is to really figure out what matters to you, Lucas, what matters to the executive team.\nThen we can give those recommendations. I think a lot of that will definitely be oriented towards... Let's use the tool that we already have today better. But we are going to probably have some recommendations. It might be Mulesoft, might be some other areas where we think, \"Hey, maybe some of the challenges you're having with the tool are because it's not as fleshed out in certain areas that might enable it as a whole a little bit more.\"\nBut we can get to that at the end once we talk a little bit more. So I think the first question... You bringing up the leads specifically in the context of somebody getting a free sample... Would you say that's a primary top-down area that your team wants to spend some time evaluating, or is that just a nice-to-have?"
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "I do think that I'd like to focus on it a little bit more because it's just... I feel like that's an area that we're losing out on just having those follow-ups. If someone comes in...\nOkay, great, they got a sample, but are we getting their contact information? Is somebody following up with the homeowner? Our contractors, yes, we have that first interaction, but we have multiple people coming through our showrooms. Are we making sure we're following up with these people on a weekly or two-week, three-week basis? Sometimes it's those kinds of things."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 5,
+        "text": "One hundred percent. So right now, I think some things that would help us when somebody is getting one of these free samples are: \"Is this getting documented like at least what their name is and some sort of contact info?\""
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Some of this. Yes, we do have a just a paper copy form, but it's not always happening. So if we had something that was a little bit more potentially like mobile friendly that we can give out to our CSR as kind of, you know, document that.\nAnd then again, it's really more just with the following up, just making sure that actually happens, setting up something with a, you know, like a rescheduling task got."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 5,
+        "text": "Okay, is anybody using the mobile app today?"
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Some of our sales reps, yes, they are using it. As for our CSRs, our in-house employees, not yet. It's really just more for our territory sales managers, there are outside sales."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 5,
+        "text": "Okay. Yeah. I mean, that's definitely one way. If you wanted... Part of the problem with that is there's a chain of issues that can occur when it comes to documenting a lead. The first, \"Did we even ask for the information?\" \"Was the information valid?\" \"Did we then take the time to actually input it on a timely basis where it's meaningful? There aren't errors like all those sorts of things.\" Not to get too into the details, but just to say those are the things that we commonly hear from customers that can cause issues of... Great. Now we have a legitimate lead that we can trust the data of.\nAnd now we can actually take action on it in some form of, you know, either a seller reaches out to them manually or we put them into some sort of marketing campaign and start reaching out to them through e mail.\nBut I just kind of want to start, like, first things first. To understand what that looks like today. I do."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Yeah, but see, that's just one area of our leads that we can be talking about. We can go over to trade shows, our luncheon learns. So that's just one example of how we can be generating the leads.\nSo I just... I don't want to focus just on that one area. There are other ways that we can be using that tool."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 5,
+        "text": "Yeah, I mean, well, I guess that's why I asked at the top, like, is this the area I want you want to spend time on? Because ultimately, there's a lot of different. You know, it's the biggest CRM in the world. We can help you anywhere that matters.\nBut the question for you is like, what area matters? Like, timately, you guys are going to have so much human and financial bandwidth, right? So we just want to make sure we're talking about what is actually impactful for the business.\nSo I mean, I guess I would open it up to you. CA because like what area do you think you might. But the team might be missing the mark in terms of like where Salesforce could make a difference."
+      },
+      {
+        "speaker": "Lucas Harper",
+        "speakerIndex": 3,
+        "text": "Got it. That's again, I just want to win over it. That's one area that I'm looking at. I would probably want to pull and maybe Charles on that one to go over other opportunities of trying to generate these leads and following up on.\nBut again, I'm just giving you a small gist of what I'm getting at, getting down to the details of other ways that we're generating. These leads I'd probably have to employ in possibly Charles or one of our other regionals."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 5,
+        "text": "Okay, understood. I mean, I guess just transparently, like, I want to use the time well, for all of us here. I think if you're saying that, like, it's a little too specific to get into the lead ingestion process, then, you know, I guess I'm asking you, like, where can we help you and where do you think that there might be the miss.\nBut, you know, if we if it might be better suited for us to wait until we can talk with Charles, we can definitely do."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 6,
+        "text": "You know, guys, say, this is facky. Let me ask you a question. I guess we are using the sales module of the sales force or I'm not quite sure what the name is, but there are different modules. Correct. Could you please confirm what currently we have Y can."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "So it should be on the currently the Enterprise edition and we just moved over some new SKUs, but yeah, that's currently what you're on."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 6,
+        "text": "It is called like sales or what sales cloud? Right. Okay. What other modules that you have? I mean, sales cloud is not exactly a lead generator or opportunity end of the world, right? We are just basically looking at the sales data and reflecting that information to the Salesforce. Is that correct?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, I can speak. I level that. Nick, I think it'd be good for you to chat with us too. So the way I think about it, Fonti is like a little bit of a matrix because you're on one tier of our sales cloud. There are now new tiers that have been released with new functionality.\nThen we have multiple clouds. So I was mentioned to Charles like a lot of what we were hearing from him and what we're hearing a little bit now is like there is an element of our marketing cloud, which is our second cloud that's probably been out almost twenty-five years now.\nBut there is some overlap between the newer functionality of some of the higher-end tiers that we have on the sales cloud and marketing cloud specifically around leads. And so we would just want to get in the weeds of specifics of where on the leads would be important and then that would clarify if that is in your existing tier, would be in either a higher tier on sales cloud or within marketing cloud.\nSo that's why we're asking you about that. Dick, feel free to try in too."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 6,
+        "text": "Yeah. Let me try to explain to you guys what we are doing and how we want to use it. I guess in general, I can frame that for you. That currently what we have on Salesforce is helping us to provide information to our sales reps so they can see their numbers, which we did not have in the past.\nSo we are Salesforce, we can share that information with them and that is useful. That is useful for the sales reps. As a company in general, I do not believe that is generating more revenue for us. So we are after how we can use this to generate more revenue.\nWe are thinking that, I mean, we are not unique at all. We have outdoor sales reps, they go to their customers, and we would like to know how they are spending their efforts, where the effort is and what is paying back.\nWe don't have currently a way of measuring that information at the moment. So everybody doing his or her own thing out there at the end of the day because business is either good or bad or sufficient or not.\nBut we can't specifically address what to improve when it comes to the efforts. Those efforts can be called leads, opportunities, talking to someone, emailing to another person, the in person visits.\nSo there's really no good way for us to know what we can do more so we can generate more revenue out of this whole effort. I guess that's the missing part, the sales part. The data flow is... Yes, we have issues with the data flow. Yes, it is frustrating, but I guess it is... We are very close. It is close to the acceptable level. Actually, it's not every single day working 100%.\nBut we can't miss. We are hitting on the issues as we go. We are very close, but still, even though if we have the 100% data flow, that will not solve our other problem, right? How am I going to measure my sales efforts?"
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 5,
+        "text": "Got it. Yeah, so if I can just chime in there completely agreed. I appreciate you saying that. I think what we want to get out of today is really just hearing end to end how QDI does your business starting from where leads come from, what systems, right? How are we then giving this to our sellers? How are we marketing to those leads?\nThen how are we eventually executing on that? The reason we want to go through that is then we can give you those recommendations because totally understood. No one here expects you to know every single SKU that Salesforce has.\nI can say pretty confidently, none of us know every single SKU that Salesforce has, but I think if we go through that process, we should get some recommendations in place for where the current will have maybe custom areas you're not using right now and then some recommendations for where we can maybe fill in the gaps."
+      },
+      {
+        "speaker": "Fatih Surmen",
+        "speakerIndex": 6,
+        "text": "I mean, if you please guide us, you know, if you please ask the question, we'll answer you know. Yeah. So don't want to waste anybody's time by, you know, repeating over and over again, you please ask the question.\nYou know, we'll do our best to answer."
+      },
+      {
+        "speaker": "Nick Lydon",
+        "speakerIndex": 5,
+        "text": "Perfect. Yeah. Okay. So I think... Just going back to what I was saying a moment ago, I think looking at this chronologically is the best way in my experience to go through it. So I think hearing for starters, how do leads get into the system?\nI know Lucas was mentioning a moment ago that there are people that will go into these stores that'll get sometimes documented by the reps that are there. But are there any other systems where you're getting leads today?\nAre you perhaps buying them anywhere? Or are there any on your website where people are submitting interest requests or...?"
+      }
+    ],
+    "raw_meeting": "**QDI Surfaces + Salesforce + Dataskate: Sales Process Deep-Dive**\n🕞 Started at 06:31 PM on 06 Nov, lasted 17m",
+    "raw_content": "Speaker 2 | 00:00\nJoin and then Lucas, what did you what do you say for Charles to make sure I caught that.\nLucas Harper | 00:04\nCharles may join...\nkailash chanda | 00:05\nHello?\nLucas Harper | 00:07\nAgain. Fay and RF may pop in, but it's really just more for... We wanted to have some best practices advice for...\nkailash chanda | 00:15\nCheck one. No, I think we have somebody...\nLucas Harper | 00:17\nThe leads and opportunities.\nkailash chanda | 00:19\nMonday. I...\nLucas Harper | 00:22\nAs are data quality issues. We do have a consultant that we're currently working with, and we they've kind of escalated...\nkailash chanda | 00:29\nOkay, I think one daywards...\nLucas Harper | 00:29\nSome of that stuff. So...\nkailash chanda | 00:31\nWe are looking at...\nLucas Harper | 00:31\nI mean, there're... I'm hoping to have our data quality issues taken care of at least by the end of the month. We'll see what's going on. As for a health check...\nkailash chanda | 00:43\nOne o'clock today...\nLucas Harper | 00:43\nKind of seeing our meal soft how that datas coming through. I mean, I want to give these guys a little bit more time before we start, you know, bringing more heads into the pot. But...\nkailash chanda | 00:53\nRight? J so...\nLucas Harper | 00:54\nIt's more of...\nkailash chanda | 00:54\nIA soluation of the right. J...\nLucas Harper | 00:56\nJust out of curiosity, have you guys ever worked with Activate before?\nkailash chanda | 01:00\nOkay. Right...\nSpeaker 4 | 01:02\nNo, we haven't worked with Activate, I don't believe. But similar systems, you know, activate is just like, you know, so many other systems that we worked with before. So my team has done research in it and yeah, it you know, it shouldn't be a problem.\nSpeaker 2 | 01:21\nIt's helpful to Lucas. Like I given like this has been kind of like a recurring issue that I feel like every like month or two, which I know it's been longer for you, but since we've been working together at least since early this year, I just wanted to basically like start there is like if the Data Foundation is incorrect, that's like a huge issue, right?\nAnd heard you on all those points. I just my mind immediately went there. It's like, let's make sure we get that right. And we do these kind of like health checks with partners. And this was like one of the top partners that was recommended by the Mulesoft team in particular.\nAnd they are familiar and comfortable with a lot of the other areas as well. But just as an fi on that kind of like how this initiation started.\nLucas Harper | 02:07\nYeah, I'm all fine for like kind of going into their system and taking a look at that, but again, it's just like we do have someone that's currently working with us right now. It's like if you guys had an experience already with Activate, it would help out kind of the learning curve of the ins and outs of how our system creates a quote and going from a sales order to an invoice. It just. It would be beneficial to just kind of that. That experience already.\nBut. Kind of the focal point that I need a little bit more from possibly Nick is just kind of having some best practices of just going over leads and opportunities. Other distributors just kind of seeing what other people are doing in the market.\nLike we have access to this tool. But then we have a lot of these leads in here already. But it's just we're our sales reps kind of went off and started playing with it. And we have a lot of data and we don't know what to do with it.\nSo I just kind of need some help or guidance to kind of what should we how should we interact with this information?\nNick Lydon | 03:19\nYeah, Lucas, just to jump in here, that is 100% a question that we get asked almost every single time we engage with an account. So that's not atypical at all that you have that feeling. I mean, honestly, I'd say the reality is Salesforce, you're totally right. Super strong tool, can use so many different things, but the reality is we have so many different customers that have very different processes.\nSo our recommendations for best practices for leads and for opportunities, like why we want to have a conversation like today so we can understand what your process is and give some recommendations from there.\nTypically, our processes, we meet with a customer, we hear what their sales process and service process looks like, and then we can give those recommendations. Because otherwise, it just wouldn't be meaningful for us to give you advice if it wasn't really tailored to what you're using the system for today. Understandable just to say, \"I think what we still want to do today if you're open to it.\" Lucas is here to hear a little bit more about what the sales process is like today.\nI totally hear you. If touching on the data piece right now isn't the first priority, then that's totally fine. I think either way, it's probably going to be useful for us to know how the team is using the tool right now, and then we can give some more informed recommendations.\nLucas Harper | 04:33\nWell, I like one of the things we're looking at just for leads wise is we have homeowners or contractors. They'll come into our showroom and sometimes I'll just. I'll take a sample. If one of our customers refers the homeowner again, we don't have a relationship with the homeowner, but the contractor himself.\nSo we still want to get that information, but just following up with these potential leads. You know, it's just we're having these interactions. We give out samples, but we're not really following up with these customers.\nSo it's just. We have this information. It's just. What are we trying to use. This is and that's just one part of our business. We do have campaigns, we do have trade shows. So that can kind of tie into the leads themselves.\nBut again, it's just we're kind of we're looking for advice of just kind of, you know, I don't know what the correct questions to ask because I just don't know what the end picture is going to look like or what it could look like.\nNick Lydon | 05:48\nThat's totally fine. Yeah. I mean, I think everyone on our side of the call, including the Dataskate team, we have plenty of questions for you. So don't worry about that. I think that our goal from this is to really figure out what matters to you, Lucas, what matters to the executive team.\nThen we can give those recommendations. I think a lot of that will definitely be oriented towards... Let's use the tool that we already have today better. But we are going to probably have some recommendations. It might be Mulesoft, might be some other areas where we think, \"Hey, maybe some of the challenges you're having with the tool are because it's not as fleshed out in certain areas that might enable it as a whole a little bit more.\"\nBut we can get to that at the end once we talk a little bit more. So I think the first question... You bringing up the leads specifically in the context of somebody getting a free sample... Would you say that's a primary top-down area that your team wants to spend some time evaluating, or is that just a nice-to-have?\nLucas Harper | 06:42\nI do think that I'd like to focus on it a little bit more because it's just... I feel like that's an area that we're losing out on just having those follow-ups. If someone comes in...\nOkay, great, they got a sample, but are we getting their contact information? Is somebody following up with the homeowner? Our contractors, yes, we have that first interaction, but we have multiple people coming through our showrooms. Are we making sure we're following up with these people on a weekly or two-week, three-week basis? Sometimes it's those kinds of things.\nNick Lydon | 07:23\nOne hundred percent. So right now, I think some things that would help us when somebody is getting one of these free samples are: \"Is this getting documented like at least what their name is and some sort of contact info?\"\nLucas Harper | 07:36\nSome of this. Yes, we do have a just a paper copy form, but it's not always happening. So if we had something that was a little bit more potentially like mobile friendly that we can give out to our CSR as kind of, you know, document that.\nAnd then again, it's really more just with the following up, just making sure that actually happens, setting up something with a, you know, like a rescheduling task got.\nNick Lydon | 08:09\nOkay, is anybody using the mobile app today?\nLucas Harper | 08:13\nSome of our sales reps, yes, they are using it. As for our CSRs, our in-house employees, not yet. It's really just more for our territory sales managers, there are outside sales.\nNick Lydon | 08:30\nOkay. Yeah. I mean, that's definitely one way. If you wanted... Part of the problem with that is there's a chain of issues that can occur when it comes to documenting a lead. The first, \"Did we even ask for the information?\" \"Was the information valid?\" \"Did we then take the time to actually input it on a timely basis where it's meaningful? There aren't errors like all those sorts of things.\" Not to get too into the details, but just to say those are the things that we commonly hear from customers that can cause issues of... Great. Now we have a legitimate lead that we can trust the data of.\nAnd now we can actually take action on it in some form of, you know, either a seller reaches out to them manually or we put them into some sort of marketing campaign and start reaching out to them through e mail.\nBut I just kind of want to start, like, first things first. To understand what that looks like today. I do.\nLucas Harper | 09:14\nYeah, but see, that's just one area of our leads that we can be talking about. We can go over to trade shows, our luncheon learns. So that's just one example of how we can be generating the leads.\nSo I just... I don't want to focus just on that one area. There are other ways that we can be using that tool.\nNick Lydon | 09:37\nYeah, I mean, well, I guess that's why I asked at the top, like, is this the area I want you want to spend time on? Because ultimately, there's a lot of different. You know, it's the biggest CRM in the world. We can help you anywhere that matters.\nBut the question for you is like, what area matters? Like, timately, you guys are going to have so much human and financial bandwidth, right? So we just want to make sure we're talking about what is actually impactful for the business.\nSo I mean, I guess I would open it up to you. CA because like what area do you think you might. But the team might be missing the mark in terms of like where Salesforce could make a difference.\nLucas Harper | 10:07\nGot it. That's again, I just want to win over it. That's one area that I'm looking at. I would probably want to pull and maybe Charles on that one to go over other opportunities of trying to generate these leads and following up on.\nBut again, I'm just giving you a small gist of what I'm getting at, getting down to the details of other ways that we're generating. These leads I'd probably have to employ in possibly Charles or one of our other regionals.\nNick Lydon | 10:41\nOkay, understood. I mean, I guess just transparently, like, I want to use the time well, for all of us here. I think if you're saying that, like, it's a little too specific to get into the lead ingestion process, then, you know, I guess I'm asking you, like, where can we help you and where do you think that there might be the miss.\nBut, you know, if we if it might be better suited for us to wait until we can talk with Charles, we can definitely do.\nFatih Surmen | 11:06\nYou know, guys, say, this is facky. Let me ask you a question. I guess we are using the sales module of the sales force or I'm not quite sure what the name is, but there are different modules. Correct. Could you please confirm what currently we have Y can.\nSpeaker 2 | 11:30\nSo it should be on the currently the Enterprise edition and we just moved over some new SKUs, but yeah, that's currently what you're on.\nFatih Surmen | 11:41\nIt is called like sales or what sales cloud? Right. Okay. What other modules that you have? I mean, sales cloud is not exactly a lead generator or opportunity end of the world, right? We are just basically looking at the sales data and reflecting that information to the Salesforce. Is that correct?\nSpeaker 2 | 12:08\nYeah, I can speak. I level that. Nick, I think it'd be good for you to chat with us too. So the way I think about it, Fonti is like a little bit of a matrix because you're on one tier of our sales cloud. There are now new tiers that have been released with new functionality.\nThen we have multiple clouds. So I was mentioned to Charles like a lot of what we were hearing from him and what we're hearing a little bit now is like there is an element of our marketing cloud, which is our second cloud that's probably been out almost twenty-five years now.\nBut there is some overlap between the newer functionality of some of the higher-end tiers that we have on the sales cloud and marketing cloud specifically around leads. And so we would just want to get in the weeds of specifics of where on the leads would be important and then that would clarify if that is in your existing tier, would be in either a higher tier on sales cloud or within marketing cloud.\nSo that's why we're asking you about that. Dick, feel free to try in too.\nFatih Surmen | 13:03\nYeah. Let me try to explain to you guys what we are doing and how we want to use it. I guess in general, I can frame that for you. That currently what we have on Salesforce is helping us to provide information to our sales reps so they can see their numbers, which we did not have in the past.\nSo we are Salesforce, we can share that information with them and that is useful. That is useful for the sales reps. As a company in general, I do not believe that is generating more revenue for us. So we are after how we can use this to generate more revenue.\nWe are thinking that, I mean, we are not unique at all. We have outdoor sales reps, they go to their customers, and we would like to know how they are spending their efforts, where the effort is and what is paying back.\nWe don't have currently a way of measuring that information at the moment. So everybody doing his or her own thing out there at the end of the day because business is either good or bad or sufficient or not.\nBut we can't specifically address what to improve when it comes to the efforts. Those efforts can be called leads, opportunities, talking to someone, emailing to another person, the in person visits.\nSo there's really no good way for us to know what we can do more so we can generate more revenue out of this whole effort. I guess that's the missing part, the sales part. The data flow is... Yes, we have issues with the data flow. Yes, it is frustrating, but I guess it is... We are very close. It is close to the acceptable level. Actually, it's not every single day working 100%.\nBut we can't miss. We are hitting on the issues as we go. We are very close, but still, even though if we have the 100% data flow, that will not solve our other problem, right? How am I going to measure my sales efforts?\nNick Lydon | 15:43\nGot it. Yeah, so if I can just chime in there completely agreed. I appreciate you saying that. I think what we want to get out of today is really just hearing end to end how QDI does your business starting from where leads come from, what systems, right? How are we then giving this to our sellers? How are we marketing to those leads?\nThen how are we eventually executing on that? The reason we want to go through that is then we can give you those recommendations because totally understood. No one here expects you to know every single SKU that Salesforce has.\nI can say pretty confidently, none of us know every single SKU that Salesforce has, but I think if we go through that process, we should get some recommendations in place for where the current will have maybe custom areas you're not using right now and then some recommendations for where we can maybe fill in the gaps.\nFatih Surmen | 16:30\nI mean, if you please guide us, you know, if you please ask the question, we'll answer you know. Yeah. So don't want to waste anybody's time by, you know, repeating over and over again, you please ask the question.\nYou know, we'll do our best to answer.\nNick Lydon | 16:42\nPerfect. Yeah. Okay. So I think... Just going back to what I was saying a moment ago, I think looking at this chronologically is the best way in my experience to go through it. So I think hearing for starters, how do leads get into the system?\nI know Lucas was mentioning a moment ago that there are people that will go into these stores that'll get sometimes documented by the reps that are there. But are there any other systems where you're getting leads today?\nAre you perhaps buying them anywhere? Or are there any on your website where people are submitting interest requests or...?"
+  }
+}
