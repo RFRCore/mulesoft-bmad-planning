@@ -1,0 +1,598 @@
+{
+  "id": "01a1b26e4b407357ad4e7c787435911e",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1b206dece7750b6a9c6497c2daf80",
+      "title": "concertstuff <> Automation",
+      "duration": 1446,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "1p8hl468k0v9ln3qdghe8h86ou",
+      "participants": [
+        {
+          "email": "ntrezza@salesforce.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "dbourque@concertstuff.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "chance@concertstuff.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "bhargav@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "email": "sasank@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "index": 2,
+          "email": "sasank@dataskate.io",
+          "first_name": "sasank",
+          "id": "f4ebfa04e0a05d6db7c7e27447dc457b",
+          "last_name": null
+        },
+        {
+          "index": 3,
+          "email": "6d0fbd6935ec4afd84099fab074c9eff@noemail.krisp.ai",
+          "first_name": "dbourque",
+          "id": "7351d9936dbf56fdb8ef5a0628490e16",
+          "last_name": null
+        },
+        {
+          "index": 4,
+          "email": "addc1b037fb84f39a8a77e61bca7832e@noemail.krisp.ai",
+          "first_name": "chance",
+          "id": "a6b9d327617b5bf4bed2bdc8497b7e2d",
+          "last_name": null
+        },
+        {
+          "index": 5,
+          "email": "783d6300a5154c35bb69f25069ed920e@noemail.krisp.ai",
+          "first_name": "ntrezza",
+          "id": "1115a8d3e0285b799eaab225c9edda3d",
+          "last_name": null
+        }
+      ],
+      "start_date": "2026-11-06T19:30:40.230Z",
+      "end_date": "2026-11-06T19:54:46.230Z",
+      "url": "https://app.krisp.ai/m/01a1b206dece7750b6a9c6497c2daf80?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Yeah. Hey, Kailash, he said you will be joining."
+      },
+      {
+        "speaker": "dbourque",
+        "speakerIndex": 3,
+        "text": "Good afternoon."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "High, Seattle. He shocked. Hey everybody again, I had a briefly last time connect with Dan, but again, just to do a quick round of introductions. I had the integration automation at Dataskate. We have been a Salesforce partner for the last eight years.\nI have Shashan and Barger who are my teammates who want to evaluate to see if we can use RPA to write data back into Flex because Flex does not support API connectivity, and they want to review one and see if their initial checks confirm if RPA can write data back into Flex."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Flex does support API in and out."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay. Because during our recent conversation, we identified that it was able to free but not write. So do we have a confirmation chance to write data into Flex?"
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "I'm not well, it's scary. Question so we get it out of it every day, like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "We pull data out of it in reports every day. I know that we're in the process of playing with reports into it every day or that in we're in the process of testing sorry, testing data and it might just not be in the public. I'm looking at the definitions between the public and the internal side.\nI know that we're testing AI into the system right now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "But, yeah, I mean, that's whatever we need to do to verify it. We're here for it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. I think if we have probably... Can we see if you are doing a get with API chance? Do you have access to do or get? Can we try to do a post as well to verify it's able to write any data?"
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Yeah, I was. I was actually... Yes, we could test that. I was working on that actually yesterday because I was trying to see if Grock would go into it, and I needed to make a seat because I have admin access, and I think some of it was allowed via the admin, so I needed to make a different seat to make sure it wasn't just limited to admin.\nBut yeah, we could absolutely test that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, perfect. So, we could do a post-call and verify if we are able to write data right? If they have API access."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Yeah, we can do that together."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, perfect. So, Chance, Postman is an API connectivity tool that can be used to send and get data out of any system that supports API, I think that would be pretty easy and straightforward. If we can use that, I can... We can guide you through it if you are...\nOkay, to share your screen."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Yeah, that's fine, because Dan, we showed them the internal, we showed them the public, and the internal external codes. Okay?"
+      },
+      {
+        "speaker": "dbourque",
+        "speakerIndex": 3,
+        "text": "Yeah, and I was even looking at that. I thought it was only a one-way sync, so... That's what we were trying to look at last time, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "That's. That's where we got with the. That's where we got with the. The what? You we call it those guys hang on, make sure it's sharing. Yeah, you guys got the flex screen, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, we... Got the FLA scream."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Okay, so you just let me know what you need."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So then, Chance, you mentioned that you are using APIs to get the data out of it, correct? So can you show me the API URL and the credentials so we can post and verify if it's working?"
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Yeah, I mean right now we're just... For what my needs are. I'm just creating an API key. Hang on a second. Do you have something with the screen here? I'm creating an API key and then using that key and giving that key...\nI've tried it. I was running it as in Claude and now I'm running it in Grok, but..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "B okay..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "I'm. They're both using that API key, and that's their only access into the system."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, because when we verified with Dan on the API documentation in the last call, I think we saw there were get methods but not POST methods. POST is the one that enables us to write data into the system rather than get, so that's where I think you are able to access the data via the get methods available in the API documentation.\nBut because there is no direct API available to write data, that's where I wanted to verify with the team to see if we can use RP a to write data into it."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Yeah, I copy that. Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, so, Sean, how do you want to verify? To say that if this application supports LP ingestion or you could use RP a to write data into the system."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Yeah, I just want to see the manual process Kailash like how a human would enter any records into Flex. So that would actually help me analyze if we can do it with our RP solution."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it?"
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Do you want to do that here or do you want to set something different?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, I think..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Show you."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You at... Yeah, this is the screen. Then we... Would you look at this screen as a...?"
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "So you've got... Basically, this is your home screen. Come in. Let's assume that we're going to create just an SS job. So here's the various companies. So test chance, tell him I'll call him back API account managers, okay, start date there, end date there, confirm that test fake company.\nSo that creates our job, which is slightly under some different changes. Then basically from here we go. Obviously, there are things that are inherited that create which I've never been able to figure out why that comes up as a warning.\nSo that's our tree, there's our job, there's our quotes, and then they obviously are a parent-child and these stack up. So now our quote... So you've got your client artist, you get your bill, you get your venue. Obviously, there are other fields that can end up getting filled out in the process.\nThen this is our working view screen. This is where you start to populate the quote. For example,\naccept that and then you just basically... At this point, it's a drag-and-drop system. You can obviously hot key it. So you've got the inventory of the company, and then you have the services of the company.\nFor example, transport, that's that part of it. This is the part that ends up getting connected because everything past this is your Google Sheets. Things that get very operationally based.\nBut a lot of this stuff here is your connection piece. So this is where if you were doing a push from Salesforce, you'd connect this account, this client artist, your account manager, obviously any kind of dates start, stop dates for reporting dashboards..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And then..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "You're going to pull. You're gonna pull revenue. Perfect world. You're going to pull revenue back into the opportunity and Salesforce. You know if. Okay. If once these are connected, if let's say that you have a change of ability or a change of a venue, you'd hope that you could pull that back, you know, and that kind of keeps going.\nBut that's the it's really this header page is mainly what we're going to what we try to tie together."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Understood. When you actually selected a new item to be created... Chance, so you entered certain values, right? So is it the right assumption that all those values are coming from Salesforce?"
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "No, sir, everything in this working view is within Flex, and that's why we don't need any of that to hold back over. We would not rely on Salesforce to be the quoting tool. We really want it to be a CRM and a good quick report or a good reporting system.\nSo when this started, let's say hypothetically, we started down this road about a year ago, given where a lot of the API or... I'm sorry, the AI stuff was... We've been able to bridge a lot of the things we needed that were reporting metrics by AI reports. Now they didn't exist a year ago.\nSo that was kind of our two things we needed as Salesforce, we needed to pursue a CRM option and we needed to pursue analytics reporting back out of the system under understood."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Chance and Sean. If I have to understand correctly, what I have known here is once probably an opportunity or an account is created inside Salesforce. We want that account to get created or an opportunity gets closed, or at an agreed state. We want to create it back into Flex along with the line items and the event details into Flex. Correct, Dan and..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Yeah, because only a portion of our company is on this asset system. We have other portions of our company where like if this was established, they might not run on an asset system or it might be other software that we want to get connected. This was kind of like the first step in the low hanging fruit.\nAnd that's where it's that's the decision tree we're in right now is if Flex is only a poll and we know that we only get certain parts of the company than. John, who's on here is our chief commercial officer.\nYou know, John really just needs Salesforce as a CRM platform. You know, if it ends up being where we can push..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Then we know that. Okay, we'll build this and then we'll start to tackle... Okay. Let's now figure out... We push to transportation. Now let's figure... So that's his goal..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So you... We have to pick data from Salesforce and create entries into Flex. So Flex does not have a right, so we need to use it. I was thinking about to check the feasibility of RPA to do this, but any questions?\nI know one question I wanted to ask... Chance Dan is between Salesforce and Flex. Are the line items in sync? That is, if there is an item for a BC product inside Salesforce. Do we find the same line item here? Or how is it?"
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Right now. The only things we're asking it to sync are client contacts and our client accounts and contacts..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "And venues, those..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Currently are relatively sync because of the fact that the because the poll. So every night there's still a poll from Lex in a Salesforce."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Flex is a method of integration on Salesforce, which is very coarse. It is a connectivity method. So for example, these are when you create the only thing, it doesn't push anything other than the opportunity ID so when you create an account in Salesforce, it goes over and it's asking for a match and you have to physically go through...\nFor example, this is one that was created and we're saying, \"Hey, we want to import it.\" These are all the things that have to be matched. So unlike it's a very cumbersome process they come up with. They did make it where you can...\nIt's you're creating something first and Salesforce, the system is seeing the opportunity and you have to physically make the match. It's not making the match for you. So that's a little... That gives me hope that there is a push. You have the ability to push into the system?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it. Okay, so, yeah, send it over to you if you can."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Yeah, I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Done that?"
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "I had only one question, guys. The happy path here would be we have a post method where we can send through as that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But we..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Is the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Don't have..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Happy path. Yeah, if we don't have that, I just want to let... Answer. Do we have any EF for this platform by default? Chance, let's say, for example, if there was a service account created, so is it mandated to have a MAF over that platform?"
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "So I'm sorry."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Multi-factor authentication. Chance like, no, okay..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Okay. I think this is doable through RP. Just in case... If post method post ap we couldn't find then we can always do this with that p... Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can do it. AP right, so we export the data from Salesforce, give it to the RP via file or any other method an RP can write into this correct..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "And again write back that amount into opportunity. Yeah. All those things are possible."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The perfect okay..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "So? So it. So it needs a data link between the two systems."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No need of data. Lake Chance, I think Mulesoft can get the data from Salesforce, and we need to use an RPA, Robotic process automation, which is the one that converts manual tasks into an automated way. What it does is it mimics the screen. It takes the screen and mimics the clicks to identify...\nSay that... \"Hey, if I get an account name, then I have to go click here, then click on create, and then enter the name, your address here.\" So that programmatically, we can program the RPA part to do that.\nWhat it does is, as soon as it gets data from Salesforce, the board would be doing all of this data instead of a manual human doing it."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "What do we think the time is? What do we think the user experience looks like between that? As far as time..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So when you say user experience, we can have it run every minute to see if we have any data that comes between Salesforce, any new accounts or contacts that can run every minute, get the new data, write it back into it, or we could do a nightly... It depends on how the business needs it. We could have the SN done at the least, probably, I would say every minute or so."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Yeah, I mean, so this is kind of how the experience if it would work. So let's assume that's a new account, because right now it's nightly. It's a nightly pullback. So even a nightly is too. So, like, I'm sitting here. John gives me a new account that he wants me to do. We're going back and forth.\nSo I go in a Salesforce, I put my information and build the account. Bam there, you know, opportunities made and then I'm going to immediately want to go to the asset system. You know the so for the basic sales agent, you know how fast he can get into the quote tool is kind of that thing.\nSo that's just my one piece of like, I want to do it and then I want to be able to go over here to FX five mile opportunity and go from there."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I think we can give the staff or the sales rep a couple of minutes to say that as soon as they enter the accounts and contacts into Salesforce, it should be available in Flex within a couple of minutes, that's what I see.\nThen immediately they can go and add and do the next steps of adding all the line items, products, transportation, and everything to whatever account and venue that we have created. Should be available in a couple of minutes because if we can schedule to get the data every minute, then I would say a couple of minutes should be the timeline that we can give to the sales reps."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Okay? Yeah. I mean, you know, obviously, as you can imagine, any person's going to go. I want it right now, myself included. We're working back to what is a realistic, you know, piece of this and so I think, yeah, I mean, I think if we can I think we can hurle this, then that's where.\nSo. And you know, Connor, just as far as like how we're trying to look at this, if this can be confirmed, then that allows John and Dan to dive into you on a conversation of, you know, John wanting to continue down the salesfor road pricing, et cetera.\nYou know, that's kind of because if not, then I think he needs that parallel. But I know with obviously the we're getting to the end of the cycle here, you know us solving that then allows him to kind of help decide. We've been waiting on this piece, which. Nicole, I appreciate you working on that decision tree of like.\nOkay, are we going to do this or are we going to just renegotiate sales? Horses a CRM and, you know, let you know that. So I think that piece of just like, hey, we can do this. And yes, we can confirm we can do this.\nAnd this is the scope. And now with this scope, you know, in a perfect world would love to not. You know, I think we've built a lot of good dashboards that if we can just flip the automation that doesn't go away, you know, can inherit to the next world.\nIt's easy to modify. John can continue to grow that out. And then we can explore the future growth. But I think it's just that kind of confirmation colicch of like, yes, we're gonna do this. Here's that process. We can see it working.\nAnd then you know, from this point forward. Now we can do the re we can figure out what our price..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "What the account looks like. Next-tioned..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think before even... I think I put down a plan. I'll just call out a couple of things. Chance, so that while the tech team is here from my side, we would need one. I would say either a virtual machine or a desktop or a laptop that allows the bot to run because the bot needs a machine to run.\nSo let's say there is a virtual machine where they can bot logs into Flex and then write all this data. So we would need one virtual machine or a physical machine allocated for this bot to run. That is..."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Dan, didn't we have to do that recently for the process for the fast slow motion guys?"
+      },
+      {
+        "speaker": "dbourque",
+        "speakerIndex": 3,
+        "text": "Yeah, I was going to say we currently have a desktop that's stood up. That's running those nightly. Nightly sync..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Then I think we could use the same desktop to have this run. Probably we will schedule this to run between 9 am to 5 pm, whatever the local time. Then that closes the job and makes room for the nightly bot to run through it so that it doesn't impact or collide with each other.\nBut again, any thoughts you have to reuse the existing system that runs the nightly job?"
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Yeah. Ideally, we'd like to have virtual machine colors. The reason being there won't be any interruption, with respect to power supply and Internet connectivity. So if that is not possible, then we would offer a device, and we can run the script continuously there."
+      },
+      {
+        "speaker": "dbourque",
+        "speakerIndex": 3,
+        "text": "Yeah, that's what I was going to say. If we're looking at running another process, we may want to look at some type of virtual or something that sits... That's not sitting on site in case there is an outage. Or you never know."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly. Exactly. Perfect. Okay, then I think."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "And yes, without multi factor. Because I know that like, you know, all the all my reports that e mail out to everybody Monday morning, they're on in the morning. They're coming out of Grock or running off its virtual, you know, and it.\nAnd I don't have to. I'm not getting booted. There's no MFA loggin. There's no duals. I mean, everything just runs pretty quietly."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So, Chance, what I will suggest is probably I'll get back to the team today, work on a small scope of work to say that... Okay. When a contact is created immediately, it just publishes to Mule, exits, hands it over to the bot. The bot creates the contact inside Flex, right? Once you see this whole thing working, you feel confident we can go ahead to the contacts and event accounts and events as well. Then that way the whole thing works. Probably we should close all of this in... I am thinking around two to three weeks. Sean, are you okay, or do you think you need more time here?"
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Yeah, that should be fine. Color. It's realistic."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, perfect. If we are kind of aligned with that chance, then I'll have the team work on a kind of a. Design and for the contacts. And then we'll share it with you and we can get that started and agreed upon.\nAnd once you feel confident, hey, this is working. Amazing. Then let's take that forward to the other ones as accounts and events."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Okay, yeah. So let's do that. We can obviously set up whatever tests we need to go from that. So let's assume that we're going to be able to go this route then. Conor, maybe you can set some time with John, Dan, and myself and let's...\nYeah, let's have some conversations on... It is John being the guy's going to own this move. Make sure that that's where all the other stuff's going to work for him. Awesome."
+      },
+      {
+        "speaker": "ntrezza",
+        "speakerIndex": 5,
+        "text": "I'll send an email with some time for you guys for maybe later next week or early next week. Obviously, we got to see this through with Kailash and the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "ntrezza",
+        "speakerIndex": 5,
+        "text": "Team, but other than that, I just want to have a candid conversation with you on where things are looking and how I can help."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Okay, awesome. Awesome."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, that's..."
+      },
+      {
+        "speaker": "ntrezza",
+        "speakerIndex": 5,
+        "text": "Any other questions? Chance, concert team."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "No..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't need it."
+      },
+      {
+        "speaker": "chance",
+        "speakerIndex": 4,
+        "text": "Back. This is my third conversation about bots today. So pretty much back to my favorite word of the week, bots."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "ntrezza",
+        "speakerIndex": 5,
+        "text": "Bots. Well, thank you, everyone."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you, thanks a lot, see you guys, thanks for at time, thank you. Happy Friday."
+      }
+    ],
+    "raw_meeting": "**concertstuff  Automation**\n🕞 Started at 07:30 PM on 06 Nov, lasted 24m",
+    "raw_content": "sasank | 00:13\nYeah. Hey, Kailash, he said you will be joining.\ndbourque | 00:18\nGood afternoon.\nkailash chanda | 00:24\nHigh, Seattle. He shocked. Hey everybody again, I had a briefly last time connect with Dan, but again, just to do a quick round of introductions. I had the integration automation at Dataskate. We have been a Salesforce partner for the last eight years.\nI have Shashan and Barger who are my teammates who want to evaluate to see if we can use RPA to write data back into Flex because Flex does not support API connectivity, and they want to review one and see if their initial checks confirm if RPA can write data back into Flex.\nchance | 01:15\nFlex does support API in and out.\nkailash chanda | 01:20\nOkay. Because during our recent conversation, we identified that it was able to free but not write. So do we have a confirmation chance to write data into Flex?\nchance | 01:38\nI'm not well, it's scary. Question so we get it out of it every day, like...\nkailash chanda | 01:45\nOkay...\nchance | 01:45\nWe pull data out of it in reports every day. I know that we're in the process of playing with reports into it every day or that in we're in the process of testing sorry, testing data and it might just not be in the public. I'm looking at the definitions between the public and the internal side.\nI know that we're testing AI into the system right now.\nkailash chanda | 02:14\nOkay...\nchance | 02:16\nBut, yeah, I mean, that's whatever we need to do to verify it. We're here for it.\nkailash chanda | 02:20\nPerfect. I think if we have probably... Can we see if you are doing a get with API chance? Do you have access to do or get? Can we try to do a post as well to verify it's able to write any data?\nchance | 02:37\nYeah, I was. I was actually... Yes, we could test that. I was working on that actually yesterday because I was trying to see if Grock would go into it, and I needed to make a seat because I have admin access, and I think some of it was allowed via the admin, so I needed to make a different seat to make sure it wasn't just limited to admin.\nBut yeah, we could absolutely test that.\nkailash chanda | 02:59\nOkay, perfect. So, we could do a post-call and verify if we are able to write data right? If they have API access.\nsasank | 03:08\nYeah, we can do that together.\nkailash chanda | 03:10\nOkay, perfect. So, Chance, Postman is an API connectivity tool that can be used to send and get data out of any system that supports API, I think that would be pretty easy and straightforward. If we can use that, I can... We can guide you through it if you are...\nOkay, to share your screen.\nchance | 03:31\nYeah, that's fine, because Dan, we showed them the internal, we showed them the public, and the internal external codes. Okay?\ndbourque | 03:39\nYeah, and I was even looking at that. I thought it was only a one-way sync, so... That's what we were trying to look at last time, right?\nkailash chanda | 03:49\nOkay...\nchance | 03:50\nThat's. That's where we got with the. That's where we got with the. The what? You we call it those guys hang on, make sure it's sharing. Yeah, you guys got the flex screen, right?\nkailash chanda | 04:09\nYes, we... Got the FLA scream.\nchance | 04:13\nOkay, so you just let me know what you need.\nkailash chanda | 04:19\nSo then, Chance, you mentioned that you are using APIs to get the data out of it, correct? So can you show me the API URL and the credentials so we can post and verify if it's working?\nchance | 04:34\nYeah, I mean right now we're just... For what my needs are. I'm just creating an API key. Hang on a second. Do you have something with the screen here? I'm creating an API key and then using that key and giving that key...\nI've tried it. I was running it as in Claude and now I'm running it in Grok, but...\nkailash chanda | 04:59\nB okay...\nchance | 04:59\nI'm. They're both using that API key, and that's their only access into the system.\nkailash chanda | 05:05\nYes, because when we verified with Dan on the API documentation in the last call, I think we saw there were get methods but not POST methods. POST is the one that enables us to write data into the system rather than get, so that's where I think you are able to access the data via the get methods available in the API documentation.\nBut because there is no direct API available to write data, that's where I wanted to verify with the team to see if we can use RP a to write data into it.\nchance | 05:41\nYeah, I copy that. Okay.\nkailash chanda | 05:43\nOkay, so, Sean, how do you want to verify? To say that if this application supports LP ingestion or you could use RP a to write data into the system.\nsasank | 05:55\nYeah, I just want to see the manual process Kailash like how a human would enter any records into Flex. So that would actually help me analyze if we can do it with our RP solution.\nkailash chanda | 06:10\nGot it?\nchance | 06:12\nDo you want to do that here or do you want to set something different?\nkailash chanda | 06:15\nNo, I think...\nchance | 06:16\nShow you.\nkailash chanda | 06:16\nYou at... Yeah, this is the screen. Then we... Would you look at this screen as a...?\nchance | 06:21\nYeah...\nkailash chanda | 06:21\nYeah.\nchance | 06:21\nSo you've got... Basically, this is your home screen. Come in. Let's assume that we're going to create just an SS job. So here's the various companies. So test chance, tell him I'll call him back API account managers, okay, start date there, end date there, confirm that test fake company.\nSo that creates our job, which is slightly under some different changes. Then basically from here we go. Obviously, there are things that are inherited that create which I've never been able to figure out why that comes up as a warning.\nSo that's our tree, there's our job, there's our quotes, and then they obviously are a parent-child and these stack up. So now our quote... So you've got your client artist, you get your bill, you get your venue. Obviously, there are other fields that can end up getting filled out in the process.\nThen this is our working view screen. This is where you start to populate the quote. For example,\naccept that and then you just basically... At this point, it's a drag-and-drop system. You can obviously hot key it. So you've got the inventory of the company, and then you have the services of the company.\nFor example, transport, that's that part of it. This is the part that ends up getting connected because everything past this is your Google Sheets. Things that get very operationally based.\nBut a lot of this stuff here is your connection piece. So this is where if you were doing a push from Salesforce, you'd connect this account, this client artist, your account manager, obviously any kind of dates start, stop dates for reporting dashboards...\nkailash chanda | 09:00\nAnd then...\nchance | 09:01\nYou're going to pull. You're gonna pull revenue. Perfect world. You're going to pull revenue back into the opportunity and Salesforce. You know if. Okay. If once these are connected, if let's say that you have a change of ability or a change of a venue, you'd hope that you could pull that back, you know, and that kind of keeps going.\nBut that's the it's really this header page is mainly what we're going to what we try to tie together.\nsasank | 09:28\nUnderstood. When you actually selected a new item to be created... Chance, so you entered certain values, right? So is it the right assumption that all those values are coming from Salesforce?\nchance | 09:44\nNo, sir, everything in this working view is within Flex, and that's why we don't need any of that to hold back over. We would not rely on Salesforce to be the quoting tool. We really want it to be a CRM and a good quick report or a good reporting system.\nSo when this started, let's say hypothetically, we started down this road about a year ago, given where a lot of the API or... I'm sorry, the AI stuff was... We've been able to bridge a lot of the things we needed that were reporting metrics by AI reports. Now they didn't exist a year ago.\nSo that was kind of our two things we needed as Salesforce, we needed to pursue a CRM option and we needed to pursue analytics reporting back out of the system under understood.\nkailash chanda | 10:39\nChance and Sean. If I have to understand correctly, what I have known here is once probably an opportunity or an account is created inside Salesforce. We want that account to get created or an opportunity gets closed, or at an agreed state. We want to create it back into Flex along with the line items and the event details into Flex. Correct, Dan and...\nchance | 11:03\nYeah, because only a portion of our company is on this asset system. We have other portions of our company where like if this was established, they might not run on an asset system or it might be other software that we want to get connected. This was kind of like the first step in the low hanging fruit.\nAnd that's where it's that's the decision tree we're in right now is if Flex is only a poll and we know that we only get certain parts of the company than. John, who's on here is our chief commercial officer.\nYou know, John really just needs Salesforce as a CRM platform. You know, if it ends up being where we can push...\nkailash chanda | 11:45\nGot it.\nchance | 11:45\nThen we know that. Okay, we'll build this and then we'll start to tackle... Okay. Let's now figure out... We push to transportation. Now let's figure... So that's his goal...\nkailash chanda | 11:55\nSo you... We have to pick data from Salesforce and create entries into Flex. So Flex does not have a right, so we need to use it. I was thinking about to check the feasibility of RPA to do this, but any questions?\nI know one question I wanted to ask... Chance Dan is between Salesforce and Flex. Are the line items in sync? That is, if there is an item for a BC product inside Salesforce. Do we find the same line item here? Or how is it?\nchance | 12:27\nRight now. The only things we're asking it to sync are client contacts and our client accounts and contacts...\nkailash chanda | 12:35\nOkay.\nchance | 12:35\nAnd venues, those...\nkailash chanda | 12:37\nOkay...\nchance | 12:37\nCurrently are relatively sync because of the fact that the because the poll. So every night there's still a poll from Lex in a Salesforce.\nkailash chanda | 12:48\nGot it.\nchance | 12:48\nFlex is a method of integration on Salesforce, which is very coarse. It is a connectivity method. So for example, these are when you create the only thing, it doesn't push anything other than the opportunity ID so when you create an account in Salesforce, it goes over and it's asking for a match and you have to physically go through...\nFor example, this is one that was created and we're saying, \"Hey, we want to import it.\" These are all the things that have to be matched. So unlike it's a very cumbersome process they come up with. They did make it where you can...\nIt's you're creating something first and Salesforce, the system is seeing the opportunity and you have to physically make the match. It's not making the match for you. So that's a little... That gives me hope that there is a push. You have the ability to push into the system?\nkailash chanda | 13:50\nGot it. Okay, so, yeah, send it over to you if you can.\nsasank | 13:55\nYeah, I...\nkailash chanda | 13:55\nDone that?\nsasank | 13:55\nI had only one question, guys. The happy path here would be we have a post method where we can send through as that...\nkailash chanda | 14:04\nBut we...\nsasank | 14:05\nIs the...\nkailash chanda | 14:05\nDon't have...\nsasank | 14:05\nHappy path. Yeah, if we don't have that, I just want to let... Answer. Do we have any EF for this platform by default? Chance, let's say, for example, if there was a service account created, so is it mandated to have a MAF over that platform?\nchance | 14:25\nSo I'm sorry.\nkailash chanda | 14:26\nMulti-factor authentication. Chance like, no, okay...\nsasank | 14:32\nOkay. I think this is doable through RP. Just in case... If post method post ap we couldn't find then we can always do this with that p... Yeah...\nkailash chanda | 14:45\nWe can do it. AP right, so we export the data from Salesforce, give it to the RP via file or any other method an RP can write into this correct...\nsasank | 14:53\nAnd again write back that amount into opportunity. Yeah. All those things are possible.\nkailash chanda | 14:57\nThe perfect okay...\nchance | 14:58\nSo? So it. So it needs a data link between the two systems.\nkailash chanda | 15:03\nNo need of data. Lake Chance, I think Mulesoft can get the data from Salesforce, and we need to use an RPA, Robotic process automation, which is the one that converts manual tasks into an automated way. What it does is it mimics the screen. It takes the screen and mimics the clicks to identify...\nSay that... \"Hey, if I get an account name, then I have to go click here, then click on create, and then enter the name, your address here.\" So that programmatically, we can program the RPA part to do that.\nWhat it does is, as soon as it gets data from Salesforce, the board would be doing all of this data instead of a manual human doing it.\nchance | 15:48\nWhat do we think the time is? What do we think the user experience looks like between that? As far as time...\nkailash chanda | 15:58\nSo when you say user experience, we can have it run every minute to see if we have any data that comes between Salesforce, any new accounts or contacts that can run every minute, get the new data, write it back into it, or we could do a nightly... It depends on how the business needs it. We could have the SN done at the least, probably, I would say every minute or so.\nchance | 16:23\nYeah, I mean, so this is kind of how the experience if it would work. So let's assume that's a new account, because right now it's nightly. It's a nightly pullback. So even a nightly is too. So, like, I'm sitting here. John gives me a new account that he wants me to do. We're going back and forth.\nSo I go in a Salesforce, I put my information and build the account. Bam there, you know, opportunities made and then I'm going to immediately want to go to the asset system. You know the so for the basic sales agent, you know how fast he can get into the quote tool is kind of that thing.\nSo that's just my one piece of like, I want to do it and then I want to be able to go over here to FX five mile opportunity and go from there.\nkailash chanda | 17:11\nSo I think we can give the staff or the sales rep a couple of minutes to say that as soon as they enter the accounts and contacts into Salesforce, it should be available in Flex within a couple of minutes, that's what I see.\nThen immediately they can go and add and do the next steps of adding all the line items, products, transportation, and everything to whatever account and venue that we have created. Should be available in a couple of minutes because if we can schedule to get the data every minute, then I would say a couple of minutes should be the timeline that we can give to the sales reps.\nchance | 17:46\nOkay? Yeah. I mean, you know, obviously, as you can imagine, any person's going to go. I want it right now, myself included. We're working back to what is a realistic, you know, piece of this and so I think, yeah, I mean, I think if we can I think we can hurle this, then that's where.\nSo. And you know, Connor, just as far as like how we're trying to look at this, if this can be confirmed, then that allows John and Dan to dive into you on a conversation of, you know, John wanting to continue down the salesfor road pricing, et cetera.\nYou know, that's kind of because if not, then I think he needs that parallel. But I know with obviously the we're getting to the end of the cycle here, you know us solving that then allows him to kind of help decide. We've been waiting on this piece, which. Nicole, I appreciate you working on that decision tree of like.\nOkay, are we going to do this or are we going to just renegotiate sales? Horses a CRM and, you know, let you know that. So I think that piece of just like, hey, we can do this. And yes, we can confirm we can do this.\nAnd this is the scope. And now with this scope, you know, in a perfect world would love to not. You know, I think we've built a lot of good dashboards that if we can just flip the automation that doesn't go away, you know, can inherit to the next world.\nIt's easy to modify. John can continue to grow that out. And then we can explore the future growth. But I think it's just that kind of confirmation colicch of like, yes, we're gonna do this. Here's that process. We can see it working.\nAnd then you know, from this point forward. Now we can do the re we can figure out what our price...\nkailash chanda | 19:28\nYes...\nchance | 19:29\nWhat the account looks like. Next-tioned...\nkailash chanda | 19:30\nI think before even... I think I put down a plan. I'll just call out a couple of things. Chance, so that while the tech team is here from my side, we would need one. I would say either a virtual machine or a desktop or a laptop that allows the bot to run because the bot needs a machine to run.\nSo let's say there is a virtual machine where they can bot logs into Flex and then write all this data. So we would need one virtual machine or a physical machine allocated for this bot to run. That is...\nchance | 20:05\nDan, didn't we have to do that recently for the process for the fast slow motion guys?\ndbourque | 20:10\nYeah, I was going to say we currently have a desktop that's stood up. That's running those nightly. Nightly sync...\nkailash chanda | 20:18\nThen I think we could use the same desktop to have this run. Probably we will schedule this to run between 9 am to 5 pm, whatever the local time. Then that closes the job and makes room for the nightly bot to run through it so that it doesn't impact or collide with each other.\nBut again, any thoughts you have to reuse the existing system that runs the nightly job?\nsasank | 20:43\nYeah. Ideally, we'd like to have virtual machine colors. The reason being there won't be any interruption, with respect to power supply and Internet connectivity. So if that is not possible, then we would offer a device, and we can run the script continuously there.\ndbourque | 21:03\nYeah, that's what I was going to say. If we're looking at running another process, we may want to look at some type of virtual or something that sits... That's not sitting on site in case there is an outage. Or you never know.\nkailash chanda | 21:14\nExactly. Exactly. Perfect. Okay, then I think.\nchance | 21:18\nAnd yes, without multi factor. Because I know that like, you know, all the all my reports that e mail out to everybody Monday morning, they're on in the morning. They're coming out of Grock or running off its virtual, you know, and it.\nAnd I don't have to. I'm not getting booted. There's no MFA loggin. There's no duals. I mean, everything just runs pretty quietly.\nkailash chanda | 21:40\nSo, Chance, what I will suggest is probably I'll get back to the team today, work on a small scope of work to say that... Okay. When a contact is created immediately, it just publishes to Mule, exits, hands it over to the bot. The bot creates the contact inside Flex, right? Once you see this whole thing working, you feel confident we can go ahead to the contacts and event accounts and events as well. Then that way the whole thing works. Probably we should close all of this in... I am thinking around two to three weeks. Sean, are you okay, or do you think you need more time here?\nsasank | 22:19\nYeah, that should be fine. Color. It's realistic.\nkailash chanda | 22:22\nOkay, perfect. If we are kind of aligned with that chance, then I'll have the team work on a kind of a. Design and for the contacts. And then we'll share it with you and we can get that started and agreed upon.\nAnd once you feel confident, hey, this is working. Amazing. Then let's take that forward to the other ones as accounts and events.\nchance | 22:44\nOkay, yeah. So let's do that. We can obviously set up whatever tests we need to go from that. So let's assume that we're going to be able to go this route then. Conor, maybe you can set some time with John, Dan, and myself and let's...\nYeah, let's have some conversations on... It is John being the guy's going to own this move. Make sure that that's where all the other stuff's going to work for him. Awesome.\nntrezza | 23:14\nI'll send an email with some time for you guys for maybe later next week or early next week. Obviously, we got to see this through with Kailash and the...\nkailash chanda | 23:21\nYes...\nntrezza | 23:21\nTeam, but other than that, I just want to have a candid conversation with you on where things are looking and how I can help.\nchance | 23:28\nOkay, awesome. Awesome.\nkailash chanda | 23:31\nOkay, that's...\nntrezza | 23:32\nAny other questions? Chance, concert team.\nchance | 23:36\nNo...\nkailash chanda | 23:36\nI don't need it.\nchance | 23:37\nBack. This is my third conversation about bots today. So pretty much back to my favorite word of the week, bots.\nkailash chanda | 23:46\nYeah...\nntrezza | 23:46\nBots. Well, thank you, everyone.\nkailash chanda | 23:48\nThank you, thanks a lot, see you guys, thanks for at time, thank you. Happy Friday."
+  }
+}
