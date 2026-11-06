@@ -1,0 +1,1262 @@
+{
+  "id": "01a1b1d7de62720aad53ace8d08cf664",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1ada03e0877ec93a82dbbfbdc802e",
+      "title": "customer 0 demo",
+      "duration": 2904,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "1p3kek8jhetnf8fjnfckt92nod",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "venkat@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sasank@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": null,
+          "id": "5c9b720b639155be86f088fe887013b9",
+          "first_name": "raghuram@dataskate.ai",
+          "email": "2c1b598354654178a4f35851a99ab988@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": null,
+          "id": "4472f7d70a475b528a099a5628a2114a",
+          "first_name": "sasank@dataskate.ai",
+          "email": "b8dac0d9ff444055ae3ee1f84822eb8d@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T16:21:06.931Z",
+      "end_date": "2026-11-06T17:09:30.931Z",
+      "url": "https://app.krisp.ai/m/01a1ada03e0877ec93a82dbbfbdc802e?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "And before we start this session, Glia, I'm not sure how much we deployed in our MuleSoft environment. Sorry, I was checking our consumption. He doesn't say anything, he just saw one NCCA server deployed.\nThat's it."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "No, we deployed a lot. We were testing continuously, right? We should see a lot of things deployed."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay. Well, like when he joins the call, we will ask him, \"Sure, anyone recording this?\""
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "You will record them.\nOkay, yeah, it's recording. Hey, everyone. So, thanks. I'll thank the person who might have spoken previously, Raghu and Kailash... Is it our individual presentation, or there might be some Salesforce involvement?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, Raghu will be there from Salesforce."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And I..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Want you to thank a bit of leadership from Travis and a few names I will bring you as well to get..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So I'll prepare for that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, and..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Get one thing after this session is done by whatever improvisations all we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Observe you are. I think you are. If you do it one required session, that will be good."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah. You shall change your title. I don't want you to be using or integration. Eng..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah, that change I'll make. I'll change colors, yeah, cool. Okay, then I'll start."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Or even if LinkedIn changes it."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Sure, yeah, thanks for that insight. So, everyone. So before we present our customer story, we are MuleSoft Partners. So we have recently been named Agent Fabric Early Champions. So every week we tell clients to govern their AI so before they scale it.\nSo before we sold that advice, we decided to live it. So Dataskate becomes our own customer on Agent Fabric. So in this customer story, we would like to walk through that. So can we move to the next slide? Kumar, yeah.\nSo we had to prove three things to ourselves. First one is reuse. So we have our expertise. So we have built a lot of templates. So we have built a lot of accelerators that are currently residing in our tenant or in our code. So we want to reuse the existing knowledge or expertise that we have built.\nSecond is the governance. So we saw a previous example from Marra where there is a $47k runaway loop and the production databases got deleted in 9 seconds. So we aren't going to let that happen with the agents when we actually build it.\nSo third is the cost. So if we cannot say how much it is costing me to perform, for example, building an SWW or building a design document or building an entire core base with the help of design, we cannot scale it.\nSo we want to address these three challenges. So here's what we have built. Can we move to the next slide? Yeah, go ahead. Yeah, you have some questions."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "So, Suan, one thing I want to add is the story you told in the beginning is good, but we have to weave a story around saying that we ourselves want to become an agent-based enterprise. We bought some did buy a 2027 Q3 or 2027 Q2.\nWe want to be an agent-based enterprise with 60% of our operations run by agents."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Maybe is okay..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Sure. So... We want to get a business value for Dataskate itself becoming an agent-based enterprise using MF so we have to embed some story like that."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I do that. Sincerely. Like as I told you offline. Like in one on one by next year half I get told... Like we will our agents will... Run like 16%..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Protective so..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Of functions. What..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, we should have done..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Dataskpe has."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Something but few things are out of our control."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Got it? I'll add a vision slide rub before this. So which..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What is the next..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Tells where..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Plan this..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "We are heading..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Quarter? What our..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "And why..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Next plan..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "It is important for..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Expectation will..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Us to do this."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I will..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "The story should be such as though we are partners, we are creating a customer's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "1 every project has its size and loss..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Story. The story should be something..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can make sure that everything is..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "So mesmerizing that they will take..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A smooth..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "This story to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Landing and..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "The customer."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Take off..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "See, because Dataskate now is a... Customer to Salesforce, one of our customers..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Make sure..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Is doing..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That last ride is good for me. Until..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "That's how our story should be so that they can use our story to convince other customers."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Understood? Sure, yeah, I'll keep that in mind."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I put it..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yeah, let's go ahead."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Away, though, things fell apart."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So here's what we have built across different areas of our business. So when it comes to presales, there is a challenge when we actually work with Salesforce account executives. So we get the leads at different points of time, and we want to build an SWW. We want to go through the transcript, we want to watch the video, and build an S4W as soon as we can.\nSo sometimes building an SW might take a couple of days... Or one day, so we want to reduce the turnaround time when we actually build an S... Sort. So that's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have to..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Where the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Call out a..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Challenge came in, and that's where we started..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This dashboard. Can..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "With the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You... Imify this dashboard?"
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "SWW drafting agent."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Can you verify this dashboard?"
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So we'll get into..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We will direct..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "The details..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It if it is wrong..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "On how it works and how we have built..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Or give me a theme that..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "In further... Demonstration. But when it comes to presales, we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Dashboard. Our school..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Have an..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is accountable..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "SWW agent. So when it comes to delivery... So this is where we have four agents built in. So starting with design... Develop, Test and Deploy."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But the end of the..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So all..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Day it will come to you guys..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "These agents..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That you didn't make it..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Doesn't work in silos. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So. Not..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "We have agent broker sitting... On top of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Are just the most..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "All these agents. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So I..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "These agents are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Know but I want to make sure I was..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Communicate with..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Next can..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Certain standard agentic..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Be a full..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Policies like agent to agent orchestration NCP and we... Have LLM proxies. So we don't store... Direct APA credentials of the LMS so we have a proxy layer on top of it which governs all these LLM..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "4 PM part. What is the plan for..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Interactions. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Next week?"
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "On high level. So we have two agentic workloads and five AI specialists. So... There are two..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "About traditional way for..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Model proxies..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And TED with."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "One we have created using Gemini and the other is for Anthropic. So there are three..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I don't want to talk..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Policy layers. So we have..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Anything. If you say this..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "An agent..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is how an..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "To agent..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Office should be your..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Policy. We have MCP and we have an LLM policy. So one front door, which is the Slack, which acts as a single point of conversation for our development or delivery teams. So can we move to the next slide? Kumar, yeah.\nSo we didn't rewrite anything for a. So our sales force nets system APIs, our SPS 4 and accelerators, our Ramel standard templates data, we've libraries, they already sit in any point exchange. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You should do it..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "MCP Bridge turns them into governed MCP tools with no back and retries. So we check the trusted MCP catalog first and build only the gaps. So the SWW agent reads transcripts, fills..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "On with..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Drafts through Google Workspace tools and post reviews requests through Slack tools. So these delivery agents search exchange for assets so they deploy through tools that need approvals. So every tool..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I was stand."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Is small and TED with..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Should be."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Strict schemas. So the main challenge when somebody is building the same using ChatGPT is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Should have something."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So they just give prompts randomly and they try to expect the... I mean they try to create an accurate or a better version. So thereby they are consuming a lot of tokens. Thereby they are consuming a lot of resources.\nSo we want to avoid that. So that's where we have schemas in place which will only fetch the required fields that the LLM actually uses. So whatever we build goes back into Exchange, so it's reusable for client work.\nSo the same asset serves our apps now serves our agent. So of course, an agent that can write code and open repose needs boundaries because we are automating an end-to-end process here. So we are not just typing a prompt in the cloud, so we are actually giving it a task.\nThere is an orchestration of multiple agents, so this is where we actually need certain governance and boundaries. So can we move to the next slide? So when we actually talk about agents,\none of the classic examples that Raghu has presented. So there was a $47k loop runaway. So what that actually means is there was an agent running in the background which was trying to perform a task, but the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I want..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Billing went around like... $47k. So we want to strictly avoid that. So that's where we have built rate limits across three different tiers, one per agent. So we create individual..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Custom are..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Token budgets for that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sony rout."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Specific agent. And once the token limit is reached, so the agent stops working there. So two per user. So under Slack, since there are a lot of employees within the organization, you want to cap the users to use your agent to a specific limit.\nFor example, if any pre-sales architect is building certain SWS, so we cut them off with 10 SWS per day. Again, all these token budgets and SWS are configurable, so you can easily manage them within the policies.\nSo we'll show that in the demonstration further. So per backend as well. So third rate limiting. So we want to restrict the number of calls made to the backend system, whether it's through MCP or whether it's through an Azure protocol.\nSo we want to rate limit the system API calls as well. So these are the three tiers or three levels we have implemented rate limiting. So as a result of it... So we did a payload optimization as well.\nSo we have certain policies within Omni Gateway which will help us to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "All right, folks, we will go ahead..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Reshape the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And get..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Response from LLM so that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Instead of taking..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For taking the time."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "A 120kb response and feeding it to LLM so it will be reduced to 14kb. So which will show during our demonstration how it can be achieved. So it will use an 88% fewer tokens per tool cost. Okay, so this is what we want to achieve. We don't want a wrapper around LLM, so we want a governed system where it completes a task end by... Limiting the overall consumption of tokens and response."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is not phone..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So any questions so far? Raghu, Kailash Kumar."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I like that sentence. So, I built a story around that. We don't want a wrapper. We want a governance system. Yeah, I like that line."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Okay, sure, yeah. Can we move to the next slide? Kumar? So the third one that we want to track is, of course, the cost. But each agent run and it is easily available within an Omni Gateway with all these budgets, model budgets..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Model as..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "That we would create. So what we tracked when we actually built these agents was cost per SWW like the entire s so w build is coming around like $0.42 per each SWW so this is only to draft, but again, if you add any changes.\nSo this would again put some..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You think every..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Dollars on..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Like the..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Top of..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Same content. I will..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "It. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Now ask you any questions."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Tokens again, number of tokens saved. When you go to a cloud and give a template and ask it to create a sort of using the transcript. So you never know how many token cities consuming in the back end.\nSo this is where we have enforced payload optimization techniques to save the overall token consumption. Where it uses less than 70% of tokens than what you actually do..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And you focus on like..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Within the... Claude. Okay, so we have added the average token consumption of our agents currently, which you can see in this specific dashboard. So these are the testing results where we got the information as our developers architects, test these agents.\nSo one proxy for every model. So as I mentioned in the previous slide, we have two proxies, one for Gemini and one for Claude. So we are using it for a variety of purposes. So for example, for design, we are going with Gemini.\nSo where we have built an LLM proxy or a model proxy where we are governing the context-based routing. So we are where we are doing model routing within that specific proxy."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But you have to come..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So every call is tagged. So for example, when a user sends some request through Slack. So it will be called by who it is, who is the requester, whether it's a user or agent or what is the identity of that specific person.\nOkay. So as I mentioned, budgets per agent. So we have created certain model vaults where we create certain budgets as the budget hits. So we get notified that a budget limit has been reached so that we can monitor why it's happening and take appropriate action.\nOkay, so right models for right jobs. So smaller models..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You're talking like a leader."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "We'll use for routing. When it comes to reasoning and building things, that's where we use... Stronger ones like Claude 3.5 or Claude Opus. So that's where we will route based upon the task. So any questions before I move to the next slide?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "In rotatructure..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah, can you move, Kumar? Can you move to the next slide? Yeah. So we want to showcase an intent request on how it propagates through from Slack to different environments. So this is our high-level architecture on how each system is placed.\nSo Slack is our main front-facing interface for routing and orchestration. So we are using agent brokers, which based upon the request, will route it to different agents and subagents. For example, let's say a rate-of-pay agent.\nSo Mulesoft builds a Mulesoft migration for a specific project, and the timeline is around three months. So it will create an SWW based upon the transcript. So it not only takes files, you can input the drive. You can input the SharePoint links and SharePoint folders so that it understands the files, not just reads the transcript.\nSo the transcript is just not the source. So it will take the supporting documents that are shared by the customers so that it has the complete context in building the SWW so this not only recites this, not only comes down to only the documents that you give to the customer.\nSo it has a knowledge base that it has access to. So we might have built hundreds of SWS as of now."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is... Don..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "It takes context from those SWS, sees the realistic timelines, and then builds the draft for that specific customer. Okay. So at the same time, when we actually go for a design or build... So it will take the context.\nSo we have defined certain standards. So Applications should be designed in a specific way and all those standards... It takes the APA fragments like Raml and any standard fragments that we have built.\nFor example, if we have a custom connector that we have built and we want to leverage it, so it will take account of all the existing assets as well as the set rules that we have defined in a specific way to build a design document and it generates an output for us so it doesn't blindly generate the document.\nSo it asks you certain questions if things are not clear, so that there is always a feedback loop. And that feedback goes back to the agent and it gives us the required output at the end. Okay, so once the design is done...\nSo that's when we move to build and test. So in this phase, you don't need to provide any documents because the design is already finalized. For example, let's take an example of Akmeor."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It helps..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Most of the shifts."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So now we have a design document built. First, we have a signed SOW. Next, we generated a design document, and it is approved by the customer as well as within the organization. So now all these approved documents are..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The company will..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Fed into the knowledge. These approved documents you don't need to read separately. When you go for bad, all you have to ask..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "But how did..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "The Slack interface is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It? To see other slides."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Build Mulesoft APIs for a specific project. Okay. So it goes to the Approved Designs. It finds that specific Approved design document and it builds the entire Mulesoft application and it checks into a GitHub repository so from which developers can clone. Input the values like input the credentials configurations... And do the build and testing process."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Start to drive our..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Okay, so it not only generates the code, but it generates the Mulesoft where you can measure the code coverage of your entire application. So deploy agent. So we are still in the process of testing it.\nSo we are not... We are not using currently. We are not giving it away for the team to test, but we are still building and testing internally within our Center of Excellence team. But all three agents, as I mentioned, Pre Sales design built Test are already built and are being currently used by our development developers, architects and pre sales architects."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What? We are read. But..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So as I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Every mo."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Mentioned, all these..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Tell them that they have to..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Agents doesn't..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Introduce you to..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Work on their own, so they have a governance layer through Omni gateway where as it where as we discussed in previous slide, we have certain policies enforced like rate limits, payload shaping, PA mask, token budgets and identity and schema.\nOkay, so any questions so far before we move to the actual demonstration?"
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I think I'm good when I'm making some notes, so I will discuss at the end of the call, so I yeah."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So without any... Yeah, Kailash, do you have any questions? Okay. So without any delay, let me switch my screen and show you a demo live. So actually we will do a recorded demo. The reason being these agents will take ten minutes of time for building that design for building the Mulesoft code, and we don't want to put ten minutes of time in the it's fast on go."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Let's do live on the brother agent. Let's show the recording. What do you say, Kailash?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "At one session, I want to do one demo live so that they know that we are doing it live. That is the whole intention."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Okay, sure. So let me show you how this actually works. Okay.\nYeah, so we have built a Slack bot named Kailash. I'm unable to run it right now. The reason being there are some permissions which were missed while we were checking, but we actually tested this multiple times previously, so I can show you from that example on how it actually looks like.\nOkay, so what we have to do is... So you just have to ask the agent in a natural language, for example, \"Draft this SWW\" and you can provide a drive link for it. So this drive link can consist of only the transcript, or it can have supporting documents like any customer-related documents, any system-related information.\nSo all these things can be recorded under the specific drive dock. So once you publish it... So the agent will take one to two minutes. So in these one to two minutes of time... It does multiple activities.\nI don't want to input the entire document or PDF to LLM. So what it does is it will extract the text out of it and it will feed it to LLM so that the tokens are in check. So along with that... It will call the omni. It will call the model proxy.\nSo once the text is extracted, so it sends the text to the model proxy. So under the model proxy, we have defined a prompt template. So this prompt template does multiple tasks. 1, it defines the set of standards that we have defined that we are using within Dataskate as an organization to build an SWW, so this prompt template is fed along with the text extracted from the documents to the model proxy.\nSo once we do that, we will get a review or something similar to this. So where it gives us the client name, who is requesting it, and what the project type is. So all this information... So you'll have a summary of what the client is, and if you have any open questions that the model doesn't understand,\nyou'll have all this information so you can preview the draft. So if you can click here, it gives you the draft of that specific customer. So what is the engagement summary? So how many flows are there? What is the pricing?\nSo all this information is available in the preview. So whoever is the pre-sales architect, it can be... He can either choose to approve or request changes. So if you hit \"Request Changes,\" it will open up a dialog box where you can input any content that you want it to be redone.\nSo it will take that feedback and again generate a document where you can again open the draft and review the changes. So you can either choose to approve or reject it. So if you approve, it generates the Word document and shares it in the same Slack thread.\nSo this is what the SWW agent does. So unfortunately, there is some permission issue where I wasn't able to add it. So there is a token which got expired..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "I couldn't show it, but we actually tested by doing all these things. So it'll be fixed by Monday. Coolers... So the second..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "For this one, just a small feedback I want to say is, tie it up to our GTM where we proposed that we are delivering SW within four hours, right?"
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So you have to create a talk track to say that he's the guy who is responsible behind the four-hour strategy of SWW on how we are delivering. And that is where how Dataskate is getting aigantic like so just..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Understood. Yeah, got it. So, when it comes to design agent, it is again, not a single step process. So it is a multi-step process where there is a lot of reasoning and where you have to provide a lot of context to it.\nSo when any discovery session is done, suppose you are sitting with customers and there are certain recordings that you have done. So all you have to do is just call the design agent here and ask it to draft a design.\nSo once you do that, it starts building. So in the backend, it will take one to two minutes of time. And it provides us with certain set of questions. Okay, so these questions are very specific to the documents that you have sent.\nFor example, it asks for a licensing model. So this is very critical when we are actually dealing with small and medium businesses. So the agents sometimes when you actually go to Claude and try to build applications...\nIt might give you a working code, but it might not still be the right design for your specific Mulesoft subscription. So this is where it asks whether you're going with the integration starter or integration advanced or an automation charter or any pack.\nSo based upon the pack that you have, it will design the applications so that it always keeps in mind the flows, number of flows, and the overall consumption and how long it will take for you to run out of the subscription based upon the number of messages.\nOkay, so it will ask you the volume and... Like how many acknowledgements are sent per day for this specific example. So these questions are coming only for this specific customer. Okay, so if we input a different transcript or if we input a different discovery recording, it would ask a completely different question.\nOkay, so here we will be provided with an option to either answer these questions or choose a default. So I just clicked on \"Choose the default\" so it doesn't only ask questions, it will suggest what it needs to do.\nOkay, so it will say \"Under 50 acknowledgments a day. Same business data around.\" So it will provide you with the default setting that it is using to draft a specific design. So once we approve it...\nSo that's when you see that a design is drafted and it provides you with a Google Drive link under the same drive that you have shared it. Okay, so this is a complete design build where it takes care of all the standard MuleSoft development practices. Design and Development Practices where it covers the functional design where it defines what the sub-processes are, what the general assumptions are, and what dependencies\nthere are. So it does the data mappings. So again, these data mappings are subject to correction. There might be some fields that were not discussed during the discovery session. So this is a starting document where they can update these data mappings.\nSo when it comes to technical design, it gives us all the required... What is the start point? So what is the trigger? Whether it's a schedule-based or an event-based... So how the flows should be created.\nIt gives us the sequence diagram on the execution of the entire process. So it does the error handling. So it creates the error handling flow as well, like where you have to implement error handling.\nSo all these things are covered in the design document. So you have two options here. One, either you can approve it or you can provide feedback for it. So here since I have approved it... So this document goes to the approved list.\nOkay, approved list. Why do we want to move it to the approved list? So that it can be fed to the bill agent. Okay, so once it is approved... So this is what you get ready for. Development agent runs build Titan Lift systems to generate the code.\nSo all I have to do is once the design is approved, run this specific command in any of the channels. Okay, so again, it needs to be verified by the identity. So the user should be authorized to run these specific commands so that we are enforcing under... So once you run it, it performs a certain series of tasks.\nSo it goes and checks what is the approved design when it was approved and it takes what is the application name as well. So it will take around 10 to 15 minutes to build your entire application.\nSo once it is built, you'll receive a message within the same Slack thread along with the repo link. So it follows all the standard branching strategies like you have master, develop, feature, and release.\nSo any code that is generated by the agent will reside under the feature branch. So it has all the standards where you have flows built in as per the standard naming convention, as well as you have immunities built for that specific flow.\nSo you have configuration properties created and all the data waves externalized for those specific flows. So these are as per the design principles that we are following within the organization.\nSo this is the starter code where at least 40% to 50% of the code is generated. All developers have to do is pull this specific application code, configure the credentials, and test it in their local system.\nWe have a testing agent where once the unit testing is completed, where you make sure that data is flowing from point A to point B so that's when we use a testing agent where we feed certain test scenarios.\nIt will test the APA under those circumstances. So any questions so far? Kailash, Raghu, or Kumar?"
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Go ahead. As I told her, I'm making notes. I will talk in then. Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So. Okay, so one quick question again is will we demonstrate both the agents, in. I mean in recording or real time if..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "If yes, then I think probably we should show before and after how a GenAI journey is helping Dataskate and how in the longer run, it is helping Salesforce and the LinkedIn, right? So that way, obviously when the account executive listens to this, they will not worry about why or how Dataskate is working on the agent's journey.\nBut two things are how it is going to... How MF is helping Dataskate and how MF is helping the whole customer journey inside Dataskate."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah, that's good. We'll create separate videos for these colors, design as well as other design as well as bid. So it will be very Krisp like three minutes or that video which they can share with different customers as well."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So, Suan, we will be showing in the demos. We will be showing the wallet credit consumption and everything."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Or. Okay, perfect."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "So, as you can see here, color. So for the last one, there were no great tokens that were consumed. So it tracks at the level which specific API is consuming the number of tokens and how many requests are done for that specific agent.\nWe can enforce policies on top of model proxy. So currently all these Loom proxies are governed through client policy enforcement. So it's not like we are putting or we are saving the ChatGPT API key within our applications.\nSo that is not the case at all. So the API key resides at the proxy level itself, so which is completely encapsulated once we input it. So all we are doing here is enforcing ChatGPT enforcement and we will be calling this proxy in real time whenever we actually require any LLM call.\nSo we have model-based routing. So where the routing is based upon the user messages, so it will route the request to the specific LLM model. So we have defined five models here, starting with Claude at five.\nYeah, I think we added only one, but we can add different models here as well."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Would you be able to show as...? I know if the number of... Or whatever the consumption is. Can we show that the model is being routed, or is that the big challenge?"
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah, it's not a challenge. So all I have to do is create a different model here..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "I can input a chat message, and it will go to a smaller LLM model. So there are some topics which we have to create. So I just have to create and show it colors. Yeah, we'll show that color because we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That that'll be good."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah, we'll definitely show that color because we are... Since yesterday, I think we are working on these agents only."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Just a snow ship..."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "We will definitely work on these things because these are critical."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So, okay, perfect. Okay. Again, probably this is too soon. But I'm just asking, can we do a demo on Monday or..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Thes start trying to set up tomorrow at some..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Tomorrow it... Okay."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I will ask for a one-hour meeting tomorrow, or else we will use our meeting with that one hour, and we will push our meeting to Sunday because if a bra gives some feedback right, I need a techan. Kumar was...\nSo that we will be ready on Monday."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Even the presentation I want to take to get the feedback. So that way, wherever we can make changes, we'll have time."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "We are still working on a few things, colors like making it better as Raghu mentioned."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So overall, this looks exciting and good progress for me to see what we made a reality within this couple of weeks. I'm really good. I'm excited to get this in front of multiple people and see how we can make this.\nBut... Thanks, you guys. Again, thanks for all the effort."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "So my feedback... Beta. I think the transcription is on... Right? For you to report that so storytelling... So I want you to start a story where we say that okay, see, our thought process should be especially for a Mule's customer not a Mule's partner.\nBut to get to that SE, we must, for example, someone from a... Someone from a customer point of view, how they will talk when they will say that how Mule's helped them to realize their organization goals.\nSo your thought process should be... You should talk from a Mule's customer perspective. 70% of it should be a Mule's customer perspective. 30% should be a Mule's partner perspective.\nSo the story how you want to start is like a Dataskate wants to become an agent enterprise. Use some data like a Q2, 2027, which is like a June. Then just showcase one slide where we are like how we do the stuff manually, whether it is development, whether it is sales or whether it is marketing or whether it is HR and where we want to be one slide we want to be by June 2027 future state.\nOkay? Then one slide... Can you go to one slide where we were showing policies? Yeah, it might be random. Made the notes randomly, so it might not be according to what you presented. Yeah, that slide only what you showed before."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah, this one."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, so here... So you're mentioning, right? We have a policies identity plus scheme to list pi masking and all right. Add some business value to these policies because you are mentioning only technically asking token budgets rate limits. Add some business value on the business side of this technical details like for example, say tool allow this. We didn't want it to like allow certain group of people to access some kind of a tools which might be like a confidential.\nSo that's the reason we are using the two level list identity plus schema. Some business decision why you are adding that tailor shape in some businesses. So add some always talk from a business point of view."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Okay, yeah, I'll create a separate slide for this."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Raghu, while telling that when you are explaining this slide, you can talk about that, not add even if you had... I'm fine with it."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "And the one."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Agent names. Can you go to the previous slide where you were showing agent names like a SW agent? Yeah, we'll go back to the slide, this one, three years. Yeah, the agents like SW drafting, design, and development. Maybe from a business perspective,\nit looks like a pure technical design developed is deployed. So those agents like a kind of providing some business value."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Having the end..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I will leave it to you, but like a definitely change. The design developed test replies like a pure SDNC terms."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "I think Salesforce named the agent force."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "I don't want like a Alexas or like as and all like you can it can sound something like a develop only but not like a raw developer."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah, I understood. AV did like a coda or something like that. They're coding agents. So you want something like that."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "When you're showing this slide... I don't know whether you will show it in this slide or the difference... There should be a marketing agent, sales agents, and XR agents in the roadmap."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Yeah. Last, I'll show because I think we are focusing on these two rates right now because I'm saying two agentic workloads we are covering here, one is the resales, the other one is the delivery. So in last what I'll do is I'll add another slide that how we are working across the organization apart from..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "The can change some names. Okay, it again looks like Raghu so that is one. Feedback... Yeah, the same thing. I think I brought up that point when you're demoting SW Agent, which will be a live demo.\nI think the other one will be a recorded demo. First tell the story. So we work in the assembly sector where turnaround time for SW and scoping matters a lot. This is where we see there is an issue. This is where we see we can provide value to the account executors to close more teams.\nSo currently we are taking one day or say four hours or say eight hours, whatever. We can talk to the CL with this agent. We want to cut down the time by 70% or 60% or we want to deliver SW in one hour.\nThe other block is, for example, our sales guy talks to a and he has to draft a few things, which are constraints right now is the bandwidth of the SW agent availability of them.\nSo we are cutting short those things by creating a company brain where we have all the knowledge of our pre-sales architects and SMEs built into this company, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Is a NETWORKFLOW."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Which like an agent uses to draft AW where we are not even compromising on the quality because the whole pre-sales architect brain is what we drafted through. You can mention everything Raghu's knowledge, graphs, etc., which is our backend. You can just write a diagram.\nI know we will implement that later, but you can say this is how our company brain works because we have again showcased. We are cutting shut down the time, but we are not compromising on the quality. We are compromising the quality. The quality is by creating a parallel brain of our SMEs through the company brain architects or whatever we have and then go to the data."
+      },
+      {
+        "speaker": "sasank@dataskate.ai",
+        "speakerIndex": 3,
+        "text": "Understood? Yeah, got it. So I'll explain until this point, and I'll give a demo after this slide, and then at the end I'll show the roadmap. Is that fine? Okay."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Kor or someone... I think I will send the draft notes for... But I think anyway it will be in the transcription. Yeah. Next is the same with Agent broker in the diagram you were showing the agent broker right? Agent broker. The router.\nRight. Instead of D router, use some business name, like a business orchestrator or some name we..."
+      }
+    ],
+    "raw_meeting": "**customer 0 demo**\n🕞 Started at 04:21 PM on 06 Nov, lasted 48m",
+    "raw_content": "raghuram@dataskate.ai | 00:05\nAnd before we start this session, Glia, I'm not sure how much we deployed in our MuleSoft environment. Sorry, I was checking our consumption. He doesn't say anything, he just saw one NCCA server deployed.\nThat's it.\nsasank@dataskate.ai | 00:23\nNo, we deployed a lot. We were testing continuously, right? We should see a lot of things deployed.\nraghuram@dataskate.ai | 00:32\nOkay. Well, like when he joins the call, we will ask him, \"Sure, anyone recording this?\"\nsasank@dataskate.ai | 00:42\nYou will record them.\nOkay, yeah, it's recording. Hey, everyone. So, thanks. I'll thank the person who might have spoken previously, Raghu and Kailash... Is it our individual presentation, or there might be some Salesforce involvement?\nkailash chanda | 01:24\nNo, Raghu will be there from Salesforce.\nsasank@dataskate.ai | 01:28\nOkay.\nkailash chanda | 01:30\nAnd I...\nsasank@dataskate.ai | 01:30\nGot it.\nkailash chanda | 01:30\nWant you to thank a bit of leadership from Travis and a few names I will bring you as well to get...\nsasank@dataskate.ai | 01:38\nSo I'll prepare for that.\nkailash chanda | 01:39\nYeah, and...\nraghuram@dataskate.ai | 01:42\nGet one thing after this session is done by whatever improvisations all we...\nkailash chanda | 01:47\nExactly.\nraghuram@dataskate.ai | 01:47\nObserve you are. I think you are. If you do it one required session, that will be good.\nkailash chanda | 01:56\nYeah. You shall change your title. I don't want you to be using or integration. Eng...\nsasank@dataskate.ai | 02:00\nYeah, that change I'll make. I'll change colors, yeah, cool. Okay, then I'll start.\nraghuram@dataskate.ai | 02:10\nOr even if LinkedIn changes it.\nsasank@dataskate.ai | 02:13\nSure, yeah, thanks for that insight. So, everyone. So before we present our customer story, we are MuleSoft Partners. So we have recently been named Agent Fabric Early Champions. So every week we tell clients to govern their AI so before they scale it.\nSo before we sold that advice, we decided to live it. So Dataskate becomes our own customer on Agent Fabric. So in this customer story, we would like to walk through that. So can we move to the next slide? Kumar, yeah.\nSo we had to prove three things to ourselves. First one is reuse. So we have our expertise. So we have built a lot of templates. So we have built a lot of accelerators that are currently residing in our tenant or in our code. So we want to reuse the existing knowledge or expertise that we have built.\nSecond is the governance. So we saw a previous example from Marra where there is a $47k runaway loop and the production databases got deleted in 9 seconds. So we aren't going to let that happen with the agents when we actually build it.\nSo third is the cost. So if we cannot say how much it is costing me to perform, for example, building an SWW or building a design document or building an entire core base with the help of design, we cannot scale it.\nSo we want to address these three challenges. So here's what we have built. Can we move to the next slide? Yeah, go ahead. Yeah, you have some questions.\nraghuram@dataskate.ai | 04:15\nSo, Suan, one thing I want to add is the story you told in the beginning is good, but we have to weave a story around saying that we ourselves want to become an agent-based enterprise. We bought some did buy a 2027 Q3 or 2027 Q2.\nWe want to be an agent-based enterprise with 60% of our operations run by agents.\nkailash chanda | 04:40\nMaybe is okay...\nraghuram@dataskate.ai | 04:41\nSure. So... We want to get a business value for Dataskate itself becoming an agent-based enterprise using MF so we have to embed some story like that.\nsasank@dataskate.ai | 04:54\nYeah.\nraghuram@dataskate.ai | 04:54\nI do that. Sincerely. Like as I told you offline. Like in one on one by next year half I get told... Like we will our agents will... Run like 16%...\nkailash chanda | 05:06\nProtective so...\nraghuram@dataskate.ai | 05:06\nOf functions. What...\nkailash chanda | 05:07\nOkay, we should have done...\nraghuram@dataskate.ai | 05:08\nDataskpe has.\nkailash chanda | 05:08\nSomething but few things are out of our control.\nsasank@dataskate.ai | 05:10\nGot it? I'll add a vision slide rub before this. So which...\nkailash chanda | 05:14\nWhat is the next...\nsasank@dataskate.ai | 05:14\nTells where...\nkailash chanda | 05:15\nPlan this...\nsasank@dataskate.ai | 05:15\nWe are heading...\nkailash chanda | 05:15\nQuarter? What our...\nsasank@dataskate.ai | 05:16\nAnd why...\nkailash chanda | 05:16\nNext plan...\nsasank@dataskate.ai | 05:16\nIt is important for...\nkailash chanda | 05:17\nExpectation will...\nsasank@dataskate.ai | 05:17\nUs to do this.\nkailash chanda | 05:18\nI will...\nraghuram@dataskate.ai | 05:19\nThe story should be such as though we are partners, we are creating a customer's...\nkailash chanda | 05:23\n1 every project has its size and loss...\nraghuram@dataskate.ai | 05:24\nStory. The story should be something...\nkailash chanda | 05:25\nWe can make sure that everything is...\nraghuram@dataskate.ai | 05:27\nSo mesmerizing that they will take...\nkailash chanda | 05:28\nA smooth...\nraghuram@dataskate.ai | 05:28\nThis story to...\nkailash chanda | 05:29\nLanding and...\nraghuram@dataskate.ai | 05:29\nThe customer.\nkailash chanda | 05:29\nTake off...\nraghuram@dataskate.ai | 05:30\nSee, because Dataskate now is a... Customer to Salesforce, one of our customers...\nkailash chanda | 05:36\nMake sure...\nraghuram@dataskate.ai | 05:36\nIs doing...\nkailash chanda | 05:37\nThat last ride is good for me. Until...\nraghuram@dataskate.ai | 05:39\nThat's how our story should be so that they can use our story to convince other customers.\nsasank@dataskate.ai | 05:45\nUnderstood? Sure, yeah, I'll keep that in mind.\nkailash chanda | 05:50\nI put it...\nraghuram@dataskate.ai | 05:51\nYeah, let's go ahead.\nkailash chanda | 05:51\nAway, though, things fell apart.\nraghuram@dataskate.ai | 05:53\nYeah.\nsasank@dataskate.ai | 05:55\nSo here's what we have built across different areas of our business. So when it comes to presales, there is a challenge when we actually work with Salesforce account executives. So we get the leads at different points of time, and we want to build an SWW. We want to go through the transcript, we want to watch the video, and build an S4W as soon as we can.\nSo sometimes building an SW might take a couple of days... Or one day, so we want to reduce the turnaround time when we actually build an S... Sort. So that's...\nkailash chanda | 06:38\nHave to...\nsasank@dataskate.ai | 06:38\nWhere the...\nkailash chanda | 06:38\nCall out a...\nsasank@dataskate.ai | 06:39\nChallenge came in, and that's where we started...\nkailash chanda | 06:41\nThis dashboard. Can...\nsasank@dataskate.ai | 06:42\nWith the...\nkailash chanda | 06:42\nYou... Imify this dashboard?\nsasank@dataskate.ai | 06:43\nSWW drafting agent.\nkailash chanda | 06:44\nCan you verify this dashboard?\nsasank@dataskate.ai | 06:45\nSo we'll get into...\nkailash chanda | 06:46\nWe will direct...\nsasank@dataskate.ai | 06:46\nThe details...\nkailash chanda | 06:47\nIt if it is wrong...\nsasank@dataskate.ai | 06:47\nOn how it works and how we have built...\nkailash chanda | 06:49\nOr give me a theme that...\nsasank@dataskate.ai | 06:49\nIn further... Demonstration. But when it comes to presales, we...\nkailash chanda | 06:52\nDashboard. Our school...\nsasank@dataskate.ai | 06:53\nHave an...\nkailash chanda | 06:53\nIs accountable...\nsasank@dataskate.ai | 06:53\nSWW agent. So when it comes to delivery... So this is where we have four agents built in. So starting with design... Develop, Test and Deploy.\nkailash chanda | 07:04\nBut the end of the...\nsasank@dataskate.ai | 07:05\nSo all...\nkailash chanda | 07:05\nDay it will come to you guys...\nsasank@dataskate.ai | 07:06\nThese agents...\nkailash chanda | 07:06\nThat you didn't make it...\nsasank@dataskate.ai | 07:07\nDoesn't work in silos. So...\nkailash chanda | 07:08\nSo. Not...\nsasank@dataskate.ai | 07:09\nWe have agent broker sitting... On top of...\nkailash chanda | 07:11\nAre just the most...\nsasank@dataskate.ai | 07:11\nAll these agents. So...\nkailash chanda | 07:13\nSo I...\nsasank@dataskate.ai | 07:14\nThese agents are...\nkailash chanda | 07:16\nKnow but I want to make sure I was...\nsasank@dataskate.ai | 07:18\nCommunicate with...\nkailash chanda | 07:19\nNext can...\nsasank@dataskate.ai | 07:19\nCertain standard agentic...\nkailash chanda | 07:20\nBe a full...\nsasank@dataskate.ai | 07:20\nPolicies like agent to agent orchestration NCP and we... Have LLM proxies. So we don't store... Direct APA credentials of the LMS so we have a proxy layer on top of it which governs all these LLM...\nkailash chanda | 07:37\n4 PM part. What is the plan for...\nsasank@dataskate.ai | 07:38\nInteractions. So...\nkailash chanda | 07:39\nNext week?\nsasank@dataskate.ai | 07:39\nOn high level. So we have two agentic workloads and five AI specialists. So... There are two...\nkailash chanda | 07:45\nAbout traditional way for...\nsasank@dataskate.ai | 07:47\nModel proxies...\nkailash chanda | 07:48\nAnd TED with.\nsasank@dataskate.ai | 07:48\nOne we have created using Gemini and the other is for Anthropic. So there are three...\nkailash chanda | 07:54\nI don't want to talk...\nsasank@dataskate.ai | 07:54\nPolicy layers. So we have...\nkailash chanda | 07:55\nAnything. If you say this...\nsasank@dataskate.ai | 07:55\nAn agent...\nkailash chanda | 07:56\nIs how an...\nsasank@dataskate.ai | 07:56\nTo agent...\nkailash chanda | 07:57\nOffice should be your...\nsasank@dataskate.ai | 07:58\nPolicy. We have MCP and we have an LLM policy. So one front door, which is the Slack, which acts as a single point of conversation for our development or delivery teams. So can we move to the next slide? Kumar, yeah.\nSo we didn't rewrite anything for a. So our sales force nets system APIs, our SPS 4 and accelerators, our Ramel standard templates data, we've libraries, they already sit in any point exchange. So...\nkailash chanda | 08:39\nYou should do it...\nsasank@dataskate.ai | 08:39\nMCP Bridge turns them into governed MCP tools with no back and retries. So we check the trusted MCP catalog first and build only the gaps. So the SWW agent reads transcripts, fills...\nkailash chanda | 08:55\nOn with...\nsasank@dataskate.ai | 08:55\nDrafts through Google Workspace tools and post reviews requests through Slack tools. So these delivery agents search exchange for assets so they deploy through tools that need approvals. So every tool...\nkailash chanda | 09:09\nI was stand.\nsasank@dataskate.ai | 09:09\nIs small and TED with...\nkailash chanda | 09:11\nShould be.\nsasank@dataskate.ai | 09:12\nStrict schemas. So the main challenge when somebody is building the same using ChatGPT is...\nkailash chanda | 09:18\nShould have something.\nsasank@dataskate.ai | 09:18\nSo they just give prompts randomly and they try to expect the... I mean they try to create an accurate or a better version. So thereby they are consuming a lot of tokens. Thereby they are consuming a lot of resources.\nSo we want to avoid that. So that's where we have schemas in place which will only fetch the required fields that the LLM actually uses. So whatever we build goes back into Exchange, so it's reusable for client work.\nSo the same asset serves our apps now serves our agent. So of course, an agent that can write code and open repose needs boundaries because we are automating an end-to-end process here. So we are not just typing a prompt in the cloud, so we are actually giving it a task.\nThere is an orchestration of multiple agents, so this is where we actually need certain governance and boundaries. So can we move to the next slide? So when we actually talk about agents,\none of the classic examples that Raghu has presented. So there was a $47k loop runaway. So what that actually means is there was an agent running in the background which was trying to perform a task, but the...\nkailash chanda | 10:44\nI want...\nsasank@dataskate.ai | 10:45\nBilling went around like... $47k. So we want to strictly avoid that. So that's where we have built rate limits across three different tiers, one per agent. So we create individual...\nkailash chanda | 10:58\nCustom are...\nsasank@dataskate.ai | 10:58\nToken budgets for that...\nkailash chanda | 10:59\nSony rout.\nsasank@dataskate.ai | 10:59\nSpecific agent. And once the token limit is reached, so the agent stops working there. So two per user. So under Slack, since there are a lot of employees within the organization, you want to cap the users to use your agent to a specific limit.\nFor example, if any pre-sales architect is building certain SWS, so we cut them off with 10 SWS per day. Again, all these token budgets and SWS are configurable, so you can easily manage them within the policies.\nSo we'll show that in the demonstration further. So per backend as well. So third rate limiting. So we want to restrict the number of calls made to the backend system, whether it's through MCP or whether it's through an Azure protocol.\nSo we want to rate limit the system API calls as well. So these are the three tiers or three levels we have implemented rate limiting. So as a result of it... So we did a payload optimization as well.\nSo we have certain policies within Omni Gateway which will help us to...\nkailash chanda | 12:17\nAll right, folks, we will go ahead...\nsasank@dataskate.ai | 12:19\nReshape the...\nkailash chanda | 12:19\nAnd get...\nsasank@dataskate.ai | 12:19\nResponse from LLM so that...\nkailash chanda | 12:21\nThank you...\nsasank@dataskate.ai | 12:22\nInstead of taking...\nkailash chanda | 12:22\nFor taking the time.\nsasank@dataskate.ai | 12:23\nA 120kb response and feeding it to LLM so it will be reduced to 14kb. So which will show during our demonstration how it can be achieved. So it will use an 88% fewer tokens per tool cost. Okay, so this is what we want to achieve. We don't want a wrapper around LLM, so we want a governed system where it completes a task end by... Limiting the overall consumption of tokens and response.\nkailash chanda | 12:59\nIs not phone...\nsasank@dataskate.ai | 12:59\nSo any questions so far? Raghu, Kailash Kumar.\nraghuram@dataskate.ai | 13:06\nI like that sentence. So, I built a story around that. We don't want a wrapper. We want a governance system. Yeah, I like that line.\nsasank@dataskate.ai | 13:17\nOkay, sure, yeah. Can we move to the next slide? Kumar? So the third one that we want to track is, of course, the cost. But each agent run and it is easily available within an Omni Gateway with all these budgets, model budgets...\nkailash chanda | 13:37\nModel as...\nsasank@dataskate.ai | 13:37\nThat we would create. So what we tracked when we actually built these agents was cost per SWW like the entire s so w build is coming around like $0.42 per each SWW so this is only to draft, but again, if you add any changes.\nSo this would again put some...\nkailash chanda | 14:02\nYou think every...\nsasank@dataskate.ai | 14:03\nDollars on...\nkailash chanda | 14:03\nLike the...\nsasank@dataskate.ai | 14:03\nTop of...\nkailash chanda | 14:03\nSame content. I will...\nsasank@dataskate.ai | 14:04\nIt. So...\nkailash chanda | 14:04\nNow ask you any questions.\nsasank@dataskate.ai | 14:05\nTokens again, number of tokens saved. When you go to a cloud and give a template and ask it to create a sort of using the transcript. So you never know how many token cities consuming in the back end.\nSo this is where we have enforced payload optimization techniques to save the overall token consumption. Where it uses less than 70% of tokens than what you actually do...\nkailash chanda | 14:31\nAnd you focus on like...\nsasank@dataskate.ai | 14:32\nWithin the... Claude. Okay, so we have added the average token consumption of our agents currently, which you can see in this specific dashboard. So these are the testing results where we got the information as our developers architects, test these agents.\nSo one proxy for every model. So as I mentioned in the previous slide, we have two proxies, one for Gemini and one for Claude. So we are using it for a variety of purposes. So for example, for design, we are going with Gemini.\nSo where we have built an LLM proxy or a model proxy where we are governing the context-based routing. So we are where we are doing model routing within that specific proxy.\nkailash chanda | 15:28\nBut you have to come...\nsasank@dataskate.ai | 15:29\nSo every call is tagged. So for example, when a user sends some request through Slack. So it will be called by who it is, who is the requester, whether it's a user or agent or what is the identity of that specific person.\nOkay. So as I mentioned, budgets per agent. So we have created certain model vaults where we create certain budgets as the budget hits. So we get notified that a budget limit has been reached so that we can monitor why it's happening and take appropriate action.\nOkay, so right models for right jobs. So smaller models...\nkailash chanda | 16:16\nYou're talking like a leader.\nsasank@dataskate.ai | 16:17\nWe'll use for routing. When it comes to reasoning and building things, that's where we use... Stronger ones like Claude 3.5 or Claude Opus. So that's where we will route based upon the task. So any questions before I move to the next slide?\nkailash chanda | 16:39\nIn rotatructure...\nsasank@dataskate.ai | 16:42\nYeah, can you move, Kumar? Can you move to the next slide? Yeah. So we want to showcase an intent request on how it propagates through from Slack to different environments. So this is our high-level architecture on how each system is placed.\nSo Slack is our main front-facing interface for routing and orchestration. So we are using agent brokers, which based upon the request, will route it to different agents and subagents. For example, let's say a rate-of-pay agent.\nSo Mulesoft builds a Mulesoft migration for a specific project, and the timeline is around three months. So it will create an SWW based upon the transcript. So it not only takes files, you can input the drive. You can input the SharePoint links and SharePoint folders so that it understands the files, not just reads the transcript.\nSo the transcript is just not the source. So it will take the supporting documents that are shared by the customers so that it has the complete context in building the SWW so this not only recites this, not only comes down to only the documents that you give to the customer.\nSo it has a knowledge base that it has access to. So we might have built hundreds of SWS as of now.\nkailash chanda | 18:22\nIs... Don...\nsasank@dataskate.ai | 18:22\nIt takes context from those SWS, sees the realistic timelines, and then builds the draft for that specific customer. Okay. So at the same time, when we actually go for a design or build... So it will take the context.\nSo we have defined certain standards. So Applications should be designed in a specific way and all those standards... It takes the APA fragments like Raml and any standard fragments that we have built.\nFor example, if we have a custom connector that we have built and we want to leverage it, so it will take account of all the existing assets as well as the set rules that we have defined in a specific way to build a design document and it generates an output for us so it doesn't blindly generate the document.\nSo it asks you certain questions if things are not clear, so that there is always a feedback loop. And that feedback goes back to the agent and it gives us the required output at the end. Okay, so once the design is done...\nSo that's when we move to build and test. So in this phase, you don't need to provide any documents because the design is already finalized. For example, let's take an example of Akmeor.\nkailash chanda | 19:54\nIt helps...\nsasank@dataskate.ai | 19:55\nOkay...\nkailash chanda | 19:55\nMost of the shifts.\nsasank@dataskate.ai | 19:56\nSo now we have a design document built. First, we have a signed SOW. Next, we generated a design document, and it is approved by the customer as well as within the organization. So now all these approved documents are...\nkailash chanda | 20:14\nThe company will...\nsasank@dataskate.ai | 20:14\nFed into the knowledge. These approved documents you don't need to read separately. When you go for bad, all you have to ask...\nkailash chanda | 20:22\nBut how did...\nsasank@dataskate.ai | 20:23\nThe Slack interface is...\nkailash chanda | 20:24\nIt? To see other slides.\nsasank@dataskate.ai | 20:25\nBuild Mulesoft APIs for a specific project. Okay. So it goes to the Approved Designs. It finds that specific Approved design document and it builds the entire Mulesoft application and it checks into a GitHub repository so from which developers can clone. Input the values like input the credentials configurations... And do the build and testing process.\nkailash chanda | 20:54\nStart to drive our...\nsasank@dataskate.ai | 20:55\nOkay, so it not only generates the code, but it generates the Mulesoft where you can measure the code coverage of your entire application. So deploy agent. So we are still in the process of testing it.\nSo we are not... We are not using currently. We are not giving it away for the team to test, but we are still building and testing internally within our Center of Excellence team. But all three agents, as I mentioned, Pre Sales design built Test are already built and are being currently used by our development developers, architects and pre sales architects.\nkailash chanda | 21:38\nWhat? We are read. But...\nsasank@dataskate.ai | 21:39\nSo as I...\nkailash chanda | 21:40\nEvery mo.\nsasank@dataskate.ai | 21:41\nMentioned, all these...\nkailash chanda | 21:42\nTell them that they have to...\nsasank@dataskate.ai | 21:44\nAgents doesn't...\nkailash chanda | 21:45\nIntroduce you to...\nsasank@dataskate.ai | 21:45\nWork on their own, so they have a governance layer through Omni gateway where as it where as we discussed in previous slide, we have certain policies enforced like rate limits, payload shaping, PA mask, token budgets and identity and schema.\nOkay, so any questions so far before we move to the actual demonstration?\nraghuram@dataskate.ai | 22:14\nI think I'm good when I'm making some notes, so I will discuss at the end of the call, so I yeah.\nsasank@dataskate.ai | 22:22\nSo without any... Yeah, Kailash, do you have any questions? Okay. So without any delay, let me switch my screen and show you a demo live. So actually we will do a recorded demo. The reason being these agents will take ten minutes of time for building that design for building the Mulesoft code, and we don't want to put ten minutes of time in the it's fast on go.\nraghuram@dataskate.ai | 23:02\nLet's do live on the brother agent. Let's show the recording. What do you say, Kailash?\nkailash chanda | 23:09\nAt one session, I want to do one demo live so that they know that we are doing it live. That is the whole intention.\nsasank@dataskate.ai | 23:17\nOkay, sure. So let me show you how this actually works. Okay.\nYeah, so we have built a Slack bot named Kailash. I'm unable to run it right now. The reason being there are some permissions which were missed while we were checking, but we actually tested this multiple times previously, so I can show you from that example on how it actually looks like.\nOkay, so what we have to do is... So you just have to ask the agent in a natural language, for example, \"Draft this SWW\" and you can provide a drive link for it. So this drive link can consist of only the transcript, or it can have supporting documents like any customer-related documents, any system-related information.\nSo all these things can be recorded under the specific drive dock. So once you publish it... So the agent will take one to two minutes. So in these one to two minutes of time... It does multiple activities.\nI don't want to input the entire document or PDF to LLM. So what it does is it will extract the text out of it and it will feed it to LLM so that the tokens are in check. So along with that... It will call the omni. It will call the model proxy.\nSo once the text is extracted, so it sends the text to the model proxy. So under the model proxy, we have defined a prompt template. So this prompt template does multiple tasks. 1, it defines the set of standards that we have defined that we are using within Dataskate as an organization to build an SWW, so this prompt template is fed along with the text extracted from the documents to the model proxy.\nSo once we do that, we will get a review or something similar to this. So where it gives us the client name, who is requesting it, and what the project type is. So all this information... So you'll have a summary of what the client is, and if you have any open questions that the model doesn't understand,\nyou'll have all this information so you can preview the draft. So if you can click here, it gives you the draft of that specific customer. So what is the engagement summary? So how many flows are there? What is the pricing?\nSo all this information is available in the preview. So whoever is the pre-sales architect, it can be... He can either choose to approve or request changes. So if you hit \"Request Changes,\" it will open up a dialog box where you can input any content that you want it to be redone.\nSo it will take that feedback and again generate a document where you can again open the draft and review the changes. So you can either choose to approve or reject it. So if you approve, it generates the Word document and shares it in the same Slack thread.\nSo this is what the SWW agent does. So unfortunately, there is some permission issue where I wasn't able to add it. So there is a token which got expired...\nkailash chanda | 27:21\nOkay...\nsasank@dataskate.ai | 27:21\nI couldn't show it, but we actually tested by doing all these things. So it'll be fixed by Monday. Coolers... So the second...\nkailash chanda | 27:33\nFor this one, just a small feedback I want to say is, tie it up to our GTM where we proposed that we are delivering SW within four hours, right?\nsasank@dataskate.ai | 27:46\nYeah.\nkailash chanda | 27:47\nSo you have to create a talk track to say that he's the guy who is responsible behind the four-hour strategy of SWW on how we are delivering. And that is where how Dataskate is getting aigantic like so just...\nraghuram@dataskate.ai | 28:01\nOkay.\nsasank@dataskate.ai | 28:03\nUnderstood. Yeah, got it. So, when it comes to design agent, it is again, not a single step process. So it is a multi-step process where there is a lot of reasoning and where you have to provide a lot of context to it.\nSo when any discovery session is done, suppose you are sitting with customers and there are certain recordings that you have done. So all you have to do is just call the design agent here and ask it to draft a design.\nSo once you do that, it starts building. So in the backend, it will take one to two minutes of time. And it provides us with certain set of questions. Okay, so these questions are very specific to the documents that you have sent.\nFor example, it asks for a licensing model. So this is very critical when we are actually dealing with small and medium businesses. So the agents sometimes when you actually go to Claude and try to build applications...\nIt might give you a working code, but it might not still be the right design for your specific Mulesoft subscription. So this is where it asks whether you're going with the integration starter or integration advanced or an automation charter or any pack.\nSo based upon the pack that you have, it will design the applications so that it always keeps in mind the flows, number of flows, and the overall consumption and how long it will take for you to run out of the subscription based upon the number of messages.\nOkay, so it will ask you the volume and... Like how many acknowledgements are sent per day for this specific example. So these questions are coming only for this specific customer. Okay, so if we input a different transcript or if we input a different discovery recording, it would ask a completely different question.\nOkay, so here we will be provided with an option to either answer these questions or choose a default. So I just clicked on \"Choose the default\" so it doesn't only ask questions, it will suggest what it needs to do.\nOkay, so it will say \"Under 50 acknowledgments a day. Same business data around.\" So it will provide you with the default setting that it is using to draft a specific design. So once we approve it...\nSo that's when you see that a design is drafted and it provides you with a Google Drive link under the same drive that you have shared it. Okay, so this is a complete design build where it takes care of all the standard MuleSoft development practices. Design and Development Practices where it covers the functional design where it defines what the sub-processes are, what the general assumptions are, and what dependencies\nthere are. So it does the data mappings. So again, these data mappings are subject to correction. There might be some fields that were not discussed during the discovery session. So this is a starting document where they can update these data mappings.\nSo when it comes to technical design, it gives us all the required... What is the start point? So what is the trigger? Whether it's a schedule-based or an event-based... So how the flows should be created.\nIt gives us the sequence diagram on the execution of the entire process. So it does the error handling. So it creates the error handling flow as well, like where you have to implement error handling.\nSo all these things are covered in the design document. So you have two options here. One, either you can approve it or you can provide feedback for it. So here since I have approved it... So this document goes to the approved list.\nOkay, approved list. Why do we want to move it to the approved list? So that it can be fed to the bill agent. Okay, so once it is approved... So this is what you get ready for. Development agent runs build Titan Lift systems to generate the code.\nSo all I have to do is once the design is approved, run this specific command in any of the channels. Okay, so again, it needs to be verified by the identity. So the user should be authorized to run these specific commands so that we are enforcing under... So once you run it, it performs a certain series of tasks.\nSo it goes and checks what is the approved design when it was approved and it takes what is the application name as well. So it will take around 10 to 15 minutes to build your entire application.\nSo once it is built, you'll receive a message within the same Slack thread along with the repo link. So it follows all the standard branching strategies like you have master, develop, feature, and release.\nSo any code that is generated by the agent will reside under the feature branch. So it has all the standards where you have flows built in as per the standard naming convention, as well as you have immunities built for that specific flow.\nSo you have configuration properties created and all the data waves externalized for those specific flows. So these are as per the design principles that we are following within the organization.\nSo this is the starter code where at least 40% to 50% of the code is generated. All developers have to do is pull this specific application code, configure the credentials, and test it in their local system.\nWe have a testing agent where once the unit testing is completed, where you make sure that data is flowing from point A to point B so that's when we use a testing agent where we feed certain test scenarios.\nIt will test the APA under those circumstances. So any questions so far? Kailash, Raghu, or Kumar?\nraghuram@dataskate.ai | 35:18\nGo ahead. As I told her, I'm making notes. I will talk in then. Okay...\nkailash chanda | 35:23\nSo. Okay, so one quick question again is will we demonstrate both the agents, in. I mean in recording or real time if...\nraghuram@dataskate.ai | 35:33\nYeah.\nkailash chanda | 35:33\nIf yes, then I think probably we should show before and after how a GenAI journey is helping Dataskate and how in the longer run, it is helping Salesforce and the LinkedIn, right? So that way, obviously when the account executive listens to this, they will not worry about why or how Dataskate is working on the agent's journey.\nBut two things are how it is going to... How MF is helping Dataskate and how MF is helping the whole customer journey inside Dataskate.\nsasank@dataskate.ai | 36:11\nYeah, that's good. We'll create separate videos for these colors, design as well as other design as well as bid. So it will be very Krisp like three minutes or that video which they can share with different customers as well.\nkailash chanda | 36:35\nSo, Suan, we will be showing in the demos. We will be showing the wallet credit consumption and everything.\nsasank@dataskate.ai | 36:41\nYeah.\nkailash chanda | 36:41\nOr. Okay, perfect.\nsasank@dataskate.ai | 36:48\nSo, as you can see here, color. So for the last one, there were no great tokens that were consumed. So it tracks at the level which specific API is consuming the number of tokens and how many requests are done for that specific agent.\nWe can enforce policies on top of model proxy. So currently all these Loom proxies are governed through client policy enforcement. So it's not like we are putting or we are saving the ChatGPT API key within our applications.\nSo that is not the case at all. So the API key resides at the proxy level itself, so which is completely encapsulated once we input it. So all we are doing here is enforcing ChatGPT enforcement and we will be calling this proxy in real time whenever we actually require any LLM call.\nSo we have model-based routing. So where the routing is based upon the user messages, so it will route the request to the specific LLM model. So we have defined five models here, starting with Claude at five.\nYeah, I think we added only one, but we can add different models here as well.\nkailash chanda | 38:22\nWould you be able to show as...? I know if the number of... Or whatever the consumption is. Can we show that the model is being routed, or is that the big challenge?\nsasank@dataskate.ai | 38:34\nYeah, it's not a challenge. So all I have to do is create a different model here...\nkailash chanda | 38:41\nOkay...\nsasank@dataskate.ai | 38:41\nI can input a chat message, and it will go to a smaller LLM model. So there are some topics which we have to create. So I just have to create and show it colors. Yeah, we'll show that color because we...\nkailash chanda | 38:56\nThat that'll be good.\nsasank@dataskate.ai | 38:58\nYeah, we'll definitely show that color because we are... Since yesterday, I think we are working on these agents only.\nkailash chanda | 39:06\nJust a snow ship...\nsasank@dataskate.ai | 39:08\nWe will definitely work on these things because these are critical.\nkailash chanda | 39:13\nSo, okay, perfect. Okay. Again, probably this is too soon. But I'm just asking, can we do a demo on Monday or...\nraghuram@dataskate.ai | 39:25\nThes start trying to set up tomorrow at some...\nkailash chanda | 39:28\nTomorrow it... Okay.\nraghuram@dataskate.ai | 39:30\nI will ask for a one-hour meeting tomorrow, or else we will use our meeting with that one hour, and we will push our meeting to Sunday because if a bra gives some feedback right, I need a techan. Kumar was...\nSo that we will be ready on Monday.\nkailash chanda | 39:55\nEven the presentation I want to take to get the feedback. So that way, wherever we can make changes, we'll have time.\nsasank@dataskate.ai | 40:06\nWe are still working on a few things, colors like making it better as Raghu mentioned.\nkailash chanda | 40:13\nSo overall, this looks exciting and good progress for me to see what we made a reality within this couple of weeks. I'm really good. I'm excited to get this in front of multiple people and see how we can make this.\nBut... Thanks, you guys. Again, thanks for all the effort.\nraghuram@dataskate.ai | 40:31\nSo my feedback... Beta. I think the transcription is on... Right? For you to report that so storytelling... So I want you to start a story where we say that okay, see, our thought process should be especially for a Mule's customer not a Mule's partner.\nBut to get to that SE, we must, for example, someone from a... Someone from a customer point of view, how they will talk when they will say that how Mule's helped them to realize their organization goals.\nSo your thought process should be... You should talk from a Mule's customer perspective. 70% of it should be a Mule's customer perspective. 30% should be a Mule's partner perspective.\nSo the story how you want to start is like a Dataskate wants to become an agent enterprise. Use some data like a Q2, 2027, which is like a June. Then just showcase one slide where we are like how we do the stuff manually, whether it is development, whether it is sales or whether it is marketing or whether it is HR and where we want to be one slide we want to be by June 2027 future state.\nOkay? Then one slide... Can you go to one slide where we were showing policies? Yeah, it might be random. Made the notes randomly, so it might not be according to what you presented. Yeah, that slide only what you showed before.\nsasank@dataskate.ai | 42:25\nYeah, this one.\nraghuram@dataskate.ai | 42:30\nOkay, so here... So you're mentioning, right? We have a policies identity plus scheme to list pi masking and all right. Add some business value to these policies because you are mentioning only technically asking token budgets rate limits. Add some business value on the business side of this technical details like for example, say tool allow this. We didn't want it to like allow certain group of people to access some kind of a tools which might be like a confidential.\nSo that's the reason we are using the two level list identity plus schema. Some business decision why you are adding that tailor shape in some businesses. So add some always talk from a business point of view.\nsasank@dataskate.ai | 43:25\nOkay, yeah, I'll create a separate slide for this.\nraghuram@dataskate.ai | 43:29\nRaghu, while telling that when you are explaining this slide, you can talk about that, not add even if you had... I'm fine with it.\nsasank@dataskate.ai | 43:40\nAnd the one.\nraghuram@dataskate.ai | 43:42\nAgent names. Can you go to the previous slide where you were showing agent names like a SW agent? Yeah, we'll go back to the slide, this one, three years. Yeah, the agents like SW drafting, design, and development. Maybe from a business perspective,\nit looks like a pure technical design developed is deployed. So those agents like a kind of providing some business value.\nkailash chanda | 44:14\nHaving the end...\nraghuram@dataskate.ai | 44:15\nI will leave it to you, but like a definitely change. The design developed test replies like a pure SDNC terms.\nsasank@dataskate.ai | 44:29\nI think Salesforce named the agent force.\nraghuram@dataskate.ai | 44:34\nI don't want like a Alexas or like as and all like you can it can sound something like a develop only but not like a raw developer.\nsasank@dataskate.ai | 44:47\nYeah, I understood. AV did like a coda or something like that. They're coding agents. So you want something like that.\nraghuram@dataskate.ai | 44:54\nWhen you're showing this slide... I don't know whether you will show it in this slide or the difference... There should be a marketing agent, sales agents, and XR agents in the roadmap.\nsasank@dataskate.ai | 45:05\nYeah. Last, I'll show because I think we are focusing on these two rates right now because I'm saying two agentic workloads we are covering here, one is the resales, the other one is the delivery. So in last what I'll do is I'll add another slide that how we are working across the organization apart from...\nraghuram@dataskate.ai | 45:25\nThe can change some names. Okay, it again looks like Raghu so that is one. Feedback... Yeah, the same thing. I think I brought up that point when you're demoting SW Agent, which will be a live demo.\nI think the other one will be a recorded demo. First tell the story. So we work in the assembly sector where turnaround time for SW and scoping matters a lot. This is where we see there is an issue. This is where we see we can provide value to the account executors to close more teams.\nSo currently we are taking one day or say four hours or say eight hours, whatever. We can talk to the CL with this agent. We want to cut down the time by 70% or 60% or we want to deliver SW in one hour.\nThe other block is, for example, our sales guy talks to a and he has to draft a few things, which are constraints right now is the bandwidth of the SW agent availability of them.\nSo we are cutting short those things by creating a company brain where we have all the knowledge of our pre-sales architects and SMEs built into this company, right?\nkailash chanda | 46:53\nIs a NETWORKFLOW.\nraghuram@dataskate.ai | 46:55\nWhich like an agent uses to draft AW where we are not even compromising on the quality because the whole pre-sales architect brain is what we drafted through. You can mention everything Raghu's knowledge, graphs, etc., which is our backend. You can just write a diagram.\nI know we will implement that later, but you can say this is how our company brain works because we have again showcased. We are cutting shut down the time, but we are not compromising on the quality. We are compromising the quality. The quality is by creating a parallel brain of our SMEs through the company brain architects or whatever we have and then go to the data.\nsasank@dataskate.ai | 47:35\nUnderstood? Yeah, got it. So I'll explain until this point, and I'll give a demo after this slide, and then at the end I'll show the roadmap. Is that fine? Okay.\nraghuram@dataskate.ai | 47:50\nKor or someone... I think I will send the draft notes for... But I think anyway it will be in the transcription. Yeah. Next is the same with Agent broker in the diagram you were showing the agent broker right? Agent broker. The router.\nRight. Instead of D router, use some business name, like a business orchestrator or some name we..."
+  }
+}
