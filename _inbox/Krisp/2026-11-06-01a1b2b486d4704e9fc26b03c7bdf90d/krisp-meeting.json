@@ -1,0 +1,78 @@
+{
+  "id": "01a1b2b486d4704e9fc26b03c7bdf90d",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1b22212e17061bf96c73a91e6ba96",
+      "title": "Discussion with Lemniscate Growth on GTM/ Growth Marketing/ Lead Generation and RevOps - Raghuram Potluri and Macharayya G",
+      "duration": 3052,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "256aq4h2v52enq1b24pjfsrp3o",
+      "participants": [
+        {
+          "email": "mac@lemniscategrowth.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "madhur@lemniscategrowth.com",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "kailash@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "raghuram@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": "G",
+          "id": "bb4b47a21cb75579a8b489d5b16c1f44",
+          "first_name": "Macharayya",
+          "email": "543863ec1a5c469782a3b6476117b7ba@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": "Potluri",
+          "id": "fb6065ecde56587aaad08ca98c08381b",
+          "first_name": "Raghuram",
+          "email": "raghuram@dataskate.ai"
+        }
+      ],
+      "start_date": "2026-11-06T20:20:26.540Z",
+      "end_date": "2026-11-06T21:11:18.540Z",
+      "url": "https://app.krisp.ai/m/01a1b22212e17061bf96c73a91e6ba96?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1b2858aef736db3b605a44537d322",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 3045.4440000000004,
+      "size": 12181824,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-13T21:12:17.874Z"
+    },
+    "raw_meeting": "**Discussion with Lemniscate Growth on GTM/ Growth Marketing/ Lead Generation and RevOps - Raghuram Potluri and Macharayya G**\n🕞 Started at 08:20 PM on 06 Nov, lasted 50m"
+  }
+}
