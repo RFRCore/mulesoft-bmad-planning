@@ -1,0 +1,735 @@
+{
+  "id": "01a1b21ac7ef713eaac469e62f505be4",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1b1db27c97597981cc98ab49a0405",
+      "title": "Touchbase with Vara",
+      "duration": 1383,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "1q5hkhpnrp6jbb44rlnmunsqmp_20261106T173000Z",
+      "participants": [
+        {
+          "id": "11067db77b9851dbaaa8c443d4ef6ffe",
+          "first_name": "vimandi",
+          "email": "vimandi@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3,
+          "last_name": null,
+          "id": "1e2b6063e1fd57f0b551d8a7e75d9d96",
+          "first_name": "Sanjay",
+          "email": "d6e12df48ce745b188c5dfd4be3ac7be@noemail.krisp.ai"
+        },
+        {
+          "index": 4,
+          "last_name": null,
+          "id": "ca35a814b43356f1b45b709c8449144b",
+          "first_name": "Addie",
+          "email": "b3e04c96dcb14473a20177c56eb445c1@noemail.krisp.ai"
+        },
+        {
+          "index": 5,
+          "last_name": null,
+          "id": "4d2442cb02ce5f80b408f11f288bff55",
+          "first_name": "Harry",
+          "email": "12f2bc592854410db57604b2acf31f0f@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T18:00:35.757Z",
+      "end_date": "2026-11-06T18:23:38.757Z",
+      "url": "https://app.krisp.ai/m/01a1b1db27c97597981cc98ab49a0405?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Very a team called understand."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "All sucks are broken."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "From the SA. Yeah, but and the a call zng like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, the... Next day wonder what your clothes I'll let him go back. What is it?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Let and go back and mirror matter... He doesn't... I think, he can do it over the phone if he can..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Be okay. I think you should be fine. You should be fine. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sji the cated can I..."
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Join that and come back find it?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "speakerIndex": 2,
+        "text": "Yeah, sure. In a, detail s color. Are they..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "I gave Kailash a hot lead today."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Addie",
+        "speakerIndex": 4,
+        "text": "Let me know. I mean, yeah, I'm going to create the opportunity and all that."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "But Tom... Dr. Tom... Warfford."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thomas. So Thomas..."
+      },
+      {
+        "speaker": "Addie",
+        "speakerIndex": 4,
+        "text": "Warfford. Okay, so is that a Mulesoft opportunity what's...?"
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "In fact you don't do okay, that's the same INF I am the I'm the INF no, I am the info traffic controller. So the traffic came to me. And then I was. I had sent it to Milllo. Milllo is not doing their thing that they needed to do so I re guided the traffic to KA okay, [Laughter]..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "[Laughter] It's good. Good for us."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Readout... Actually, I'm going to stop the transcript. It's your job. I'll stop it. Okay, thank you. Another company reached out to me, which is a really good Salesforce implementation partner. They're like, \"Can we subcontract Dataskate for informatic work?\"\nAnd I'm like..."
+      },
+      {
+        "speaker": "Addie",
+        "speakerIndex": 4,
+        "text": "What's the name of the company?"
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "I'm not going to share with you."
+      },
+      {
+        "speaker": "Addie",
+        "speakerIndex": 4,
+        "text": "Because recently a guy actually approached me."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "He is. Was this highball?"
+      },
+      {
+        "speaker": "Addie",
+        "speakerIndex": 4,
+        "text": "No, he's Indian, he's so he is because he has good relations in core, so he's like, you know what I'm doing good with core, but like."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Whenever I yeah, it reminded me of that conversation. Dash, have you thought of acquiring Vice Wolves? Have a..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What is that?"
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Conversation with Wise Wolves?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Vice Wolf?"
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "They have a lot of good core..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "He has relationships and they're 20 people, New York based, very smart, very agile. So before in my core role, Michael Lukovich, the CEO of Wise Wolves, was my best friend. I ran 80% of my deal cycles with him."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, but let me tell you..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Move fast, break things, understand what the hell is going on, architecture, discussion, straight talk, all of that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Harry, still not joined with the hell. Sorry, one minute on a call. Okay, but I think if Wise Wolves and Dataskate can combine... I think you guys will be a killer combo because he understands Pharma Medtech HLS really well."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay, that's nice to know. Let me talk to them and see what it is."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "He's been in the cells for ecosystem for 15-20 years. Yeah, and he's a fun, spicy guy. Like hot opinions on cells for last week. I think he got his hand slapped by posting something about a Claude force on..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "LinkedIn sales. Said, \"What are you doing?\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I know these few topics are very sensitive to react to. So..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "These guys, they have very good marketing. They know what the hell they're doing on the HLS side."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, rep it after the said."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Yeah, and there are only 20 people in the company. He's..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, that's what I..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Yeah, and he's just become an Anthropic partner now, so he's really smart. I liked him on my deals because you know how I operate now, I get into AI, get into a deal, and I'm like \"Unf now.\" I put shit on the Shri and adie on the hook at some point. They can implement it in two weeks. Check it in three weeks. We love it live..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's nice. That's nice."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "So this guy can... I still remember it was 7:00 pm. Do you understand the platform, right? It was 6 pm on July 30th. One day before the end of the quarter, I got an email back from... I was running a deal of 20 Service Loom licenses and it was 20 Service Claude licenses and 500 Slack licenses."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "The Slack was the front end. Service Claude was the back end of this whole thing."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it. Okay..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "No one was going to log into service cloud. That was the game that there was the vision that we had presented to the company. They were a Slack-first company. We said, \"No one will ever have to log into Slack. We will make sure every service cloud...\" We will make sure everything is on Slack.\nThen we were using a third party to mirror this. 20 people on this side and five people... 500 people on this side. There are 500 Slack users, but only 20 service cloud licenses. How do you map this? So we're doing all of this architecture between... Harry, just one minute I was finishing a story.\nSo we were doing that, and they... The customer messaged at 6 pm saying, \"I'm not signing unless you give me 40 licenses for the same cost.\" We got that message at 6 pm. My manager had a breakdown over me saying, \"You have to close it, give them more licenses if you need.\"\nI'm like, \"I'm not fucking doing this.\" Because if I do licenses in Q2, they will keep me hostage for the rest of the year."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes, that's true."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "So what we did was Michael Lukovich and I worked the night. We worked till 11 pm. At 06 am we had checked. Platform licenses can do the same functionality that we were trying to do, so we sold them 500 platform licenses."
+      },
+      {
+        "speaker": "Addie",
+        "speakerIndex": 4,
+        "text": "I think it's the same we were discussing that day as well. You introduced me to this guy."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Yeah, $4 a license."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "$4. Okay, that's a..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "So that's I was just telling him. Yeah, so that guy is smart. As what? At 07:00 pm 07:00 am. We had tested the scenario already that platform licenses work with Slack a Elevate."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's nice. Okay."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "No one in the company knew. We were asking at Slack, \"Can Slack work with platform licenses?\" No one knew. So we just recreated the whole scenario, and we made it work in the night. 07:00 am we tested it out, 10 am we signed that deal, so it's good."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Nice. That's..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Harry, welcome. You are late. We don't expect... Harry, I'm never late."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "I'm sorry I had to have an urgent call."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Be very shameful, I know."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "Thank you so much for making the time. Adie, thank you for setting this up."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "I entertained them in the meantime."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "Sanjay. Sanjay. Is. The is the class clown here, so he's definitely good to entertaining folks. I'll give them that one."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We got to pay him the entertainment fees, right?"
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "Okay."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Dane Street. Okay, I'm going to set the stage a little. Kailash, yes, Harry is one of the hardest working reps I know on the team here. The guy is really good. He's built a great relationship at Dane. He has three really good accounts. One of them is Dane Street. I sent you some information on Dane Street last week. They have... I don't know. Their main business works through integrations because they have to integrate with the pair to get the claims information in, then send that information over to providers who say, \"Should this company pay for this claim or not?\" Then that information comes back and then that information goes back to the same API to the payer saying, \"Should you pay or not pay for this?\"\nIt's independent medical evaluations. So that's their business there. They got backed by a private equity in April, and they're expanding their lines of business. We had... We talked. We presented the concept of an IPASS to the director of IT in May, and he was like, \"This makes so much sense for us.\" Then we presented it to... They have one guy, they have one. Jugadu is the word I use. Hey, Jugadu is the person, the hacker of the company, that everyone goes to fix it.\nI think they have..."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "The English word."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "For that. Yeah, the hacker, whatever. So they have a Jugadu in the company, his name is Ian. Ian has been building APIs using Claude endpoints and all of that. He figures out endpoints from Claude. You understand Kailash... Much more than I do. But he programs endpoints, and he's made that process much faster than normal, but he still can't manage APIs, monitor them, and all of that, which is important in this business."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "So when I showed it to Ian, he was like, \"This makes so much sense.\" Even the Jugadu thinks we have a better solution than what he's doing, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's the best selling point. Talking..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Where it got blocked was the private equity was hiring a CO for this company. They wanted to put their own CTO in there. So till the CTO was put in, everything was blocked. The CTO has come in two weeks ago. This is the next conversation we are going to have with the CTO on the 18th."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "What we want is for you guys to go and do a data quality check for them so you... Can start building your own reputation here..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "So you show them something that they learn from that we can say these guys are amazingly fucking... What they do, and this is why we should do this with Dataskate. Hey, did I miss anything?"
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "No, I think you captured it all, man. You got it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So right now you guys are planning to sell IMC for Din Street..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Mule Mullah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "NLA. Okay, that's nice. Then you'll have even IDMC for data quality."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Data quality. I don't know if data quality is the issue, but if even if actually this is a very good conversation that you brought up, we might be able to do this just with IDMC for data quality and integration.\nOkay? Yeah, I missed this one, but okay, you have a good point, but I was thinking of just switching just the data quality to them because they were... Remember all the complaints? Can you explain all the complaints they've had with data?"
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "Yeah, so they have... So they have... Based on what Sanjay was saying piggybacking off of that, they have a system called Access DS that's their homegrown that's the brain of operations essentially. They call that a quote unquote \"in house CRM\" where this conversation started from. Was that a lot of the information on Access DS but your referrals and all the submissions from their clients, right? That was not funneling properly to Salesforce CRM their sales cloud, right?\nThat's where their salespeople are primarily logging their activities and tracking the referrals. So what they have right now is a custom API between the two. Obviously, I don't know if you know what's more... What makes sense to them right now in terms of fixing up that custom...\nThat's the whole point of the IPASS, right? That they don't have to continuously monitor and maintain it. It's broken. So that's causing them to underutilize sales cloud to the fullest potential, right? There's one guy in their named John, he piecemeal reports five reports and spreadsheets from here. A report and spreadsheet from here mixes things up... Lookups and this and that and...\nSo there are a lot of manual reporting gaps caused by this as well, apart from just integration, right? So that's where Sanjay, when we went on site to the conversation, we started there and expanded into their greater integration use case, right?\nSo I don't know if that sheds a little bit more light. I don't know if data quality is obviously an impact, given the flow of data is not optimal, but not too sure what's defined as data quality for you guys when you guys are doing checkups."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think when we check Harry on the data quality side, we see how the data is being maintained. Let's assume sales cloud. Then we will verify on six points of the data quality parameters to check on how the uniqueness of data is being maintained, how the timestamp of data is being maintained, and how the freshness of data is being maintained.\nSo all of these data quality checks we perform and showcase them that, \"Hey, this is how the data currently in your system is. Is it good or bad?\" If it's bad, then yes. Informatic IMC is the one which can clean up and get you fresh data. Let it be, I would say the access DS or sales cloud, whichever is their system that they have as a system of engagement or system of record.\nThat's where we want to see how the data is being stored in a quality manner or whether we have an opportunity to cleanse and have the data ready for them. So apart from integration, I think this is one play where we can put forward to say that, \"Hey, we'll do a check to make sure how the data is, and depending on whether they can give it to us.\"\nIf it's Salesforce, we could connect, they could do a partial copy. If they have our sandbox, then we'll connect to the sandbox, verify on the quality check, and make sure if they are okay. If they are okay with production, we'll do it with production or we take an export and then do a quality check right in front of them.\nIf they can export it, give it to us on call. The team will take it on a call. Run it through. Showcase them the points and show them how the data is. Is it good, bad, or ugly? Right? Then if it's good, yeah, everybody's happy. We go ahead and sell them the mule.\nIf the data quality is bad, then we propose the data quality to the Kenzing and say that in the future this is going to make a lot better because you're integrating it. Now when you integrate the quality data makes across the river to all the streams, which keeps the data bad.\nIf one if the source is bad, then all the streams across are bad. We want to make sure that once you integrate the data quality is maintained and synced across all the systems. Yes, so..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Yeah. I imagine, given that the CDS came in, he's probably going to think about AI and that stuff as well. So I think AI data readiness will become a good conversation. Hey, like I said, I have complete trust in Kailash's team on getting an awesome job on this one. I'd say we... I think this is your decision. I think we should offer this to Shah for free. Shah is the director of ID. This is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "What we can get? Do it for free and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The handche..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Get his feedback."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We will do it for free."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can do that. We can pick up their most important system of record. Export the data. We could do it live and showcase them. We don't need to get data and do it later on. We'll do it live."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Given that they work with healthcare like insurance, they probably have a shed ton of data passing through."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "Yeah, for sure, I think I'm totally game with it. Unfortunately, I trust Sanjay a little more than I probably should, but I think any value added... These guys, especially with the PayPal acquisition and things that they want to do in the long term, is a solid segue.\nOne thing... Sanjay, one thing I'll ask of you is because you're coming to that kind of roadmap and executive review with them with the CTO when it's your time to read back... \"Hey, these are some of the things we found in the gaps right within your operations, right?\"\nYou want to read back what we found out previously. I want you to integrate this data quality and plug in Dataskate there for them and say, \"Hey, look, let's start from the bottom, right? Then work our way up into other things, right?\""
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "The only thing I would say to that is, Harry, if we wait for two weeks for them to have that meeting... I'm seeing if in these two weeks we might be able to get the data quality check and bring the findings to CTO like if we bring the findings to CEO, we are in a much more credible position than offering the data quality on November 18th because we only have two months of actual selling left. November 18th, we have our next meeting coming after Thanksgiving."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "Right? Yeah, I know that's a good point. So if you want to... Spanji, if you want to just draft up a message I can send over... I'll send it over to Shah and Paul, the CTO, and I'll let him know... \"Hey, previous to our meeting...\nI know we have this set up to discuss XY and Z. But before that, we did want to run this.\""
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "I would just say we don't even need to refer to the meeting here. I would just say, \"Hey, Shah just came across this awesome offer from one of the trusted partners. They're doing free data quality checks for our companies. Given you are one of our biggest or favorite accounts, I want to use my one card that I have for this for you.\nMake them feel special. It's like, \"Okay, guys, I am actually using my card for just you.\" Shah, I love you. This is another bank-like deposit that I'm making in your bank."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "I could take that approach too. Yeah. I'll. I'll just. I'll just lean on you in terms of kind of summarizing that, right?"
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "And I'm going to lead on Addie that this note is coming to add it to me. I will edit it for you. This will come from me to you. Yeah."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "If you can pass this note over, that'd be great for both of us."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Yeah, I will edit whatever comes from so it's yeah, it's ready for you, Harry."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "Yeah, I'm aligned."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "I am super excited. Like I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Said to you, this guy sitting here, I... If I was doing integrations of my systems, if I was the CEO of Dataskate, and if I had to hire someone to get my integrations in place, this is the guy I would hire.\nYeah, I like that. This is the confidence we work with. If someone can do that, then that's where I think we have the confidence to go into a call and say, \"Shah, if this was my company, if I had your job, this is the guy I'm hiring, and this is why.\" Thank you.\nSo of that, yeah, literally ask Ken on one of the calls of the Dash Health decision call. I pulled up Kailash's LinkedIn profile, and I said, \"This guy was doing middleware in 2009. Yeah, and the person is like, \"All right, I'm sold. He can do it.\""
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "Okay. That gives me. That gives me good confidence. So appreciate that."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "I haven't met anyone else who understands infa and Mulesoft so well yet, so I think that's one of the biggest things we have here for the in data foundation side."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "That means a lot because I know Sanjay is super wary about who he..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "I so I'm a fucking pain in the he. It..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not... [Laughter]..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Took him six months to get to me and tried... I tried."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "It took six months..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "It's I know it's the ecosystem itself and Spanji being the kind of the leader runner on how would I call them the sprinter, right? Getting hold of him is kind of a challenge. At last we got him. And we were wrong. Yes. [Laughter]..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "From different people. Then I was like, \"Okay, I need to talk to these guys.\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's really good. I want to showcase what we can do. I know we have something, but I want to prove to every guy that I work with on what we are. Again, as Sanjay said, Harry, we are very few among the very few to showcase both the skill sets of Miro and Formatica even before we started, even before sales was acquired from Atic.\nSo that's where our experience comes in with the data even before Informatica joined the family. So that's where I want to utilize the whole thing and get more into it. So..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Have sold you already here good shit. Alright..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Now there, you..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Anything else? So, Adi, send a message to me, I send..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "A message to Harry, that's the next steps. Hey, send that message over to Shah, and we get the ball rolling."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Thank..."
+      },
+      {
+        "speaker": "Sanjay",
+        "speakerIndex": 3,
+        "text": "Perfect. Thanks every."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You, thanks a lot."
+      },
+      {
+        "speaker": "Harry",
+        "speakerIndex": 5,
+        "text": "Appreciate you."
+      },
+      {
+        "speaker": "Addie",
+        "speakerIndex": 4,
+        "text": "Thank you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "See you guys..."
+      },
+      {
+        "speaker": "Addie",
+        "speakerIndex": 4,
+        "text": "Guys. Bye."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Have a Friday."
+      }
+    ],
+    "raw_meeting": "**Touchbase with Vara**\n🕞 Started at 06:00 PM on 06 Nov, lasted 23m",
+    "raw_content": "Speaker 2 | 00:46\nVery a team called understand.\nkailash chanda | 00:47\nAll sucks are broken.\nSpeaker 2 | 00:50\nFrom the SA. Yeah, but and the a call zng like...\nkailash chanda | 00:56\nOkay, the... Next day wonder what your clothes I'll let him go back. What is it?\nSpeaker 2 | 01:04\nLet and go back and mirror matter... He doesn't... I think, he can do it over the phone if he can...\nkailash chanda | 01:28\nExactly...\nSpeaker 2 | 01:28\nBe okay. I think you should be fine. You should be fine. So...\nkailash chanda | 01:35\nSji the cated can I...\nSpeaker 2 | 01:40\nOkay.\nkailash chanda | 01:41\nJoin that and come back find it?\nSpeaker 2 | 01:43\nYeah, sure. In a, detail s color. Are they...\nSanjay | 01:58\nI gave Kailash a hot lead today.\nkailash chanda | 02:03\nYes...\nAddie | 02:03\nLet me know. I mean, yeah, I'm going to create the opportunity and all that.\nSanjay | 02:07\nBut Tom... Dr. Tom... Warfford.\nkailash chanda | 02:09\nThomas. So Thomas...\nAddie | 02:11\nWarfford. Okay, so is that a Mulesoft opportunity what's...?\nSanjay | 02:16\nIn fact you don't do okay, that's the same INF I am the I'm the INF no, I am the info traffic controller. So the traffic came to me. And then I was. I had sent it to Milllo. Milllo is not doing their thing that they needed to do so I re guided the traffic to KA okay, [Laughter]...\nkailash chanda | 02:42\n[Laughter] It's good. Good for us.\nSanjay | 02:44\nReadout... Actually, I'm going to stop the transcript. It's your job. I'll stop it. Okay, thank you. Another company reached out to me, which is a really good Salesforce implementation partner. They're like, \"Can we subcontract Dataskate for informatic work?\"\nAnd I'm like...\nAddie | 03:05\nWhat's the name of the company?\nSanjay | 03:07\nI'm not going to share with you.\nAddie | 03:08\nBecause recently a guy actually approached me.\nSanjay | 03:13\nHe is. Was this highball?\nAddie | 03:17\nNo, he's Indian, he's so he is because he has good relations in core, so he's like, you know what I'm doing good with core, but like.\nSanjay | 03:25\nWhenever I yeah, it reminded me of that conversation. Dash, have you thought of acquiring Vice Wolves? Have a...\nkailash chanda | 03:33\nWhat is that?\nSanjay | 03:33\nConversation with Wise Wolves?\nkailash chanda | 03:35\nVice Wolf?\nSanjay | 03:36\nThey have a lot of good core...\nkailash chanda | 03:36\nOkay.\nSanjay | 03:38\nHe has relationships and they're 20 people, New York based, very smart, very agile. So before in my core role, Michael Lukovich, the CEO of Wise Wolves, was my best friend. I ran 80% of my deal cycles with him.\nkailash chanda | 04:03\nOkay, but let me tell you...\nSanjay | 04:05\nMove fast, break things, understand what the hell is going on, architecture, discussion, straight talk, all of that.\nkailash chanda | 04:12\nYes...\nSanjay | 04:13\nHarry, still not joined with the hell. Sorry, one minute on a call. Okay, but I think if Wise Wolves and Dataskate can combine... I think you guys will be a killer combo because he understands Pharma Medtech HLS really well.\nkailash chanda | 04:31\nOkay, that's nice to know. Let me talk to them and see what it is.\nSanjay | 04:34\nHe's been in the cells for ecosystem for 15-20 years. Yeah, and he's a fun, spicy guy. Like hot opinions on cells for last week. I think he got his hand slapped by posting something about a Claude force on...\nkailash chanda | 04:51\nOkay.\nSanjay | 04:51\nLinkedIn sales. Said, \"What are you doing?\"\nkailash chanda | 04:57\nI know these few topics are very sensitive to react to. So...\nSanjay | 05:02\nThese guys, they have very good marketing. They know what the hell they're doing on the HLS side.\nkailash chanda | 05:10\nYes, rep it after the said.\nSanjay | 05:13\nYeah, and there are only 20 people in the company. He's...\nkailash chanda | 05:16\nYeah, that's what I...\nSanjay | 05:20\nYeah, and he's just become an Anthropic partner now, so he's really smart. I liked him on my deals because you know how I operate now, I get into AI, get into a deal, and I'm like \"Unf now.\" I put shit on the Shri and adie on the hook at some point. They can implement it in two weeks. Check it in three weeks. We love it live...\nkailash chanda | 05:46\nThat's nice. That's nice.\nSanjay | 05:48\nSo this guy can... I still remember it was 7:00 pm. Do you understand the platform, right? It was 6 pm on July 30th. One day before the end of the quarter, I got an email back from... I was running a deal of 20 Service Loom licenses and it was 20 Service Claude licenses and 500 Slack licenses.\nkailash chanda | 06:11\nOkay...\nSanjay | 06:12\nThe Slack was the front end. Service Claude was the back end of this whole thing.\nkailash chanda | 06:18\nGot it. Okay...\nSanjay | 06:19\nNo one was going to log into service cloud. That was the game that there was the vision that we had presented to the company. They were a Slack-first company. We said, \"No one will ever have to log into Slack. We will make sure every service cloud...\" We will make sure everything is on Slack.\nThen we were using a third party to mirror this. 20 people on this side and five people... 500 people on this side. There are 500 Slack users, but only 20 service cloud licenses. How do you map this? So we're doing all of this architecture between... Harry, just one minute I was finishing a story.\nSo we were doing that, and they... The customer messaged at 6 pm saying, \"I'm not signing unless you give me 40 licenses for the same cost.\" We got that message at 6 pm. My manager had a breakdown over me saying, \"You have to close it, give them more licenses if you need.\"\nI'm like, \"I'm not fucking doing this.\" Because if I do licenses in Q2, they will keep me hostage for the rest of the year.\nkailash chanda | 07:18\nYes, that's true.\nSanjay | 07:21\nSo what we did was Michael Lukovich and I worked the night. We worked till 11 pm. At 06 am we had checked. Platform licenses can do the same functionality that we were trying to do, so we sold them 500 platform licenses.\nAddie | 07:37\nI think it's the same we were discussing that day as well. You introduced me to this guy.\nSanjay | 07:41\nYeah, $4 a license.\nkailash chanda | 07:44\n$4. Okay, that's a...\nSanjay | 07:47\nSo that's I was just telling him. Yeah, so that guy is smart. As what? At 07:00 pm 07:00 am. We had tested the scenario already that platform licenses work with Slack a Elevate.\nkailash chanda | 08:00\nThat's nice. Okay.\nSanjay | 08:02\nNo one in the company knew. We were asking at Slack, \"Can Slack work with platform licenses?\" No one knew. So we just recreated the whole scenario, and we made it work in the night. 07:00 am we tested it out, 10 am we signed that deal, so it's good.\nkailash chanda | 08:16\nNice. That's...\nSanjay | 08:16\nHarry, welcome. You are late. We don't expect... Harry, I'm never late.\nHarry | 08:21\nI'm sorry I had to have an urgent call.\nSanjay | 08:24\nBe very shameful, I know.\nHarry | 08:28\nThank you so much for making the time. Adie, thank you for setting this up.\nSanjay | 08:32\nI entertained them in the meantime.\nHarry | 08:36\nSanjay. Sanjay. Is. The is the class clown here, so he's definitely good to entertaining folks. I'll give them that one.\nkailash chanda | 08:42\nWe got to pay him the entertainment fees, right?\nHarry | 08:48\nOkay.\nSanjay | 08:50\nDane Street. Okay, I'm going to set the stage a little. Kailash, yes, Harry is one of the hardest working reps I know on the team here. The guy is really good. He's built a great relationship at Dane. He has three really good accounts. One of them is Dane Street. I sent you some information on Dane Street last week. They have... I don't know. Their main business works through integrations because they have to integrate with the pair to get the claims information in, then send that information over to providers who say, \"Should this company pay for this claim or not?\" Then that information comes back and then that information goes back to the same API to the payer saying, \"Should you pay or not pay for this?\"\nIt's independent medical evaluations. So that's their business there. They got backed by a private equity in April, and they're expanding their lines of business. We had... We talked. We presented the concept of an IPASS to the director of IT in May, and he was like, \"This makes so much sense for us.\" Then we presented it to... They have one guy, they have one. Jugadu is the word I use. Hey, Jugadu is the person, the hacker of the company, that everyone goes to fix it.\nI think they have...\nHarry | 10:09\nThe English word.\nSanjay | 10:10\nFor that. Yeah, the hacker, whatever. So they have a Jugadu in the company, his name is Ian. Ian has been building APIs using Claude endpoints and all of that. He figures out endpoints from Claude. You understand Kailash... Much more than I do. But he programs endpoints, and he's made that process much faster than normal, but he still can't manage APIs, monitor them, and all of that, which is important in this business.\nkailash chanda | 10:35\nYes...\nSanjay | 10:37\nSo when I showed it to Ian, he was like, \"This makes so much sense.\" Even the Jugadu thinks we have a better solution than what he's doing, right?\nkailash chanda | 10:46\nThat's the best selling point. Talking...\nSanjay | 10:48\nWhere it got blocked was the private equity was hiring a CO for this company. They wanted to put their own CTO in there. So till the CTO was put in, everything was blocked. The CTO has come in two weeks ago. This is the next conversation we are going to have with the CTO on the 18th.\nkailash chanda | 11:08\nGot it.\nSanjay | 11:09\nWhat we want is for you guys to go and do a data quality check for them so you... Can start building your own reputation here...\nkailash chanda | 11:17\nGot it.\nSanjay | 11:17\nSo you show them something that they learn from that we can say these guys are amazingly fucking... What they do, and this is why we should do this with Dataskate. Hey, did I miss anything?\nHarry | 11:29\nNo, I think you captured it all, man. You got it.\nkailash chanda | 11:33\nSo right now you guys are planning to sell IMC for Din Street...\nSanjay | 11:39\nMule Mullah.\nkailash chanda | 11:40\nNLA. Okay, that's nice. Then you'll have even IDMC for data quality.\nSanjay | 11:46\nData quality. I don't know if data quality is the issue, but if even if actually this is a very good conversation that you brought up, we might be able to do this just with IDMC for data quality and integration.\nOkay? Yeah, I missed this one, but okay, you have a good point, but I was thinking of just switching just the data quality to them because they were... Remember all the complaints? Can you explain all the complaints they've had with data?\nHarry | 12:17\nYeah, so they have... So they have... Based on what Sanjay was saying piggybacking off of that, they have a system called Access DS that's their homegrown that's the brain of operations essentially. They call that a quote unquote \"in house CRM\" where this conversation started from. Was that a lot of the information on Access DS but your referrals and all the submissions from their clients, right? That was not funneling properly to Salesforce CRM their sales cloud, right?\nThat's where their salespeople are primarily logging their activities and tracking the referrals. So what they have right now is a custom API between the two. Obviously, I don't know if you know what's more... What makes sense to them right now in terms of fixing up that custom...\nThat's the whole point of the IPASS, right? That they don't have to continuously monitor and maintain it. It's broken. So that's causing them to underutilize sales cloud to the fullest potential, right? There's one guy in their named John, he piecemeal reports five reports and spreadsheets from here. A report and spreadsheet from here mixes things up... Lookups and this and that and...\nSo there are a lot of manual reporting gaps caused by this as well, apart from just integration, right? So that's where Sanjay, when we went on site to the conversation, we started there and expanded into their greater integration use case, right?\nSo I don't know if that sheds a little bit more light. I don't know if data quality is obviously an impact, given the flow of data is not optimal, but not too sure what's defined as data quality for you guys when you guys are doing checkups.\nkailash chanda | 14:16\nI think when we check Harry on the data quality side, we see how the data is being maintained. Let's assume sales cloud. Then we will verify on six points of the data quality parameters to check on how the uniqueness of data is being maintained, how the timestamp of data is being maintained, and how the freshness of data is being maintained.\nSo all of these data quality checks we perform and showcase them that, \"Hey, this is how the data currently in your system is. Is it good or bad?\" If it's bad, then yes. Informatic IMC is the one which can clean up and get you fresh data. Let it be, I would say the access DS or sales cloud, whichever is their system that they have as a system of engagement or system of record.\nThat's where we want to see how the data is being stored in a quality manner or whether we have an opportunity to cleanse and have the data ready for them. So apart from integration, I think this is one play where we can put forward to say that, \"Hey, we'll do a check to make sure how the data is, and depending on whether they can give it to us.\"\nIf it's Salesforce, we could connect, they could do a partial copy. If they have our sandbox, then we'll connect to the sandbox, verify on the quality check, and make sure if they are okay. If they are okay with production, we'll do it with production or we take an export and then do a quality check right in front of them.\nIf they can export it, give it to us on call. The team will take it on a call. Run it through. Showcase them the points and show them how the data is. Is it good, bad, or ugly? Right? Then if it's good, yeah, everybody's happy. We go ahead and sell them the mule.\nIf the data quality is bad, then we propose the data quality to the Kenzing and say that in the future this is going to make a lot better because you're integrating it. Now when you integrate the quality data makes across the river to all the streams, which keeps the data bad.\nIf one if the source is bad, then all the streams across are bad. We want to make sure that once you integrate the data quality is maintained and synced across all the systems. Yes, so...\nSanjay | 16:35\nYeah. I imagine, given that the CDS came in, he's probably going to think about AI and that stuff as well. So I think AI data readiness will become a good conversation. Hey, like I said, I have complete trust in Kailash's team on getting an awesome job on this one. I'd say we... I think this is your decision. I think we should offer this to Shah for free. Shah is the director of ID. This is...\nkailash chanda | 17:07\nYeah...\nSanjay | 17:07\nWhat we can get? Do it for free and...\nkailash chanda | 17:08\nThe handche...\nSanjay | 17:09\nGet his feedback.\nkailash chanda | 17:09\nWe will do it for free.\nSanjay | 17:11\nYeah...\nkailash chanda | 17:11\nWe can do that. We can pick up their most important system of record. Export the data. We could do it live and showcase them. We don't need to get data and do it later on. We'll do it live.\nSanjay | 17:22\nGiven that they work with healthcare like insurance, they probably have a shed ton of data passing through.\nHarry | 17:31\nYeah, for sure, I think I'm totally game with it. Unfortunately, I trust Sanjay a little more than I probably should, but I think any value added... These guys, especially with the PayPal acquisition and things that they want to do in the long term, is a solid segue.\nOne thing... Sanjay, one thing I'll ask of you is because you're coming to that kind of roadmap and executive review with them with the CTO when it's your time to read back... \"Hey, these are some of the things we found in the gaps right within your operations, right?\"\nYou want to read back what we found out previously. I want you to integrate this data quality and plug in Dataskate there for them and say, \"Hey, look, let's start from the bottom, right? Then work our way up into other things, right?\"\nSanjay | 18:25\nThe only thing I would say to that is, Harry, if we wait for two weeks for them to have that meeting... I'm seeing if in these two weeks we might be able to get the data quality check and bring the findings to CTO like if we bring the findings to CEO, we are in a much more credible position than offering the data quality on November 18th because we only have two months of actual selling left. November 18th, we have our next meeting coming after Thanksgiving.\nHarry | 18:54\nRight? Yeah, I know that's a good point. So if you want to... Spanji, if you want to just draft up a message I can send over... I'll send it over to Shah and Paul, the CTO, and I'll let him know... \"Hey, previous to our meeting...\nI know we have this set up to discuss XY and Z. But before that, we did want to run this.\"\nSanjay | 19:17\nI would just say we don't even need to refer to the meeting here. I would just say, \"Hey, Shah just came across this awesome offer from one of the trusted partners. They're doing free data quality checks for our companies. Given you are one of our biggest or favorite accounts, I want to use my one card that I have for this for you.\nMake them feel special. It's like, \"Okay, guys, I am actually using my card for just you.\" Shah, I love you. This is another bank-like deposit that I'm making in your bank.\nHarry | 19:50\nI could take that approach too. Yeah. I'll. I'll just. I'll just lean on you in terms of kind of summarizing that, right?\nSanjay | 19:58\nAnd I'm going to lead on Addie that this note is coming to add it to me. I will edit it for you. This will come from me to you. Yeah.\nHarry | 20:07\nIf you can pass this note over, that'd be great for both of us.\nSanjay | 20:10\nYeah, I will edit whatever comes from so it's yeah, it's ready for you, Harry.\nHarry | 20:16\nYeah, I'm aligned.\nSanjay | 20:18\nI am super excited. Like I...\nkailash chanda | 20:20\nThank you.\nSanjay | 20:20\nSaid to you, this guy sitting here, I... If I was doing integrations of my systems, if I was the CEO of Dataskate, and if I had to hire someone to get my integrations in place, this is the guy I would hire.\nYeah, I like that. This is the confidence we work with. If someone can do that, then that's where I think we have the confidence to go into a call and say, \"Shah, if this was my company, if I had your job, this is the guy I'm hiring, and this is why.\" Thank you.\nSo of that, yeah, literally ask Ken on one of the calls of the Dash Health decision call. I pulled up Kailash's LinkedIn profile, and I said, \"This guy was doing middleware in 2009. Yeah, and the person is like, \"All right, I'm sold. He can do it.\"\nHarry | 21:09\nOkay. That gives me. That gives me good confidence. So appreciate that.\nSanjay | 21:14\nI haven't met anyone else who understands infa and Mulesoft so well yet, so I think that's one of the biggest things we have here for the in data foundation side.\nHarry | 21:25\nThat means a lot because I know Sanjay is super wary about who he...\nSanjay | 21:28\nI so I'm a fucking pain in the he. It...\nkailash chanda | 21:31\nNot... [Laughter]...\nSanjay | 21:32\nTook him six months to get to me and tried... I tried.\nkailash chanda | 21:36\nExactly...\nSanjay | 21:36\nIt took six months...\nkailash chanda | 21:38\nIt's I know it's the ecosystem itself and Spanji being the kind of the leader runner on how would I call them the sprinter, right? Getting hold of him is kind of a challenge. At last we got him. And we were wrong. Yes. [Laughter]...\nSanjay | 21:53\nFrom different people. Then I was like, \"Okay, I need to talk to these guys.\"\nkailash chanda | 21:58\nThat's really good. I want to showcase what we can do. I know we have something, but I want to prove to every guy that I work with on what we are. Again, as Sanjay said, Harry, we are very few among the very few to showcase both the skill sets of Miro and Formatica even before we started, even before sales was acquired from Atic.\nSo that's where our experience comes in with the data even before Informatica joined the family. So that's where I want to utilize the whole thing and get more into it. So...\nSanjay | 22:31\nHave sold you already here good shit. Alright...\nkailash chanda | 22:39\nNow there, you...\nSanjay | 22:40\nAnything else? So, Adi, send a message to me, I send...\nkailash chanda | 22:42\nYes...\nSanjay | 22:42\nA message to Harry, that's the next steps. Hey, send that message over to Shah, and we get the ball rolling.\nkailash chanda | 22:47\nPerfect. Thank...\nSanjay | 22:48\nPerfect. Thanks every.\nkailash chanda | 22:50\nYou, thanks a lot.\nHarry | 22:50\nAppreciate you.\nAddie | 22:51\nThank you...\nkailash chanda | 22:51\nSee you guys...\nAddie | 22:52\nGuys. Bye.\nkailash chanda | 22:52\nHave a Friday."
+  }
+}
