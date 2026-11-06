@@ -1,0 +1,437 @@
+{
+  "id": "01a1b1ddb34d70398309e1b545ed5fa9",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1adbb7096760892e973d76542ff1a",
+      "title": "ClientCall",
+      "duration": 394,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6kpkcc1i8h0j6ghk88p48ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6t236cph6514cgho64qkcc1k650j6gpl690kcca48h2k2e1j6l20_20261106T163000Z",
+      "participants": [],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": "Fabriy",
+          "id": "fff08380f92e5ff98941826b6381b7fe",
+          "first_name": "Jake",
+          "email": "87ca98eae7d349558ce4e9e4267132c6@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": null,
+          "id": "d0bfa06c89ef5e82b85c66dcf7ce2d20",
+          "first_name": "Tom",
+          "email": "acbb1331a6c0442d95f619ac04fa7442@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T17:09:35.672Z",
+      "end_date": "2026-11-06T17:16:09.672Z",
+      "url": "https://app.krisp.ai/m/01a1adbb7096760892e973d76542ff1a?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You're making me look so old. Now people might start thinking this guy is a fifty-year-old guy, right? [Laughter] So..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "The word we use is wise. Kailash, the word is wise, yes."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's nice. That's nice."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "So we are in a deal cycle where we did that whole informatic MVP play. The system on the other side is ECW..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "E cir w..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Clinical works."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Now our partner is saying writing back to ECW is a can of worms. We can't do it."
+      },
+      {
+        "speaker": "Tom",
+        "speakerIndex": 3,
+        "text": "Without a ton of development on the CCW side."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "I think if anyone can figure this out, it's you. If you can figure it out, that project is Dataskate, right? Tom?"
+      },
+      {
+        "speaker": "Tom",
+        "speakerIndex": 3,
+        "text": "Hundred percent."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "He's in a pickle right now where the customer is ready to buy the project and the bottom is saying it's not implementable."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it. Okay, so what I would ask is... No, there is no scenario that we have run into where they say that it's not... We will find and figure out a way to get that done. We have done custom coding for systems that don't have API access, either in Java or DATNET, depending on how the system leverages technology to get that done.\nSo what I would ask is a couple of things: give me the transcripts. I would go through it and come back and do some research. I let my team do some research on the clinical works to make sure what the connectivity options are and how the system is hosted. Whether it's Windows hosted on a custom cloud hosted. Then that gives me more options to say how we can get this implemented. I turn..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "The deal cycle right now."
+      },
+      {
+        "speaker": "Tom",
+        "speakerIndex": 3,
+        "text": "Final proposal..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Off-market conversations may show..."
+      },
+      {
+        "speaker": "Tom",
+        "speakerIndex": 3,
+        "text": "From the... We got the verbal."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "From the CO."
+      },
+      {
+        "speaker": "Tom",
+        "speakerIndex": 3,
+        "text": "Yeah, okay."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Kailash, [Laughter] this is why I called you. I was like, \"If anyone can... [Laughter] Me face for...\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "[Laughter] No, please that would be great. I would like to get and solve such challenges. That's great for me. So powers, share the transcripts. I want to understand because I know E Clinical Works provides API access for certain objects, but I want to figure out what are those read and write options that we have to work on.\nSo that way I can work to say that. Okay. If not directly, then how I can establish API connectivity to get this... So the end goal for me is to make sure that..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "The use case, I think is simple. The use case is an inbound referral use case where custom patient names come in and they have to do the patient name and then add them into each clinical works, right? That's exactly it."
+      },
+      {
+        "speaker": "Tom",
+        "speakerIndex": 3,
+        "text": "Yeah, and we're trying to use Informatica."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Perfect. Yeah, either..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Yeah, els..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Way, whether Informatica..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Informatica in and out..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Or Mulesoft, the API is the key."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Informatica, Mulesoft, or any other middleware. Boom like this guy yesterday, someone was asking me. They're like, \"I'm in a booming computer.\" I was like, \"Talkplash [Laughter] booming comp.\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Personally myself I did a lot of integration. IBM was startling mes boing Cokato. So I have the experience that my team has through it. So we will figure out per say somewhere..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Dataskate is usually half the price of the other partner that you're working with. The other partner is amazing with e-clinical works and payer providers. It's Miro. So they're amazing with a payer provider, and I had guided them onto Miro.\nBut it seems like there's been a lot of friction with them getting on board with Informatica. They keep pushing back on Informatica, and they're like, \"We can do this with Mulesoft.\" I'm like, \"Everyone loses money if you do this on Mulesoft. The core...\""
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "The data foundation... The customer right now wants to buy Informatica. How do you go back and say..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "We sold your stuff?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "And now we need..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And I..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "To sell..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Don't want to..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "You something..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Sell multiple SKUs as well, right? So it's a..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "A single SKU that can solve the problem. So yup, I'll do some research, Thomas, and I'll..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Anything else I..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Get back..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Can help..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To you..."
+      },
+      {
+        "speaker": "Tom",
+        "speakerIndex": 3,
+        "text": "No, that's great. I'll send you the transcripts. There are the headlines, Informatica, and we all we want to do is grab these patients and clinical works their forms today, verify them on the system, and create them."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hackin got..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "I would say connect with you, Kailash, and Matt Rogers because Rogers seems to think that some of it makes sense, so he can bring that perspective on. Mat Rogers is our infrabeda SAE..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Get me on the... I will do some research, we'll..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Yeah, you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Catch up on Slack, Tom, and then I'll give you..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Should talk..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What I..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "To Matt..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Will get..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Rogers. Matt..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Rogers has a good... Because he's working on all informatica deals in my team..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That will be..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "So he's my informatic specialist."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Specialist will be a great introduction. I think this is a..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "So he has right now... He has connections with PDI."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "So PDI is another info player that's allowed in the market."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Got it."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "You don't. Do you know PDI..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, I'm not aware of it yet..."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Another very database company with an Indian founder? I feel like the more I go into APIs and stuff, I keep finding more of my people. Tom, your people need to get your shit together on the APIs and stuff. [Laughter]."
+      },
+      {
+        "speaker": "Tom",
+        "speakerIndex": 3,
+        "text": "I know nothing. I will soon. [Laughter]."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Guys, I'm the neutral guy, so I talk to everybody, so no worries about that you can tag me along with."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Good up, guys. All right..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So please share... I'll catch up with you, Tom. Thanks a lot. Thanks. And Jake. Thank you."
+      },
+      {
+        "speaker": "Jake Fabriy",
+        "speakerIndex": 2,
+        "text": "Awesome, I'll ma yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks. Bye."
+      },
+      {
+        "speaker": "Tom",
+        "speakerIndex": 3,
+        "text": "Thank you."
+      }
+    ],
+    "raw_meeting": "**ClientCall**\n🕞 Started at 05:09 PM on 06 Nov, lasted 6m",
+    "raw_content": "kailash chanda | 00:00\nYou're making me look so old. Now people might start thinking this guy is a fifty-year-old guy, right? [Laughter] So...\nJake Fabriy | 00:06\nThe word we use is wise. Kailash, the word is wise, yes.\nkailash chanda | 00:09\nThat's nice. That's nice.\nJake Fabriy | 00:12\nSo we are in a deal cycle where we did that whole informatic MVP play. The system on the other side is ECW...\nkailash chanda | 00:20\nE cir w...\nJake Fabriy | 00:21\nClinical works.\nkailash chanda | 00:22\nOkay...\nJake Fabriy | 00:24\nNow our partner is saying writing back to ECW is a can of worms. We can't do it.\nTom | 00:32\nWithout a ton of development on the CCW side.\nJake Fabriy | 00:38\nI think if anyone can figure this out, it's you. If you can figure it out, that project is Dataskate, right? Tom?\nTom | 00:47\nHundred percent.\nJake Fabriy | 00:49\nHe's in a pickle right now where the customer is ready to buy the project and the bottom is saying it's not implementable.\nkailash chanda | 00:56\nGot it. Okay, so what I would ask is... No, there is no scenario that we have run into where they say that it's not... We will find and figure out a way to get that done. We have done custom coding for systems that don't have API access, either in Java or DATNET, depending on how the system leverages technology to get that done.\nSo what I would ask is a couple of things: give me the transcripts. I would go through it and come back and do some research. I let my team do some research on the clinical works to make sure what the connectivity options are and how the system is hosted. Whether it's Windows hosted on a custom cloud hosted. Then that gives me more options to say how we can get this implemented. I turn...\nJake Fabriy | 01:43\nThe deal cycle right now.\nTom | 01:47\nFinal proposal...\nkailash chanda | 01:47\nOff-market conversations may show...\nTom | 01:50\nFrom the... We got the verbal.\nJake Fabriy | 01:53\nFrom the CO.\nTom | 01:54\nYeah, okay.\nJake Fabriy | 01:56\nKailash, [Laughter] this is why I called you. I was like, \"If anyone can... [Laughter] Me face for...\"\nkailash chanda | 02:01\n[Laughter] No, please that would be great. I would like to get and solve such challenges. That's great for me. So powers, share the transcripts. I want to understand because I know E Clinical Works provides API access for certain objects, but I want to figure out what are those read and write options that we have to work on.\nSo that way I can work to say that. Okay. If not directly, then how I can establish API connectivity to get this... So the end goal for me is to make sure that...\nJake Fabriy | 02:35\nThe use case, I think is simple. The use case is an inbound referral use case where custom patient names come in and they have to do the patient name and then add them into each clinical works, right? That's exactly it.\nTom | 02:46\nYeah, and we're trying to use Informatica.\nkailash chanda | 02:48\nPerfect. Yeah, either...\nJake Fabriy | 02:49\nYeah, els...\nkailash chanda | 02:50\nWay, whether Informatica...\nJake Fabriy | 02:50\nInformatica in and out...\nkailash chanda | 02:52\nOr Mulesoft, the API is the key.\nJake Fabriy | 02:53\nInformatica, Mulesoft, or any other middleware. Boom like this guy yesterday, someone was asking me. They're like, \"I'm in a booming computer.\" I was like, \"Talkplash [Laughter] booming comp.\"\nkailash chanda | 03:05\nPersonally myself I did a lot of integration. IBM was startling mes boing Cokato. So I have the experience that my team has through it. So we will figure out per say somewhere...\nJake Fabriy | 03:18\nDataskate is usually half the price of the other partner that you're working with. The other partner is amazing with e-clinical works and payer providers. It's Miro. So they're amazing with a payer provider, and I had guided them onto Miro.\nBut it seems like there's been a lot of friction with them getting on board with Informatica. They keep pushing back on Informatica, and they're like, \"We can do this with Mulesoft.\" I'm like, \"Everyone loses money if you do this on Mulesoft. The core...\"\nkailash chanda | 03:45\nExactly.\nJake Fabriy | 03:46\nThe data foundation... The customer right now wants to buy Informatica. How do you go back and say...\nkailash chanda | 03:52\nNo...\nJake Fabriy | 03:52\nWe sold your stuff?\nkailash chanda | 03:55\nExactly.\nJake Fabriy | 03:55\nAnd now we need...\nkailash chanda | 03:56\nAnd I...\nJake Fabriy | 03:56\nTo sell...\nkailash chanda | 03:56\nDon't want to...\nJake Fabriy | 03:56\nYou something...\nkailash chanda | 03:57\nSell multiple SKUs as well, right? So it's a...\nJake Fabriy | 03:59\nYes...\nkailash chanda | 03:59\nA single SKU that can solve the problem. So yup, I'll do some research, Thomas, and I'll...\nJake Fabriy | 04:04\nAnything else I...\nkailash chanda | 04:05\nGet back...\nJake Fabriy | 04:05\nCan help...\nkailash chanda | 04:05\nTo you...\nTom | 04:07\nNo, that's great. I'll send you the transcripts. There are the headlines, Informatica, and we all we want to do is grab these patients and clinical works their forms today, verify them on the system, and create them.\nkailash chanda | 04:23\nHackin got...\nJake Fabriy | 04:23\nI would say connect with you, Kailash, and Matt Rogers because Rogers seems to think that some of it makes sense, so he can bring that perspective on. Mat Rogers is our infrabeda SAE...\nkailash chanda | 04:36\nGet me on the... I will do some research, we'll...\nJake Fabriy | 04:36\nYeah, you...\nkailash chanda | 04:39\nCatch up on Slack, Tom, and then I'll give you...\nJake Fabriy | 04:41\nShould talk...\nkailash chanda | 04:41\nWhat I...\nJake Fabriy | 04:41\nTo Matt...\nkailash chanda | 04:42\nWill get...\nJake Fabriy | 04:42\nRogers. Matt...\nkailash chanda | 04:43\nYes...\nJake Fabriy | 04:43\nRogers has a good... Because he's working on all informatica deals in my team...\nkailash chanda | 04:48\nThat will be...\nJake Fabriy | 04:48\nSo he's my informatic specialist.\nkailash chanda | 04:50\nSpecialist will be a great introduction. I think this is a...\nJake Fabriy | 04:53\nSo he has right now... He has connections with PDI.\nkailash chanda | 04:56\nOkay...\nJake Fabriy | 04:58\nSo PDI is another info player that's allowed in the market.\nkailash chanda | 05:02\nGot it.\nJake Fabriy | 05:02\nYou don't. Do you know PDI...\nkailash chanda | 05:04\nNo, I'm not aware of it yet...\nJake Fabriy | 05:07\nAnother very database company with an Indian founder? I feel like the more I go into APIs and stuff, I keep finding more of my people. Tom, your people need to get your shit together on the APIs and stuff. [Laughter].\nTom | 05:22\nI know nothing. I will soon. [Laughter].\nkailash chanda | 05:26\nGuys, I'm the neutral guy, so I talk to everybody, so no worries about that you can tag me along with.\nJake Fabriy | 05:32\nGood up, guys. All right...\nkailash chanda | 05:33\nSo please share... I'll catch up with you, Tom. Thanks a lot. Thanks. And Jake. Thank you.\nJake Fabriy | 05:36\nAwesome, I'll ma yeah.\nkailash chanda | 05:38\nThanks. Bye.\nTom | 05:39\nThank you."
+  }
+}
