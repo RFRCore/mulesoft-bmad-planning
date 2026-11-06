@@ -1,0 +1,53 @@
+{
+  "id": "01a1b1dd153b74ccbca4f9ea14e7cc6a",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1adbb7096760892e973d76542ff1a",
+      "title": "ClientCall",
+      "duration": 394,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6kpkcc1i8h0j6ghk88p48ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6t236cph6514cgho64qkcc1k650j6gpl690kcca48h2k2e1j6l20_20261106T163000Z",
+      "participants": [],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": "Fabriy",
+          "id": "fff08380f92e5ff98941826b6381b7fe",
+          "first_name": "Jake",
+          "email": "87ca98eae7d349558ce4e9e4267132c6@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": null,
+          "id": "d0bfa06c89ef5e82b85c66dcf7ce2d20",
+          "first_name": "Tom",
+          "email": "acbb1331a6c0442d95f619ac04fa7442@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T17:09:35.672Z",
+      "end_date": "2026-11-06T17:16:09.672Z",
+      "url": "https://app.krisp.ai/m/01a1adbb7096760892e973d76542ff1a?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1b1d7201876ad8e6b692cbcf49463",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 343.409,
+      "size": 1373472,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-13T17:16:58.552Z"
+    },
+    "raw_meeting": "**ClientCall**\n🕞 Started at 05:09 PM on 06 Nov, lasted 6m"
+  }
+}
