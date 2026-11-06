@@ -1,0 +1,78 @@
+{
+  "id": "01a1b1a9eecc725e9762d9e62988cf70",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1acee1c5677879e1131fe068d379c",
+      "title": "Kailash - Salesforce/ Jonny / AD",
+      "duration": 1037,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g60pj2hho650k6da36p1k8h1g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g65248dpk64o48d9i6kskag9k8ks3ch1n8kq30h1g75238e1j8d1g",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "adhakal@luxbp.com"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "jsharp@luxbp.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.io"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": "Dhakal",
+          "id": "f28bfd638c4c514dbffd6d65b0d43b02",
+          "first_name": "Achyut",
+          "email": "7a388c6c7cc94afa9d753b773a337211@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": "Sharp",
+          "id": "30e8e2d37b9e57d78272c2283d378bff",
+          "first_name": "Jonny",
+          "email": "53a32a1b2b6c493392cb7bbc827d731d@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T16:03:27.128Z",
+      "end_date": "2026-11-06T16:20:44.128Z",
+      "url": "https://app.krisp.ai/m/01a1acee1c5677879e1131fe068d379c?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1b19a400e748fb6f3e9359582497a",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 1028.2630000000001,
+      "size": 4113072,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-13T16:21:06.376Z"
+    },
+    "raw_meeting": "**Kailash - Salesforce/ Jonny / AD**\n🕞 Started at 04:03 PM on 06 Nov, lasted 17m"
+  }
+}
