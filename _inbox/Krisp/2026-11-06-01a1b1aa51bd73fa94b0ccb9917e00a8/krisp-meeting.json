@@ -1,0 +1,567 @@
+{
+  "id": "01a1b1aa51bd73fa94b0ccb9917e00a8",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1acee1c5677879e1131fe068d379c",
+      "title": "Kailash - Salesforce/ Jonny / AD",
+      "duration": 1037,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g60pj2hho650k6da36p1k8h1g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g65248dpk64o48d9i6kskag9k8ks3ch1n8kq30h1g75238e1j8d1g",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "adhakal@luxbp.com"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "jsharp@luxbp.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "kailash@dataskate.io"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": "Dhakal",
+          "id": "f28bfd638c4c514dbffd6d65b0d43b02",
+          "first_name": "Achyut",
+          "email": "7a388c6c7cc94afa9d753b773a337211@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": "Sharp",
+          "id": "30e8e2d37b9e57d78272c2283d378bff",
+          "first_name": "Jonny",
+          "email": "53a32a1b2b6c493392cb7bbc827d731d@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T16:03:27.128Z",
+      "end_date": "2026-11-06T16:20:44.128Z",
+      "url": "https://app.krisp.ai/m/01a1acee1c5677879e1131fe068d379c?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "I'm good thank you I was everything..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Going for daddy, how is everything with you? Hey Johnny..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "I'm Tom."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "Let's see, brother, how are you?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Doing good joblly how are you?"
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "In San Francisco? That bridge looks amazing. Which bridge is that? A beautiful picture?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "[Laughter] Thank..."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "What's going on, Kailash? How are things with you?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Things have been going good, Johnny. I want to hear more from you guys. I know how the project is going on and what is happening. What's your...? I heard from... Maybe there are a couple of concerns. So I would like to hear more from you guys and then see how..."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "I'll give..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "We can support."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "You my. Okay, let me give you my overall perspective and then Ad you can jump in with more of the detail. Ad is definitely more involved than I am and much more smarter than I am and much more sort of knowledgeable about this kind of transition.\nBut I feel like I think we've made a lot of progress and I think that we're very close."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "My fear I know that we've had some issues. I know one of the guys had a baby recently and I'm sensitive to that. I get that. And I'm. I'm. You know, we're a big family first company, and I think that we're sensitive to that.\nSo I appreciate that and I'm happy that he's doing good. And I'm hoping that, you know. But having said that, we feel like it's gotten a little bit rocky over the last couple of weeks and that might be part of it.\nAnd if that's part of it. Understood, because he's back now, he's working, and that's fine, and I'm going to leave that up to you. But I feel like we're in the last sort of stretch, right? The last stretch.\nAnd I just want to make sure that we finish this off because it's. It's definitely later than we were hoping. And again, I'm not looking at you guys and saying that's your that it probably Ad can fill us in, but I'm sure we made some changes along the way, which might have delayed some stuff, but there's definitely a little bit of a concern within our organization, amongst the sales team. We made some commitments to that. This thing is coming in late and they are a little bit concerned.\nSo I just want to be sure that you guys are on top of this over the this last few weeks. Hopefully it's a few weeks because we are planning on implementing. And I feel like it's, you know, I just want to make sure that you're on top of it and that you're pushing and making sure that the guys are, you know, understand our sort of our position and where we are."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No... Johnny, I think we are aligned with you. I have spoken with Richard Shawan and Sujita as well. I think that's where I spoke with Vijay and Strawn today. They told me that I know we have completed right now on the reports part of it, which I want you guys to verify and then come back. Soj did mention that he will close the Agent Force part by November 13th.\nThat is next week. Then I have asked the team to come up with a plan of training with your sales team, the new business, and the existing business, and give me an agenda on how we are planning for the training.\nWhat is the content so that I want to review before it gets onto the stage? So we are on our toes to make sure whatever LVP gets through is a success. But again, I'm here. I am the middle man, Johnny, and Ad, so I will hear from both ends, and I will make sure that it makes a successful..."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "That's where the team came back to say that, \"Hey, yes, we got completed with the reports. Now we have shared it.\" A couple of them were complex, and we completed it, and we are waiting for the team to review.\nIt's good that I had the message from you, D, and you that we want to connect to see how it's going, what the concerns are, and how we can help make it smooth. The whole goal for us is to make this project financially and business-wise viable for LP as well.\nSo that's..."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Let me know if you have anything that you want us to plan. I think the team will work up on a training plan and come up to you, Johnny. But before it comes to you, I will review and make sure that the agenda is set right.\nIf you want to add any few points from your side, Ad and Johnny, do let me know. I will make sure that happens."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "I want to jump in and tell you, but my understanding of what we're going to do is that we're going to do a soft launch. I say that we're going to... We have a few people who've used Salesforce before, and a few people who are pretty good at it, and I think they're good users.\nWe're going to launch it to them. It's only a small group of about six or seven people because we feel like we want them to test it and give us their feedback before we go live to this whole group and then have a whole lot of feedback, right?\nSo I don't know if that makes sense to you, but we're planning to do that, I think, next week, right? Ad or the week after maybe?"
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Yes, the week after."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "The week after next week that will be to a small group, and I expect that will probably be about a week to maybe ten days, a week or so. Maybe we'll get some feedback. Maybe we'll have to make a couple of tweaks and changes and then it will be the full rollout of the of this probably what early December? Is that what we're planning? Ad yeah."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Yeah, absolutely. So the rough..."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "That time, yeah..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "So, Ed, Edie, and Johnny. While the new business teams or the existing business teams do all of this, I want the leadership, like you and Ed as well, to look through the platform. I want you guys to make sure that all the leadership-level data is clearly visible, and we have completed...\nI think the team says that it is done. I asked them to give me metrics from requirements to delivery to see that everything is delivered. But I would like to make sure from your side, a bit of support from your side as well to invest a couple of hours or more to make sure that everything that is being delivered meets the leadership level as well.\nSo that way we will know."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "I can promise you will get that from us for sure."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "You will get our feedback loud and clear, and it's going to be very direct, and that's the way we operate. I think..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "That I do understand that you're in the middle, and I absolutely would like you to give us feedback if you think that we've done something that has harmed the process or is whatever. Plea..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think, yeah, I think every project has its highs and lows journey. But at the end of the"
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "No..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Day, what I see from my side is the customer able to get through what they have asked and is it serving the purpose? That's where even a couple of humps here and there. But at the end of the day, I want to make sure that...\nOkay. What LPP has asked, have we delivered it, and are they seeing the value in the delivery? So that's where I want you guys to make sure to verify to say that, \"Hey, yes, I think the leadership is able to view the whole end-to-end data. The sales team is viewing the data wherever we want. Ad is able to view it all of some technical aspect to make sure that all of these progress are being visible.\"\nSo that way we... Whatever it takes, I want to make sure that the whole functionality is able to be delivered."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "I think... Listen, I think your point about highs and lows is very accurate because I'll be honest with you, the reason we set up this call and we try to set it up. Last week, I think I hit a lot last week when we had a presentation from you guys.\nBut I totally understand. I think there were definitely a couple of babies in the way and this and that. I get it. If that's the reason, I'm going to be very comfortable with it. But we were presented with something, and it was very underwhelming in terms of what we were presented with.\nBut it might just have been that you guys were a bit behind. I believe that Ad has subsequently had an update, and if Ad is happy, trust me, then I'm happy because Ad is pretty discerning in our company.\nSo I'm going to leave it up to Ad Kailash. I would really appreciate you being involved. That's my ask of you because... I trust..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "So yeah, go ahead."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "No."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Ahela, the thing is that John is talking about a baby, so let me put an analogy to that. So, the pregnancy, it's good in the beginning, you where you celebrate, right? You know the same. Same with Salesforce. We celebrated. We're launching it.\nYou know, we are excited we signed a contract, blah, you guys got in, right? So. We know we have a due date on Salesforce sales in the boat. So what happens in the last, around due date? There are some issues. Most of the... Some people become a little bit concerned and things like that. Same thing with us, too.\nI mean, a little bit around the time we wanted to push it because we wanted to go live way before and that's what we were planning. Things were not... Again, there's some hiccups from our side. I understand that because, again, I'm a very fair person. I tell what I see.\nYou guys have done an amazing job on your side. A couple of hiccups on our side too. We were responsible for that, and I understand that, right? So that's the thing. So yeah, the issues stemmed from when we wanted to get a brand manager dashboard look and feel, that's when we thought... I think this is way behind what we are not... What we're looking for, right?\nSo that's exactly what stemmed out... We're tracking the project is going well and everything. So that's when we hit a little bit snag. I was under the impression that you guys had... I don't know. What? Whose abilities? What?\nAt the same time, we have this Asian force coming into the picture as well. So there's only one guy who supers it, and he can't do all. If he goes for anything like vacation or anything like that, we were expecting somebody would come in and replace the test."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Would come in and replace the test."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Jump, right? So. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "That that's the thing I would have expected for you guys to plan, not, like, totally plan."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think that's..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Where I totally agree that there was a bit of a hiccup in between, but we brought in Shawan, who is our agent force architect and who is..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Right..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Delivering right now all the dashboards. But again, I think there are a few things that we should have handled better. I totally agree that... But in terms of the resourcing as well because Sujita is one of our senior architects and Tawan as well as our regional force architect, I think there was some internal balance that we should have handled better.\nI totally agree that... But I think he wanted to balance it out between Sujita and Son, and that's where things got a bit rocky. But I think that's where we had a meeting earlier this week and discussed what and how things should be handled and how we have to be delivered.\nThat's where I heard that. Now things are in a better place than they were earlier or late last week. But again, I totally apologize for how we had to take that ride down a bumpy road. Sure, I think I totally agree that we should have handled it a bit better, but I think now we are in a better place.\nSo this back is handling the dashboard, and he's supporting Sujita on the agent fabric. The team kind of gave me an early deliverable on agent fabric, but I still put down 13 number as a delivery date so that I don't set something higher expectation and have better in place to say that we are in a better shape rather than committing something earlym..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Yeah. Then last few weeks, a few days are going to be very crucial. That's where projects have like in the software world, right? It's a maker break situation. We have done so much work together and everything, right?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "So if you don't focus on these last few weeks, that's the problem. Again, compared to the pregnancy and delivery, the same thing, the last few pushes actually matter, right? So we have to make sure we stay on top. Maybe if we need it for a fifteen-minute start, space it every day."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "I'm willing to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Open? I..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Do that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Am open for it."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Right. So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I will schedule a fifteen-minute touch base between all three of us. I..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Would like to take some input from you."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "But we don't I mean with the team, I mean, we don't have to be I mean, it's a one Slack between three of us. We can just text us each other..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Second. Yes, but..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Of other things."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "What I..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "I wouldn't..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Would like to..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Give me..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Hear ready is I will take the expectation of what the plan for next week is. Likewise... I want to hear what is the expectation from you guys for next week. So... That's what I will do is I will make sure that we meet your expectation and align the project manager expectation towards the client's expectations. So that way we will make sure the delivery is in the right place."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "And the other caveat, on the other side, it's all about balance, Krisp... So we don't want to rush things out too, like, you know, with half baked things, right? So in the name of, like, meeting the deadline, you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No, we don't want..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Know, we..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To tell us..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Things out and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Something happened."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Then we go back again six months, right? So..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "We don't want to do that. So it's all a balance. Like you know, we need some commitment and speed from you guys, right? And we will run with that to our side. And at the end, it's we push it and then it becomes a beautiful product, right?\nSo? And..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I think..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Everybody likes it trained."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I tell my team always that we are an all-wheel drive in winter, that how projects are delivered because that's where all wheels run together along with the front two wheels."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "I like..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Acting. Yeah, that's where I give them Johnny. That winters are pretty. How we know how it is in the US and I always tell that if the front wheels don't arrive with the right back wheels, the ride is..."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Never going to be smoother and we have to make sure. But I think I will come up with what the team is expecting. And Johnny, I'll create a Slack group between the three of us. I'll put down what the team is going to do from Monday to Friday.\nLikewise, Edie, do let me share. I would like you guys to share what is expected of you so that I will broker or mediate to make sure that the ride is smoother."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "Sounds great. I think I'm going to finish with one analogy. That..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes..."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "Bridge behind you. I feel like we are at that. We're crossing the bridge, going back to that island, or whatever it is, and we're right at the end. We've got 3ft to go, but we got to get through the 3ft, right?\nSo let's do that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I just want... I totally agree with you and Ad Johnny that at the end of the... Everybody remembers the last thirty minutes of a movie or the ride, and I want to make that memorable. So that's where we will make sure that the ride is smooth.\nI will come back with a plan to say that what I already mentioned is what the team is going to do. Give me your expectations, Ad, so that I will make sure that we are not short of resources or our expertise. We will make sure that can happen."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "Kailash, I'm feeling much more comfortable after this call. Thank you for that."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "I appreciate it. I... Think, you know, your team definitely has the ability to get it done. And I think if we just move through this process together..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "We'll do something. Look..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Not sure. I think it was a few things on my part that I couldn't join in between because Salesforce comes up with brand new products every month, and we have to have the..."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "No."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "GTM strategy and others to align. That's where I was just catching up with the team on the back end. What came to face with you guys? I just again totally apologize for that, but we will make sure we align together."
+      },
+      {
+        "speaker": "Jonny Sharp",
+        "speakerIndex": 3,
+        "text": "Have a great weekend. Thank you for your time."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you. Thanks, Ad. Thanks, Johnny."
+      },
+      {
+        "speaker": "Achyut Dhakal",
+        "speakerIndex": 2,
+        "text": "Thanks, Gue."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thanks to see ya. Bye."
+      }
+    ],
+    "raw_meeting": "**Kailash - Salesforce/ Jonny / AD**\n🕞 Started at 04:03 PM on 06 Nov, lasted 17m",
+    "raw_content": "Achyut Dhakal | 00:00\nI'm good thank you I was everything...\nkailash chanda | 00:02\nGoing for daddy, how is everything with you? Hey Johnny...\nAchyut Dhakal | 00:11\nI'm Tom.\nJonny Sharp | 00:11\nLet's see, brother, how are you?\nkailash chanda | 00:14\nDoing good joblly how are you?\nJonny Sharp | 00:16\nIn San Francisco? That bridge looks amazing. Which bridge is that? A beautiful picture?\nkailash chanda | 00:22\n[Laughter] Thank...\nJonny Sharp | 00:24\nWhat's going on, Kailash? How are things with you?\nkailash chanda | 00:27\nThings have been going good, Johnny. I want to hear more from you guys. I know how the project is going on and what is happening. What's your...? I heard from... Maybe there are a couple of concerns. So I would like to hear more from you guys and then see how...\nJonny Sharp | 00:44\nI'll give...\nkailash chanda | 00:44\nWe can support.\nJonny Sharp | 00:44\nYou my. Okay, let me give you my overall perspective and then Ad you can jump in with more of the detail. Ad is definitely more involved than I am and much more smarter than I am and much more sort of knowledgeable about this kind of transition.\nBut I feel like I think we've made a lot of progress and I think that we're very close.\nkailash chanda | 01:06\nYes...\nJonny Sharp | 01:07\nMy fear I know that we've had some issues. I know one of the guys had a baby recently and I'm sensitive to that. I get that. And I'm. I'm. You know, we're a big family first company, and I think that we're sensitive to that.\nSo I appreciate that and I'm happy that he's doing good. And I'm hoping that, you know. But having said that, we feel like it's gotten a little bit rocky over the last couple of weeks and that might be part of it.\nAnd if that's part of it. Understood, because he's back now, he's working, and that's fine, and I'm going to leave that up to you. But I feel like we're in the last sort of stretch, right? The last stretch.\nAnd I just want to make sure that we finish this off because it's. It's definitely later than we were hoping. And again, I'm not looking at you guys and saying that's your that it probably Ad can fill us in, but I'm sure we made some changes along the way, which might have delayed some stuff, but there's definitely a little bit of a concern within our organization, amongst the sales team. We made some commitments to that. This thing is coming in late and they are a little bit concerned.\nSo I just want to be sure that you guys are on top of this over the this last few weeks. Hopefully it's a few weeks because we are planning on implementing. And I feel like it's, you know, I just want to make sure that you're on top of it and that you're pushing and making sure that the guys are, you know, understand our sort of our position and where we are.\nkailash chanda | 02:43\nNo... Johnny, I think we are aligned with you. I have spoken with Richard Shawan and Sujita as well. I think that's where I spoke with Vijay and Strawn today. They told me that I know we have completed right now on the reports part of it, which I want you guys to verify and then come back. Soj did mention that he will close the Agent Force part by November 13th.\nThat is next week. Then I have asked the team to come up with a plan of training with your sales team, the new business, and the existing business, and give me an agenda on how we are planning for the training.\nWhat is the content so that I want to review before it gets onto the stage? So we are on our toes to make sure whatever LVP gets through is a success. But again, I'm here. I am the middle man, Johnny, and Ad, so I will hear from both ends, and I will make sure that it makes a successful...\nJonny Sharp | 03:50\nYeah.\nkailash chanda | 03:50\nThat's where the team came back to say that, \"Hey, yes, we got completed with the reports. Now we have shared it.\" A couple of them were complex, and we completed it, and we are waiting for the team to review.\nIt's good that I had the message from you, D, and you that we want to connect to see how it's going, what the concerns are, and how we can help make it smooth. The whole goal for us is to make this project financially and business-wise viable for LP as well.\nSo that's...\nJonny Sharp | 04:25\nOkay.\nkailash chanda | 04:25\nLet me know if you have anything that you want us to plan. I think the team will work up on a training plan and come up to you, Johnny. But before it comes to you, I will review and make sure that the agenda is set right.\nIf you want to add any few points from your side, Ad and Johnny, do let me know. I will make sure that happens.\nJonny Sharp | 04:50\nI want to jump in and tell you, but my understanding of what we're going to do is that we're going to do a soft launch. I say that we're going to... We have a few people who've used Salesforce before, and a few people who are pretty good at it, and I think they're good users.\nWe're going to launch it to them. It's only a small group of about six or seven people because we feel like we want them to test it and give us their feedback before we go live to this whole group and then have a whole lot of feedback, right?\nSo I don't know if that makes sense to you, but we're planning to do that, I think, next week, right? Ad or the week after maybe?\nAchyut Dhakal | 05:26\nYes, the week after.\nJonny Sharp | 05:28\nThe week after next week that will be to a small group, and I expect that will probably be about a week to maybe ten days, a week or so. Maybe we'll get some feedback. Maybe we'll have to make a couple of tweaks and changes and then it will be the full rollout of the of this probably what early December? Is that what we're planning? Ad yeah.\nAchyut Dhakal | 05:47\nYeah, absolutely. So the rough...\nJonny Sharp | 05:50\nThat time, yeah...\nkailash chanda | 05:51\nSo, Ed, Edie, and Johnny. While the new business teams or the existing business teams do all of this, I want the leadership, like you and Ed as well, to look through the platform. I want you guys to make sure that all the leadership-level data is clearly visible, and we have completed...\nI think the team says that it is done. I asked them to give me metrics from requirements to delivery to see that everything is delivered. But I would like to make sure from your side, a bit of support from your side as well to invest a couple of hours or more to make sure that everything that is being delivered meets the leadership level as well.\nSo that way we will know.\nJonny Sharp | 06:41\nI can promise you will get that from us for sure.\nkailash chanda | 06:44\nThank you.\nJonny Sharp | 06:45\nYou will get our feedback loud and clear, and it's going to be very direct, and that's the way we operate. I think...\nkailash chanda | 06:51\nNo...\nJonny Sharp | 06:52\nThat I do understand that you're in the middle, and I absolutely would like you to give us feedback if you think that we've done something that has harmed the process or is whatever. Plea...\nkailash chanda | 07:02\nI think, yeah, I think every project has its highs and lows journey. But at the end of the\nJonny Sharp | 07:07\nNo...\nkailash chanda | 07:07\nDay, what I see from my side is the customer able to get through what they have asked and is it serving the purpose? That's where even a couple of humps here and there. But at the end of the day, I want to make sure that...\nOkay. What LPP has asked, have we delivered it, and are they seeing the value in the delivery? So that's where I want you guys to make sure to verify to say that, \"Hey, yes, I think the leadership is able to view the whole end-to-end data. The sales team is viewing the data wherever we want. Ad is able to view it all of some technical aspect to make sure that all of these progress are being visible.\"\nSo that way we... Whatever it takes, I want to make sure that the whole functionality is able to be delivered.\nJonny Sharp | 07:57\nI think... Listen, I think your point about highs and lows is very accurate because I'll be honest with you, the reason we set up this call and we try to set it up. Last week, I think I hit a lot last week when we had a presentation from you guys.\nBut I totally understand. I think there were definitely a couple of babies in the way and this and that. I get it. If that's the reason, I'm going to be very comfortable with it. But we were presented with something, and it was very underwhelming in terms of what we were presented with.\nBut it might just have been that you guys were a bit behind. I believe that Ad has subsequently had an update, and if Ad is happy, trust me, then I'm happy because Ad is pretty discerning in our company.\nSo I'm going to leave it up to Ad Kailash. I would really appreciate you being involved. That's my ask of you because... I trust...\nkailash chanda | 08:51\nNo...\nAchyut Dhakal | 08:53\nSo yeah, go ahead.\nJonny Sharp | 08:57\nNo.\nAchyut Dhakal | 08:57\nAhela, the thing is that John is talking about a baby, so let me put an analogy to that. So, the pregnancy, it's good in the beginning, you where you celebrate, right? You know the same. Same with Salesforce. We celebrated. We're launching it.\nYou know, we are excited we signed a contract, blah, you guys got in, right? So. We know we have a due date on Salesforce sales in the boat. So what happens in the last, around due date? There are some issues. Most of the... Some people become a little bit concerned and things like that. Same thing with us, too.\nI mean, a little bit around the time we wanted to push it because we wanted to go live way before and that's what we were planning. Things were not... Again, there's some hiccups from our side. I understand that because, again, I'm a very fair person. I tell what I see.\nYou guys have done an amazing job on your side. A couple of hiccups on our side too. We were responsible for that, and I understand that, right? So that's the thing. So yeah, the issues stemmed from when we wanted to get a brand manager dashboard look and feel, that's when we thought... I think this is way behind what we are not... What we're looking for, right?\nSo that's exactly what stemmed out... We're tracking the project is going well and everything. So that's when we hit a little bit snag. I was under the impression that you guys had... I don't know. What? Whose abilities? What?\nAt the same time, we have this Asian force coming into the picture as well. So there's only one guy who supers it, and he can't do all. If he goes for anything like vacation or anything like that, we were expecting somebody would come in and replace the test.\nkailash chanda | 10:54\nWould come in and replace the test.\nAchyut Dhakal | 10:55\nJump, right? So. So...\nkailash chanda | 10:57\nI think...\nAchyut Dhakal | 10:57\nThat that's the thing I would have expected for you guys to plan, not, like, totally plan.\nkailash chanda | 11:02\nI think that's...\nAchyut Dhakal | 11:03\nRight?\nkailash chanda | 11:03\nWhere I totally agree that there was a bit of a hiccup in between, but we brought in Shawan, who is our agent force architect and who is...\nAchyut Dhakal | 11:12\nRight...\nkailash chanda | 11:12\nDelivering right now all the dashboards. But again, I think there are a few things that we should have handled better. I totally agree that... But in terms of the resourcing as well because Sujita is one of our senior architects and Tawan as well as our regional force architect, I think there was some internal balance that we should have handled better.\nI totally agree that... But I think he wanted to balance it out between Sujita and Son, and that's where things got a bit rocky. But I think that's where we had a meeting earlier this week and discussed what and how things should be handled and how we have to be delivered.\nThat's where I heard that. Now things are in a better place than they were earlier or late last week. But again, I totally apologize for how we had to take that ride down a bumpy road. Sure, I think I totally agree that we should have handled it a bit better, but I think now we are in a better place.\nSo this back is handling the dashboard, and he's supporting Sujita on the agent fabric. The team kind of gave me an early deliverable on agent fabric, but I still put down 13 number as a delivery date so that I don't set something higher expectation and have better in place to say that we are in a better shape rather than committing something earlym...\nAchyut Dhakal | 12:39\nYeah. Then last few weeks, a few days are going to be very crucial. That's where projects have like in the software world, right? It's a maker break situation. We have done so much work together and everything, right?\nkailash chanda | 12:58\nYes.\nAchyut Dhakal | 12:58\nSo if you don't focus on these last few weeks, that's the problem. Again, compared to the pregnancy and delivery, the same thing, the last few pushes actually matter, right? So we have to make sure we stay on top. Maybe if we need it for a fifteen-minute start, space it every day.\nkailash chanda | 13:17\nNo.\nAchyut Dhakal | 13:17\nI'm willing to...\nkailash chanda | 13:18\nOpen? I...\nAchyut Dhakal | 13:18\nDo that...\nkailash chanda | 13:18\nAm open for it.\nAchyut Dhakal | 13:19\nRight. So...\nkailash chanda | 13:19\nI will schedule a fifteen-minute touch base between all three of us. I...\nAchyut Dhakal | 13:23\nYeah.\nkailash chanda | 13:23\nWould like to take some input from you.\nAchyut Dhakal | 13:25\nBut we don't I mean with the team, I mean, we don't have to be I mean, it's a one Slack between three of us. We can just text us each other...\nkailash chanda | 13:32\nSecond. Yes, but...\nAchyut Dhakal | 13:34\nOf other things.\nkailash chanda | 13:34\nWhat I...\nAchyut Dhakal | 13:34\nI wouldn't...\nkailash chanda | 13:34\nWould like to...\nAchyut Dhakal | 13:35\nGive me...\nkailash chanda | 13:35\nHear ready is I will take the expectation of what the plan for next week is. Likewise... I want to hear what is the expectation from you guys for next week. So... That's what I will do is I will make sure that we meet your expectation and align the project manager expectation towards the client's expectations. So that way we will make sure the delivery is in the right place.\nAchyut Dhakal | 13:58\nAnd the other caveat, on the other side, it's all about balance, Krisp... So we don't want to rush things out too, like, you know, with half baked things, right? So in the name of, like, meeting the deadline, you...\nkailash chanda | 14:11\nNo, we don't want...\nAchyut Dhakal | 14:12\nKnow, we...\nkailash chanda | 14:12\nTo tell us...\nAchyut Dhakal | 14:13\nThings out and...\nkailash chanda | 14:13\nSomething happened.\nAchyut Dhakal | 14:13\nThen we go back again six months, right? So...\nkailash chanda | 14:15\nYes.\nAchyut Dhakal | 14:15\nWe don't want to do that. So it's all a balance. Like you know, we need some commitment and speed from you guys, right? And we will run with that to our side. And at the end, it's we push it and then it becomes a beautiful product, right?\nSo? And...\nkailash chanda | 14:31\nI think...\nAchyut Dhakal | 14:31\nEverybody likes it trained.\nkailash chanda | 14:33\nI tell my team always that we are an all-wheel drive in winter, that how projects are delivered because that's where all wheels run together along with the front two wheels.\nAchyut Dhakal | 14:44\nI like...\nkailash chanda | 14:44\nActing. Yeah, that's where I give them Johnny. That winters are pretty. How we know how it is in the US and I always tell that if the front wheels don't arrive with the right back wheels, the ride is...\nAchyut Dhakal | 14:58\nYeah.\nkailash chanda | 14:58\nNever going to be smoother and we have to make sure. But I think I will come up with what the team is expecting. And Johnny, I'll create a Slack group between the three of us. I'll put down what the team is going to do from Monday to Friday.\nLikewise, Edie, do let me share. I would like you guys to share what is expected of you so that I will broker or mediate to make sure that the ride is smoother.\nJonny Sharp | 15:25\nSounds great. I think I'm going to finish with one analogy. That...\nkailash chanda | 15:28\nYes...\nJonny Sharp | 15:28\nBridge behind you. I feel like we are at that. We're crossing the bridge, going back to that island, or whatever it is, and we're right at the end. We've got 3ft to go, but we got to get through the 3ft, right?\nSo let's do that.\nkailash chanda | 15:42\nI just want... I totally agree with you and Ad Johnny that at the end of the... Everybody remembers the last thirty minutes of a movie or the ride, and I want to make that memorable. So that's where we will make sure that the ride is smooth.\nI will come back with a plan to say that what I already mentioned is what the team is going to do. Give me your expectations, Ad, so that I will make sure that we are not short of resources or our expertise. We will make sure that can happen.\nJonny Sharp | 16:16\nKailash, I'm feeling much more comfortable after this call. Thank you for that.\nkailash chanda | 16:19\nNo.\nJonny Sharp | 16:19\nI appreciate it. I... Think, you know, your team definitely has the ability to get it done. And I think if we just move through this process together...\nkailash chanda | 16:27\nYes.\nJonny Sharp | 16:27\nWe'll do something. Look...\nkailash chanda | 16:29\nNot sure. I think it was a few things on my part that I couldn't join in between because Salesforce comes up with brand new products every month, and we have to have the...\nJonny Sharp | 16:41\nNo.\nkailash chanda | 16:41\nGTM strategy and others to align. That's where I was just catching up with the team on the back end. What came to face with you guys? I just again totally apologize for that, but we will make sure we align together.\nJonny Sharp | 16:55\nHave a great weekend. Thank you for your time.\nkailash chanda | 16:57\nThank you. Thanks, Ad. Thanks, Johnny.\nAchyut Dhakal | 16:58\nThanks, Gue.\nkailash chanda | 16:58\nThanks to see ya. Bye."
+  }
+}
