@@ -1,0 +1,49 @@
+{
+  "id": "01a1b1f5ddc476dcbb9191c74ecd72ac",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1b1ac478b706d8eff94f07bc99d9b",
+      "title": "Touchbase with Vara",
+      "duration": 101,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "1q5hkhpnrp6jbb44rlnmunsqmp_20261106T173000Z",
+      "participants": [
+        {
+          "id": "11067db77b9851dbaaa8c443d4ef6ffe",
+          "first_name": "vimandi",
+          "email": "vimandi@salesforce.com"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        }
+      ],
+      "speakers": [],
+      "start_date": "2026-11-06T17:42:14.069Z",
+      "end_date": "2026-11-06T17:43:55.069Z",
+      "url": "https://app.krisp.ai/m/01a1b1ac478b706d8eff94f07bc99d9b?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1b1f4ae2c7547b16899cc083f928e",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 93.438,
+      "size": 373248,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-13T17:44:02.751Z"
+    },
+    "raw_meeting": "**Touchbase with Vara**\n🕞 Started at 05:42 PM on 06 Nov, lasted 1m"
+  }
+}
