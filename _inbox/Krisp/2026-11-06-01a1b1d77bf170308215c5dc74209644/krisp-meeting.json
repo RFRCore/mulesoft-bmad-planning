@@ -1,0 +1,78 @@
+{
+  "id": "01a1b1d77bf170308215c5dc74209644",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1ada03e0877ec93a82dbbfbdc802e",
+      "title": "customer 0 demo",
+      "duration": 2904,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "1p3kek8jhetnf8fjnfckt92nod",
+      "participants": [
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "raghuram@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "venkat@dataskate.ai"
+        },
+        {
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "last_name": null,
+          "id": null,
+          "first_name": null,
+          "email": "sasank@dataskate.ai"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "last_name": "chanda",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "first_name": "kailash",
+          "email": "kailash@dataskate.ai"
+        },
+        {
+          "index": 2,
+          "last_name": null,
+          "id": "5c9b720b639155be86f088fe887013b9",
+          "first_name": "raghuram@dataskate.ai",
+          "email": "2c1b598354654178a4f35851a99ab988@noemail.krisp.ai"
+        },
+        {
+          "index": 3,
+          "last_name": null,
+          "id": "4472f7d70a475b528a099a5628a2114a",
+          "first_name": "sasank@dataskate.ai",
+          "email": "b8dac0d9ff444055ae3ee1f84822eb8d@noemail.krisp.ai"
+        }
+      ],
+      "start_date": "2026-11-06T16:21:06.931Z",
+      "end_date": "2026-11-06T17:09:30.931Z",
+      "url": "https://app.krisp.ai/m/01a1ada03e0877ec93a82dbbfbdc802e?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1b1aa6866730bbb37019afb5481f4",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 2898.806,
+      "size": 11583936,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-13T17:10:51.631Z"
+    },
+    "raw_meeting": "**customer 0 demo**\n🕞 Started at 04:21 PM on 06 Nov, lasted 48m"
+  }
+}
