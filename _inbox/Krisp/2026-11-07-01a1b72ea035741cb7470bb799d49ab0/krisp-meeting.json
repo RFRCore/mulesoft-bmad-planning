@@ -1,0 +1,59 @@
+{
+  "id": "01a1b72ea035741cb7470bb799d49ab0",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1b258927377de9056b286c5c4824f",
+      "title": "Q4 execution strategy - How to get 600k we identified ",
+      "duration": 163,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "6hfc5n160e5a56mek2chutnd2b",
+      "participants": [
+        {
+          "email": "raghuram@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "index": 2,
+          "email": "raghuram@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        }
+      ],
+      "start_date": "2026-11-07T18:01:16.085Z",
+      "end_date": "2026-11-07T18:03:59.085Z",
+      "url": "https://app.krisp.ai/m/01a1b258927377de9056b286c5c4824f?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1b72c7da370e2b7bb290176f244ee",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 153.625,
+      "size": 613584,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-14T18:04:08.619Z"
+    },
+    "raw_meeting": "**Q4 execution strategy - How to get 600k we identified **\n🕞 Started at 06:01 PM on 07 Nov, lasted 2m"
+  }
+}
