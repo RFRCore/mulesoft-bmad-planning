@@ -1,0 +1,78 @@
+{
+  "id": "01a1b72f008e74d89586a2ab3f5b8ab8",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1b258927377de9056b286c5c4824f",
+      "title": "Q4 execution strategy - How to get 600k we identified ",
+      "duration": 163,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "6hfc5n160e5a56mek2chutnd2b",
+      "participants": [
+        {
+          "email": "raghuram@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "index": 2,
+          "email": "raghuram@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        }
+      ],
+      "start_date": "2026-11-07T18:01:16.085Z",
+      "end_date": "2026-11-07T18:03:59.085Z",
+      "url": "https://app.krisp.ai/m/01a1b258927377de9056b286c5c4824f?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yes. Tell me..."
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Whoever said repeated... Naku aa a song into points versus 405,26k versus 400..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And the name for gian presentation strategies in the a 400k k Ali and 2I started the whole the project so I inviation and I know foreignerk and kundaki presentation. How is it coming up?"
+      },
+      {
+        "speaker": "raghuram@dataskate.ai",
+        "speakerIndex": 2,
+        "text": "Okay, so we have 400 cash target. But we can make f order that is showing in 2068. Noone could. No strategy."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "May I... Start it? Opportunity to last new role. Did you know that gold is almost never found where you expect it? People look for shiny.\nSo now I... Hello, our strategy. Strategy 2 and 3... As...\nYou."
+      }
+    ],
+    "raw_meeting": "**Q4 execution strategy - How to get 600k we identified **\n🕞 Started at 06:01 PM on 07 Nov, lasted 2m",
+    "raw_content": "kailash chanda | 00:09\nYes. Tell me...\nraghuram@dataskate.ai | 00:12\nWhoever said repeated... Naku aa a song into points versus 405,26k versus 400...\nkailash chanda | 00:51\nAnd the name for gian presentation strategies in the a 400k k Ali and 2I started the whole the project so I inviation and I know foreignerk and kundaki presentation. How is it coming up?\nraghuram@dataskate.ai | 01:13\nOkay, so we have 400 cash target. But we can make f order that is showing in 2068. Noone could. No strategy.\nkailash chanda | 01:28\nMay I... Start it? Opportunity to last new role. Did you know that gold is almost never found where you expect it? People look for shiny.\nSo now I... Hello, our strategy. Strategy 2 and 3... As...\nYou."
+  }
+}
