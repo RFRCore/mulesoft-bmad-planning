@@ -1,0 +1,91 @@
+{
+  "id": "01a1b70a433176e29741bcddac65c730",
+  "event": "recording_ready",
+  "data": {
+    "meeting": {
+      "id": "01a1b231e104758eb07c40cbafda260a",
+      "title": "Agent Fabric demo ",
+      "duration": 4884,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "2tdnejcrm28mlldpql3hd4tkeq",
+      "participants": [
+        {
+          "email": "raghuram@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "venkat@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "advisor@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "email": "sasank@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "index": 2,
+          "email": "sasank@dataskate.io",
+          "first_name": "sasank",
+          "id": "f4ebfa04e0a05d6db7c7e27447dc457b",
+          "last_name": null
+        },
+        {
+          "index": 3,
+          "email": "80b93bc79cdb4bb1bc6262f50465d5ff@noemail.krisp.ai",
+          "first_name": "venkat",
+          "id": "c36e2f8fe32c5fc3b695d90128dc991e",
+          "last_name": null
+        },
+        {
+          "index": 4,
+          "email": "75db06fecee640c5bdad9e71dfd32a55@noemail.krisp.ai",
+          "first_name": "advisor",
+          "id": "6a43d562e0a15b41b2d8a63d47d961ad",
+          "last_name": null
+        }
+      ],
+      "start_date": "2026-11-07T16:02:05.046Z",
+      "end_date": "2026-11-07T17:23:29.046Z",
+      "url": "https://app.krisp.ai/m/01a1b231e104758eb07c40cbafda260a?active_tab=ai_notes"
+    },
+    "content": {
+      "id": "01a1b6bf5ae472dca2b66943e5f0705d",
+      "type": "audio",
+      "mime_type": "audio/mp3",
+      "duration": 4871.964,
+      "size": 10956800,
+      "recording_url": "[redacted — presigned URL]",
+      "expires_at": "2026-11-14T17:24:25.518Z"
+    },
+    "raw_meeting": "**Agent Fabric demo **\n🕞 Started at 04:02 PM on 07 Nov, lasted 1h 21m"
+  }
+}
