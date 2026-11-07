@@ -1,0 +1,1240 @@
+{
+  "id": "01a1b70aa708771ca60cfb3b0c3988db",
+  "event": "transcript_created",
+  "data": {
+    "meeting": {
+      "id": "01a1b231e104758eb07c40cbafda260a",
+      "title": "Agent Fabric demo ",
+      "duration": 4884,
+      "owner": {
+        "id": 9056711,
+        "email": "kailash@dataskate.io"
+      },
+      "calendar_event_id": "2tdnejcrm28mlldpql3hd4tkeq",
+      "participants": [
+        {
+          "email": "raghuram@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "venkat@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "advisor@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        },
+        {
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "email": "sasank@dataskate.ai",
+          "first_name": null,
+          "id": null,
+          "last_name": null
+        }
+      ],
+      "speakers": [
+        {
+          "index": 1,
+          "email": "kailash@dataskate.ai",
+          "first_name": "kailash",
+          "id": "e335b54b775554769bc6128951b56a4d",
+          "last_name": "chanda"
+        },
+        {
+          "index": 2,
+          "email": "sasank@dataskate.io",
+          "first_name": "sasank",
+          "id": "f4ebfa04e0a05d6db7c7e27447dc457b",
+          "last_name": null
+        },
+        {
+          "index": 3,
+          "email": "80b93bc79cdb4bb1bc6262f50465d5ff@noemail.krisp.ai",
+          "first_name": "venkat",
+          "id": "c36e2f8fe32c5fc3b695d90128dc991e",
+          "last_name": null
+        },
+        {
+          "index": 4,
+          "email": "75db06fecee640c5bdad9e71dfd32a55@noemail.krisp.ai",
+          "first_name": "advisor",
+          "id": "6a43d562e0a15b41b2d8a63d47d961ad",
+          "last_name": null
+        }
+      ],
+      "start_date": "2026-11-07T16:02:05.046Z",
+      "end_date": "2026-11-07T17:23:29.046Z",
+      "url": "https://app.krisp.ai/m/01a1b231e104758eb07c40cbafda260a?active_tab=ai_notes"
+    },
+    "content": [
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Not able to reach... Can you ping Slack or...? Do you have any other number...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Let me call on WATACONNECTED."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "You know? Good.\nI say, shall you remember what...?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "My call. Maybe he'll join once again. I message him again."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Are you just bringing in Slack? Yeah, he joined it."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "You're saying something wrong."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "We did that scoping... You remember I dropped that call with Vijay or some client at the first agent fabric. We got that okay."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "That's great, Rob. The share... .1, right? Share .2. Yeah, that's great. When is the kickoff for that?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No. They just confirmed verbally on Monday."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I will send out SOW. Then we'll start it."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Sure, got it.\nHey, I'm doing good. How are you?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Sorry ago, I think for some reason I thought it was like Sanday and Pichin."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "I moved our meeting to Sunday."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay, so one meeting there is on Monday and then just a laptop log... Okay, good session... Yeah."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Doing good."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Sorry me Saturday [Laughter] you're reaching India festival."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah thank you thanks."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "[Laughter] legal gazian Maine and New Hampshire Rhode Island and rendo legally. Like."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "They sell it but it's not legal."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay Rhode Island maco 30 minutes sir a yeah for them."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "New Jersey... She can't come to New Jersey. Here they are too powerful."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "For us to come here... [Laughter] Right? We'll not wait in ka wait."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "It's all done she shank and Kumar."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay, let's jump in then."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay, yeah, Kumar, can you share your screen? I think we can get started. Raghu, can we record this? If there is any feedback, I can... Yeah, okay, cool. I'm recording it. Maybe we can see it. Kar, you can go into full slideshow first thing where we are not aware if there are any pre-existing slides or anything that we want to cover or Salesforce wants to cover.\nSo we just added our customer story, and we took some examples from the obsolete one. There was one example shared by Mulesoft that there was a 47k overrun due to agents running continuously.\nSo some of the examples we took, but not sure if we will be using the same examples, but I'll just show. I'll just go through the entire presentation, so any changes or suggestions, you can let us know."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "First of all, make it your story. So make it your branding red and black."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay, sure."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Do that."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah. So thanks, everyone, thanks for joining. So we want to cover our Dataskate customer story here in this presentation. So Dataskate is a Mulesoft partner, and we were recently named as an Asian Fabric Early Champion.\nSo... But today I'm not here as a partner, but as a newsoft customer. So this is how Dataskate is tuning itself into an agent-based enterprise. So let me start with where we are actually heading as an arc.\nSo Kumar, can you move to the next slide? Yeah. So by June, 2027. So we want 60% of our Dataskate operations run by agents, all governed through Agent Fabric. So here's the gap that we have seen. So today, nSW takes around one to two days, and it waits on a pre-sales architect or any salesperson, and our senior architects write these sows go through the content and create the SWW and share it with the sales team.\nSo this takes some time. So that's where by 20:27 we want to reduce the turnaround time for a sort within four hours where Agent runs. So it is not again just an LLM wrapper where you type into ChatGPT, ask to create a sow, and share your template.\nSo we have certain preexisting conditions as well as we have our own knowledge embedded, so we'll go through them in detail in coming slides. So when it comes to delivery as well... So currently, for example, we are delivering a project with four flows within a week.\nOkay. So now we want to deliver that within two weeks. So that is where we are heading as an arc in terms of all the verticals, whether it's pre-sales, delivery, sales, and marketing, HR, and ops. Okay. So to get there as a Mulesoft customer...\nSo we had to prove three things first. Okay, can you move to the next slide?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So first, just go back to the whole slide, back slide. I think there's a little typo there. SL takes one day and waits on the pre-sales architect and then HR and ops. Okay, employee onboarding takes two days. How is this connected to pre-sales?\nSo I think you are actually talking about every brand. Yeah, this is all."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "To all the aspects. So sales, delivery, sales, and marketing, HR, and ops."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Start where pre-sales accounts and campaigns sales and pre-sales what's the biggest difference?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "So pre-sales again, sales is more we are targeting it. So for example, we run our own campaigns and we get some leads there. Pre-sales kicks in when the customer shows some interest and they want to know something, they want to learn more.\nSo we create demos or we show what is the value that we are bringing in. So both are..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "I want to rewind that you basically want to rewind as marketing and demand gen."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Demand. Okay."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah, because presales sales and presales are usually sales, or you can just say sales/presales on the first one. Okay, stop being the bottleneck. We are ready for mid-market and... Okay, we are ready for not mid-market. We are ready for commercial and enterprise commercial."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Sure, and don't see commercial, just sing \"Maki Desa.\" I'll make those changes. Don't worry about it. Okay? Okay, but I'm telling you because that's the pitch that we'll probably have to pay the other way.\nI think we'll do a rehearsal on Monday or Tuesday, maybe Tuesday, but... Okay, let's go through so..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "One more thing. When you opened up the story, put us a Salesforce partner, not a Mulesoft partner. Yeah, it's..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Salesforce partner."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Always sales for partner. No meals..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay? Okay."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah, understood colors yeah."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "And how about the customer zero customer story customer zero..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The commercial goes to the fastest slide customer zero store."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Just Andries don't worry about all ky nomenclature marks mark the share y deer sure branding at the market okay, alright, let's go."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah, can you go to the third slide? Yeah, so, to become an agent-based enterprise, so we had to prove three things. First, one, reusing our expertise, so governance at scale, so the third one is cost we can see.\nOkay. So we want to reuse our expertise, whether it's the templates and accelerators we have built over the years and all the best practices, design principles that we follow. So in order to achieve that...\nSo we have our exchange assets standards and our SME expertise, and we want our agents to use those expertise. So when it comes to governance at scale... So it's not like we want to just throw in an LLM and give it a certain standard prompt and some templates and it has to generate it.\nSo we want to track what is the usage, what are the policies that we can enforce, where we can enforce the token budgets, and how an individual has to have access to that specific agent. So all these things are tracked on the agent fabric level.\nSo there are multiple policies that we are covering as part of governance. So I'll go through them when we actually move to the demonstration. So the third one... Okay."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Hold on. Go back. The governor. So three things we had to prove, three things we had to win as a customer. Three things we had to prove that you wanted this solution to win on or they're not going to anyone else, right?\nSo three things we had to win or three things we were on top of our minds when we started this. Something like that. And you're now wearing the shoes of the customer, right? What are three things that we had to care about? We had zero tolerance, something like exactly normal.\nYeah, so first things, reuse your expertise, reuse our expertise, which is good. We weren't going to rebuild our integration scandal. We weren't going to build new integrations, new accelerators, or new guidelines. We want to build on existing assets. TAW exchange assets and standards for... Are exchange assets and accelerators primarily. This is where you want to do your app, which is where you want to do your TikTok. Remember, every time you want to say something you want to plant a landm without you telling that you already have an LLM effort to go to Mulesoft, you might want to say that so and be simple but be use that space more, do more as a marketing branding, right?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So if someone would have seen it like this, they wouldn't even know that you had it to go to."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Mule ax mule axlator. Okay?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Or it doesn't even talk about data quality or governance whatever that you're raising something like that, right? Governance and scale. You've just blurred the lines between rate limits and token budgets and payload, right? Instead, you want to say rate limits are okay, but trusted identity. Trusted identity. Then you want to say rate limitsed identity, rate limits and payload optimization."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Our orchestration enforced orchestration, something that token budgets and... Okay, premier cast of both actually there, right? That's the synopsis case, right? Most we can see is... Yeah, cost we can see... By the... We can be transparent about...\nSo this is exactly what you're talking about spend maps. If we now... It's not going to... You'll probably want to see cost optimization opportunities. We tagged to an agent, a team, and a deliverable, and a team and a deliverable, Cantagoa and an application.\nI think every token is tagged to an agent, a team, and a wallet. Okay. That's the... That's the term that we use, right? So spend maps to business value along with providing opportunities for optimization."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "So can we say that we want to find the cost per outcome instead of having cost per requests or anything? Can we add that point as well?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Not right away. I aggregate just right, so let's not use that. We will... That's the roadmap thing you wanted to do. In fact, yeah, the roadmap item is evaluation agent evaluation. In real time, is the agent actually doing what it is supposed to do? How accurate were the results as a feature of the product roadmap? Agent evaluator, an agent evaluator center, API evaluator, agent evaluator or endo.\nBut that's like... You will use it at a later point of time, right? So we didn't want a wrap up around an alm. We didn't want a wrapper around an alarm. We wanted a governance system, a sentence consumable.\nI'll try to come up with another sentence, but the whole concept is agentic enterprise, and that is exactly what you wanted to talk about. At the end of the day, like I told Kailash and Raghu, the same thing. The sales motion.\nWe may have to do it multiple times, but we might have to do it while you are not there during the day if we are to show someone. The intent is we wanted to be an enterprise, be an agentic enterprise, and that really means we can cater to SMBs, cost-conscious, which is different but commercial and enterprise, and not commercial, is all about making sure whether you have the capability and capacity more importantly capacity like are you able to govern how many agents have you built and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "As partner..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Are you able to get that off the ground really quickly? Do you understand the whole concept and all that? So that commercial is a little bigger deals, right? So they don't want to risk and players who probably promise a lot but can't do it.\nSo this is your opportunity to say, \"Hey, we've done it ourselves, and now we want to do it.\" That's the whole point of Customer Zero. We drank our own Kool-Aid, and enterprise is all about whether you have a process in place, whether you can scale up and down on a very well-defined process framework that the customer might already have some.\nSo you want to do that so you tag consuma, but that's the whole point. So essentially, we didn't want... I think it's okay to wrap around, but I think it can be more powerful because we are talking about an agentic enterprise, right? We don't want to have a sprawled agentic experience, but we might want to have a unified agentic experience or something like that. Enterprise like an air traffic controller. Air traffic controller is the same whether the airplane is Boeing, Airbus, or Embraer or anything. It still controls the same airplanes, whether it's SPAT or Indigo or any other airline, and it does not really care about who is... Whether it's an experienced pilot or an amateur pilot, right? Everyone has to follow a governance perspective.\nIt can see everyone, right? It can see what is happening with every single plane. So that is the whole point of Asian Fabric. But this story is more about agentic enterprise and how Agent Fabric is taking it.\nSo the con name Marstana, but that's the intent."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "The Dataskate, Brandington, and Mixhares. Yeah."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "I don't think that's a big deal. You just change your theme and that's it. It just... But yeah, that's the story there, right? And then as... Yeah."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay. So we want to go on at some point we'll try to see whether we need to trim some slates and not..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay, cool. So again, here's what we have built as part of our agentic delivery fabric. So everything starts with Slack. So our front door. We have an engagement conductor, which we call nothing but the agent broker.\nSo that takes each request and moves it across different agents that we have built across presales as well as delivery. So when it comes to presales, we have deal scope, which drafts are SW again all through Slack.\nSo in delivery, we have a blueprint which creates the design documents, the PRDS, and for that specific integration. So we have Force, which actually builds the Mulesoft code out of the approved designs.\nSo we have Assurs, which actually run some tests on the built code, and we have Launch, so where it deploys across different environments through natural language. So all of these agents work.\nThere is always a human in the loop, so where humans can always add their feedback, and it takes that feedback and builds and makes that response better. So again, it doesn't only stop with LLaMA. So underneath all five sits the LLaMA company brain.\nSo these are our standard templates, past SWS, Rhode Designs, and our SMEs' knowledge. So the LLaMA brings the reasoning, and the brain brings our judgment. So they work through governance tools. So we have built setting MCCA servers for Salesforce, GitHub, Google, and Workspace, Slack.\nSo all of these MCCP servers are governed through our Omni gateway. It sets the guardrails, and no agent holds the APA key within the specific agent. So we have built model proxies as well. So where you encapsulate the actual URL and the APA key.\nLet me show you why the company brain matters starting with presales. Any questions in this slide? Were there any feedback or questions? Should I proceed?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yes, lots of questions. Okay, so first thing first, a person approves every handoff is probably not the right way. Because when you are talking about agency, you're talking about autonomous behavior. You want the very simpler things to be automatically taken care of by the agent, right?\nSo you should not say every person. A person approves every handoff. I think you should say, \"A human is always at the helm, not in the loop.\" It's no longer in the loop, but it's at the helm. Meaning if something is not right, they can actually cut off axes, or they can say this is wrong or something.\nOkay, it is not going to send anything or it's just going to generate certain things. Okay, the second thing is I think you are, of course, talking about LLaMA, and you're telling that your brain is all your past SWS and your approved designs and all right now past SWS obviously our customer information on that.\nThe natural question is, \"How are you making sure that the S information is not being exposed to the LLaMA?\" Yeah, currently, that's another one. Second, I think the other aspects of Omni gateway regard is especially about model proxy and other things that are a little bit different in that context. How many tools are you? The other question that naturally comes in is, \"Can't I do this in Claude if I give access to Salesforce?\"\nBecause they all have plugins, why should I do it here via Slack? Because when I use Slack, I'm paying for a Slack license and all that stuff, right? So you might want to actually say, \"Hey, we are avid users of Slack.\" Or \"We love Slack.\"\nAnd, you know, Claude is still expensive for us. Something that... Or we use Claude in a different way. Or yes, you can use it in Claude as well, but ideally right now we are doing it with Slack or something, right?\nSo... Then on the left mirror, the numbers are very random. I'm not quite sure whether that was intentional or there was a meaning in that or..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "I mean, those are actual five agent specialists were a one-deal scope blueprint forge as launch, so those are the agents."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So there are four agents under five under the delivery. There are four. Yeah, five. Okay, so there are five agents. So that is something that we will probably want to say, \"Five agent specialists, something, or five agents.\"\nThen you might want to say either from C. You cannot have random numbers like that, right? What I might have meant to say is you have to have either ascending or descending from that. Okay, so you might say instead of saying front door, you can say interface one, interface two, or unified interface through Slack one and then unified.\nI'll make those changes. Don't worry about it. But that's the way we'll probably want to realize either top level or we might say five. We might come down from..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "5354 to one. Yeah."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "LLaMA and then policy layers. I think a 02:00 am circa PLM and then I think, a PS because at the end of the day you have APS right at the... Yeah, M cir Sps are basically on top of APS so you might want to say that layer.\nSo five four were and then three. I think we will write an AI specialist still AI assets and buy off instead of fossil layers. We might say AI assets where we might say a 2smmccs ll MS and maybe omni gateway like tech stack. We might say for Textck, where we might use all of these.\nThen three is basically the policies where you're doing trusted identity, then you probably are doing, and tailored optimization rate limit and then, wallet mapping or I'll give you the exact names essentially.\nOkay, so that's the number three policies and then two. Basically you're using two model providers Claude and Gemini, and then one Unified interface Slack. Okay, Slack ja, no, 54321. Okay, alright, let's go.\nOkay, does that make sense? By the way, feel free to say if you had something else, then feel free to say you don't have to agree with everything that I'm saying, okay? This is more the debate."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah, I mean Raghu or Kailash, do you want to...?"
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "I'm making some notes."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Raghu, do we want to cover the rag part or we can skip to the APA assets?"
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "No, I think we can skip to APA this. What do you say, Raghu?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Right? Yeah, I mean..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Is not in place, but we want to... It's in process."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah, okay. If you use Raghu, then, in some shape or form, that'll be good. Okay, that is where you will want to bring in for something like that because Raghu is all about retrieval. More importantly, agentic and Raghu of course, is not always good in certain cases, it's actually a big bottleneck, right?\nSo Raghu can be a enabler or a disabler. Okay, so I've... Slide or slip skip Jc. I think we will probably want to go directly into the next one."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay, yeah. So when we spoke about the reusability... We want to convert our API assets into agent assets. So we have already built certain system APIs for Slack, NETSU, so we built certain accelerators for Sps 4 HANA, so we built a tip for two Mulesoft migration as an accelerator as well.\nSo we want to convert all those assets into agent assets. We have a feature within a Mulesoft called MCP Bridge, so we can easily convert all those endpoints into MCP tools. These MCP servers will act...\nThese MCP servers are called by the agents during runtime. So whenever the user inputs a specific message, agent brokers route that request across different agents based on the user request and cause the required assets to get the information.\nAs part of this agent delivery... As I mentioned in the previous slide, there are five agents which we have built, so Deal, Scope, Blueprint, Force, and Assure and Launch. So all these agents use at least one of the agent assets\nwhich we have been using as an API asset. So any questions here before we move to the next slide?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah, as a slide... This introduces more confusion than anything else. Remember, you're talking to sellers who probably have heard of MC. What? Enable MC... So you want to save time... Much as one... It can slide... Or maybe you can put it as a skipped slide if someone wants to get them in.\nWhat are your assets? The question that will be raised here is the Sps for HANA accelerator layer. Is that you guys are built or is that something that MULE has already built and you're trying to do it?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "No, I think... Yeah, so I think it's an API."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Which API? It's not an API. Okay, so then you have to... Basically, you have to reword and do all that stuff right? I think this is where you probably want to use your internal... If you really want to project it... But I think this slide is probably... You can skip it for now just to save some time. When you are doing the implementation of the demo, you will anyways explain that."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay, fine. You can read more to the next slide. Yeah. So again, governance is a very key essential thing for us. We want to rate limit at three layers when we are governing these agents, one per agent.\nSo we want to create a token budget per run so that there are no surprise bills. As there was an example like $47k bill as there was an agent that is running on... So we want to completely avoid that.\nSo we want to create per-user quotas within Slack. So for example, a presales architect can only have ten mows built per day, and this is configurable based on use case. So we want to rate limit the APIs or the systems that we are calling.\nSo we want to do a spike control so that the agent doesn't hit the API continuously within a specific period of time. So these three rate limits have been applied to these agents. Since we are using the MCP tools,\nwe have enforced the payload optimization as well. So where a standard response might be 100-20kb, with our payload optimization policy, it is reduced to 14kb where the agent gets only those fields which it requires to respond or perform a specific task.\nSo this is where we are reducing the overall token usage. This is the major difference between how you do it with Slack or how you do it with a governed agent platform like Agent Fabric. So any questions here?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Or in the questions. So first thing first, I think this is actually diluting our story completely. One of the biggest questions is, as a professional services company, you want as many SS as possible.\nOkay, limiting a user with just so for W that really means that you're killing your own guys, right? What you read is it's not a limit on the SS. It's basically making sure that the SS is accurate and it is actually showing value. You want to produce as many as you want to. Project that this solution is going to put you in a very good shape. That doesn't matter.\nIf I tomorrow a hundred reps reach out to me, I can still do the same thing at the same time, right? So establishing product for you is probably... I think it's against it. Maybe it's a different story that you will probably want to do is for a user you want to say AI sped back, right?\nBut that is not governance. Governance is more about enforcing a rule versus just a dashboard. The power agent. No surprise bills. Yes, there is no surprise bills, but there's no guarantee that the bills won't be coming because it's just a reporting mechanism.\nIt's not enforcing it. If someone says, \"Okay, your budget is $20.\" If I run something that contains 15,000 tokens that exceeds 200, my usage will show that I've gone past my hundred. But it wouldn't stop me from doing anything on governance stops that, right?\nSo we are putting governance and these things do go wrong this thing right? So we might have to redo or take this out, right? So we... I think this is probably diluting this thing."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay. And per user in under because there might be a certain task where you want to reduce the overall spend by the user. For example, if it is an insurance company, there might be multiple insurance agents, and they might deal with maybe 100 or whatever the leads per day.\nSo that is where we want to mention that. But we can redo, as you mentioned. [Laughter]."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Any... But we are saying we want to hit very strongly, right? We are here, we're telling a story saying, \"Hey, we are open here, we are agentic.\" So do not worry, we have our agentic capabilities already built to some... How many hours do you lead that you bring to us? We'll still be able to do that. Of course, it comes with a cost, which means that the SWS are going to save us some productivity times, but it's a cost that we have to somehow absorb or show up in our SWS, right?\nSo that's a different story. But limiting a user is probably actually hitting ourselves in the foot, so that is not what we want to... Again. Second, the back and spike control. All these are all sales for CRPS. Most of these are SASS, right?\nSo they have a very higher API limit heading rate. Unless we are hitting them really hard, I don't think these are actually the ones that we want, unless we are running it in production at a very high level of usage perspective.\nRight? Yeah, so weight limiting. Cantagoa. I think you might want to actually say, \"Trusted identity.\" Trusted identity is where you're actually taking it. Okay, it's the... Let's say in Slack, someone is asking something that might say...\nOkay, let me... Can you hypothetically... I'll give you an example. Let's say you can pull up the phone number of this employee. Let's say someone is asking like that, right? We do not want that. That has to be prevented. Or someone wants to get an email or maybe something that is very individually identifiable information, a PHI kind of thing. Or someone's actually asking a question that's just not a... But it's actually in the prohibited list of questions. Let's say for an example, right? An example could be like, \"Can you copy the SRW and paste and create me a copy of that SRW and do this right?\"\nSo those are things that you want the... It shouldn't even reach out to LL or the agents. So the governance policies that you want to really highlight are PIA or predatory questionnaires or requests that can be put in.\nBut that's the policy that you will want to talk about. Second, you want to talk about identity. Is the user, if he's not a sales user, still be able to apply, generate an SW, and does he have access to the sales agent and that right?\nSo that's a second that..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "One parking actually, we haven't integrated it yet in the..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "That's okay, it's fine. It's a complicated thing. It's absolutely a complicated thing. Please, can you make it sound? Can you go and... Please don't disturb me, I'm just finishing a conversation. Don't disturb Miro.\nYeah, I have a five-year-old, so he's almost off his... So the third policy that you will probably want to apply... Like I said, firstly, I think we did prompt decorator or prompt guard. Prompt guard policy number one, second is state governance. Third one is your global access control. Global access control is basically your MCB twos. Very simple. You do not want to expose all MCP tools to everyone so that...\nSo that's basically what you want to do. You probably want to reword it back and forth like you might say a prompt guard as number one. Number two is global access control and number three is trusted identity.\nIt's in the works. If someone really has trusted identity, then you will probably want to see... Okay, we're implementing with, let's say eight. So the two things that you can talk about are the IDP ATA or entra or key clock EBDU trusted identity.\nI'll give you a workshop thing where you can actually... Kailash... Mikichana... Workshop. The where trusted identity policy was there... Kashmir... Mutla... That's okay. I'll give you that. I'm actually... The right here in the chart is that one second. I'll just pull that out. Yes.\nSo if you roll this up, it has this. Let me put this on. Okay, so our workshop... The URL is better, although it actually talks about how you can implement the trusted identity and module and random module.\nI think random module and global access control and trust guidance. These are very simple policies, but I think they tell everyone that governance really is in and out. [Laughter] Okay, and then what you were able to get is the payload optimization. MCP payload optimization.\nOkay. That's... I think that is all good, right? As to my gateway... I think you want to say governance that skills and that is universal, you know, in the statement in and universal governance establishing universal governance at scale. Which means that the same policy will apply to an API, to an MCP server or MCP tool or an API that are a third party API or at a hyperscalar, or a federated gateway agent that is run on a federated gateway. That you do not have it today.\nBut tomorrow... If, let's say you want to buy Kong or you're implementing something. So that's what it is so you could... My last statement, they all and a unified universal governance."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Universal governance, okay."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay, all right, I think that is what we have to do if we have to present this. Okay."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Understood, yeah, I mean definitely our inputs, so then we'll be able to present better. Yeah."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "It is not relevant to you, but right now, Agent Fabric will be Asian fabric is all about governments. COR so universal governments is basically you telling that you've already done something in that aspect, whether you have not implemented it, but you basically started thinking about it."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Okay, but if they ask where you use this universal governance..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "I could just APS and MCP tools both have the same policy applied."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Like rate limiting is the same thing. Very simple policy like rate limiting. Rate limiting in API and rate limiting in MCCP tool is the same thing. MCP server is the same policy. Just the two names are different. You can... You can basically say... You can pass it as an argument or something, but the idea is to tell people that you know API governance is mid. API management was the old topic. Now you want to say universal agent or AI governance."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Okay."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Then I'll reword this. I think, a DEK is there. What I'll do is I'll work on this a normal case, and then Tuesday pro, when we do the rehearsal, we'll just make sure that the narrative is very tight and understood."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Can you go to the next slide? Kailash, yeah. So the third one is on..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "The blo pinched... I think is the demo. As much as possible, we want to get to the demo quickly. Lights... Because seeing is believing, slides are not easy, right? We want to get that credibility right away.\nSo either we are with the... So, yeah."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Let me share my screen, then I'll go to the demo first."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Agents do the work, people make the calls. Okay. On every hop. OKR the complete... I think we'll have to figure that out. What is it? Maybe it's a knowledge base or something. Okay something like that I don't have that right on."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Initially knowledge based on just to look fancy we change."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Got a brain or nuro system and earth tissue... [Laughter] But we see... Okay, alright, yeah I..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Still we have a couple of slides. Can you move to the next slide? Yeah, this is demo and the last slide is on the roadmap like where we are heading, how we are implementing testing."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Gateway policies, model proxy budgets, H1 2027 vector database knowledge graph. Okay, perfect. Mod routing H1, sales and marketing agents on sales for data. I think, H1, or maybe we'll do a little bit of modification dynamic model support. Is the other recruiting agents okay?\nYeah, I mean I'll try to add it. Don't worry about now I think. Okay, Oka I and headless Musa plus as force. Why are we going into June 2027? We should be, you know, what is the difference between H1 227 and June 2027?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah, I think 1st half, like 1st quarter."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "IQ 1. You meant Q1. Little okay Q1 Q2 or something so okay for the sales person ecosystem story to data scape either going to be but I think I get what you're saying you want to look concho shuffle here so much. Again, whether we implement or not, it's different, but we'll at least make sure that we are on track with everything and...\nOkay, alright, I think..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "I think we should add it in."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Ant yeah, as chat I think Ant Wells low and I mean I think I'll probably get you guys in touch with them so that way in your whatever that you're implementing, you can just put that on."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "My screen or I'll show how a sort of agent is working. Yeah, I'll just move this to a sample channel, but right now it is under the Dataskate workspace itself, so all I have to give is... So I hope you are able to see my screen.\nOkay, so all I have to give is... Yeah, we just named it as early, but we want to change it to Delscope, so first we can ask multiple questions here. First I can check. Do we have any existing SW?\nYeah. So it will respond in the same thread that it checks within our whole workspace and looks for whether we have an existing SW for a specific customer.\nSo if there are no SWs available... So that's when we can provide the drive link. So this drive link doesn't simply consist of the transcript or the recordings that the send. So it consists of supporting documents, any technical documents that the customer has to share with us.\nSo once I place the drive link and... Okay, so if I do this... So it'll take one or two minutes of time because it connects to the server in the backend, so it tries to read the files. So we don't want to submit the PDFs directly to the Loom as it is costly.\nSo we are first extracting the required text from the PDFs and then submitting it to the LLM so thereby reducing the overall tokens. Sorry. I think I missed two. TED here. Sorry, my bad."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Why can't you type the same thing in a thread load in the LLM? Why can't you just... Yeah."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "I can do it here as well. So it can be in any channel of the app."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "It can be an app and it has to be an app and you just invoke the app and the other question that some people might have is, can't we do the same thing from Slack bot?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah, this we can do with Slack bot as well but yeah, we can do with Slack bot as well. So this is just where it receives events, right?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Right. So what's the biggest difference between a Slack bot actually accessing your Google Drive and generating the SW versus this one Slack? Just so it goes to the LLM picks up. It first reads of the drive, the document that you posted on the drive, and then it basically goes and hits it and generates this thing.\nI'll show you... Slack bot... My... Lord... The other... I can show you what it really means, right? So I think that... No, not sure, but it's probably not... It's basically going to consume quite a bit of Slack... But on the PayPal... On the other search box... PayPal... Yeah. Search box. Fuck..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "This one... I was sorry, my back."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah, you can use it can or as part of choose."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "So this is more structured or because I'm just taking the events so I'm not calling any LLM so I'm just taking events and sending it properly."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yes, in... There are two answers to that. Okay, the reason why I asked you is because it'll... This might be on everyone's mind, right? So why do you have to do it when you have Slackboard right in there and all that and you have Slack in force? One of the first things is you do not have control over the Slack information. Your Slackboard directly sends it to LLM and then gets you an answer.\nBut that is not to say you want... Yeah, you can basically manage your app and you can even call your app... No, just say the Google button. I think it'll come to... Ali... Oka...\nI think you have to do the dry-work back, is it? Yeah, I really apps-coded me... Yeah, a man... Yeah, browse apps... It does not have an available app because you probably did not allow it for... I think you did not allow..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah, maybe some app platform... I just have to give some permissions."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Anyways, the intent is you can do it with Slackboard, but Slackboard is an overhead because you are anyways using your... And you're using everything there. The whole point is we want to protect information and we want to retain control. We want to know exactly what is happening with every single outgoing call and everything.\nYeah. So for example, the prompt-guided... Anyone can type anything here. So Slackboard will... It does not have any prompts. It would probably say, \"Okay, I'm not an advisor, or I cannot give you a draft you want, but you want accuracy.\"\nSo you want a well-defined agent. Yeah, purposive agent. So that's why you're invoking it, the only reason why you want to use this as a content as Slack. Tomorrow you might have the unified interface as Claude itself. Claude Desktop or Claude for Mobile or whatever that is right?\nSo having used a Slackboard will mean that you will always have to use Slackboard. You're tied to one vendor versus... Of course, it might have had less capabilities, but that's like an overhead. So that's...\nYou want to connect it on demand. You do not want to connect your Google Drive and just give everything out. So from a security perspective, Slackboard is not really relevant for us because governance is one of our biggest important concerns.\nOkay. Alright."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "So it generates a draft... So it gives us the drive copy. So it writes into the same drive. Along with that, we added approvals. For example, if it is for Salesforce, it routes to a different pre-sales architect for its approval.\nIf it is for Mulesoft, it goes to a different person. So it sends a message something similar to this, as you can see in my screen. So it gives me what is who requested for this one and what are the timelines that are required and what are the different stages and what is the estimated fee and what are the payment terms that are available.\nSo you can... Any approver can open the draft. Here he can read through the content and see if there is something that is missing here. So if he can either choose to approve or reject, and there is an option to request changes as well.\nSo you can write something here which acts as a feedback to the generated content, and again, it comes back with the updated content. So as soon as you approve it, it goes to our backend database as an approved copy.\nOkay. So all these approved copies are received by the requester, whoever has requested initially for us, and they can now share this with the account executives. So this is the overall execution flow when it comes to our agent.\nSo it initially took around one to two hours, but now with all in place, we got it reviewed with our pre-sales architects as well. It is almost close to how they're actually generating it.\nThey're still testing this through the organization across multiple different integrations because it's not always standard. Mulesoft or Salesforce, there might be a combination of customers where they want some work of sales for some part of Mulesoft and some part of Salesforce flow.\nSo we are testing it across different scenarios, and the results have been very satisfactory as of now. So this is how it is working for us. So any questions here before I go to the platform and showcase?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "No, I think you might say earlier, this was more like a little bit manual. Yeah, and especially selecting the template and getting a lot more... Whether it's out of notion or anywhere... Probably what you want to say...\nBut more importantly, I think you want to say... See if you... The biggest challenge that we see here in this particular demo, you might want to set up the expectation. We'll just take a very simple one. Now we have seen our OLI actually do even more complicated sales that involve core and a larger ecosystem work.\nBut for simplicity's sake, today I'm going to show you this, which is a simplistic version of it. If you really want to test this out, please come back with a deal, and we are happy to show you this live."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So we can put this to action, and we can test with more deals. The more deals that you bring us, we can test it even more, and it'll help us and it'll help you."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Point... What we can add is that today there is a dependency on Krisp architects if they are on something else. Sales has to wait on them for their bandwidth to come and help with this episode of...\nSo we are cutting out that actually that is my intent to develop this because I don't want any presales text, especially for SB and DV deals. I don't want blockers from them."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Right. But here are the number of other questions that you might encounter. If someone's not asking, I will ask it. I'll pretend to be on the side of Dataskate, so I ask these questions.\nSo just be prepared to have... I'll give you the answers, of course. So one of the questions that will be asked is, \"How are you ensuring that if there are questions in the document, every customer will have a set of questions apparently related to compliance and other things, right?\"\nFor example, \"How many?\" \"Can you?\" \"Is this a custom object or is it a standard object?\" Let's say, for example, it depends on certain things, right? So how is the agent interpreting certain aspects? Let's say whatever that you gave the Codex, the Google Drive doc, what does that have? Does that have a recording of a transcript, a transcribed version of the recording of the call, or does it have a requirement document or what? What is it?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "So it has multiple PDFs that were shared by the... Let me share my complete screen."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So again, the answer is it has multiple data sources, it has a number of documents, it has voice transcriptions, and it has email exchanges. Okay, perfect. Alright, by the way, is this a real customer?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "It's a real customer, we'll change that to a dummy customer."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah, you'll just say you know something and so... Anyways, that's okay. So second is how does this generate? Earlier, we compared and contrasted since it's tested with a real customer, how does this...? I'm assuming this is an existing customer that you've already done, right?\nSo how does the generated result compare with something that was manually written?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "So we have compared that. I think we got it reviewed with Kailash. So there was a $500 difference in the overall pricing, but the integration flows and the quality of the SOW remain the same as someone who has done it manually.\nBut how do we represent it in the PPT or demo? That's where I need..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "You will... Basically, yeah, at the end of the day, I think we will have some of this right? Accuracy. So let's say 80% of the time you are 100% correct, 95% accuracy, and that is what is compared to manual results."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Wait on..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay, and this is like, how much is that? Two, let's say two hours is what a person dedicatedly started working on to generate the version one of the draft version of the S versus this is like two minutes.\nSo two versus 20 minutes. That's like... How many times is it? So you'll probably have to get an exculpated number. So that's way faster, right? To have that generated zero, right? Then the time to get to the final version. In some cases, the final version is straightforward, so you'll have to think about how many cases you might have. This might have presented you with a 98% full picture of everything that the customer was asking about. Or if there's something that is missing, does the SW actually leave it open or does it even capture things like that?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You don't understand. You have..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So you'll..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No idea."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Probably want to talk about that. But yeah, productivity gains, accuracy, and then the cost."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Isvout? Vegetarian. And you?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So those are the three items that we want to talk about. So, let's say it takes two hours for an analyst to actually build this out. The analyst builds it, let's say $50 an hour.\nSo that's like a hundred dollars. Running this agent at one time probably costs you $2 or $3 in token costs and everything, right? Setting it up for months and then it becomes incrementally more valuable, right? For every other thing.\nBecause for the second one, you're not again setting up any setup and all that stuff. So that is what you will probably want to say. Yeah."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "One question. So we built two other use cases as well, two other agents. So one for design, the other for, development. Like, based upon the code design, it generates the code. So we built those agents in Claude.\nAnd I just want some since we are discussing I just want some feedback on that so that we want to create a demo videos for this like three minutes so that it is shareable..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Do you know how much...?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "To any customer if..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I'll give..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "They ask..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You for..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "On how..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Half a million dollars."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "We're actually doing it. So yeah, so if you see this one. So we built an agent again, it's an app Slack up again. So where we are feeding the discovery transcripts. So we have discovery calls with the customer and all those calls are recorded.\nSo what do we do with those transcripts and all the information? So this is where we feed it to the system. It can be a Google Drive with multiple documents as well as supporting documents as well, just like the previous example.\nSo it presents us with certain questions. So it doesn't simply go and create. So it asks whether the customer is automation starter or substarter or integration starter. So based on that, and it asks for volume and Slack like what is volume and what are the systems involved?\nSo it asks... These are not fixed questions, so it asks different questions based upon the context that it has. Okay, so either it generates a default path so you can choose this default path. This is something that we are suggesting based upon our experience.\nOkay? You can choose the default or you can reply to these questions. Okay. So once you do that, it generates a review, a doc, which is a complete design document for that specific customer, where it creates the mappings, it creates the high level of flow, it creates the authentication types.\nSo all these things will be available. And again, there is an approval loop here. So it routes based upon the user SME so it goes to you or for someone and for Salesforce, it goes to a different person."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah. No, I think this is actually the more complex version of the second one. Right? So one of the other things that I'll say is prompts the copy bit. COD and then you can just copy paste.\nI know you're doing it anyway, but just that it becomes much easier."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "But we don't want to show this in the call because it takes. Like."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "You don't want to show it at all. You don't want to show it at all. Instead you just want to show the HR agent. Let's say if you have an HR as so what are the reasons that you have?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "So we want to show it itself because it's quick and we can show it in real time. For these two agents, we want to record a three-minute video that covers the animation and all the aspects so that they can...\nIf they... Raghu, it will take ten minutes."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Let's not show this out because this is an internal agent that you're building for your own internal purpose. We don't want customers to think that we are using a lot of AI and we do not have bodies for doing the work right.\nSo let's not show that one up. But what I'll... My middle agent say..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Reli on we have build agent as well."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So the coding agent."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah, that is a coding agent based on the standards design principles and all those things. So..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "No, we can't show it. So the... Okay, so you just showed one agent, let's show one and then go back to the endpoint and show how it is being translated. How many tokens does it have? So in a configuration, the... Yeah, let's go back to the...\nOkay, the proxy... What made..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "We created a proxy."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay, and you used... Okay, so this is the... So you created... The plan is to create one proxy for each agent."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah that is what we did were but do you think like that's not the right thing to do."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Clients are the problem. Yeah."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "We want to separate it based on the proxy. Okay."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So you put me what in the can you see where the logs are or what actions are? Can they go stay, can they go? I think it' show, quality of service. Yeah, I think it's just running together. Request, response to the other.\nSo that's what it is. So you can just show this is where it is coming from and then we'll see. Happy to go over a longer demo with all the other agents, but I think we want to just start giving this out that we are on it and we are extremely happy so far with what we are finding."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah. Policies are good. Whatever you suggested, we'll try to add those policies and showcase them as well because currently we have only limiting client enforcement. The basic policies that we have added."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah, that's okay limiting to the... As is SL, we want to generate as many Slacks as we want, right? You can just enforce certain things like already Miro the pulses in for... Yeah, like I said... Yeah, you find the model wall left. Yes... Already. So I think you will basically want to say these are the pulses that we applied, right? Yeah. So that way we have tagged everything out as..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Because I'm saying..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "And that's it."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Don't let your mistakes break..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "You. It's not practiced."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Got it."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "You want us to build another HR or some agent?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "I think we can always build that problem across Nana. I think once you show that this is an orchestrated agent..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "This is risky."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Right now, this is like this looks like a one to one, even though theer has."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "If you..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Think of..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Go to the..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Harder. But..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Design and..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "I never..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Code, that is..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "See any..."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Where orchestration comes into the picture, okay?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So this is just one agent that you deployed on the proxy. Yeah, so is in Fabric... How you have done another different out. I think that is one reason why you didn't see a lot more. What? You can definitely show me accelerator assets on..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "The tenant... I think we have it in our old tenant, but we can move them."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay, this is your customer instance."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah, this is our all-access."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "No, all-access instance. Okay, yeah, I think it's a good start. Let's... The only other thing that I will say is how you link it up on the data lineage of Vijay... TED... I think we'll see it, but for now, let's just show this one and then we'll move to the second one, which is informat..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "The lake rises. Its ho rises with its party."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "But that is something we want to practice.\nNo, I think the intent is basically, we'll have people from all forms of life, so says for under Rostero. So we'll try to get everyone on, right? So that's the whole point. Okay, I think...\nI think it looks good. How many minutes are we targeting this one?"
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "I mean, I can shrink based on the slides, but I think two slides. We want to cut it off, as you mentioned, 30 minutes. Do you think it's a good time?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "30 minutes to slide. Then I think 30 minutes should be your demo, 10 minutes max is your 5 to 8 minutes should be your slide."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay, 20-minute track."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "You can basically say, \"Here are some things, a very high-level narrative.\" But you can say if you finish the demo, you can come back and just say the narrative."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Got it."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Last slide. I by this we were able to make it a... Deck coach in there."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah, I got that."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah. So they have a what do you call next steps and actions kind of a thing, right? So. So we might want to say, hey, all of our sellers have access to ALI and you know, they're ready and geared up.\nAnd the maybe Kailash zap or maybe you can say, you know, we want to give it a real test. So tag us on your opportunities and come with the opportunities. We'll get the Slack, okay? The ka and Kunta Kailash. You can say hey, any SLI that we use that you help us use ALI, we'll do 10% of an aerture something that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "And I like..."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "You know what... As a customer because if you use... Then you are automatically consuming Mulesoft. So because you're a customer, you're not a partner in this area. So if you're using... More then you are basically saying Mulesoft charge me for... If we go... Right, you're making money for... As a circular economy.\nSo at... I think you have to find some common ground. I'll... But that's how it is. If you consume more, then you're consuming Mulesoft more, then Mulesoft is going to make more money with consumption and you want to be the number one customer. Zero example you know among the part... So that is what you want to tackle and say... See a point... A... We all have to say, \"Hey, give us more deals, right?\"\nSo that is what we want. So we are to drive that. Right."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "No."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So while I have a question about that, I'll pretend in no sense and I'll ask these questions. Okay, so, what else...? So are they...? I think you should think about that five to eight minutes. Yeah, slide war quick, very compact. You don't have to go through every line item on the slide, people can read it, so just make a summary of everything.\nThen demo... As quickly as we can jump in. I think that'll be..."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Yeah. Okay. Fine, any questions? Yeah, as of now, no. So what I'll do is I'll change this to Dataskate branding and I'll share the PPT with you."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah, and then me demolagora use Dataskate wordings, you know, o you know, agentic something, you know, agent gateway or something that instead of just naming them as, just rename some of those stuffm."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay. Do you want me to...?"
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "For example, just rename the wallet as, let's say, Sir W wallet?"
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "To cut the floatings into rings. To trickle."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Understood. Got it."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "So naming conventional punji and then we crack Sam. So you can just say, let's say Tata, Motto, and Wetter and it's the same thing, but just say in a hypothetical, okay, something that they recognize or you might say I in or something like that."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Got it. We'll change the customer name as well."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah, so yeah, maybe like, you know, something or universal education something that..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Live under a Fin."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Universal retailers and metri that... Okay, so you can just say that."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Okay, well, yeah."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Was this useful? We did certain things."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Like a storytelling point of view. We need someone like you because when we tell the story, it will be something different."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Yeah, so we had we'll nail it, I think a review DUA."
+      },
+      {
+        "speaker": "sasank",
+        "speakerIndex": 2,
+        "text": "Monday of the review. So the team will have some time before Thursday to make some changes."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay. Okay, I got that."
+      },
+      {
+        "speaker": "venkat",
+        "speakerIndex": 3,
+        "text": "Sure, yeah, I'll say that."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Advis Kailash, I think if you have access to..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, I'll take it. I can share it with you."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Okay, anything else you want to talk about? Okay, I'll..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Thank you."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Like a happy the vi and talk to you soon..."
+      },
+      {
+        "speaker": "kailash chanda",
+        "speakerIndex": 1,
+        "text": "Yeah, thank."
+      },
+      {
+        "speaker": "advisor",
+        "speakerIndex": 4,
+        "text": "Cool thank you day by."
+      }
+    ],
+    "raw_meeting": "**Agent Fabric demo **\n🕞 Started at 04:02 PM on 07 Nov, lasted 1h 21m",
+    "raw_content": "sasank | 01:57\nNot able to reach... Can you ping Slack or...? Do you have any other number...?\nkailash chanda | 02:07\nLet me call on WATACONNECTED.\nsasank | 02:10\nYou know? Good.\nI say, shall you remember what...?\nkailash chanda | 02:30\nMy call. Maybe he'll join once again. I message him again.\nsasank | 02:40\nAre you just bringing in Slack? Yeah, he joined it.\nvenkat | 03:12\nYou're saying something wrong.\nsasank | 03:15\nWe did that scoping... You remember I dropped that call with Vijay or some client at the first agent fabric. We got that okay.\nvenkat | 03:25\nThat's great, Rob. The share... .1, right? Share .2. Yeah, that's great. When is the kickoff for that?\nkailash chanda | 03:40\nNo. They just confirmed verbally on Monday.\nvenkat | 03:43\nOkay...\nkailash chanda | 03:43\nI will send out SOW. Then we'll start it.\nvenkat | 03:48\nSure, got it.\nHey, I'm doing good. How are you?\nadvisor | 04:32\nSorry ago, I think for some reason I thought it was like Sanday and Pichin.\nsasank | 04:37\nI moved our meeting to Sunday.\nadvisor | 04:40\nOkay, so one meeting there is on Monday and then just a laptop log... Okay, good session... Yeah.\nvenkat | 04:52\nDoing good.\nadvisor | 04:54\nSorry me Saturday [Laughter] you're reaching India festival.\nvenkat | 05:01\nYeah thank you thanks.\nadvisor | 05:18\n[Laughter] legal gazian Maine and New Hampshire Rhode Island and rendo legally. Like.\nsasank | 05:28\nThey sell it but it's not legal.\nadvisor | 05:31\nOkay Rhode Island maco 30 minutes sir a yeah for them.\nsasank | 05:47\nNew Jersey... She can't come to New Jersey. Here they are too powerful.\nadvisor | 05:52\nFor us to come here... [Laughter] Right? We'll not wait in ka wait.\nsasank | 06:01\nIt's all done she shank and Kumar.\nadvisor | 06:03\nOkay, let's jump in then.\nvenkat | 06:06\nOkay, yeah, Kumar, can you share your screen? I think we can get started. Raghu, can we record this? If there is any feedback, I can... Yeah, okay, cool. I'm recording it. Maybe we can see it. Kar, you can go into full slideshow first thing where we are not aware if there are any pre-existing slides or anything that we want to cover or Salesforce wants to cover.\nSo we just added our customer story, and we took some examples from the obsolete one. There was one example shared by Mulesoft that there was a 47k overrun due to agents running continuously.\nSo some of the examples we took, but not sure if we will be using the same examples, but I'll just show. I'll just go through the entire presentation, so any changes or suggestions, you can let us know.\nadvisor | 07:12\nFirst of all, make it your story. So make it your branding red and black.\nvenkat | 07:18\nOkay, sure.\nadvisor | 07:20\nDo that.\nvenkat | 07:21\nYeah. So thanks, everyone, thanks for joining. So we want to cover our Dataskate customer story here in this presentation. So Dataskate is a Mulesoft partner, and we were recently named as an Asian Fabric Early Champion.\nSo... But today I'm not here as a partner, but as a newsoft customer. So this is how Dataskate is tuning itself into an agent-based enterprise. So let me start with where we are actually heading as an arc.\nSo Kumar, can you move to the next slide? Yeah. So by June, 2027. So we want 60% of our Dataskate operations run by agents, all governed through Agent Fabric. So here's the gap that we have seen. So today, nSW takes around one to two days, and it waits on a pre-sales architect or any salesperson, and our senior architects write these sows go through the content and create the SWW and share it with the sales team.\nSo this takes some time. So that's where by 20:27 we want to reduce the turnaround time for a sort within four hours where Agent runs. So it is not again just an LLM wrapper where you type into ChatGPT, ask to create a sow, and share your template.\nSo we have certain preexisting conditions as well as we have our own knowledge embedded, so we'll go through them in detail in coming slides. So when it comes to delivery as well... So currently, for example, we are delivering a project with four flows within a week.\nOkay. So now we want to deliver that within two weeks. So that is where we are heading as an arc in terms of all the verticals, whether it's pre-sales, delivery, sales, and marketing, HR, and ops. Okay. So to get there as a Mulesoft customer...\nSo we had to prove three things first. Okay, can you move to the next slide?\nadvisor | 09:41\nSo first, just go back to the whole slide, back slide. I think there's a little typo there. SL takes one day and waits on the pre-sales architect and then HR and ops. Okay, employee onboarding takes two days. How is this connected to pre-sales?\nSo I think you are actually talking about every brand. Yeah, this is all.\nvenkat | 10:12\nTo all the aspects. So sales, delivery, sales, and marketing, HR, and ops.\nadvisor | 10:20\nStart where pre-sales accounts and campaigns sales and pre-sales what's the biggest difference?\nvenkat | 10:28\nSo pre-sales again, sales is more we are targeting it. So for example, we run our own campaigns and we get some leads there. Pre-sales kicks in when the customer shows some interest and they want to know something, they want to learn more.\nSo we create demos or we show what is the value that we are bringing in. So both are...\nadvisor | 10:53\nI want to rewind that you basically want to rewind as marketing and demand gen.\nvenkat | 10:59\nDemand. Okay.\nadvisor | 11:00\nYeah, because presales sales and presales are usually sales, or you can just say sales/presales on the first one. Okay, stop being the bottleneck. We are ready for mid-market and... Okay, we are ready for not mid-market. We are ready for commercial and enterprise commercial.\nvenkat | 11:28\nOkay.\nadvisor | 11:29\nSure, and don't see commercial, just sing \"Maki Desa.\" I'll make those changes. Don't worry about it. Okay? Okay, but I'm telling you because that's the pitch that we'll probably have to pay the other way.\nI think we'll do a rehearsal on Monday or Tuesday, maybe Tuesday, but... Okay, let's go through so...\nkailash chanda | 11:54\nOne more thing. When you opened up the story, put us a Salesforce partner, not a Mulesoft partner. Yeah, it's...\nvenkat | 12:04\nSalesforce partner.\nkailash chanda | 12:04\nAlways sales for partner. No meals...\nadvisor | 12:06\nOkay? Okay.\nvenkat | 12:08\nYeah, understood colors yeah.\nadvisor | 12:10\nAnd how about the customer zero customer story customer zero...\nkailash chanda | 12:15\nThe commercial goes to the fastest slide customer zero store.\nadvisor | 12:23\nJust Andries don't worry about all ky nomenclature marks mark the share y deer sure branding at the market okay, alright, let's go.\nvenkat | 12:40\nYeah, can you go to the third slide? Yeah, so, to become an agent-based enterprise, so we had to prove three things. First, one, reusing our expertise, so governance at scale, so the third one is cost we can see.\nOkay. So we want to reuse our expertise, whether it's the templates and accelerators we have built over the years and all the best practices, design principles that we follow. So in order to achieve that...\nSo we have our exchange assets standards and our SME expertise, and we want our agents to use those expertise. So when it comes to governance at scale... So it's not like we want to just throw in an LLM and give it a certain standard prompt and some templates and it has to generate it.\nSo we want to track what is the usage, what are the policies that we can enforce, where we can enforce the token budgets, and how an individual has to have access to that specific agent. So all these things are tracked on the agent fabric level.\nSo there are multiple policies that we are covering as part of governance. So I'll go through them when we actually move to the demonstration. So the third one... Okay.\nadvisor | 14:08\nHold on. Go back. The governor. So three things we had to prove, three things we had to win as a customer. Three things we had to prove that you wanted this solution to win on or they're not going to anyone else, right?\nSo three things we had to win or three things we were on top of our minds when we started this. Something like that. And you're now wearing the shoes of the customer, right? What are three things that we had to care about? We had zero tolerance, something like exactly normal.\nYeah, so first things, reuse your expertise, reuse our expertise, which is good. We weren't going to rebuild our integration scandal. We weren't going to build new integrations, new accelerators, or new guidelines. We want to build on existing assets. TAW exchange assets and standards for... Are exchange assets and accelerators primarily. This is where you want to do your app, which is where you want to do your TikTok. Remember, every time you want to say something you want to plant a landm without you telling that you already have an LLM effort to go to Mulesoft, you might want to say that so and be simple but be use that space more, do more as a marketing branding, right?\nvenkat | 15:47\nOkay.\nadvisor | 15:47\nSo if someone would have seen it like this, they wouldn't even know that you had it to go to.\nvenkat | 15:51\nMule ax mule axlator. Okay?\nadvisor | 15:53\nOr it doesn't even talk about data quality or governance whatever that you're raising something like that, right? Governance and scale. You've just blurred the lines between rate limits and token budgets and payload, right? Instead, you want to say rate limits are okay, but trusted identity. Trusted identity. Then you want to say rate limitsed identity, rate limits and payload optimization.\nvenkat | 16:20\nYeah.\nadvisor | 16:22\nOur orchestration enforced orchestration, something that token budgets and... Okay, premier cast of both actually there, right? That's the synopsis case, right? Most we can see is... Yeah, cost we can see... By the... We can be transparent about...\nSo this is exactly what you're talking about spend maps. If we now... It's not going to... You'll probably want to see cost optimization opportunities. We tagged to an agent, a team, and a deliverable, and a team and a deliverable, Cantagoa and an application.\nI think every token is tagged to an agent, a team, and a wallet. Okay. That's the... That's the term that we use, right? So spend maps to business value along with providing opportunities for optimization.\nvenkat | 17:22\nSo can we say that we want to find the cost per outcome instead of having cost per requests or anything? Can we add that point as well?\nadvisor | 17:36\nNot right away. I aggregate just right, so let's not use that. We will... That's the roadmap thing you wanted to do. In fact, yeah, the roadmap item is evaluation agent evaluation. In real time, is the agent actually doing what it is supposed to do? How accurate were the results as a feature of the product roadmap? Agent evaluator, an agent evaluator center, API evaluator, agent evaluator or endo.\nBut that's like... You will use it at a later point of time, right? So we didn't want a wrap up around an alm. We didn't want a wrapper around an alarm. We wanted a governance system, a sentence consumable.\nI'll try to come up with another sentence, but the whole concept is agentic enterprise, and that is exactly what you wanted to talk about. At the end of the day, like I told Kailash and Raghu, the same thing. The sales motion.\nWe may have to do it multiple times, but we might have to do it while you are not there during the day if we are to show someone. The intent is we wanted to be an enterprise, be an agentic enterprise, and that really means we can cater to SMBs, cost-conscious, which is different but commercial and enterprise, and not commercial, is all about making sure whether you have the capability and capacity more importantly capacity like are you able to govern how many agents have you built and...\nkailash chanda | 19:15\nAs partner...\nadvisor | 19:16\nAre you able to get that off the ground really quickly? Do you understand the whole concept and all that? So that commercial is a little bigger deals, right? So they don't want to risk and players who probably promise a lot but can't do it.\nSo this is your opportunity to say, \"Hey, we've done it ourselves, and now we want to do it.\" That's the whole point of Customer Zero. We drank our own Kool-Aid, and enterprise is all about whether you have a process in place, whether you can scale up and down on a very well-defined process framework that the customer might already have some.\nSo you want to do that so you tag consuma, but that's the whole point. So essentially, we didn't want... I think it's okay to wrap around, but I think it can be more powerful because we are talking about an agentic enterprise, right? We don't want to have a sprawled agentic experience, but we might want to have a unified agentic experience or something like that. Enterprise like an air traffic controller. Air traffic controller is the same whether the airplane is Boeing, Airbus, or Embraer or anything. It still controls the same airplanes, whether it's SPAT or Indigo or any other airline, and it does not really care about who is... Whether it's an experienced pilot or an amateur pilot, right? Everyone has to follow a governance perspective.\nIt can see everyone, right? It can see what is happening with every single plane. So that is the whole point of Asian Fabric. But this story is more about agentic enterprise and how Agent Fabric is taking it.\nSo the con name Marstana, but that's the intent.\nvenkat | 21:04\nThe Dataskate, Brandington, and Mixhares. Yeah.\nadvisor | 21:10\nI don't think that's a big deal. You just change your theme and that's it. It just... But yeah, that's the story there, right? And then as... Yeah.\nvenkat | 21:21\nYeah.\nadvisor | 21:22\nOkay. So we want to go on at some point we'll try to see whether we need to trim some slates and not...\nvenkat | 21:33\nOkay, cool. So again, here's what we have built as part of our agentic delivery fabric. So everything starts with Slack. So our front door. We have an engagement conductor, which we call nothing but the agent broker.\nSo that takes each request and moves it across different agents that we have built across presales as well as delivery. So when it comes to presales, we have deal scope, which drafts are SW again all through Slack.\nSo in delivery, we have a blueprint which creates the design documents, the PRDS, and for that specific integration. So we have Force, which actually builds the Mulesoft code out of the approved designs.\nSo we have Assurs, which actually run some tests on the built code, and we have Launch, so where it deploys across different environments through natural language. So all of these agents work.\nThere is always a human in the loop, so where humans can always add their feedback, and it takes that feedback and builds and makes that response better. So again, it doesn't only stop with LLaMA. So underneath all five sits the LLaMA company brain.\nSo these are our standard templates, past SWS, Rhode Designs, and our SMEs' knowledge. So the LLaMA brings the reasoning, and the brain brings our judgment. So they work through governance tools. So we have built setting MCCA servers for Salesforce, GitHub, Google, and Workspace, Slack.\nSo all of these MCCP servers are governed through our Omni gateway. It sets the guardrails, and no agent holds the APA key within the specific agent. So we have built model proxies as well. So where you encapsulate the actual URL and the APA key.\nLet me show you why the company brain matters starting with presales. Any questions in this slide? Were there any feedback or questions? Should I proceed?\nadvisor | 24:07\nYes, lots of questions. Okay, so first thing first, a person approves every handoff is probably not the right way. Because when you are talking about agency, you're talking about autonomous behavior. You want the very simpler things to be automatically taken care of by the agent, right?\nSo you should not say every person. A person approves every handoff. I think you should say, \"A human is always at the helm, not in the loop.\" It's no longer in the loop, but it's at the helm. Meaning if something is not right, they can actually cut off axes, or they can say this is wrong or something.\nOkay, it is not going to send anything or it's just going to generate certain things. Okay, the second thing is I think you are, of course, talking about LLaMA, and you're telling that your brain is all your past SWS and your approved designs and all right now past SWS obviously our customer information on that.\nThe natural question is, \"How are you making sure that the S information is not being exposed to the LLaMA?\" Yeah, currently, that's another one. Second, I think the other aspects of Omni gateway regard is especially about model proxy and other things that are a little bit different in that context. How many tools are you? The other question that naturally comes in is, \"Can't I do this in Claude if I give access to Salesforce?\"\nBecause they all have plugins, why should I do it here via Slack? Because when I use Slack, I'm paying for a Slack license and all that stuff, right? So you might want to actually say, \"Hey, we are avid users of Slack.\" Or \"We love Slack.\"\nAnd, you know, Claude is still expensive for us. Something that... Or we use Claude in a different way. Or yes, you can use it in Claude as well, but ideally right now we are doing it with Slack or something, right?\nSo... Then on the left mirror, the numbers are very random. I'm not quite sure whether that was intentional or there was a meaning in that or...\nvenkat | 26:32\nI mean, those are actual five agent specialists were a one-deal scope blueprint forge as launch, so those are the agents.\nadvisor | 26:41\nSo there are four agents under five under the delivery. There are four. Yeah, five. Okay, so there are five agents. So that is something that we will probably want to say, \"Five agent specialists, something, or five agents.\"\nThen you might want to say either from C. You cannot have random numbers like that, right? What I might have meant to say is you have to have either ascending or descending from that. Okay, so you might say instead of saying front door, you can say interface one, interface two, or unified interface through Slack one and then unified.\nI'll make those changes. Don't worry about it. But that's the way we'll probably want to realize either top level or we might say five. We might come down from...\nvenkat | 27:40\n5354 to one. Yeah.\nadvisor | 27:43\nLLaMA and then policy layers. I think a 02:00 am circa PLM and then I think, a PS because at the end of the day you have APS right at the... Yeah, M cir Sps are basically on top of APS so you might want to say that layer.\nSo five four were and then three. I think we will write an AI specialist still AI assets and buy off instead of fossil layers. We might say AI assets where we might say a 2smmccs ll MS and maybe omni gateway like tech stack. We might say for Textck, where we might use all of these.\nThen three is basically the policies where you're doing trusted identity, then you probably are doing, and tailored optimization rate limit and then, wallet mapping or I'll give you the exact names essentially.\nOkay, so that's the number three policies and then two. Basically you're using two model providers Claude and Gemini, and then one Unified interface Slack. Okay, Slack ja, no, 54321. Okay, alright, let's go.\nOkay, does that make sense? By the way, feel free to say if you had something else, then feel free to say you don't have to agree with everything that I'm saying, okay? This is more the debate.\nvenkat | 29:32\nYeah, I mean Raghu or Kailash, do you want to...?\nsasank | 29:35\nI'm making some notes.\nvenkat | 29:38\nOkay?\nadvisor | 29:40\nYeah.\nvenkat | 29:44\nRaghu, do we want to cover the rag part or we can skip to the APA assets?\nsasank | 29:52\nNo, I think we can skip to APA this. What do you say, Raghu?\nvenkat | 29:57\nRight? Yeah, I mean...\nsasank | 30:00\nIs not in place, but we want to... It's in process.\nadvisor | 30:03\nYeah, okay. If you use Raghu, then, in some shape or form, that'll be good. Okay, that is where you will want to bring in for something like that because Raghu is all about retrieval. More importantly, agentic and Raghu of course, is not always good in certain cases, it's actually a big bottleneck, right?\nSo Raghu can be a enabler or a disabler. Okay, so I've... Slide or slip skip Jc. I think we will probably want to go directly into the next one.\nvenkat | 30:45\nOkay, yeah. So when we spoke about the reusability... We want to convert our API assets into agent assets. So we have already built certain system APIs for Slack, NETSU, so we built certain accelerators for Sps 4 HANA, so we built a tip for two Mulesoft migration as an accelerator as well.\nSo we want to convert all those assets into agent assets. We have a feature within a Mulesoft called MCP Bridge, so we can easily convert all those endpoints into MCP tools. These MCP servers will act...\nThese MCP servers are called by the agents during runtime. So whenever the user inputs a specific message, agent brokers route that request across different agents based on the user request and cause the required assets to get the information.\nAs part of this agent delivery... As I mentioned in the previous slide, there are five agents which we have built, so Deal, Scope, Blueprint, Force, and Assure and Launch. So all these agents use at least one of the agent assets\nwhich we have been using as an API asset. So any questions here before we move to the next slide?\nadvisor | 32:23\nYeah, as a slide... This introduces more confusion than anything else. Remember, you're talking to sellers who probably have heard of MC. What? Enable MC... So you want to save time... Much as one... It can slide... Or maybe you can put it as a skipped slide if someone wants to get them in.\nWhat are your assets? The question that will be raised here is the Sps for HANA accelerator layer. Is that you guys are built or is that something that MULE has already built and you're trying to do it?\nvenkat | 33:01\nNo, I think... Yeah, so I think it's an API.\nadvisor | 33:06\nWhich API? It's not an API. Okay, so then you have to... Basically, you have to reword and do all that stuff right? I think this is where you probably want to use your internal... If you really want to project it... But I think this slide is probably... You can skip it for now just to save some time. When you are doing the implementation of the demo, you will anyways explain that.\nvenkat | 33:35\nOkay, fine. You can read more to the next slide. Yeah. So again, governance is a very key essential thing for us. We want to rate limit at three layers when we are governing these agents, one per agent.\nSo we want to create a token budget per run so that there are no surprise bills. As there was an example like $47k bill as there was an agent that is running on... So we want to completely avoid that.\nSo we want to create per-user quotas within Slack. So for example, a presales architect can only have ten mows built per day, and this is configurable based on use case. So we want to rate limit the APIs or the systems that we are calling.\nSo we want to do a spike control so that the agent doesn't hit the API continuously within a specific period of time. So these three rate limits have been applied to these agents. Since we are using the MCP tools,\nwe have enforced the payload optimization as well. So where a standard response might be 100-20kb, with our payload optimization policy, it is reduced to 14kb where the agent gets only those fields which it requires to respond or perform a specific task.\nSo this is where we are reducing the overall token usage. This is the major difference between how you do it with Slack or how you do it with a governed agent platform like Agent Fabric. So any questions here?\nadvisor | 35:25\nOr in the questions. So first thing first, I think this is actually diluting our story completely. One of the biggest questions is, as a professional services company, you want as many SS as possible.\nOkay, limiting a user with just so for W that really means that you're killing your own guys, right? What you read is it's not a limit on the SS. It's basically making sure that the SS is accurate and it is actually showing value. You want to produce as many as you want to. Project that this solution is going to put you in a very good shape. That doesn't matter.\nIf I tomorrow a hundred reps reach out to me, I can still do the same thing at the same time, right? So establishing product for you is probably... I think it's against it. Maybe it's a different story that you will probably want to do is for a user you want to say AI sped back, right?\nBut that is not governance. Governance is more about enforcing a rule versus just a dashboard. The power agent. No surprise bills. Yes, there is no surprise bills, but there's no guarantee that the bills won't be coming because it's just a reporting mechanism.\nIt's not enforcing it. If someone says, \"Okay, your budget is $20.\" If I run something that contains 15,000 tokens that exceeds 200, my usage will show that I've gone past my hundred. But it wouldn't stop me from doing anything on governance stops that, right?\nSo we are putting governance and these things do go wrong this thing right? So we might have to redo or take this out, right? So we... I think this is probably diluting this thing.\nvenkat | 37:29\nOkay. And per user in under because there might be a certain task where you want to reduce the overall spend by the user. For example, if it is an insurance company, there might be multiple insurance agents, and they might deal with maybe 100 or whatever the leads per day.\nSo that is where we want to mention that. But we can redo, as you mentioned. [Laughter].\nadvisor | 37:56\nAny... But we are saying we want to hit very strongly, right? We are here, we're telling a story saying, \"Hey, we are open here, we are agentic.\" So do not worry, we have our agentic capabilities already built to some... How many hours do you lead that you bring to us? We'll still be able to do that. Of course, it comes with a cost, which means that the SWS are going to save us some productivity times, but it's a cost that we have to somehow absorb or show up in our SWS, right?\nSo that's a different story. But limiting a user is probably actually hitting ourselves in the foot, so that is not what we want to... Again. Second, the back and spike control. All these are all sales for CRPS. Most of these are SASS, right?\nSo they have a very higher API limit heading rate. Unless we are hitting them really hard, I don't think these are actually the ones that we want, unless we are running it in production at a very high level of usage perspective.\nRight? Yeah, so weight limiting. Cantagoa. I think you might want to actually say, \"Trusted identity.\" Trusted identity is where you're actually taking it. Okay, it's the... Let's say in Slack, someone is asking something that might say...\nOkay, let me... Can you hypothetically... I'll give you an example. Let's say you can pull up the phone number of this employee. Let's say someone is asking like that, right? We do not want that. That has to be prevented. Or someone wants to get an email or maybe something that is very individually identifiable information, a PHI kind of thing. Or someone's actually asking a question that's just not a... But it's actually in the prohibited list of questions. Let's say for an example, right? An example could be like, \"Can you copy the SRW and paste and create me a copy of that SRW and do this right?\"\nSo those are things that you want the... It shouldn't even reach out to LL or the agents. So the governance policies that you want to really highlight are PIA or predatory questionnaires or requests that can be put in.\nBut that's the policy that you will want to talk about. Second, you want to talk about identity. Is the user, if he's not a sales user, still be able to apply, generate an SW, and does he have access to the sales agent and that right?\nSo that's a second that...\nvenkat | 40:55\nOne parking actually, we haven't integrated it yet in the...\nadvisor | 41:00\nThat's okay, it's fine. It's a complicated thing. It's absolutely a complicated thing. Please, can you make it sound? Can you go and... Please don't disturb me, I'm just finishing a conversation. Don't disturb Miro.\nYeah, I have a five-year-old, so he's almost off his... So the third policy that you will probably want to apply... Like I said, firstly, I think we did prompt decorator or prompt guard. Prompt guard policy number one, second is state governance. Third one is your global access control. Global access control is basically your MCB twos. Very simple. You do not want to expose all MCP tools to everyone so that...\nSo that's basically what you want to do. You probably want to reword it back and forth like you might say a prompt guard as number one. Number two is global access control and number three is trusted identity.\nIt's in the works. If someone really has trusted identity, then you will probably want to see... Okay, we're implementing with, let's say eight. So the two things that you can talk about are the IDP ATA or entra or key clock EBDU trusted identity.\nI'll give you a workshop thing where you can actually... Kailash... Mikichana... Workshop. The where trusted identity policy was there... Kashmir... Mutla... That's okay. I'll give you that. I'm actually... The right here in the chart is that one second. I'll just pull that out. Yes.\nSo if you roll this up, it has this. Let me put this on. Okay, so our workshop... The URL is better, although it actually talks about how you can implement the trusted identity and module and random module.\nI think random module and global access control and trust guidance. These are very simple policies, but I think they tell everyone that governance really is in and out. [Laughter] Okay, and then what you were able to get is the payload optimization. MCP payload optimization.\nOkay. That's... I think that is all good, right? As to my gateway... I think you want to say governance that skills and that is universal, you know, in the statement in and universal governance establishing universal governance at scale. Which means that the same policy will apply to an API, to an MCP server or MCP tool or an API that are a third party API or at a hyperscalar, or a federated gateway agent that is run on a federated gateway. That you do not have it today.\nBut tomorrow... If, let's say you want to buy Kong or you're implementing something. So that's what it is so you could... My last statement, they all and a unified universal governance.\nvenkat | 44:44\nUniversal governance, okay.\nadvisor | 44:47\nOkay, all right, I think that is what we have to do if we have to present this. Okay.\nvenkat | 44:51\nUnderstood, yeah, I mean definitely our inputs, so then we'll be able to present better. Yeah.\nadvisor | 45:03\nIt is not relevant to you, but right now, Agent Fabric will be Asian fabric is all about governments. COR so universal governments is basically you telling that you've already done something in that aspect, whether you have not implemented it, but you basically started thinking about it.\nsasank | 45:23\nOkay, but if they ask where you use this universal governance...\nadvisor | 45:28\nI could just APS and MCP tools both have the same policy applied.\nsasank | 45:33\nOkay.\nadvisor | 45:34\nLike rate limiting is the same thing. Very simple policy like rate limiting. Rate limiting in API and rate limiting in MCCP tool is the same thing. MCP server is the same policy. Just the two names are different. You can... You can basically say... You can pass it as an argument or something, but the idea is to tell people that you know API governance is mid. API management was the old topic. Now you want to say universal agent or AI governance.\nsasank | 46:10\nOkay.\nadvisor | 46:12\nThen I'll reword this. I think, a DEK is there. What I'll do is I'll work on this a normal case, and then Tuesday pro, when we do the rehearsal, we'll just make sure that the narrative is very tight and understood.\nvenkat | 46:31\nCan you go to the next slide? Kailash, yeah. So the third one is on...\nadvisor | 46:37\nThe blo pinched... I think is the demo. As much as possible, we want to get to the demo quickly. Lights... Because seeing is believing, slides are not easy, right? We want to get that credibility right away.\nSo either we are with the... So, yeah.\nvenkat | 47:01\nLet me share my screen, then I'll go to the demo first.\nadvisor | 47:07\nAgents do the work, people make the calls. Okay. On every hop. OKR the complete... I think we'll have to figure that out. What is it? Maybe it's a knowledge base or something. Okay something like that I don't have that right on.\nvenkat | 47:31\nInitially knowledge based on just to look fancy we change.\nadvisor | 47:37\nGot a brain or nuro system and earth tissue... [Laughter] But we see... Okay, alright, yeah I...\nvenkat | 47:48\nStill we have a couple of slides. Can you move to the next slide? Yeah, this is demo and the last slide is on the roadmap like where we are heading, how we are implementing testing.\nadvisor | 48:06\nGateway policies, model proxy budgets, H1 2027 vector database knowledge graph. Okay, perfect. Mod routing H1, sales and marketing agents on sales for data. I think, H1, or maybe we'll do a little bit of modification dynamic model support. Is the other recruiting agents okay?\nYeah, I mean I'll try to add it. Don't worry about now I think. Okay, Oka I and headless Musa plus as force. Why are we going into June 2027? We should be, you know, what is the difference between H1 227 and June 2027?\nvenkat | 49:04\nYeah, I think 1st half, like 1st quarter.\nadvisor | 49:09\nIQ 1. You meant Q1. Little okay Q1 Q2 or something so okay for the sales person ecosystem story to data scape either going to be but I think I get what you're saying you want to look concho shuffle here so much. Again, whether we implement or not, it's different, but we'll at least make sure that we are on track with everything and...\nOkay, alright, I think...\nsasank | 49:47\nI think we should add it in.\nadvisor | 49:49\nAnt yeah, as chat I think Ant Wells low and I mean I think I'll probably get you guys in touch with them so that way in your whatever that you're implementing, you can just put that on.\nvenkat | 50:14\nMy screen or I'll show how a sort of agent is working. Yeah, I'll just move this to a sample channel, but right now it is under the Dataskate workspace itself, so all I have to give is... So I hope you are able to see my screen.\nOkay, so all I have to give is... Yeah, we just named it as early, but we want to change it to Delscope, so first we can ask multiple questions here. First I can check. Do we have any existing SW?\nYeah. So it will respond in the same thread that it checks within our whole workspace and looks for whether we have an existing SW for a specific customer.\nSo if there are no SWs available... So that's when we can provide the drive link. So this drive link doesn't simply consist of the transcript or the recordings that the send. So it consists of supporting documents, any technical documents that the customer has to share with us.\nSo once I place the drive link and... Okay, so if I do this... So it'll take one or two minutes of time because it connects to the server in the backend, so it tries to read the files. So we don't want to submit the PDFs directly to the Loom as it is costly.\nSo we are first extracting the required text from the PDFs and then submitting it to the LLM so thereby reducing the overall tokens. Sorry. I think I missed two. TED here. Sorry, my bad.\nadvisor | 52:51\nWhy can't you type the same thing in a thread load in the LLM? Why can't you just... Yeah.\nvenkat | 52:57\nI can do it here as well. So it can be in any channel of the app.\nadvisor | 53:03\nIt can be an app and it has to be an app and you just invoke the app and the other question that some people might have is, can't we do the same thing from Slack bot?\nvenkat | 53:18\nYeah, this we can do with Slack bot as well but yeah, we can do with Slack bot as well. So this is just where it receives events, right?\nadvisor | 53:33\nRight. So what's the biggest difference between a Slack bot actually accessing your Google Drive and generating the SW versus this one Slack? Just so it goes to the LLM picks up. It first reads of the drive, the document that you posted on the drive, and then it basically goes and hits it and generates this thing.\nI'll show you... Slack bot... My... Lord... The other... I can show you what it really means, right? So I think that... No, not sure, but it's probably not... It's basically going to consume quite a bit of Slack... But on the PayPal... On the other search box... PayPal... Yeah. Search box. Fuck...\nvenkat | 54:39\nThis one... I was sorry, my back.\nadvisor | 54:41\nYeah, you can use it can or as part of choose.\nvenkat | 54:53\nSo this is more structured or because I'm just taking the events so I'm not calling any LLM so I'm just taking events and sending it properly.\nadvisor | 55:03\nYes, in... There are two answers to that. Okay, the reason why I asked you is because it'll... This might be on everyone's mind, right? So why do you have to do it when you have Slackboard right in there and all that and you have Slack in force? One of the first things is you do not have control over the Slack information. Your Slackboard directly sends it to LLM and then gets you an answer.\nBut that is not to say you want... Yeah, you can basically manage your app and you can even call your app... No, just say the Google button. I think it'll come to... Ali... Oka...\nI think you have to do the dry-work back, is it? Yeah, I really apps-coded me... Yeah, a man... Yeah, browse apps... It does not have an available app because you probably did not allow it for... I think you did not allow...\nvenkat | 56:13\nYeah, maybe some app platform... I just have to give some permissions.\nadvisor | 56:18\nAnyways, the intent is you can do it with Slackboard, but Slackboard is an overhead because you are anyways using your... And you're using everything there. The whole point is we want to protect information and we want to retain control. We want to know exactly what is happening with every single outgoing call and everything.\nYeah. So for example, the prompt-guided... Anyone can type anything here. So Slackboard will... It does not have any prompts. It would probably say, \"Okay, I'm not an advisor, or I cannot give you a draft you want, but you want accuracy.\"\nSo you want a well-defined agent. Yeah, purposive agent. So that's why you're invoking it, the only reason why you want to use this as a content as Slack. Tomorrow you might have the unified interface as Claude itself. Claude Desktop or Claude for Mobile or whatever that is right?\nSo having used a Slackboard will mean that you will always have to use Slackboard. You're tied to one vendor versus... Of course, it might have had less capabilities, but that's like an overhead. So that's...\nYou want to connect it on demand. You do not want to connect your Google Drive and just give everything out. So from a security perspective, Slackboard is not really relevant for us because governance is one of our biggest important concerns.\nOkay. Alright.\nvenkat | 57:49\nSo it generates a draft... So it gives us the drive copy. So it writes into the same drive. Along with that, we added approvals. For example, if it is for Salesforce, it routes to a different pre-sales architect for its approval.\nIf it is for Mulesoft, it goes to a different person. So it sends a message something similar to this, as you can see in my screen. So it gives me what is who requested for this one and what are the timelines that are required and what are the different stages and what is the estimated fee and what are the payment terms that are available.\nSo you can... Any approver can open the draft. Here he can read through the content and see if there is something that is missing here. So if he can either choose to approve or reject, and there is an option to request changes as well.\nSo you can write something here which acts as a feedback to the generated content, and again, it comes back with the updated content. So as soon as you approve it, it goes to our backend database as an approved copy.\nOkay. So all these approved copies are received by the requester, whoever has requested initially for us, and they can now share this with the account executives. So this is the overall execution flow when it comes to our agent.\nSo it initially took around one to two hours, but now with all in place, we got it reviewed with our pre-sales architects as well. It is almost close to how they're actually generating it.\nThey're still testing this through the organization across multiple different integrations because it's not always standard. Mulesoft or Salesforce, there might be a combination of customers where they want some work of sales for some part of Mulesoft and some part of Salesforce flow.\nSo we are testing it across different scenarios, and the results have been very satisfactory as of now. So this is how it is working for us. So any questions here before I go to the platform and showcase?\nadvisor | 00:22\nNo, I think you might say earlier, this was more like a little bit manual. Yeah, and especially selecting the template and getting a lot more... Whether it's out of notion or anywhere... Probably what you want to say...\nBut more importantly, I think you want to say... See if you... The biggest challenge that we see here in this particular demo, you might want to set up the expectation. We'll just take a very simple one. Now we have seen our OLI actually do even more complicated sales that involve core and a larger ecosystem work.\nBut for simplicity's sake, today I'm going to show you this, which is a simplistic version of it. If you really want to test this out, please come back with a deal, and we are happy to show you this live.\nvenkat | 01:22\nOkay.\nadvisor | 01:25\nSo we can put this to action, and we can test with more deals. The more deals that you bring us, we can test it even more, and it'll help us and it'll help you.\nsasank | 01:34\nPoint... What we can add is that today there is a dependency on Krisp architects if they are on something else. Sales has to wait on them for their bandwidth to come and help with this episode of...\nSo we are cutting out that actually that is my intent to develop this because I don't want any presales text, especially for SB and DV deals. I don't want blockers from them.\nadvisor | 02:04\nRight. But here are the number of other questions that you might encounter. If someone's not asking, I will ask it. I'll pretend to be on the side of Dataskate, so I ask these questions.\nSo just be prepared to have... I'll give you the answers, of course. So one of the questions that will be asked is, \"How are you ensuring that if there are questions in the document, every customer will have a set of questions apparently related to compliance and other things, right?\"\nFor example, \"How many?\" \"Can you?\" \"Is this a custom object or is it a standard object?\" Let's say, for example, it depends on certain things, right? So how is the agent interpreting certain aspects? Let's say whatever that you gave the Codex, the Google Drive doc, what does that have? Does that have a recording of a transcript, a transcribed version of the recording of the call, or does it have a requirement document or what? What is it?\nvenkat | 03:17\nSo it has multiple PDFs that were shared by the... Let me share my complete screen.\nadvisor | 03:28\nSo again, the answer is it has multiple data sources, it has a number of documents, it has voice transcriptions, and it has email exchanges. Okay, perfect. Alright, by the way, is this a real customer?\nvenkat | 03:44\nIt's a real customer, we'll change that to a dummy customer.\nadvisor | 03:49\nYeah, you'll just say you know something and so... Anyways, that's okay. So second is how does this generate? Earlier, we compared and contrasted since it's tested with a real customer, how does this...? I'm assuming this is an existing customer that you've already done, right?\nSo how does the generated result compare with something that was manually written?\nvenkat | 04:16\nSo we have compared that. I think we got it reviewed with Kailash. So there was a $500 difference in the overall pricing, but the integration flows and the quality of the SOW remain the same as someone who has done it manually.\nBut how do we represent it in the PPT or demo? That's where I need...\nadvisor | 04:36\nYou will... Basically, yeah, at the end of the day, I think we will have some of this right? Accuracy. So let's say 80% of the time you are 100% correct, 95% accuracy, and that is what is compared to manual results.\nkailash chanda | 04:54\nWait on...\nadvisor | 04:54\nOkay, and this is like, how much is that? Two, let's say two hours is what a person dedicatedly started working on to generate the version one of the draft version of the S versus this is like two minutes.\nSo two versus 20 minutes. That's like... How many times is it? So you'll probably have to get an exculpated number. So that's way faster, right? To have that generated zero, right? Then the time to get to the final version. In some cases, the final version is straightforward, so you'll have to think about how many cases you might have. This might have presented you with a 98% full picture of everything that the customer was asking about. Or if there's something that is missing, does the SW actually leave it open or does it even capture things like that?\nkailash chanda | 05:54\nYou don't understand. You have...\nadvisor | 05:55\nSo you'll...\nkailash chanda | 05:55\nNo idea.\nadvisor | 05:55\nProbably want to talk about that. But yeah, productivity gains, accuracy, and then the cost.\nkailash chanda | 06:03\nIsvout? Vegetarian. And you?\nadvisor | 06:05\nSo those are the three items that we want to talk about. So, let's say it takes two hours for an analyst to actually build this out. The analyst builds it, let's say $50 an hour.\nSo that's like a hundred dollars. Running this agent at one time probably costs you $2 or $3 in token costs and everything, right? Setting it up for months and then it becomes incrementally more valuable, right? For every other thing.\nBecause for the second one, you're not again setting up any setup and all that stuff. So that is what you will probably want to say. Yeah.\nvenkat | 06:43\nOne question. So we built two other use cases as well, two other agents. So one for design, the other for, development. Like, based upon the code design, it generates the code. So we built those agents in Claude.\nAnd I just want some since we are discussing I just want some feedback on that so that we want to create a demo videos for this like three minutes so that it is shareable...\nkailash chanda | 07:12\nDo you know how much...?\nvenkat | 07:12\nTo any customer if...\nkailash chanda | 07:13\nI'll give...\nvenkat | 07:13\nThey ask...\nkailash chanda | 07:14\nYou for...\nvenkat | 07:14\nOn how...\nkailash chanda | 07:14\nHalf a million dollars.\nvenkat | 07:15\nWe're actually doing it. So yeah, so if you see this one. So we built an agent again, it's an app Slack up again. So where we are feeding the discovery transcripts. So we have discovery calls with the customer and all those calls are recorded.\nSo what do we do with those transcripts and all the information? So this is where we feed it to the system. It can be a Google Drive with multiple documents as well as supporting documents as well, just like the previous example.\nSo it presents us with certain questions. So it doesn't simply go and create. So it asks whether the customer is automation starter or substarter or integration starter. So based on that, and it asks for volume and Slack like what is volume and what are the systems involved?\nSo it asks... These are not fixed questions, so it asks different questions based upon the context that it has. Okay, so either it generates a default path so you can choose this default path. This is something that we are suggesting based upon our experience.\nOkay? You can choose the default or you can reply to these questions. Okay. So once you do that, it generates a review, a doc, which is a complete design document for that specific customer, where it creates the mappings, it creates the high level of flow, it creates the authentication types.\nSo all these things will be available. And again, there is an approval loop here. So it routes based upon the user SME so it goes to you or for someone and for Salesforce, it goes to a different person.\nadvisor | 09:06\nYeah. No, I think this is actually the more complex version of the second one. Right? So one of the other things that I'll say is prompts the copy bit. COD and then you can just copy paste.\nI know you're doing it anyway, but just that it becomes much easier.\nvenkat | 09:29\nBut we don't want to show this in the call because it takes. Like.\nadvisor | 09:34\nYou don't want to show it at all. You don't want to show it at all. Instead you just want to show the HR agent. Let's say if you have an HR as so what are the reasons that you have?\nvenkat | 09:49\nSo we want to show it itself because it's quick and we can show it in real time. For these two agents, we want to record a three-minute video that covers the animation and all the aspects so that they can...\nIf they... Raghu, it will take ten minutes.\nadvisor | 10:14\nLet's not show this out because this is an internal agent that you're building for your own internal purpose. We don't want customers to think that we are using a lot of AI and we do not have bodies for doing the work right.\nSo let's not show that one up. But what I'll... My middle agent say...\nvenkat | 10:35\nReli on we have build agent as well.\nadvisor | 10:39\nSo the coding agent.\nvenkat | 10:43\nYeah, that is a coding agent based on the standards design principles and all those things. So...\nadvisor | 10:48\nNo, we can't show it. So the... Okay, so you just showed one agent, let's show one and then go back to the endpoint and show how it is being translated. How many tokens does it have? So in a configuration, the... Yeah, let's go back to the...\nOkay, the proxy... What made...\nvenkat | 11:17\nWe created a proxy.\nadvisor | 11:20\nOkay, and you used... Okay, so this is the... So you created... The plan is to create one proxy for each agent.\nvenkat | 11:32\nYeah that is what we did were but do you think like that's not the right thing to do.\nadvisor | 11:38\nClients are the problem. Yeah.\nvenkat | 11:41\nWe want to separate it based on the proxy. Okay.\nadvisor | 11:45\nSo you put me what in the can you see where the logs are or what actions are? Can they go stay, can they go? I think it' show, quality of service. Yeah, I think it's just running together. Request, response to the other.\nSo that's what it is. So you can just show this is where it is coming from and then we'll see. Happy to go over a longer demo with all the other agents, but I think we want to just start giving this out that we are on it and we are extremely happy so far with what we are finding.\nvenkat | 12:22\nYeah. Policies are good. Whatever you suggested, we'll try to add those policies and showcase them as well because currently we have only limiting client enforcement. The basic policies that we have added.\nadvisor | 12:36\nYeah, that's okay limiting to the... As is SL, we want to generate as many Slacks as we want, right? You can just enforce certain things like already Miro the pulses in for... Yeah, like I said... Yeah, you find the model wall left. Yes... Already. So I think you will basically want to say these are the pulses that we applied, right? Yeah. So that way we have tagged everything out as...\nkailash chanda | 13:06\nBecause I'm saying...\nadvisor | 13:07\nAnd that's it.\nkailash chanda | 13:08\nDon't let your mistakes break...\nvenkat | 13:09\nOkay...\nkailash chanda | 13:09\nYou. It's not practiced.\nvenkat | 13:11\nGot it.\nsasank | 13:14\nYou want us to build another HR or some agent?\nadvisor | 13:19\nI think we can always build that problem across Nana. I think once you show that this is an orchestrated agent...\nkailash chanda | 13:27\nThis is risky.\nadvisor | 13:28\nRight now, this is like this looks like a one to one, even though theer has.\nsasank | 13:34\nIf you...\nkailash chanda | 13:34\nThink of...\nsasank | 13:34\nGo to the...\nkailash chanda | 13:34\nHarder. But...\nsasank | 13:35\nDesign and...\nkailash chanda | 13:35\nI never...\nsasank | 13:35\nCode, that is...\nkailash chanda | 13:35\nSee any...\nsasank | 13:36\nWhere orchestration comes into the picture, okay?\nadvisor | 13:38\nSo this is just one agent that you deployed on the proxy. Yeah, so is in Fabric... How you have done another different out. I think that is one reason why you didn't see a lot more. What? You can definitely show me accelerator assets on...\nvenkat | 13:58\nThe tenant... I think we have it in our old tenant, but we can move them.\nadvisor | 14:04\nOkay, this is your customer instance.\nvenkat | 14:07\nYeah, this is our all-access.\nadvisor | 14:10\nNo, all-access instance. Okay, yeah, I think it's a good start. Let's... The only other thing that I will say is how you link it up on the data lineage of Vijay... TED... I think we'll see it, but for now, let's just show this one and then we'll move to the second one, which is informat...\nkailash chanda | 14:32\nThe lake rises. Its ho rises with its party.\nadvisor | 14:42\nBut that is something we want to practice.\nNo, I think the intent is basically, we'll have people from all forms of life, so says for under Rostero. So we'll try to get everyone on, right? So that's the whole point. Okay, I think...\nI think it looks good. How many minutes are we targeting this one?\nvenkat | 15:14\nI mean, I can shrink based on the slides, but I think two slides. We want to cut it off, as you mentioned, 30 minutes. Do you think it's a good time?\nadvisor | 15:27\n30 minutes to slide. Then I think 30 minutes should be your demo, 10 minutes max is your 5 to 8 minutes should be your slide.\nvenkat | 15:38\nOkay, 20-minute track.\nadvisor | 15:40\nYou can basically say, \"Here are some things, a very high-level narrative.\" But you can say if you finish the demo, you can come back and just say the narrative.\nvenkat | 15:51\nGot it.\nadvisor | 15:52\nLast slide. I by this we were able to make it a... Deck coach in there.\nvenkat | 15:59\nYeah, I got that.\nadvisor | 16:01\nYeah. So they have a what do you call next steps and actions kind of a thing, right? So. So we might want to say, hey, all of our sellers have access to ALI and you know, they're ready and geared up.\nAnd the maybe Kailash zap or maybe you can say, you know, we want to give it a real test. So tag us on your opportunities and come with the opportunities. We'll get the Slack, okay? The ka and Kunta Kailash. You can say hey, any SLI that we use that you help us use ALI, we'll do 10% of an aerture something that...\nkailash chanda | 16:43\nAnd I like...\nadvisor | 16:44\nYou know what... As a customer because if you use... Then you are automatically consuming Mulesoft. So because you're a customer, you're not a partner in this area. So if you're using... More then you are basically saying Mulesoft charge me for... If we go... Right, you're making money for... As a circular economy.\nSo at... I think you have to find some common ground. I'll... But that's how it is. If you consume more, then you're consuming Mulesoft more, then Mulesoft is going to make more money with consumption and you want to be the number one customer. Zero example you know among the part... So that is what you want to tackle and say... See a point... A... We all have to say, \"Hey, give us more deals, right?\"\nSo that is what we want. So we are to drive that. Right.\nkailash chanda | 17:56\nNo.\nadvisor | 17:57\nSo while I have a question about that, I'll pretend in no sense and I'll ask these questions. Okay, so, what else...? So are they...? I think you should think about that five to eight minutes. Yeah, slide war quick, very compact. You don't have to go through every line item on the slide, people can read it, so just make a summary of everything.\nThen demo... As quickly as we can jump in. I think that'll be...\nvenkat | 18:30\nYeah. Okay. Fine, any questions? Yeah, as of now, no. So what I'll do is I'll change this to Dataskate branding and I'll share the PPT with you.\nadvisor | 18:45\nYeah, and then me demolagora use Dataskate wordings, you know, o you know, agentic something, you know, agent gateway or something that instead of just naming them as, just rename some of those stuffm.\nvenkat | 19:03\nOkay. Do you want me to...?\nadvisor | 19:09\nFor example, just rename the wallet as, let's say, Sir W wallet?\nkailash chanda | 19:14\nTo cut the floatings into rings. To trickle.\nvenkat | 19:16\nUnderstood. Got it.\nadvisor | 19:20\nSo naming conventional punji and then we crack Sam. So you can just say, let's say Tata, Motto, and Wetter and it's the same thing, but just say in a hypothetical, okay, something that they recognize or you might say I in or something like that.\nvenkat | 19:40\nGot it. We'll change the customer name as well.\nadvisor | 19:43\nYeah, so yeah, maybe like, you know, something or universal education something that...\nkailash chanda | 19:52\nLive under a Fin.\nadvisor | 19:52\nUniversal retailers and metri that... Okay, so you can just say that.\nvenkat | 20:01\nOkay, well, yeah.\nadvisor | 20:05\nWas this useful? We did certain things.\nsasank | 20:11\nLike a storytelling point of view. We need someone like you because when we tell the story, it will be something different.\nadvisor | 20:20\nYeah, so we had we'll nail it, I think a review DUA.\nsasank | 20:26\nMonday of the review. So the team will have some time before Thursday to make some changes.\nadvisor | 20:35\nOkay. Okay, I got that.\nvenkat | 20:39\nSure, yeah, I'll say that.\nadvisor | 20:41\nAdvis Kailash, I think if you have access to...\nkailash chanda | 20:45\nYeah, I'll take it. I can share it with you.\nadvisor | 20:48\nOkay, anything else you want to talk about? Okay, I'll...\nkailash chanda | 21:00\nThank you.\nadvisor | 21:00\nLike a happy the vi and talk to you soon...\nkailash chanda | 21:03\nYeah, thank.\nadvisor | 21:04\nCool thank you day by."
+  }
+}
